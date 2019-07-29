@@ -23,7 +23,7 @@
 
 • **Compact**:
 
-*Defined in [codec/types.ts:6](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L6)*
+*Defined in [codec/types.ts:6](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L6)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **DoubleMap**:
 
-*Defined in [codec/types.ts:7](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L7)*
+*Defined in [codec/types.ts:7](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L7)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **Enum**:
 
-*Defined in [codec/types.ts:8](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L8)*
+*Defined in [codec/types.ts:8](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L8)*
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 • **Linkage**:
 
-*Defined in [codec/types.ts:9](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L9)*
+*Defined in [codec/types.ts:9](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L9)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **Null**:
 
-*Defined in [codec/types.ts:18](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L18)*
+*Defined in [codec/types.ts:18](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L18)*
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 • **Option**:
 
-*Defined in [codec/types.ts:10](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L10)*
+*Defined in [codec/types.ts:10](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L10)*
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 • **Plain**:
 
-*Defined in [codec/types.ts:11](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L11)*
+*Defined in [codec/types.ts:11](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L11)*
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 • **Set**:
 
-*Defined in [codec/types.ts:12](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L12)*
+*Defined in [codec/types.ts:12](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L12)*
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 • **Struct**:
 
-*Defined in [codec/types.ts:13](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L13)*
+*Defined in [codec/types.ts:13](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L13)*
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 • **Tuple**:
 
-*Defined in [codec/types.ts:14](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L14)*
+*Defined in [codec/types.ts:14](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L14)*
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 • **Vec**:
 
-*Defined in [codec/types.ts:15](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L15)*
+*Defined in [codec/types.ts:15](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L15)*
 
 ___
 
@@ -111,4 +111,4 @@ ___
 
 • **VecFixed**:
 
-*Defined in [codec/types.ts:16](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/types.ts#L16)*
+*Defined in [codec/types.ts:16](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/codec/types.ts#L16)*
