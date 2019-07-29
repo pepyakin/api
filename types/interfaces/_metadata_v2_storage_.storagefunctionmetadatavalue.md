@@ -18,9 +18,9 @@
 
 ###  documentation
 
-• **documentation**: *[Vector](../classes/_codec_vector_.vector.md)‹*[Text](../classes/_primitive_text_.text.md)*› | string[]*
+• **documentation**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Text](../classes/_primitive_text_.text.md)*› | string[]*
 
-*Defined in [Metadata/v2/Storage.ts:116](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/Metadata/v2/Storage.ts#L116)*
+*Defined in [Metadata/v2/Storage.ts:116](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/Metadata/v2/Storage.ts#L116)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **fallback**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [Metadata/v2/Storage.ts:115](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/Metadata/v2/Storage.ts#L115)*
+*Defined in [Metadata/v2/Storage.ts:115](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/Metadata/v2/Storage.ts#L115)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **modifier**: *[StorageFunctionModifier](../classes/_metadata_v0_storage_.storagefunctionmodifier.md) | [AnyNumber](../modules/_types_.md#anynumber)*
 
-*Defined in [Metadata/v2/Storage.ts:113](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/Metadata/v2/Storage.ts#L113)*
+*Defined in [Metadata/v2/Storage.ts:113](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/Metadata/v2/Storage.ts#L113)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **name**: *string | [Text](../classes/_primitive_text_.text.md)*
 
-*Defined in [Metadata/v2/Storage.ts:112](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/Metadata/v2/Storage.ts#L112)*
+*Defined in [Metadata/v2/Storage.ts:112](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/Metadata/v2/Storage.ts#L112)*
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 • **type**: *[StorageFunctionType](../classes/_metadata_v2_storage_.storagefunctiontype.md)*
 
-*Defined in [Metadata/v2/Storage.ts:114](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/Metadata/v2/Storage.ts#L114)*
+*Defined in [Metadata/v2/Storage.ts:114](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/Metadata/v2/Storage.ts#L114)*

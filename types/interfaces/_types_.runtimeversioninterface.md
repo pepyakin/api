@@ -4,10 +4,6 @@
 
 * **RuntimeVersionInterface**
 
-## Implemented by
-
-* [RuntimeVersion](../classes/_rpc_runtimeversion_.runtimeversion.md)
-
 ## Index
 
 ### Properties
@@ -25,7 +21,7 @@
 
 • **apis**: *any[]*
 
-*Defined in [types.ts:113](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L113)*
+*Defined in [types.ts:135](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L135)*
 
 ___
 
@@ -33,7 +29,7 @@ ___
 
 • **authoringVersion**: *`BN`*
 
-*Defined in [types.ts:114](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L114)*
+*Defined in [types.ts:136](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L136)*
 
 ___
 
@@ -41,7 +37,7 @@ ___
 
 • **implName**: *`String`*
 
-*Defined in [types.ts:116](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L116)*
+*Defined in [types.ts:138](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L138)*
 
 ___
 
@@ -49,7 +45,7 @@ ___
 
 • **implVersion**: *`BN`*
 
-*Defined in [types.ts:117](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L117)*
+*Defined in [types.ts:139](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L139)*
 
 ___
 
@@ -57,7 +53,7 @@ ___
 
 • **specName**: *`String`*
 
-*Defined in [types.ts:119](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L119)*
+*Defined in [types.ts:141](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L141)*
 
 ___
 
@@ -65,4 +61,4 @@ ___
 
 • **specVersion**: *`BN`*
 
-*Defined in [types.ts:120](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L120)*
+*Defined in [types.ts:142](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L142)*

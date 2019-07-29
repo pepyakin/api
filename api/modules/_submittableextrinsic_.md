@@ -26,7 +26,7 @@
 
 Ƭ **SumbitableResultResult**: *`SumbitableResultResult<ApiType>`*
 
-*Defined in [SubmittableExtrinsic.ts:29](https://github.com/polkadot-js/api/blob/1525d64/packages/api/src/SubmittableExtrinsic.ts#L29)*
+*Defined in [SubmittableExtrinsic.ts:30](https://github.com/polkadot-js/api/blob/a45e313/packages/api/src/SubmittableExtrinsic.ts#L30)*
 
 ___
 
@@ -34,15 +34,15 @@ ___
 
 Ƭ **SumbitableResultSubscription**: *`SumbitableResultSubscription<ApiType>`*
 
-*Defined in [SubmittableExtrinsic.ts:34](https://github.com/polkadot-js/api/blob/1525d64/packages/api/src/SubmittableExtrinsic.ts#L34)*
+*Defined in [SubmittableExtrinsic.ts:35](https://github.com/polkadot-js/api/blob/a45e313/packages/api/src/SubmittableExtrinsic.ts#L35)*
 
 ## Functions
 
 ###  createSubmittableExtrinsic
 
-▸ **createSubmittableExtrinsic**<**ApiType**>(`type`: [ApiTypes](_types_.md#apitypes), `api`: [ApiInterfaceRx](../interfaces/_types_.apiinterfacerx.md), `decorateMethod`: `decorateMethod`, `extrinsic`: `Method` | `Uint8Array` | string, `trackingCb?`: `Callback<ISubmittableResult>`): *[SubmittableExtrinsic](../interfaces/_submittableextrinsic_.submittableextrinsic.md)‹*`ApiType`*›*
+▸ **createSubmittableExtrinsic**<**ApiType**>(`type`: [ApiTypes](_types_.md#apitypes), `api`: [ApiInterfaceRx](../interfaces/_types_.apiinterfacerx.md), `decorateMethod`: `decorateMethod`, `extrinsic`: `Call` | `Uint8Array` | string, `trackingCb?`: `Callback<ISubmittableResult>`): *[SubmittableExtrinsic](../interfaces/_submittableextrinsic_.submittableextrinsic.md)‹*`ApiType`*›*
 
-*Defined in [SubmittableExtrinsic.ts:108](https://github.com/polkadot-js/api/blob/1525d64/packages/api/src/SubmittableExtrinsic.ts#L108)*
+*Defined in [SubmittableExtrinsic.ts:109](https://github.com/polkadot-js/api/blob/a45e313/packages/api/src/SubmittableExtrinsic.ts#L109)*
 
 **Type parameters:**
 
@@ -55,7 +55,7 @@ Name | Type |
 `type` | [ApiTypes](_types_.md#apitypes) |
 `api` | [ApiInterfaceRx](../interfaces/_types_.apiinterfacerx.md) |
 `decorateMethod` | `decorateMethod` |
-`extrinsic` | `Method` \| `Uint8Array` \| string |
+`extrinsic` | `Call` \| `Uint8Array` \| string |
 `trackingCb?` | `Callback<ISubmittableResult>` |
 
 **Returns:** *[SubmittableExtrinsic](../interfaces/_submittableextrinsic_.submittableextrinsic.md)‹*`ApiType`*›*

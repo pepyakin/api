@@ -12,6 +12,6 @@
 
 ▸ **test**(): *`Promise<void>`*
 
-*Defined in [checkTypes.manual.ts:16](https://github.com/polkadot-js/api/blob/1525d64/packages/api/src/checkTypes.manual.ts#L16)*
+*Defined in [checkTypes.manual.ts:18](https://github.com/polkadot-js/api/blob/a45e313/packages/api/src/checkTypes.manual.ts#L18)*
 
 **Returns:** *`Promise<void>`*

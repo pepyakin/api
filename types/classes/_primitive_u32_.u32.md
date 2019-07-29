@@ -11,49 +11,13 @@ A 32-bit unsigned integer
 
   * **U32**
 
-  * [AccountIndex](_primitive_accountindex_.accountindex.md)
+  * [AccountIndex](_primitive_generic_accountindex_.accountindex.md)
 
-  * [MagicNumber](_metadata_magicnumber_.magicnumber.md)
-
-  * [EventIndex](_primitive_event_.eventindex.md)
-
-  * [ApplyExtrinsic](_primitive_eventrecord_.applyextrinsic.md)
+  * [ConsensusEngineId](_primitive_generic_consensusengineid_.consensusengineid.md)
 
   * [USize](_primitive_usize_.usize.md)
 
-  * [Weight](_primitive_weight_.weight.md)
-
-  * [ConsensusEngineId](_rpc_digest_.consensusengineid.md)
-
-  * [ApprovalFlag](_type_approvalflag_.approvalflag.md)
-
-  * [EraIndex](_type_eraindex_.eraindex.md)
-
-  * [MemberCount](_type_membercount_.membercount.md)
-
-  * [Permill](_type_permill_.permill.md)
-
-  * [Perbill](_type_perbill_.perbill.md)
-
-  * [PropIndex](_type_propindex_.propindex.md)
-
-  * [ProposalIndex](_type_proposalindex_.proposalindex.md)
-
-  * [ReferendumIndex](_type_referendumindex_.referendumindex.md)
-
-  * [VoteIndex](_type_voteindex_.voteindex.md)
-
-  * [SetIndex](../interfaces/_srml_elections_types_.setindex.md)
-
-  * [KeyTypeId](../interfaces/_srml_session_types_.keytypeid.md)
-
-  * [SessionIndex](../interfaces/_srml_session_types_.sessionindex.md)
-
-  * [AuctionIndex](../interfaces/_srml_parachains_types_.auctionindex.md)
-
-  * [ParaId](../interfaces/_srml_parachains_types_.paraid.md)
-
-  * [SubId](../interfaces/_srml_parachains_types_.subid.md)
+  * [MagicNumber](_metadata_magicnumber_.magicnumber.md)
 
 ## Implements
 
@@ -79,7 +43,7 @@ A 32-bit unsigned integer
 
 *Overrides [UInt](_codec_uint_.uint.md).[constructor](_codec_uint_.uint.md#constructor)*
 
-*Defined in [primitive/U32.ts:14](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/U32.ts#L14)*
+*Defined in [primitive/U32.ts:14](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/U32.ts#L14)*
 
 **Parameters:**
 
@@ -99,7 +63,7 @@ Name | Type |
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:36](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/UInt.ts#L36)*
+*Defined in [codec/UInt.ts:37](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L37)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -123,7 +87,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:48](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/UInt.ts#L48)*
+*Defined in [codec/UInt.ts:49](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L49)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -141,7 +105,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:57](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/UInt.ts#L57)*
+*Defined in [codec/UInt.ts:63](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L63)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 

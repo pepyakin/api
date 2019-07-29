@@ -10,16 +10,16 @@
 
 ###  createParam
 
-▸ **createParam**(`name`: string, `type`: `CodecTypes`, `__namedParameters`: object): *[RpcParam](../interfaces/_types_.rpcparam.md)*
+▸ **createParam**(`name`: string, `type`: string, `__namedParameters`: object): *[RpcParam](../interfaces/_types_.rpcparam.md)*
 
-*Defined in [create/param.ts:12](https://github.com/polkadot-js/api/blob/1525d64/packages/type-jsonrpc/src/create/param.ts#L12)*
+*Defined in [create/param.ts:13](https://github.com/polkadot-js/api/blob/a45e313/packages/type-jsonrpc/src/create/param.ts#L13)*
 
 **Parameters:**
 
 Name | Type | Default |
 ------ | ------ | ------ |
 `name` | string | - |
-`type` | `CodecTypes` | - |
+`type` | string | - |
 `__namedParameters` | object |  { isOptional: false } |
 
 **Returns:** *[RpcParam](../interfaces/_types_.rpcparam.md)*

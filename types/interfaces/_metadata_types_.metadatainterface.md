@@ -26,6 +26,7 @@
 ### Properties
 
 * [encodedLength](_metadata_types_.metadatainterface.md#encodedlength)
+* [hash](_metadata_types_.metadatainterface.md#hash)
 * [isEmpty](_metadata_types_.metadatainterface.md#isempty)
 * [modules](_metadata_types_.metadatainterface.md#modules)
 
@@ -47,9 +48,21 @@
 
 *Inherited from [Codec](_types_.codec.md).[encodedLength](_types_.codec.md#encodedlength)*
 
-*Defined in [types.ts:57](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L57)*
+*Defined in [types.ts:73](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L73)*
 
 **`description`** The length of the value when encoded as a Uint8Array
+
+___
+
+###  hash
+
+• **hash**: *[IHash](_types_.ihash.md)*
+
+*Inherited from [Codec](_types_.codec.md).[hash](_types_.codec.md#hash)*
+
+*Defined in [types.ts:78](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L78)*
+
+**`description`** Returns a hash of the value
 
 ___
 
@@ -59,7 +72,7 @@ ___
 
 *Inherited from [Codec](_types_.codec.md).[isEmpty](_types_.codec.md#isempty)*
 
-*Defined in [types.ts:62](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L62)*
+*Defined in [types.ts:83](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L83)*
 
 **`description`** Checks if the value is an empty value
 
@@ -67,9 +80,9 @@ ___
 
 ###  modules
 
-• **modules**: *[Vector](../classes/_codec_vector_.vector.md)‹*`Modules`*›*
+• **modules**: *[Vec](../classes/_codec_vec_.vec.md)‹*`Modules`*›*
 
-*Defined in [Metadata/types.ts:9](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/Metadata/types.ts#L9)*
+*Defined in [Metadata/types.ts:9](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/Metadata/types.ts#L9)*
 
 ## Methods
 
@@ -79,7 +92,7 @@ ___
 
 *Inherited from [Codec](_types_.codec.md).[eq](_types_.codec.md#eq)*
 
-*Defined in [types.ts:67](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L67)*
+*Defined in [types.ts:88](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L88)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -97,7 +110,7 @@ ___
 
 ▸ **getUniqTypes**(`throwError`: boolean): *string[]*
 
-*Defined in [Metadata/types.ts:10](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/Metadata/types.ts#L10)*
+*Defined in [Metadata/types.ts:10](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/Metadata/types.ts#L10)*
 
 **Parameters:**
 
@@ -115,7 +128,7 @@ ___
 
 *Inherited from [Codec](_types_.codec.md).[toHex](_types_.codec.md#tohex)*
 
-*Defined in [types.ts:72](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L72)*
+*Defined in [types.ts:93](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L93)*
 
 **`description`** Returns a hex string representation of the value. isLe returns a LE (number-only) representation
 
@@ -135,7 +148,7 @@ ___
 
 *Inherited from [Codec](_types_.codec.md).[toJSON](_types_.codec.md#tojson)*
 
-*Defined in [types.ts:77](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L77)*
+*Defined in [types.ts:98](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L98)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -149,7 +162,7 @@ ___
 
 *Inherited from [Codec](_types_.codec.md).[toRawType](_types_.codec.md#torawtype)*
 
-*Defined in [types.ts:82](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L82)*
+*Defined in [types.ts:103](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L103)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -163,7 +176,7 @@ ___
 
 *Inherited from [Codec](_types_.codec.md).[toString](_types_.codec.md#tostring)*
 
-*Defined in [types.ts:87](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L87)*
+*Defined in [types.ts:108](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L108)*
 
 **`description`** Returns the string representation of the value
 
@@ -177,7 +190,7 @@ ___
 
 *Inherited from [Codec](_types_.codec.md).[toU8a](_types_.codec.md#tou8a)*
 
-*Defined in [types.ts:93](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/types.ts#L93)*
+*Defined in [types.ts:114](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/types.ts#L114)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 

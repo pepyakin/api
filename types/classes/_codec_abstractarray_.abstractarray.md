@@ -16,13 +16,13 @@ specific encoding/decoding on top of the base type.
 
   * **AbstractArray**
 
-  * [Vector](_codec_vector_.vector.md)
+  * [Vec](_codec_vec_.vec.md)
 
   * [Tuple](_codec_tuple_.tuple.md)
 
-  * [VectorAny](_codec_vectorany_.vectorany.md)
+  * [VecFixed](_codec_vecfixed_.vecfixed.md)
 
-  * [VectorFixed](_codec_vectorfixed_.vectorfixed.md)
+  * [VecAny](_codec_vecany_.vecany.md)
 
 ## Implements
 
@@ -41,6 +41,7 @@ specific encoding/decoding on top of the base type.
 ### Accessors
 
 * [encodedLength](_codec_abstractarray_.abstractarray.md#encodedlength)
+* [hash](_codec_abstractarray_.abstractarray.md#hash)
 * [isEmpty](_codec_abstractarray_.abstractarray.md#isempty)
 * [length](_codec_abstractarray_.abstractarray.md#length)
 
@@ -70,7 +71,7 @@ Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es
 
 • **get encodedLength**(): *number*
 
-*Defined in [codec/AbstractArray.ts:29](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L29)*
+*Defined in [codec/AbstractArray.ts:25](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L25)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -78,11 +79,23 @@ Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es
 
 ___
 
+###  hash
+
+• **get hash**(): *[IHash](../interfaces/_types_.ihash.md)*
+
+*Defined in [codec/AbstractArray.ts:34](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L34)*
+
+**`description`** returns a hash of the contents
+
+**Returns:** *[IHash](../interfaces/_types_.ihash.md)*
+
+___
+
 ###  isEmpty
 
 • **get isEmpty**(): *boolean*
 
-*Defined in [codec/AbstractArray.ts:22](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L22)*
+*Defined in [codec/AbstractArray.ts:41](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L41)*
 
 **`description`** Checks if the value is an empty value
 
@@ -96,7 +109,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/AbstractArray.ts:38](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L38)*
+*Defined in [codec/AbstractArray.ts:48](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L48)*
 
 **`description`** The length of the value
 
@@ -110,7 +123,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [codec/AbstractArray.ts:46](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L46)*
+*Defined in [codec/AbstractArray.ts:56](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L56)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -130,7 +143,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/AbstractArray.ts:116](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L116)*
+*Defined in [codec/AbstractArray.ts:126](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L126)*
 
 **`description`** Filters the array with the callback
 
@@ -164,7 +177,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/AbstractArray.ts:125](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L125)*
+*Defined in [codec/AbstractArray.ts:135](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L135)*
 
 **`description`** Maps the array with the callback
 
@@ -200,7 +213,7 @@ ___
 
 ▸ **toArray**(): *`T`[]*
 
-*Defined in [codec/AbstractArray.ts:53](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L53)*
+*Defined in [codec/AbstractArray.ts:63](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L63)*
 
 **`description`** Converts the Object to an standard JavaScript Array
 
@@ -212,7 +225,7 @@ ___
 
 ▸ **toHex**(): *string*
 
-*Defined in [codec/AbstractArray.ts:60](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L60)*
+*Defined in [codec/AbstractArray.ts:70](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L70)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -226,7 +239,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [codec/AbstractArray.ts:67](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L67)*
+*Defined in [codec/AbstractArray.ts:77](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L77)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -240,7 +253,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [codec/AbstractArray.ts:76](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L76)*
+*Defined in [codec/AbstractArray.ts:86](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L86)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -256,7 +269,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/AbstractArray.ts:81](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L81)*
+*Defined in [codec/AbstractArray.ts:91](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L91)*
 
 **`description`** Returns the string representation of the value
 
@@ -270,7 +283,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [codec/AbstractArray.ts:94](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/AbstractArray.ts#L94)*
+*Defined in [codec/AbstractArray.ts:104](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/AbstractArray.ts#L104)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 

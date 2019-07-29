@@ -11,16 +11,6 @@ A 64-bit unsigned integer
 
   * **U64**
 
-  * [Nonce](_type_nonce_.nonce.md)
-
-  * [BlockNumber](_type_blocknumber_.blocknumber.md)
-
-  * [BabeWeight](../interfaces/_srml_babe_types_.babeweight.md)
-
-  * [Gas](../interfaces/_srml_contracts_types_.gas.md)
-
-  * [AuthorityWeight](../interfaces/_srml_grandpa_types_.authorityweight.md)
-
 ## Implements
 
 * [Codec](../interfaces/_types_.codec.md)
@@ -45,7 +35,7 @@ A 64-bit unsigned integer
 
 *Overrides [UInt](_codec_uint_.uint.md).[constructor](_codec_uint_.uint.md#constructor)*
 
-*Defined in [primitive/U64.ts:14](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/U64.ts#L14)*
+*Defined in [primitive/U64.ts:14](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/U64.ts#L14)*
 
 **Parameters:**
 
@@ -65,7 +55,7 @@ Name | Type |
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:36](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/UInt.ts#L36)*
+*Defined in [codec/UInt.ts:37](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L37)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -89,7 +79,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:48](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/UInt.ts#L48)*
+*Defined in [codec/UInt.ts:49](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L49)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -107,7 +97,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:57](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/UInt.ts#L57)*
+*Defined in [codec/UInt.ts:63](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L63)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 

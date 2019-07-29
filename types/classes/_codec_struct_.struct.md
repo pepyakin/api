@@ -29,9 +29,27 @@ it needs to decoded in the specific defined order.
 
   * [FunctionMetadata](_metadata_v1_calls_.functionmetadata.md)
 
-  * [Linkage](_codec_linkage_.linkage.md)
+  * [Call](_primitive_generic_call_.call.md)
 
-  * [Method](_primitive_method_.method.md)
+  * [ExtrinsicPayloadV1](_primitive_extrinsic_v1_extrinsicpayload_.extrinsicpayloadv1.md)
+
+  * [ExtrinsicSignatureV1](_primitive_extrinsic_v1_extrinsicsignature_.extrinsicsignaturev1.md)
+
+  * [ExtrinsicV1](_primitive_extrinsic_v1_extrinsic_.extrinsicv1.md)
+
+  * [ExtrinsicPayloadV2](_primitive_extrinsic_v2_extrinsicpayload_.extrinsicpayloadv2.md)
+
+  * [ExtrinsicExtraV2](_primitive_extrinsic_v2_extrinsicextra_.extrinsicextrav2.md)
+
+  * [ExtrinsicSignatureV2](_primitive_extrinsic_v2_extrinsicsignature_.extrinsicsignaturev2.md)
+
+  * [ExtrinsicV2](_primitive_extrinsic_v2_extrinsic_.extrinsicv2.md)
+
+  * [Block](_primitive_generic_block_.block.md)
+
+  * [EventRecord](../interfaces/_interfaces_system_types_.eventrecord.md)
+
+  * [EventRecord0to76](../interfaces/_interfaces_system_types_.eventrecord0to76.md)
 
   * [OuterDispatchCall](_metadata_v0_calls_.outerdispatchcall.md)
 
@@ -109,109 +127,85 @@ it needs to decoded in the specific defined order.
 
   * [MetadataV7](_metadata_v7_metadata_.metadatav7.md)
 
-  * [AccountInfo](_primitive_accountinfo_.accountinfo.md)
-
-  * [Event](_primitive_event_.event.md)
-
-  * [EventRecord0to76](_primitive_eventrecord_.eventrecord0to76.md)
-
-  * [EventRecord](_primitive_eventrecord_.eventrecord.md)
-
-  * [SignaturePayloadV1](_primitive_extrinsic_v1_signaturepayload_.signaturepayloadv1.md)
-
-  * [ExtrinsicSignatureV1](_primitive_extrinsic_v1_extrinsicsignature_.extrinsicsignaturev1.md)
-
-  * [ExtrinsicV1](_primitive_extrinsic_v1_extrinsic_.extrinsicv1.md)
-
-  * [ExtrinsicExtraV2](_primitive_extrinsic_v2_extrinsicextra_.extrinsicextrav2.md)
-
-  * [SignaturePayloadV2](_primitive_extrinsic_v2_signaturepayload_.signaturepayloadv2.md)
-
-  * [ExtrinsicSignatureV2](_primitive_extrinsic_v2_extrinsicsignature_.extrinsicsignaturev2.md)
-
-  * [ExtrinsicV2](_primitive_extrinsic_v2_extrinsic_.extrinsicv2.md)
-
   * [MetadataVersioned](_metadata_metadataversioned_.metadataversioned.md)
 
-  * [Digest](_rpc_digest_.digest.md)
+  * [Event](_primitive_generic_event_.event.md)
 
-  * [Header](_rpc_header_.header.md)
+  * [Digest](_primitive_generic_digest_.digest.md)
 
-  * [Block](_rpc_block_.block.md)
+  * [VoterInfo](../interfaces/_interfaces_elections_types_.voterinfo.md)
 
-  * [Health](_rpc_health_.health.md)
+  * [ReferendumInfo](../interfaces/_interfaces_democracy_types_.referenduminfo.md)
 
-  * [PeerInfo](_rpc_peerinfo_.peerinfo.md)
+  * [Keys](../interfaces/_interfaces_session_types_.keys.md)
 
-  * [RuntimeVersion](_rpc_runtimeversion_.runtimeversion.md)
+  * [PendingPause](../interfaces/_interfaces_grandpa_types_.pendingpause.md)
 
-  * [RhdJustification](_type_justification_.rhdjustification.md)
+  * [PendingResume](../interfaces/_interfaces_grandpa_types_.pendingresume.md)
 
-  * [SignedBlock](_rpc_signedblock_.signedblock.md)
+  * [StoredPendingChange](../interfaces/_interfaces_grandpa_types_.storedpendingchange.md)
 
-  * [StorageChangeSet](_rpc_storagechangeset_.storagechangeset.md)
+  * [BalanceLock](../interfaces/_interfaces_balances_types_.balancelock.md)
 
-  * [BalanceLock](_type_balancelock_.balancelock.md)
+  * [VestingSchedule](../interfaces/_interfaces_balances_types_.vestingschedule.md)
 
-  * [IndividualExposure](_type_individualexposure_.individualexposure.md)
+  * [Votes](../interfaces/_interfaces_collective_types_.votes.md)
 
-  * [Exposure](_type_exposure_.exposure.md)
+  * [AliveContractInfo](../interfaces/_interfaces_contracts_types_.alivecontractinfo.md)
 
-  * [BftAtReport](_type_misbehaviorreport_.bftatreport.md)
+  * [PrefabWasmModule](../interfaces/_interfaces_contracts_types_.prefabwasmmodule.md)
 
-  * [BftProposeOutOfTurn](_type_misbehaviorreport_.bftproposeoutofturn.md)
+  * [Schedule](../interfaces/_interfaces_contracts_types_.schedule.md)
 
-  * [MisbehaviorReport](_type_misbehaviorreport_.misbehaviorreport.md)
+  * [AccountInfo](../interfaces/_interfaces_deprecated_types_.accountinfo.md)
 
-  * [ReferendumInfo](_type_referenduminfo_.referenduminfo.md)
+  * [Heartbeat](../interfaces/_interfaces_imonline_types_.heartbeat.md)
 
-  * [UnlockChunk](_type_unlockchunk_.unlockchunk.md)
+  * [OpaqueNetworkState](../interfaces/_interfaces_imonline_types_.opaquenetworkstate.md)
 
-  * [StakingLedger](_type_stakingledger_.stakingledger.md)
+  * [AttestedCandidate](../interfaces/_interfaces_parachains_types_.attestedcandidate.md)
 
-  * [TreasuryProposal](_type_treasuryproposal_.treasuryproposal.md)
+  * [CandidateReceipt](../interfaces/_interfaces_parachains_types_.candidatereceipt.md)
 
-  * [ValidatorPrefs](_type_validatorprefs_.validatorprefs.md)
+  * [IncomingParachainDeploy](../interfaces/_interfaces_parachains_types_.incomingparachaindeploy.md)
 
-  * [VestingSchedule](_type_vestingschedule_.vestingschedule.md)
+  * [IncomingParachainFixed](../interfaces/_interfaces_parachains_types_.incomingparachainfixed.md)
 
-  * [Votes](_type_votes_.votes.md)
+  * [NewBidder](../interfaces/_interfaces_parachains_types_.newbidder.md)
 
-  * [VoterInfo](_type_voterinfo_.voterinfo.md)
+  * [UpwardMessage](../interfaces/_interfaces_parachains_types_.upwardmessage.md)
 
-  * [AliveContractInfo](../interfaces/_srml_contracts_types_.alivecontractinfo.md)
+  * [EraRewards](../interfaces/_interfaces_staking_types_.erarewards.md)
 
-  * [PrefabWasmModule](../interfaces/_srml_contracts_types_.prefabwasmmodule.md)
+  * [Exposure](../interfaces/_interfaces_staking_types_.exposure.md)
 
-  * [Schedule](../interfaces/_srml_contracts_types_.schedule.md)
+  * [IndividualExposure](../interfaces/_interfaces_staking_types_.individualexposure.md)
 
-  * [EraRewards](../interfaces/_srml_session_types_.erarewards.md)
+  * [StakingLedger](../interfaces/_interfaces_staking_types_.stakingledger.md)
 
-  * [SessionKeys](../interfaces/_srml_session_types_.sessionkeys.md)
+  * [UnlockChunk](../interfaces/_interfaces_staking_types_.unlockchunk.md)
 
-  * [PendingPause](../interfaces/_srml_grandpa_types_.pendingpause.md)
+  * [ValidatorPrefs](../interfaces/_interfaces_staking_types_.validatorprefs.md)
 
-  * [PendingResume](../interfaces/_srml_grandpa_types_.pendingresume.md)
+  * [TreasuryProposal](../interfaces/_interfaces_treasury_types_.treasuryproposal.md)
 
-  * [StoredPendingChange](../interfaces/_srml_grandpa_types_.storedpendingchange.md)
+  * [ChainProperties](../interfaces/_interfaces_rpc_types_.chainproperties.md)
 
-  * [Heartbeat](../interfaces/_srml_imonline_types_.heartbeat.md)
+  * [Health](../interfaces/_interfaces_rpc_types_.health.md)
 
-  * [OpaqueNetworkState](../interfaces/_srml_imonline_types_.opaquenetworkstate.md)
+  * [NetworkState](../interfaces/_interfaces_rpc_types_.networkstate.md)
 
-  * [AttestedCandidate](../interfaces/_srml_parachains_types_.attestedcandidate.md)
+  * [PeerInfo](../interfaces/_interfaces_rpc_types_.peerinfo.md)
 
-  * [CandidateReceipt](../interfaces/_srml_parachains_types_.candidatereceipt.md)
+  * [RuntimeVersion](../interfaces/_interfaces_rpc_types_.runtimeversion.md)
 
-  * [IncomingParachainDeploy](../interfaces/_srml_parachains_types_.incomingparachaindeploy.md)
+  * [StorageChangeSet](../interfaces/_interfaces_rpc_types_.storagechangeset.md)
 
-  * [IncomingParachainFixed](../interfaces/_srml_parachains_types_.incomingparachainfixed.md)
+  * [Linkage](_codec_linkage_.linkage.md)
 
-  * [NewBidder](../interfaces/_srml_parachains_types_.newbidder.md)
+  * [Header](../interfaces/_interfaces_runtime_types_.header.md)
 
-  * [UpwardMessage](../interfaces/_srml_parachains_types_.upwardmessage.md)
-
-  * [SessionKeys](_type_sessionkeys_.sessionkeys.md)
+  * [SignedBlock](../interfaces/_interfaces_runtime_types_.signedblock.md)
 
 ## Implements
 
@@ -231,6 +225,7 @@ it needs to decoded in the specific defined order.
 
 * [Type](_codec_struct_.struct.md#type)
 * [encodedLength](_codec_struct_.struct.md#encodedlength)
+* [hash](_codec_struct_.struct.md#hash)
 * [isEmpty](_codec_struct_.struct.md#isempty)
 
 ### Methods
@@ -252,7 +247,7 @@ it needs to decoded in the specific defined order.
 
 \+ **new Struct**(`Types`: `S`, `value`: `V` | `Map<any, any>` | any[] | string, `jsonMap`: `Map<keyof S, string>`): *[Struct](_codec_struct_.struct.md)*
 
-*Defined in [codec/Struct.ts:31](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L31)*
+*Defined in [codec/Struct.ts:34](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L34)*
 
 **Parameters:**
 
@@ -278,7 +273,7 @@ Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es
 
 • **get Type**(): *`E`*
 
-*Defined in [codec/Struct.ts:163](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L163)*
+*Defined in [codec/Struct.ts:166](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L166)*
 
 **`description`** Returns the Type description to sthe structure
 
@@ -290,7 +285,7 @@ ___
 
 • **get encodedLength**(): *number*
 
-*Defined in [codec/Struct.ts:176](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L176)*
+*Defined in [codec/Struct.ts:179](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L179)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -298,11 +293,23 @@ ___
 
 ___
 
+###  hash
+
+• **get hash**(): *[IHash](../interfaces/_types_.ihash.md)*
+
+*Defined in [codec/Struct.ts:190](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L190)*
+
+**`description`** returns a hash of the contents
+
+**Returns:** *[IHash](../interfaces/_types_.ihash.md)*
+
+___
+
 ###  isEmpty
 
 • **get isEmpty**(): *boolean*
 
-*Defined in [codec/Struct.ts:148](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L148)*
+*Defined in [codec/Struct.ts:151](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L151)*
 
 **`description`** Checks if the value is an empty value
 
@@ -316,7 +323,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [codec/Struct.ts:187](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L187)*
+*Defined in [codec/Struct.ts:197](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L197)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -336,7 +343,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/Struct.ts:195](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L195)*
+*Defined in [codec/Struct.ts:205](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L205)*
 
 **`description`** Returns a specific names entry in the structure
 
@@ -354,7 +361,7 @@ ___
 
 ▸ **getAtIndex**(`index`: number): *[Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [codec/Struct.ts:202](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L202)*
+*Defined in [codec/Struct.ts:212](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L212)*
 
 **`description`** Returns the values of a member at a specific index (Rather use get(name) for performance)
 
@@ -372,7 +379,7 @@ ___
 
 ▸ **toArray**(): *[Codec](../interfaces/_types_.codec.md)[]*
 
-*Defined in [codec/Struct.ts:209](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L209)*
+*Defined in [codec/Struct.ts:219](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L219)*
 
 **`description`** Converts the Object to an standard JavaScript Array
 
@@ -384,7 +391,7 @@ ___
 
 ▸ **toHex**(): *string*
 
-*Defined in [codec/Struct.ts:216](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L216)*
+*Defined in [codec/Struct.ts:226](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L226)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -398,7 +405,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [codec/Struct.ts:223](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L223)*
+*Defined in [codec/Struct.ts:233](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L233)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -412,7 +419,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [codec/Struct.ts:239](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L239)*
+*Defined in [codec/Struct.ts:249](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L249)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -426,7 +433,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [codec/Struct.ts:252](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L252)*
+*Defined in [codec/Struct.ts:262](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L262)*
 
 **`description`** Returns the string representation of the value
 
@@ -440,7 +447,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [codec/Struct.ts:260](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L260)*
+*Defined in [codec/Struct.ts:270](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L270)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -458,7 +465,7 @@ ___
 
 ▸ **with**<**S**>(`Types`: `S`): *[Constructor](../interfaces/_types_.constructor.md)‹*[Struct](_codec_struct_.struct.md)‹*`S`*›*›*
 
-*Defined in [codec/Struct.ts:123](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L123)*
+*Defined in [codec/Struct.ts:126](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L126)*
 
 **Type parameters:**
 

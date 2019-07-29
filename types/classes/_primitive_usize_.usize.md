@@ -37,7 +37,7 @@ It is not to be used, since it created consensus mismatches.
 
 *Overrides [U32](_primitive_u32_.u32.md).[constructor](_primitive_u32_.u32.md#constructor)*
 
-*Defined in [primitive/USize.ts:14](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/USize.ts#L14)*
+*Defined in [primitive/USize.ts:14](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/USize.ts#L14)*
 
 **Parameters:**
 
@@ -57,7 +57,7 @@ Name | Type |
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:36](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/UInt.ts#L36)*
+*Defined in [codec/UInt.ts:37](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L37)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -77,9 +77,11 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Overrides [UInt](_codec_uint_.uint.md).[toRawType](_codec_uint_.uint.md#torawtype)*
+*Inherited from [UInt](_codec_uint_.uint.md).[toRawType](_codec_uint_.uint.md#torawtype)*
 
-*Defined in [primitive/USize.ts:24](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/USize.ts#L24)*
+*Overrides void*
+
+*Defined in [codec/UInt.ts:49](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L49)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -97,7 +99,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:57](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/UInt.ts#L57)*
+*Defined in [codec/UInt.ts:63](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L63)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 

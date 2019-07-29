@@ -3,7 +3,7 @@
 **`name`** ExtrinsicSignature
 
 **`description`** 
-A container for the [Signature](_primitive_signature_.signature.md) associated with a specific [Extrinsic](_primitive_extrinsic_extrinsic_.extrinsic.md)
+A container for the [Signature](../interfaces/_interfaceregistry_.interfaceregistry.md#signature) associated with a specific [Extrinsic](_primitive_extrinsic_extrinsic_.extrinsic.md)
 
 ## Type parameters
 
@@ -37,6 +37,7 @@ A container for the [Signature](_primitive_signature_.signature.md) associated w
 * [Type](_primitive_extrinsic_v1_extrinsicsignature_.extrinsicsignaturev1.md#type)
 * [encodedLength](_primitive_extrinsic_v1_extrinsicsignature_.extrinsicsignaturev1.md#encodedlength)
 * [era](_primitive_extrinsic_v1_extrinsicsignature_.extrinsicsignaturev1.md#era)
+* [hash](_primitive_extrinsic_v1_extrinsicsignature_.extrinsicsignaturev1.md#hash)
 * [isEmpty](_primitive_extrinsic_v1_extrinsicsignature_.extrinsicsignaturev1.md#isempty)
 * [isSigned](_primitive_extrinsic_v1_extrinsicsignature_.extrinsicsignaturev1.md#issigned)
 * [nonce](_primitive_extrinsic_v1_extrinsicsignature_.extrinsicsignaturev1.md#nonce)
@@ -68,7 +69,7 @@ A container for the [Signature](_primitive_signature_.signature.md) associated w
 
 *Overrides [Struct](_codec_struct_.struct.md).[constructor](_codec_struct_.struct.md#constructor)*
 
-*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:26](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L26)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:25](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L25)*
 
 **Parameters:**
 
@@ -87,7 +88,7 @@ Name | Type | Default |
 
 *Inherited from [Struct](_codec_struct_.struct.md).[Type](_codec_struct_.struct.md#type)*
 
-*Defined in [codec/Struct.ts:163](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L163)*
+*Defined in [codec/Struct.ts:166](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L166)*
 
 **`description`** Returns the Type description to sthe structure
 
@@ -99,9 +100,9 @@ ___
 
 • **get encodedLength**(): *number*
 
-*Inherited from [Struct](_codec_struct_.struct.md).[encodedLength](_codec_struct_.struct.md#encodedlength)*
+*Overrides [Struct](_codec_struct_.struct.md).[encodedLength](_codec_struct_.struct.md#encodedlength)*
 
-*Defined in [codec/Struct.ts:176](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L176)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:55](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L55)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -113,11 +114,25 @@ ___
 
 • **get era**(): *[ExtrinsicEra](_primitive_extrinsic_extrinsicera_.extrinsicera.md)*
 
-*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:63](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L63)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:71](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L71)*
 
 **`description`** The [ExtrinsicEra](_primitive_extrinsic_extrinsicera_.extrinsicera.md) (mortal or immortal) this signature applies to
 
 **Returns:** *[ExtrinsicEra](_primitive_extrinsic_extrinsicera_.extrinsicera.md)*
+
+___
+
+###  hash
+
+• **get hash**(): *[IHash](../interfaces/_types_.ihash.md)*
+
+*Inherited from [Struct](_codec_struct_.struct.md).[hash](_codec_struct_.struct.md#hash)*
+
+*Defined in [codec/Struct.ts:190](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L190)*
+
+**`description`** returns a hash of the contents
+
+**Returns:** *[IHash](../interfaces/_types_.ihash.md)*
 
 ___
 
@@ -127,7 +142,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[isEmpty](_codec_struct_.struct.md#isempty)*
 
-*Defined in [codec/Struct.ts:148](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L148)*
+*Defined in [codec/Struct.ts:151](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L151)*
 
 **`description`** Checks if the value is an empty value
 
@@ -139,7 +154,7 @@ ___
 
 • **get isSigned**(): *boolean*
 
-*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:56](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L56)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:64](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L64)*
 
 **`description`** `true` if the signature is valid
 
@@ -149,57 +164,57 @@ ___
 
 ###  nonce
 
-• **get nonce**(): *[NonceCompact](_type_noncecompact_.noncecompact.md)*
+• **get nonce**(): *[Compact](_codec_compact_.compact.md)‹*[Index](../interfaces/_interfaceregistry_.interfaceregistry.md#index)*›*
 
-*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:70](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L70)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:78](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L78)*
 
-**`description`** The [Nonce](_type_nonce_.nonce.md) for the signature
+**`description`** The [Index](../interfaces/_interfaceregistry_.interfaceregistry.md#index) for the signature
 
-**Returns:** *[NonceCompact](_type_noncecompact_.noncecompact.md)*
+**Returns:** *[Compact](_codec_compact_.compact.md)‹*[Index](../interfaces/_interfaceregistry_.interfaceregistry.md#index)*›*
 
 ___
 
 ###  signature
 
-• **get signature**(): *[Signature](_primitive_signature_.signature.md)*
+• **get signature**(): *[Signature](../interfaces/_interfaceregistry_.interfaceregistry.md#signature)*
 
-*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:77](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L77)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:85](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L85)*
 
-**`description`** The actuall [Signature](_primitive_signature_.signature.md) hash
+**`description`** The actuall [Signature](../interfaces/_interfaceregistry_.interfaceregistry.md#signature) hash
 
-**Returns:** *[Signature](_primitive_signature_.signature.md)*
+**Returns:** *[Signature](../interfaces/_interfaceregistry_.interfaceregistry.md#signature)*
 
 ___
 
 ###  signer
 
-• **get signer**(): *[Address](_primitive_address_.address.md)*
+• **get signer**(): *[Address](_primitive_generic_address_.address.md)*
 
-*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:84](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L84)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:92](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L92)*
 
-**`description`** The [Address](_primitive_address_.address.md) that signed
+**`description`** The [Address](_primitive_generic_address_.address.md) that signed
 
-**Returns:** *[Address](_primitive_address_.address.md)*
+**Returns:** *[Address](_primitive_generic_address_.address.md)*
 
 ___
 
 ###  tip
 
-• **get tip**(): *[BalanceCompact](_primitive_balancecompact_.balancecompact.md)*
+• **get tip**(): *[Compact](_codec_compact_.compact.md)‹*[Balance](../interfaces/_interfaceregistry_.interfaceregistry.md#balance)*›*
 
-*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:91](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L91)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:99](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L99)*
 
 **`description`** Forwards compat
 
-**Returns:** *[BalanceCompact](_primitive_balancecompact_.balancecompact.md)*
+**Returns:** *[Compact](_codec_compact_.compact.md)‹*[Balance](../interfaces/_interfaceregistry_.interfaceregistry.md#balance)*›*
 
 ## Methods
 
 ###  addSignature
 
-▸ **addSignature**(`signer`: [Address](_primitive_address_.address.md) | `Uint8Array` | string, `signature`: `Uint8Array` | string, `payload`: [ExtrinsicPayloadValue](../interfaces/_types_.extrinsicpayloadvalue.md) | `Uint8Array` | string): *[IExtrinsicSignature](../interfaces/_types_.iextrinsicsignature.md)*
+▸ **addSignature**(`signer`: [Address](_primitive_generic_address_.address.md) | `Uint8Array` | string, `signature`: `Uint8Array` | string, `payload`: [ExtrinsicPayloadValue](../interfaces/_types_.extrinsicpayloadvalue.md) | `Uint8Array` | string): *[IExtrinsicSignature](../interfaces/_types_.iextrinsicsignature.md)*
 
-*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:107](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L107)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:115](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L115)*
 
 **`description`** Adds a raw signature
 
@@ -207,7 +222,7 @@ ___
 
 Name | Type |
 ------ | ------ |
-`signer` | [Address](_primitive_address_.address.md) \| `Uint8Array` \| string |
+`signer` | [Address](_primitive_generic_address_.address.md) \| `Uint8Array` \| string |
 `signature` | `Uint8Array` \| string |
 `payload` | [ExtrinsicPayloadValue](../interfaces/_types_.extrinsicpayloadvalue.md) \| `Uint8Array` \| string |
 
@@ -223,7 +238,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[eq](_codec_struct_.struct.md#eq)*
 
-*Defined in [codec/Struct.ts:187](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L187)*
+*Defined in [codec/Struct.ts:197](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L197)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -245,7 +260,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/Struct.ts:195](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L195)*
+*Defined in [codec/Struct.ts:205](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L205)*
 
 **`description`** Returns a specific names entry in the structure
 
@@ -265,7 +280,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[getAtIndex](_codec_struct_.struct.md#getatindex)*
 
-*Defined in [codec/Struct.ts:202](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L202)*
+*Defined in [codec/Struct.ts:212](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L212)*
 
 **`description`** Returns the values of a member at a specific index (Rather use get(name) for performance)
 
@@ -281,9 +296,9 @@ ___
 
 ###  sign
 
-▸ **sign**(`method`: [Method](_primitive_method_.method.md), `account`: [IKeyringPair](../interfaces/_types_.ikeyringpair.md), `__namedParameters`: object): *[IExtrinsicSignature](../interfaces/_types_.iextrinsicsignature.md)*
+▸ **sign**(`method`: [Call](_primitive_generic_call_.call.md), `account`: [IKeyringPair](../interfaces/_types_.ikeyringpair.md), `__namedParameters`: object): *[IExtrinsicSignature](../interfaces/_types_.iextrinsicsignature.md)*
 
-*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:118](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L118)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:126](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L126)*
 
 **`description`** Generate a payload and pplies the signature from a keypair
 
@@ -291,7 +306,7 @@ ___
 
 Name | Type |
 ------ | ------ |
-`method` | [Method](_primitive_method_.method.md) |
+`method` | [Call](_primitive_generic_call_.call.md) |
 `account` | [IKeyringPair](../interfaces/_types_.ikeyringpair.md) |
 `__namedParameters` | object |
 
@@ -305,7 +320,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toArray](_codec_struct_.struct.md#toarray)*
 
-*Defined in [codec/Struct.ts:209](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L209)*
+*Defined in [codec/Struct.ts:219](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L219)*
 
 **`description`** Converts the Object to an standard JavaScript Array
 
@@ -319,7 +334,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toHex](_codec_struct_.struct.md#tohex)*
 
-*Defined in [codec/Struct.ts:216](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L216)*
+*Defined in [codec/Struct.ts:226](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L226)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -335,7 +350,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toJSON](_codec_struct_.struct.md#tojson)*
 
-*Defined in [codec/Struct.ts:223](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L223)*
+*Defined in [codec/Struct.ts:233](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L233)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -351,7 +366,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toRawType](_codec_struct_.struct.md#torawtype)*
 
-*Defined in [codec/Struct.ts:239](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L239)*
+*Defined in [codec/Struct.ts:249](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L249)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -367,7 +382,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toString](_codec_struct_.struct.md#tostring)*
 
-*Defined in [codec/Struct.ts:252](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L252)*
+*Defined in [codec/Struct.ts:262](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L262)*
 
 **`description`** Returns the string representation of the value
 
@@ -383,7 +398,7 @@ ___
 
 *Overrides [Struct](_codec_struct_.struct.md).[toU8a](_codec_struct_.struct.md#tou8a)*
 
-*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:135](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L135)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:143](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L143)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -401,7 +416,7 @@ ___
 
 ▸ **decodeExtrinsicSignature**(`value`: [ExtrinsicSignatureV1](_primitive_extrinsic_v1_extrinsicsignature_.extrinsicsignaturev1.md) | `Uint8Array` | undefined, `isSigned`: boolean): *[ExtrinsicSignatureV1](_primitive_extrinsic_v1_extrinsicsignature_.extrinsicsignaturev1.md) | `Uint8Array`*
 
-*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:41](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L41)*
+*Defined in [primitive/Extrinsic/v1/ExtrinsicSignature.ts:40](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/v1/ExtrinsicSignature.ts#L40)*
 
 **Parameters:**
 
@@ -420,7 +435,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[with](_codec_struct_.struct.md#static-with)*
 
-*Defined in [codec/Struct.ts:123](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/Struct.ts#L123)*
+*Defined in [codec/Struct.ts:126](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/Struct.ts#L126)*
 
 **Type parameters:**
 

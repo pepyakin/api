@@ -12,21 +12,15 @@ to be used directly, rather is should be subclassed with the specific lengths.
 
   * **U8aFixed**
 
-  * [H256](_primitive_h256_.h256.md)
+  * [AccountId](_primitive_generic_accountid_.accountid.md)
 
-  * [MethodIndex](_primitive_method_.methodindex.md)
-
-  * [AccountId](_primitive_accountid_.accountid.md)
-
-  * [EventId](_primitive_event_.eventid.md)
-
-  * [H512](_primitive_h512_.h512.md)
+  * [CallIndex](_primitive_generic_call_.callindex.md)
 
   * [H160](_primitive_h160_.h160.md)
 
-  * [ApiId](_rpc_runtimeversion_.apiid.md)
+  * [H256](_primitive_h256_.h256.md)
 
-  * [LockIdentifier](_type_lockidentifier_.lockidentifier.md)
+  * [H512](_primitive_h512_.h512.md)
 
 ## Implements
 
@@ -45,6 +39,7 @@ to be used directly, rather is should be subclassed with the specific lengths.
 ### Accessors
 
 * [encodedLength](_codec_u8afixed_.u8afixed.md#encodedlength)
+* [hash](_codec_u8afixed_.u8afixed.md#hash)
 * [isEmpty](_codec_u8afixed_.u8afixed.md#isempty)
 * [length](_codec_u8afixed_.u8afixed.md#length)
 
@@ -68,7 +63,7 @@ to be used directly, rather is should be subclassed with the specific lengths.
 
 *Overrides [U8a](_codec_u8a_.u8a.md).[constructor](_codec_u8a_.u8a.md#constructor)*
 
-*Defined in [codec/U8aFixed.ts:19](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8aFixed.ts#L19)*
+*Defined in [codec/U8aFixed.ts:19](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8aFixed.ts#L19)*
 
 **Parameters:**
 
@@ -87,11 +82,25 @@ Name | Type | Default |
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[encodedLength](_codec_u8a_.u8a.md#encodedlength)*
 
-*Defined in [codec/U8a.ts:36](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8a.ts#L36)*
+*Defined in [codec/U8a.ts:37](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L37)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
 **Returns:** *number*
+
+___
+
+###  hash
+
+• **get hash**(): *[IHash](../interfaces/_types_.ihash.md)*
+
+*Inherited from [U8a](_codec_u8a_.u8a.md).[hash](_codec_u8a_.u8a.md#hash)*
+
+*Defined in [codec/U8a.ts:44](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L44)*
+
+**`description`** returns a hash of the contents
+
+**Returns:** *[IHash](../interfaces/_types_.ihash.md)*
 
 ___
 
@@ -101,7 +110,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[isEmpty](_codec_u8a_.u8a.md#isempty)*
 
-*Defined in [codec/U8a.ts:43](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8a.ts#L43)*
+*Defined in [codec/U8a.ts:51](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L51)*
 
 **`description`** Returns true if the type wraps an empty/default all-0 value
 
@@ -117,7 +126,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/U8a.ts:50](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8a.ts#L50)*
+*Defined in [codec/U8a.ts:58](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L58)*
 
 **`description`** The length of the value
 
@@ -129,7 +138,9 @@ ___
 
 ▸ **bitLength**(): *number*
 
-*Defined in [codec/U8aFixed.ts:60](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8aFixed.ts#L60)*
+*Inherited from [U8a](_codec_u8a_.u8a.md).[bitLength](_codec_u8a_.u8a.md#bitlength)*
+
+*Defined in [codec/U8a.ts:66](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L66)*
 
 **`description`** Returns the number of bits in the value
 
@@ -145,7 +156,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[eq](_codec_u8a_.u8a.md#eq)*
 
-*Defined in [codec/U8a.ts:58](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8a.ts#L58)*
+*Defined in [codec/U8a.ts:73](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L73)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -167,7 +178,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/U8a.ts:73](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8a.ts#L73)*
+*Defined in [codec/U8a.ts:88](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L88)*
 
 **`description`** Create a new subarray from the actual buffer. This is needed for compat reasons since a new Uint8Array gets returned here
 
@@ -188,7 +199,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[toHex](_codec_u8a_.u8a.md#tohex)*
 
-*Defined in [codec/U8a.ts:80](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8a.ts#L80)*
+*Defined in [codec/U8a.ts:95](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L95)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -204,7 +215,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[toJSON](_codec_u8a_.u8a.md#tojson)*
 
-*Defined in [codec/U8a.ts:87](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8a.ts#L87)*
+*Defined in [codec/U8a.ts:102](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L102)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -220,7 +231,7 @@ ___
 
 *Overrides [U8a](_codec_u8a_.u8a.md).[toRawType](_codec_u8a_.u8a.md#torawtype)*
 
-*Defined in [codec/U8aFixed.ts:67](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8aFixed.ts#L67)*
+*Defined in [codec/U8aFixed.ts:60](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8aFixed.ts#L60)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -238,7 +249,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/U8a.ts:101](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8a.ts#L101)*
+*Defined in [codec/U8a.ts:116](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L116)*
 
 **`description`** Returns the string representation of the value
 
@@ -254,7 +265,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[toU8a](_codec_u8a_.u8a.md#tou8a)*
 
-*Defined in [codec/U8a.ts:110](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8a.ts#L110)*
+*Defined in [codec/U8a.ts:125](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L125)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -272,7 +283,7 @@ ___
 
 ▸ **with**(`bitLength`: [BitLength](../modules/_codec_u8afixed_.md#bitlength)): *[Constructor](../interfaces/_types_.constructor.md)‹*[U8aFixed](_codec_u8afixed_.u8afixed.md)*›*
 
-*Defined in [codec/U8aFixed.ts:49](https://github.com/polkadot-js/api/blob/1525d64/packages/types/src/codec/U8aFixed.ts#L49)*
+*Defined in [codec/U8aFixed.ts:49](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8aFixed.ts#L49)*
 
 **Parameters:**
 

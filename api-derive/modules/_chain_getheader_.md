@@ -12,7 +12,7 @@
 
 ▸ **getHeader**(`api`: `ApiInterfaceRx`): *function*
 
-*Defined in [chain/getHeader.ts:28](https://github.com/polkadot-js/api/blob/1525d64/packages/api-derive/src/chain/getHeader.ts#L28)*
+*Defined in [chain/getHeader.ts:29](https://github.com/polkadot-js/api/blob/a45e313/packages/api-derive/src/chain/getHeader.ts#L29)*
 
 **`name`** bestNumberFinalized
 
@@ -22,9 +22,9 @@
 <BR>
 
 ```javascript
-const { author, blockNumber } = await api.derive.chain.getHeader('0x123...456');
+const { author, number } = await api.derive.chain.getHeader('0x123...456');
 
-console.log(`block #${blockNumber} was authored by ${author}`);
+console.log(`block #${number} was authored by ${author}`);
 ```
 
 **Parameters:**
