@@ -47,7 +47,7 @@ A 4-byte identifier (actually a [u8; 4]) identifying the engine, e.g. for Aura i
 
 *Overrides [UInt](_codec_uint_.uint.md).[constructor](_codec_uint_.uint.md#constructor)*
 
-*Defined in [primitive/U32.ts:14](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/U32.ts#L14)*
+*Defined in [primitive/U32.ts:14](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/primitive/U32.ts#L14)*
 
 **Parameters:**
 
@@ -63,7 +63,7 @@ Name | Type |
 
 • **get isAura**(): *boolean*
 
-*Defined in [primitive/Generic/ConsensusEngineId.ts:41](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L41)*
+*Defined in [primitive/Generic/ConsensusEngineId.ts:41](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L41)*
 
 **`description`** `true` if the engine matches aura
 
@@ -75,7 +75,7 @@ ___
 
 • **get isBabe**(): *boolean*
 
-*Defined in [primitive/Generic/ConsensusEngineId.ts:48](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L48)*
+*Defined in [primitive/Generic/ConsensusEngineId.ts:48](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L48)*
 
 **`description`** `true` is the engine matches babe
 
@@ -87,7 +87,7 @@ ___
 
 • **get isGrandpa**(): *boolean*
 
-*Defined in [primitive/Generic/ConsensusEngineId.ts:55](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L55)*
+*Defined in [primitive/Generic/ConsensusEngineId.ts:55](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L55)*
 
 **`description`** `true` is the engine matches grandpa
 
@@ -99,7 +99,7 @@ ___
 
 ▸ **extractSlot**(`bytes`: [Bytes](_primitive_bytes_.bytes.md)): *[U64](_primitive_u64_.u64.md)*
 
-*Defined in [primitive/Generic/ConsensusEngineId.ts:62](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L62)*
+*Defined in [primitive/Generic/ConsensusEngineId.ts:62](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L62)*
 
 **`description`** From the input bytes, decode into an aura-tuple
 
@@ -121,7 +121,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:37](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L37)*
+*Defined in [codec/UInt.ts:37](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/UInt.ts#L37)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -145,7 +145,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:49](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L49)*
+*Defined in [codec/UInt.ts:49](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/UInt.ts#L49)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -161,7 +161,7 @@ ___
 
 *Overrides void*
 
-*Defined in [primitive/Generic/ConsensusEngineId.ts:74](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L74)*
+*Defined in [primitive/Generic/ConsensusEngineId.ts:74](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L74)*
 
 **`description`** Override the default toString to return a 4-byte string
 
@@ -179,7 +179,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:63](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/UInt.ts#L63)*
+*Defined in [codec/UInt.ts:63](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/UInt.ts#L63)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -197,7 +197,7 @@ ___
 
 ▸ **idToString**(`input`: number | `BN`): *string*
 
-*Defined in [primitive/Generic/ConsensusEngineId.ts:24](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L24)*
+*Defined in [primitive/Generic/ConsensusEngineId.ts:24](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L24)*
 
 **Parameters:**
 
@@ -213,7 +213,7 @@ ___
 
 ▸ **stringToId**(`input`: string): *number*
 
-*Defined in [primitive/Generic/ConsensusEngineId.ts:31](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L31)*
+*Defined in [primitive/Generic/ConsensusEngineId.ts:31](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/primitive/Generic/ConsensusEngineId.ts#L31)*
 
 **Parameters:**
 

@@ -51,7 +51,7 @@ The ImmortalEra for an extrinsic
 
 *Overrides [U8a](_codec_u8a_.u8a.md).[constructor](_codec_u8a_.u8a.md#constructor)*
 
-*Defined in [primitive/Extrinsic/ExtrinsicEra.ts:36](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/primitive/Extrinsic/ExtrinsicEra.ts#L36)*
+*Defined in [primitive/Extrinsic/ExtrinsicEra.ts:36](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/primitive/Extrinsic/ExtrinsicEra.ts#L36)*
 
 **Parameters:**
 
@@ -69,7 +69,7 @@ Name | Type |
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[encodedLength](_codec_u8a_.u8a.md#encodedlength)*
 
-*Defined in [codec/U8a.ts:37](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L37)*
+*Defined in [codec/U8a.ts:37](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L37)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -83,7 +83,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[hash](_codec_u8a_.u8a.md#hash)*
 
-*Defined in [codec/U8a.ts:44](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L44)*
+*Defined in [codec/U8a.ts:44](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L44)*
 
 **`description`** returns a hash of the contents
 
@@ -97,7 +97,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[isEmpty](_codec_u8a_.u8a.md#isempty)*
 
-*Defined in [codec/U8a.ts:51](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L51)*
+*Defined in [codec/U8a.ts:51](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L51)*
 
 **`description`** Returns true if the type wraps an empty/default all-0 value
 
@@ -113,7 +113,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/U8a.ts:58](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L58)*
+*Defined in [codec/U8a.ts:58](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L58)*
 
 **`description`** The length of the value
 
@@ -127,7 +127,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[bitLength](_codec_u8a_.u8a.md#bitlength)*
 
-*Defined in [codec/U8a.ts:66](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L66)*
+*Defined in [codec/U8a.ts:66](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L66)*
 
 **`description`** Returns the number of bits in the value
 
@@ -143,7 +143,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[eq](_codec_u8a_.u8a.md#eq)*
 
-*Defined in [codec/U8a.ts:73](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L73)*
+*Defined in [codec/U8a.ts:73](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L73)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -165,7 +165,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/U8a.ts:88](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L88)*
+*Defined in [codec/U8a.ts:88](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L88)*
 
 **`description`** Create a new subarray from the actual buffer. This is needed for compat reasons since a new Uint8Array gets returned here
 
@@ -186,7 +186,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[toHex](_codec_u8a_.u8a.md#tohex)*
 
-*Defined in [codec/U8a.ts:95](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L95)*
+*Defined in [codec/U8a.ts:95](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L95)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -202,7 +202,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[toJSON](_codec_u8a_.u8a.md#tojson)*
 
-*Defined in [codec/U8a.ts:102](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L102)*
+*Defined in [codec/U8a.ts:102](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L102)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -218,7 +218,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[toRawType](_codec_u8a_.u8a.md#torawtype)*
 
-*Defined in [codec/U8a.ts:109](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L109)*
+*Defined in [codec/U8a.ts:109](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L109)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -236,7 +236,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/U8a.ts:116](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L116)*
+*Defined in [codec/U8a.ts:116](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L116)*
 
 **`description`** Returns the string representation of the value
 
@@ -252,7 +252,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[toU8a](_codec_u8a_.u8a.md#tou8a)*
 
-*Defined in [codec/U8a.ts:125](https://github.com/polkadot-js/api/blob/a45e313/packages/types/src/codec/U8a.ts#L125)*
+*Defined in [codec/U8a.ts:125](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/types/src/codec/U8a.ts#L125)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 

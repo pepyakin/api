@@ -23,7 +23,7 @@
 
 • **author**: *[DecoratedRpcSection](_types_.decoratedrpcsection.md)‹*`ApiType`*›*
 
-*Defined in [types.ts:95](https://github.com/polkadot-js/api/blob/a45e313/packages/api/src/types.ts#L95)*
+*Defined in [types.ts:95](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/api/src/types.ts#L95)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **chain**: *[DecoratedRpcSection](_types_.decoratedrpcsection.md)‹*`ApiType`*›*
 
-*Defined in [types.ts:96](https://github.com/polkadot-js/api/blob/a45e313/packages/api/src/types.ts#L96)*
+*Defined in [types.ts:96](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/api/src/types.ts#L96)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **state**: *[DecoratedRpcSection](_types_.decoratedrpcsection.md)‹*`ApiType`*›*
 
-*Defined in [types.ts:97](https://github.com/polkadot-js/api/blob/a45e313/packages/api/src/types.ts#L97)*
+*Defined in [types.ts:97](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/api/src/types.ts#L97)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **system**: *[DecoratedRpcSection](_types_.decoratedrpcsection.md)‹*`ApiType`*›*
 
-*Defined in [types.ts:98](https://github.com/polkadot-js/api/blob/a45e313/packages/api/src/types.ts#L98)*
+*Defined in [types.ts:98](https://github.com/polkadot-js/api/blob/9dd0c6c/packages/api/src/types.ts#L98)*
