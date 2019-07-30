@@ -20,4 +20,4 @@
 
 Ƭ **ContractCallResultSubscription**: *`Observable<SubmittableResult>`*
 
-*Defined in [RxContract.ts:17](https://github.com/polkadot-js/api/blob/54e9a81/packages/api-contract/src/RxContract.ts#L17)*
+*Defined in [RxContract.ts:17](https://github.com/polkadot-js/api/blob/c90a4ba/packages/api-contract/src/RxContract.ts#L17)*
