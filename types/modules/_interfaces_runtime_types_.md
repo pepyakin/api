@@ -13,6 +13,7 @@
 * [AccountIdOf](_interfaces_runtime_types_.md#accountidof)
 * [AccountIndex](_interfaces_runtime_types_.md#accountindex)
 * [Address](_interfaces_runtime_types_.md#address)
+* [AssetId](_interfaces_runtime_types_.md#assetid)
 * [Balance](_interfaces_runtime_types_.md#balance)
 * [BalanceOf](_interfaces_runtime_types_.md#balanceof)
 * [Block](_interfaces_runtime_types_.md#block)
@@ -55,7 +56,7 @@
 
 Ƭ **AccountId**: *`GenericAccountId`*
 
-*Defined in [interfaces/runtime/types.ts:8](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L8)*
+*Defined in [interfaces/runtime/types.ts:8](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L8)*
 
 GenericAccountId
 
@@ -65,7 +66,7 @@ ___
 
 Ƭ **AccountIdOf**: *[AccountId](../classes/_primitive_generic_accountid_.accountid.md)*
 
-*Defined in [interfaces/runtime/types.ts:11](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L11)*
+*Defined in [interfaces/runtime/types.ts:11](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L11)*
 
 AccountId
 
@@ -75,7 +76,7 @@ ___
 
 Ƭ **AccountIndex**: *`GenericAccountIndex`*
 
-*Defined in [interfaces/runtime/types.ts:14](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L14)*
+*Defined in [interfaces/runtime/types.ts:14](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L14)*
 
 GenericAccountIndex
 
@@ -85,9 +86,19 @@ ___
 
 Ƭ **Address**: *`GenericAddress`*
 
-*Defined in [interfaces/runtime/types.ts:17](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L17)*
+*Defined in [interfaces/runtime/types.ts:17](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L17)*
 
 GenericAddress
+
+___
+
+###  AssetId
+
+Ƭ **AssetId**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
+
+*Defined in [interfaces/runtime/types.ts:20](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L20)*
+
+u32
 
 ___
 
@@ -95,7 +106,7 @@ ___
 
 Ƭ **Balance**: *[u128](../interfaces/_interfaceregistry_.interfaceregistry.md#u128)*
 
-*Defined in [interfaces/runtime/types.ts:20](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L20)*
+*Defined in [interfaces/runtime/types.ts:23](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L23)*
 
 u128
 
@@ -105,7 +116,7 @@ ___
 
 Ƭ **BalanceOf**: *[Balance](_interfaces_runtime_types_.md#balance)*
 
-*Defined in [interfaces/runtime/types.ts:23](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L23)*
+*Defined in [interfaces/runtime/types.ts:26](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L26)*
 
 Balance
 
@@ -115,7 +126,7 @@ ___
 
 Ƭ **Block**: *`GenericBlock`*
 
-*Defined in [interfaces/runtime/types.ts:26](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L26)*
+*Defined in [interfaces/runtime/types.ts:29](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L29)*
 
 GenericBlock
 
@@ -125,7 +136,7 @@ ___
 
 Ƭ **BlockNumber**: *[u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)*
 
-*Defined in [interfaces/runtime/types.ts:29](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L29)*
+*Defined in [interfaces/runtime/types.ts:32](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L32)*
 
 u64
 
@@ -135,7 +146,7 @@ ___
 
 Ƭ **Call**: *`GenericCall`*
 
-*Defined in [interfaces/runtime/types.ts:32](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L32)*
+*Defined in [interfaces/runtime/types.ts:35](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L35)*
 
 GenericCall
 
@@ -145,7 +156,7 @@ ___
 
 Ƭ **Consensus**: *[[ConsensusEngineId](../classes/_primitive_generic_consensusengineid_.consensusengineid.md), [Bytes](../classes/_primitive_bytes_.bytes.md)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/runtime/types.ts:35](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L35)*
+*Defined in [interfaces/runtime/types.ts:38](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L38)*
 
 [ConsensusEngineId, Bytes] & Codec
 
@@ -155,7 +166,7 @@ ___
 
 Ƭ **ConsensusEngineId**: *`GenericConsensusEngineId`*
 
-*Defined in [interfaces/runtime/types.ts:38](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L38)*
+*Defined in [interfaces/runtime/types.ts:41](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L41)*
 
 GenericConsensusEngineId
 
@@ -165,7 +176,7 @@ ___
 
 Ƭ **Digest**: *`GenericDigest`*
 
-*Defined in [interfaces/runtime/types.ts:41](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L41)*
+*Defined in [interfaces/runtime/types.ts:44](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L44)*
 
 GenericDigest
 
@@ -175,7 +186,7 @@ ___
 
 Ƭ **DigestItem**: *`GenericDigestItem`*
 
-*Defined in [interfaces/runtime/types.ts:44](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L44)*
+*Defined in [interfaces/runtime/types.ts:47](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L47)*
 
 GenericDigestItem
 
@@ -185,7 +196,7 @@ ___
 
 Ƭ **Ed25519Signature**: *[Signature](_interfaces_runtime_types_.md#signature)*
 
-*Defined in [interfaces/runtime/types.ts:47](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L47)*
+*Defined in [interfaces/runtime/types.ts:50](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L50)*
 
 Signature
 
@@ -195,7 +206,7 @@ ___
 
 Ƭ **Extrinsic**: *`GenericExtrinsic`*
 
-*Defined in [interfaces/runtime/types.ts:50](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L50)*
+*Defined in [interfaces/runtime/types.ts:53](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L53)*
 
 GenericExtrinsic
 
@@ -205,7 +216,7 @@ ___
 
 Ƭ **ExtrinsicEra**: *`GenericExtrinsicEra`*
 
-*Defined in [interfaces/runtime/types.ts:53](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L53)*
+*Defined in [interfaces/runtime/types.ts:56](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L56)*
 
 GenericExtrinsicEra
 
@@ -215,7 +226,7 @@ ___
 
 Ƭ **ExtrinsicPayload**: *`GenericExtrinsicPayload`*
 
-*Defined in [interfaces/runtime/types.ts:56](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L56)*
+*Defined in [interfaces/runtime/types.ts:59](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L59)*
 
 GenericExtrinsicPayload
 
@@ -225,7 +236,7 @@ ___
 
 Ƭ **Hash**: *[H256](../classes/_primitive_h256_.h256.md)*
 
-*Defined in [interfaces/runtime/types.ts:59](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L59)*
+*Defined in [interfaces/runtime/types.ts:62](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L62)*
 
 H256
 
@@ -235,7 +246,7 @@ ___
 
 Ƭ **ImmortalEra**: *`GenericImmortalEra`*
 
-*Defined in [interfaces/runtime/types.ts:76](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L76)*
+*Defined in [interfaces/runtime/types.ts:79](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L79)*
 
 GenericImmortalEra
 
@@ -245,7 +256,7 @@ ___
 
 Ƭ **Index**: *[u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)*
 
-*Defined in [interfaces/runtime/types.ts:79](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L79)*
+*Defined in [interfaces/runtime/types.ts:82](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L82)*
 
 u64
 
@@ -255,7 +266,7 @@ ___
 
 Ƭ **Justification**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [interfaces/runtime/types.ts:82](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L82)*
+*Defined in [interfaces/runtime/types.ts:85](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L85)*
 
 Bytes
 
@@ -265,7 +276,7 @@ ___
 
 Ƭ **KeyTypeId**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/runtime/types.ts:85](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L85)*
+*Defined in [interfaces/runtime/types.ts:88](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L88)*
 
 u32
 
@@ -275,7 +286,7 @@ ___
 
 Ƭ **KeyValue**: *[[StorageKey](../classes/_primitive_storagekey_.storagekey.md), [StorageData](_interfaces_runtime_types_.md#storagedata)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/runtime/types.ts:88](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L88)*
+*Defined in [interfaces/runtime/types.ts:91](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L91)*
 
 [StorageKey, StorageData] & Codec
 
@@ -285,7 +296,7 @@ ___
 
 Ƭ **LockIdentifier**: *[Vec](../classes/_codec_vec_.vec.md)‹*[u8](../interfaces/_interfaceregistry_.interfaceregistry.md#u8)*›*
 
-*Defined in [interfaces/runtime/types.ts:91](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L91)*
+*Defined in [interfaces/runtime/types.ts:94](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L94)*
 
 Vec<u8>
 
@@ -295,7 +306,7 @@ ___
 
 Ƭ **Moment**: *[u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)*
 
-*Defined in [interfaces/runtime/types.ts:94](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L94)*
+*Defined in [interfaces/runtime/types.ts:97](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L97)*
 
 u64
 
@@ -305,7 +316,7 @@ ___
 
 Ƭ **MortalEra**: *`GenericMortalEra`*
 
-*Defined in [interfaces/runtime/types.ts:97](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L97)*
+*Defined in [interfaces/runtime/types.ts:100](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L100)*
 
 GenericMortalEra
 
@@ -315,7 +326,7 @@ ___
 
 Ƭ **Origin**: *`GenericOrigin`*
 
-*Defined in [interfaces/runtime/types.ts:100](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L100)*
+*Defined in [interfaces/runtime/types.ts:103](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L103)*
 
 GenericOrigin
 
@@ -325,7 +336,7 @@ ___
 
 Ƭ **Perbill**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/runtime/types.ts:103](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L103)*
+*Defined in [interfaces/runtime/types.ts:106](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L106)*
 
 u32
 
@@ -335,7 +346,7 @@ ___
 
 Ƭ **Permill**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/runtime/types.ts:106](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L106)*
+*Defined in [interfaces/runtime/types.ts:109](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L109)*
 
 u32
 
@@ -345,7 +356,7 @@ ___
 
 Ƭ **Phantom**: *[Null](../classes/_primitive_null_.null.md)*
 
-*Defined in [interfaces/runtime/types.ts:109](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L109)*
+*Defined in [interfaces/runtime/types.ts:112](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L112)*
 
 Null
 
@@ -355,7 +366,7 @@ ___
 
 Ƭ **PreRuntime**: *[[ConsensusEngineId](../classes/_primitive_generic_consensusengineid_.consensusengineid.md), [Bytes](../classes/_primitive_bytes_.bytes.md)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/runtime/types.ts:112](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L112)*
+*Defined in [interfaces/runtime/types.ts:115](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L115)*
 
 [ConsensusEngineId, Bytes] & Codec
 
@@ -365,7 +376,7 @@ ___
 
 Ƭ **Seal**: *[[ConsensusEngineId](../classes/_primitive_generic_consensusengineid_.consensusengineid.md), [Bytes](../classes/_primitive_bytes_.bytes.md)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/runtime/types.ts:115](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L115)*
+*Defined in [interfaces/runtime/types.ts:118](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L118)*
 
 [ConsensusEngineId, Bytes] & Codec
 
@@ -375,7 +386,7 @@ ___
 
 Ƭ **SealV0**: *[[u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64), [Signature](_interfaces_runtime_types_.md#signature)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/runtime/types.ts:118](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L118)*
+*Defined in [interfaces/runtime/types.ts:121](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L121)*
 
 [u64, Signature] & Codec
 
@@ -385,7 +396,7 @@ ___
 
 Ƭ **Signature**: *[H512](../classes/_primitive_h512_.h512.md)*
 
-*Defined in [interfaces/runtime/types.ts:121](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L121)*
+*Defined in [interfaces/runtime/types.ts:124](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L124)*
 
 H512
 
@@ -395,7 +406,7 @@ ___
 
 Ƭ **Sr25519Signature**: *[Signature](_interfaces_runtime_types_.md#signature)*
 
-*Defined in [interfaces/runtime/types.ts:132](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L132)*
+*Defined in [interfaces/runtime/types.ts:135](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L135)*
 
 Signature
 
@@ -405,7 +416,7 @@ ___
 
 Ƭ **StorageData**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [interfaces/runtime/types.ts:135](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L135)*
+*Defined in [interfaces/runtime/types.ts:138](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L138)*
 
 Bytes
 
@@ -415,7 +426,7 @@ ___
 
 Ƭ **ValidatorId**: *[AccountId](../classes/_primitive_generic_accountid_.accountid.md)*
 
-*Defined in [interfaces/runtime/types.ts:138](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L138)*
+*Defined in [interfaces/runtime/types.ts:141](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L141)*
 
 AccountId
 
@@ -425,7 +436,7 @@ ___
 
 Ƭ **Weight**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/runtime/types.ts:141](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L141)*
+*Defined in [interfaces/runtime/types.ts:144](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L144)*
 
 u32
 
@@ -435,6 +446,6 @@ ___
 
 Ƭ **WeightMultiplier**: *[Fixed64](../interfaces/_interfaceregistry_.interfaceregistry.md#fixed64)*
 
-*Defined in [interfaces/runtime/types.ts:144](https://github.com/polkadot-js/api/blob/0d68f98/packages/types/src/interfaces/runtime/types.ts#L144)*
+*Defined in [interfaces/runtime/types.ts:147](https://github.com/polkadot-js/api/blob/0323b27/packages/types/src/interfaces/runtime/types.ts#L147)*
 
 Fixed64

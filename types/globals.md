@@ -113,6 +113,8 @@
 * ["interfaces/deprecated/types"](modules/_interfaces_deprecated_types_.md)
 * ["interfaces/elections/definitions"](modules/_interfaces_elections_definitions_.md)
 * ["interfaces/elections/types"](modules/_interfaces_elections_types_.md)
+* ["interfaces/genericAsset/definitions"](modules/_interfaces_genericasset_definitions_.md)
+* ["interfaces/genericAsset/types"](modules/_interfaces_genericasset_types_.md)
 * ["interfaces/grandpa/definitions"](modules/_interfaces_grandpa_definitions_.md)
 * ["interfaces/grandpa/types"](modules/_interfaces_grandpa_types_.md)
 * ["interfaces/imOnline/definitions"](modules/_interfaces_imonline_definitions_.md)
