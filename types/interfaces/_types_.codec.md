@@ -228,7 +228,7 @@ The Codec Base is however required for operating as an encoding/decoding layer
 
 • **encodedLength**: *number*
 
-*Defined in [types.ts:73](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/types.ts#L73)*
+*Defined in [types.ts:73](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/types.ts#L73)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -238,7 +238,7 @@ ___
 
 • **hash**: *[IHash](_types_.ihash.md)*
 
-*Defined in [types.ts:78](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/types.ts#L78)*
+*Defined in [types.ts:78](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/types.ts#L78)*
 
 **`description`** Returns a hash of the value
 
@@ -248,7 +248,7 @@ ___
 
 • **isEmpty**: *boolean*
 
-*Defined in [types.ts:83](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/types.ts#L83)*
+*Defined in [types.ts:83](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/types.ts#L83)*
 
 **`description`** Checks if the value is an empty value
 
@@ -258,7 +258,7 @@ ___
 
 ▸ **eq**(`other?`: any): *boolean*
 
-*Defined in [types.ts:88](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/types.ts#L88)*
+*Defined in [types.ts:88](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/types.ts#L88)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -276,7 +276,7 @@ ___
 
 ▸ **toHex**(`isLe?`: undefined | false | true): *string*
 
-*Defined in [types.ts:93](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/types.ts#L93)*
+*Defined in [types.ts:93](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/types.ts#L93)*
 
 **`description`** Returns a hex string representation of the value. isLe returns a LE (number-only) representation
 
@@ -294,7 +294,7 @@ ___
 
 ▸ **toJSON**(): *[AnyJson](../modules/_types_.md#anyjson)*
 
-*Defined in [types.ts:98](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/types.ts#L98)*
+*Defined in [types.ts:98](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/types.ts#L98)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -306,7 +306,7 @@ ___
 
 ▸ **toRawType**(): *string*
 
-*Defined in [types.ts:103](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/types.ts#L103)*
+*Defined in [types.ts:103](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/types.ts#L103)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -318,7 +318,7 @@ ___
 
 ▸ **toString**(): *string*
 
-*Defined in [types.ts:108](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/types.ts#L108)*
+*Defined in [types.ts:108](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/types.ts#L108)*
 
 **`description`** Returns the string representation of the value
 
@@ -330,7 +330,7 @@ ___
 
 ▸ **toU8a**(`isBare?`: undefined | false | true): *`Uint8Array`*
 
-*Defined in [types.ts:114](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/types.ts#L114)*
+*Defined in [types.ts:114](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/types.ts#L114)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
