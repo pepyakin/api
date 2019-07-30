@@ -16,6 +16,6 @@
 
 Ƭ **SessionIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/session/types.ts:16](https://github.com/polkadot-js/api/blob/c90a4ba/packages/types/src/interfaces/session/types.ts#L16)*
+*Defined in [interfaces/session/types.ts:16](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/interfaces/session/types.ts#L16)*
 
 u32

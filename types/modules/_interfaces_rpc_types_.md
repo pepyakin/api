@@ -5,6 +5,7 @@
 ### Interfaces
 
 * [ChainProperties](../interfaces/_interfaces_rpc_types_.chainproperties.md)
+* [ExtrinsicOrHash](../interfaces/_interfaces_rpc_types_.extrinsicorhash.md)
 * [ExtrinsicStatus](../interfaces/_interfaces_rpc_types_.extrinsicstatus.md)
 * [Health](../interfaces/_interfaces_rpc_types_.health.md)
 * [NetworkState](../interfaces/_interfaces_rpc_types_.networkstate.md)
@@ -24,7 +25,7 @@
 
 Ƭ **ApiId**: *[Vec](../classes/_codec_vec_.vec.md)‹*[u8](../interfaces/_interfaceregistry_.interfaceregistry.md#u8)*›*
 
-*Defined in [interfaces/rpc/types.ts:9](https://github.com/polkadot-js/api/blob/c90a4ba/packages/types/src/interfaces/rpc/types.ts#L9)*
+*Defined in [interfaces/rpc/types.ts:9](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/interfaces/rpc/types.ts#L9)*
 
 Vec<u8>
 
@@ -34,7 +35,7 @@ ___
 
 Ƭ **KeyValueOption**: *[[StorageKey](../classes/_primitive_storagekey_.storagekey.md), [Option](../classes/_codec_option_.option.md)‹*[StorageData](../interfaces/_interfaceregistry_.interfaceregistry.md#storagedata)*›] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/rpc/types.ts:54](https://github.com/polkadot-js/api/blob/c90a4ba/packages/types/src/interfaces/rpc/types.ts#L54)*
+*Defined in [interfaces/rpc/types.ts:66](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/interfaces/rpc/types.ts#L66)*
 
 [StorageKey, Option<StorageData>] & Codec
 
@@ -44,6 +45,6 @@ ___
 
 Ƭ **RuntimeVersionApi**: *[[ApiId](_interfaces_rpc_types_.md#apiid), [u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/rpc/types.ts:93](https://github.com/polkadot-js/api/blob/c90a4ba/packages/types/src/interfaces/rpc/types.ts#L93)*
+*Defined in [interfaces/rpc/types.ts:105](https://github.com/polkadot-js/api/blob/e70f26d/packages/types/src/interfaces/rpc/types.ts#L105)*
 
 [ApiId, u32] & Codec

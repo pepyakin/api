@@ -28,7 +28,7 @@
 
 • **events**: *`EventRecord`[]*
 
-*Defined in [SubmittableExtrinsic.ts:21](https://github.com/polkadot-js/api/blob/c90a4ba/packages/api/src/SubmittableExtrinsic.ts#L21)*
+*Defined in [SubmittableExtrinsic.ts:21](https://github.com/polkadot-js/api/blob/e70f26d/packages/api/src/SubmittableExtrinsic.ts#L21)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **isCompleted**: *boolean*
 
-*Defined in [SubmittableExtrinsic.ts:23](https://github.com/polkadot-js/api/blob/c90a4ba/packages/api/src/SubmittableExtrinsic.ts#L23)*
+*Defined in [SubmittableExtrinsic.ts:23](https://github.com/polkadot-js/api/blob/e70f26d/packages/api/src/SubmittableExtrinsic.ts#L23)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **isError**: *boolean*
 
-*Defined in [SubmittableExtrinsic.ts:24](https://github.com/polkadot-js/api/blob/c90a4ba/packages/api/src/SubmittableExtrinsic.ts#L24)*
+*Defined in [SubmittableExtrinsic.ts:24](https://github.com/polkadot-js/api/blob/e70f26d/packages/api/src/SubmittableExtrinsic.ts#L24)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **isFinalized**: *boolean*
 
-*Defined in [SubmittableExtrinsic.ts:25](https://github.com/polkadot-js/api/blob/c90a4ba/packages/api/src/SubmittableExtrinsic.ts#L25)*
+*Defined in [SubmittableExtrinsic.ts:25](https://github.com/polkadot-js/api/blob/e70f26d/packages/api/src/SubmittableExtrinsic.ts#L25)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **status**: *`ExtrinsicStatus`*
 
-*Defined in [SubmittableExtrinsic.ts:22](https://github.com/polkadot-js/api/blob/c90a4ba/packages/api/src/SubmittableExtrinsic.ts#L22)*
+*Defined in [SubmittableExtrinsic.ts:22](https://github.com/polkadot-js/api/blob/e70f26d/packages/api/src/SubmittableExtrinsic.ts#L22)*
 
 ## Methods
 
@@ -68,7 +68,7 @@ ___
 
 ▸ **findRecord**(`section`: string, `method`: string): *`EventRecord` | undefined*
 
-*Defined in [SubmittableExtrinsic.ts:27](https://github.com/polkadot-js/api/blob/c90a4ba/packages/api/src/SubmittableExtrinsic.ts#L27)*
+*Defined in [SubmittableExtrinsic.ts:27](https://github.com/polkadot-js/api/blob/e70f26d/packages/api/src/SubmittableExtrinsic.ts#L27)*
 
 **Parameters:**
 
