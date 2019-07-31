@@ -18,7 +18,7 @@
 
 Ƭ **OpaqueMultiaddr**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [interfaces/imOnline/types.ts:22](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/imOnline/types.ts#L22)*
+*Defined in [interfaces/imOnline/types.ts:22](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/imOnline/types.ts#L22)*
 
 Bytes
 
@@ -28,6 +28,6 @@ ___
 
 Ƭ **OpaquePeerId**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [interfaces/imOnline/types.ts:33](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/imOnline/types.ts#L33)*
+*Defined in [interfaces/imOnline/types.ts:33](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/imOnline/types.ts#L33)*
 
 Bytes

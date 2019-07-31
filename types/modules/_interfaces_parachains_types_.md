@@ -39,7 +39,7 @@
 
 Ƭ **AuctionIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/parachains/types.ts:17](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L17)*
+*Defined in [interfaces/parachains/types.ts:17](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L17)*
 
 u32
 
@@ -49,7 +49,7 @@ ___
 
 Ƭ **BalanceUpload**: *[[AccountId](../classes/_primitive_generic_accountid_.accountid.md), [u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/parachains/types.ts:20](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L20)*
+*Defined in [interfaces/parachains/types.ts:20](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L20)*
 
 [AccountId, u64] & Codec
 
@@ -59,7 +59,7 @@ ___
 
 Ƭ **CollatorSignature**: *[Signature](../interfaces/_interfaceregistry_.interfaceregistry.md#signature)*
 
-*Defined in [interfaces/parachains/types.ts:55](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L55)*
+*Defined in [interfaces/parachains/types.ts:55](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L55)*
 
 Signature
 
@@ -69,7 +69,7 @@ ___
 
 Ƭ **EgressQueueRoot**: *[[ParaId](_interfaces_parachains_types_.md#paraid), [Hash](../interfaces/_interfaceregistry_.interfaceregistry.md#hash)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/parachains/types.ts:58](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L58)*
+*Defined in [interfaces/parachains/types.ts:58](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L58)*
 
 [ParaId, Hash] & Codec
 
@@ -79,7 +79,7 @@ ___
 
 Ƭ **HeadData**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [interfaces/parachains/types.ts:61](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L61)*
+*Defined in [interfaces/parachains/types.ts:61](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L61)*
 
 Bytes
 
@@ -89,7 +89,7 @@ ___
 
 Ƭ **LeasePeriod**: *[BlockNumber](../interfaces/_interfaceregistry_.interfaceregistry.md#blocknumber)*
 
-*Defined in [interfaces/parachains/types.ts:96](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L96)*
+*Defined in [interfaces/parachains/types.ts:96](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L96)*
 
 BlockNumber
 
@@ -99,7 +99,7 @@ ___
 
 Ƭ **LeasePeriodOf**: *[LeasePeriod](_interfaces_parachains_types_.md#leaseperiod)*
 
-*Defined in [interfaces/parachains/types.ts:99](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L99)*
+*Defined in [interfaces/parachains/types.ts:99](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L99)*
 
 LeasePeriod
 
@@ -109,7 +109,7 @@ ___
 
 Ƭ **ParaId**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/parachains/types.ts:118](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L118)*
+*Defined in [interfaces/parachains/types.ts:118](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L118)*
 
 u32
 
@@ -119,7 +119,7 @@ ___
 
 Ƭ **ParaIdOf**: *[ParaId](_interfaces_parachains_types_.md#paraid)*
 
-*Defined in [interfaces/parachains/types.ts:121](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L121)*
+*Defined in [interfaces/parachains/types.ts:121](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L121)*
 
 ParaId
 
@@ -129,7 +129,7 @@ ___
 
 Ƭ **SubId**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/parachains/types.ts:148](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L148)*
+*Defined in [interfaces/parachains/types.ts:148](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L148)*
 
 u32
 
@@ -139,7 +139,7 @@ ___
 
 Ƭ **ValidatorIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/parachains/types.ts:159](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L159)*
+*Defined in [interfaces/parachains/types.ts:159](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L159)*
 
 u32
 
@@ -149,7 +149,7 @@ ___
 
 Ƭ **ValidityVote**: *[[ValidatorIndex](_interfaces_parachains_types_.md#validatorindex), [ValidityAttestation](../interfaces/_interfaces_parachains_types_.validityattestation.md)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/parachains/types.ts:176](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L176)*
+*Defined in [interfaces/parachains/types.ts:176](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L176)*
 
 [ValidatorIndex, ValidityAttestation] & Codec
 
@@ -159,7 +159,7 @@ ___
 
 Ƭ **WinningData**: *[Vec](../classes/_codec_vec_.vec.md)‹*[WinningDataEntry](_interfaces_parachains_types_.md#winningdataentry)*›*
 
-*Defined in [interfaces/parachains/types.ts:179](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L179)*
+*Defined in [interfaces/parachains/types.ts:179](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L179)*
 
 Vec<WinningDataEntry>
 
@@ -169,6 +169,6 @@ ___
 
 Ƭ **WinningDataEntry**: *[[AccountId](../classes/_primitive_generic_accountid_.accountid.md), [ParaIdOf](_interfaces_parachains_types_.md#paraidof), [BalanceOf](../interfaces/_interfaceregistry_.interfaceregistry.md#balanceof)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/parachains/types.ts:182](https://github.com/polkadot-js/api/blob/6999f8c/packages/types/src/interfaces/parachains/types.ts#L182)*
+*Defined in [interfaces/parachains/types.ts:182](https://github.com/polkadot-js/api/blob/7a08b37/packages/types/src/interfaces/parachains/types.ts#L182)*
 
 [AccountId, ParaIdOf, BalanceOf] & Codec

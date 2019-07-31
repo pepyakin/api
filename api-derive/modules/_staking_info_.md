@@ -12,7 +12,7 @@
 
 ▸ **info**(`api`: `ApiInterfaceRx`): *function*
 
-*Defined in [staking/info.ts:200](https://github.com/polkadot-js/api/blob/6999f8c/packages/api-derive/src/staking/info.ts#L200)*
+*Defined in [staking/info.ts:200](https://github.com/polkadot-js/api/blob/7a08b37/packages/api-derive/src/staking/info.ts#L200)*
 
 **`description`** From either a stash or controller id, retrieve the controllerId, stashId, nextSessionId, stakingLedger and preferences
 
