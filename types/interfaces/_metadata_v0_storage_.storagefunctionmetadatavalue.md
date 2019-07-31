@@ -20,7 +20,7 @@
 
 • **documentation**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Text](../classes/_primitive_text_.text.md)*› | string[]*
 
-*Defined in [Metadata/v0/Storage.ts:134](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/Metadata/v0/Storage.ts#L134)*
+*Defined in [Metadata/v0/Storage.ts:134](https://github.com/polkadot-js/api/blob/891a342/packages/types/src/Metadata/v0/Storage.ts#L134)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **fallback**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [Metadata/v0/Storage.ts:133](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/Metadata/v0/Storage.ts#L133)*
+*Defined in [Metadata/v0/Storage.ts:133](https://github.com/polkadot-js/api/blob/891a342/packages/types/src/Metadata/v0/Storage.ts#L133)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **modifier**: *[StorageFunctionModifier](../classes/_metadata_v0_storage_.storagefunctionmodifier.md) | [AnyNumber](../modules/_types_.md#anynumber)*
 
-*Defined in [Metadata/v0/Storage.ts:131](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/Metadata/v0/Storage.ts#L131)*
+*Defined in [Metadata/v0/Storage.ts:131](https://github.com/polkadot-js/api/blob/891a342/packages/types/src/Metadata/v0/Storage.ts#L131)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **name**: *string | [Text](../classes/_primitive_text_.text.md)*
 
-*Defined in [Metadata/v0/Storage.ts:130](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/Metadata/v0/Storage.ts#L130)*
+*Defined in [Metadata/v0/Storage.ts:130](https://github.com/polkadot-js/api/blob/891a342/packages/types/src/Metadata/v0/Storage.ts#L130)*
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 • **type**: *[StorageFunctionType](../classes/_metadata_v0_storage_.storagefunctiontype.md)*
 
-*Defined in [Metadata/v0/Storage.ts:132](https://github.com/polkadot-js/api/blob/14f018d/packages/types/src/Metadata/v0/Storage.ts#L132)*
+*Defined in [Metadata/v0/Storage.ts:132](https://github.com/polkadot-js/api/blob/891a342/packages/types/src/Metadata/v0/Storage.ts#L132)*

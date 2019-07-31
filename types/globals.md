@@ -170,6 +170,7 @@
 * ["primitive/I64Fixed"](modules/_primitive_i64fixed_.md)
 * ["primitive/I8"](modules/_primitive_i8_.md)
 * ["primitive/Null"](modules/_primitive_null_.md)
+* ["primitive/StorageData"](modules/_primitive_storagedata_.md)
 * ["primitive/StorageHasher"](modules/_primitive_storagehasher_.md)
 * ["primitive/StorageKey"](modules/_primitive_storagekey_.md)
 * ["primitive/Text"](modules/_primitive_text_.md)
