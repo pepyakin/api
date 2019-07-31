@@ -35,7 +35,7 @@
 
 \+ **new SubmittableResult**(`__namedParameters`: object): *[SubmittableResult](_submittableextrinsic_.submittableresult.md)*
 
-*Defined in [SubmittableExtrinsic.ts:66](https://github.com/polkadot-js/api/blob/7a08b37/packages/api/src/SubmittableExtrinsic.ts#L66)*
+*Defined in [SubmittableExtrinsic.ts:66](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/SubmittableExtrinsic.ts#L66)*
 
 **Parameters:**
 
@@ -53,7 +53,7 @@ Name | Type |
 
 *Implementation of [ISubmittableResult](../interfaces/_submittableextrinsic_.isubmittableresult.md).[events](../interfaces/_submittableextrinsic_.isubmittableresult.md#events)*
 
-*Defined in [SubmittableExtrinsic.ts:64](https://github.com/polkadot-js/api/blob/7a08b37/packages/api/src/SubmittableExtrinsic.ts#L64)*
+*Defined in [SubmittableExtrinsic.ts:64](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/SubmittableExtrinsic.ts#L64)*
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 *Implementation of [ISubmittableResult](../interfaces/_submittableextrinsic_.isubmittableresult.md).[status](../interfaces/_submittableextrinsic_.isubmittableresult.md#status)*
 
-*Defined in [SubmittableExtrinsic.ts:66](https://github.com/polkadot-js/api/blob/7a08b37/packages/api/src/SubmittableExtrinsic.ts#L66)*
+*Defined in [SubmittableExtrinsic.ts:66](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/SubmittableExtrinsic.ts#L66)*
 
 ## Accessors
 
@@ -71,7 +71,7 @@ ___
 
 • **get isCompleted**(): *boolean*
 
-*Defined in [SubmittableExtrinsic.ts:73](https://github.com/polkadot-js/api/blob/7a08b37/packages/api/src/SubmittableExtrinsic.ts#L73)*
+*Defined in [SubmittableExtrinsic.ts:73](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/SubmittableExtrinsic.ts#L73)*
 
 **Returns:** *boolean*
 
@@ -81,7 +81,7 @@ ___
 
 • **get isError**(): *boolean*
 
-*Defined in [SubmittableExtrinsic.ts:77](https://github.com/polkadot-js/api/blob/7a08b37/packages/api/src/SubmittableExtrinsic.ts#L77)*
+*Defined in [SubmittableExtrinsic.ts:77](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/SubmittableExtrinsic.ts#L77)*
 
 **Returns:** *boolean*
 
@@ -91,7 +91,7 @@ ___
 
 • **get isFinalized**(): *boolean*
 
-*Defined in [SubmittableExtrinsic.ts:81](https://github.com/polkadot-js/api/blob/7a08b37/packages/api/src/SubmittableExtrinsic.ts#L81)*
+*Defined in [SubmittableExtrinsic.ts:81](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/SubmittableExtrinsic.ts#L81)*
 
 **Returns:** *boolean*
 
@@ -103,7 +103,7 @@ ___
 
 *Implementation of [ISubmittableResult](../interfaces/_submittableextrinsic_.isubmittableresult.md)*
 
-*Defined in [SubmittableExtrinsic.ts:88](https://github.com/polkadot-js/api/blob/7a08b37/packages/api/src/SubmittableExtrinsic.ts#L88)*
+*Defined in [SubmittableExtrinsic.ts:88](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/SubmittableExtrinsic.ts#L88)*
 
 **`description`** Finds an EventRecord for the specified method & section
 
