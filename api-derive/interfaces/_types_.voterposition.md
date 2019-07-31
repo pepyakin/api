@@ -18,7 +18,7 @@
 
 • **globalIndex**: *`BN`*
 
-*Defined in [types.ts:91](https://github.com/polkadot-js/api/blob/891a342/packages/api-derive/src/types.ts#L91)*
+*Defined in [types.ts:91](https://github.com/polkadot-js/api/blob/6999f8c/packages/api-derive/src/types.ts#L91)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **index**: *`BN`*
 
-*Defined in [types.ts:92](https://github.com/polkadot-js/api/blob/891a342/packages/api-derive/src/types.ts#L92)*
+*Defined in [types.ts:92](https://github.com/polkadot-js/api/blob/6999f8c/packages/api-derive/src/types.ts#L92)*
 
 ___
 
@@ -34,4 +34,4 @@ ___
 
 • **setIndex**: *`SetIndex`*
 
-*Defined in [types.ts:93](https://github.com/polkadot-js/api/blob/891a342/packages/api-derive/src/types.ts#L93)*
+*Defined in [types.ts:93](https://github.com/polkadot-js/api/blob/6999f8c/packages/api-derive/src/types.ts#L93)*
