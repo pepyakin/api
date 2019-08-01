@@ -7,8 +7,7 @@
 * [ApiInterfaceRx](../interfaces/_types_.apiinterfacerx.md)
 * [ApiOptions](../interfaces/_types_.apioptions.md)
 * [DecorateMethodOptions](../interfaces/_types_.decoratemethodoptions.md)
-* [DecoratedRpc](../interfaces/_types_.decoratedrpc.md)
-* [DecoratedRpcSection](../interfaces/_types_.decoratedrpcsection.md)
+* [PromiseResult](../interfaces/_types_.promiseresult.md)
 * [QueryableModuleStorage](../interfaces/_types_.queryablemodulestorage.md)
 * [QueryableStorage](../interfaces/_types_.queryablestorage.md)
 * [QueryableStorageMultiBase](../interfaces/_types_.queryablestoragemultibase.md)
@@ -29,9 +28,10 @@
 
 * [ApiInterfaceEvents](_types_.md#apiinterfaceevents)
 * [ApiTypes](_types_.md#apitypes)
+* [DecoratedRpc](_types_.md#decoratedrpc)
+* [DecoratedRpcSection](_types_.md#decoratedrpcsection)
 * [MethodResult](_types_.md#methodresult)
 * [ObsInnerType](_types_.md#obsinnertype)
-* [PromiseResult](_types_.md#promiseresult)
 * [QueryableStorageEntry](_types_.md#queryablestorageentry)
 * [QueryableStorageMulti](_types_.md#queryablestoragemulti)
 * [QueryableStorageMultiArg](_types_.md#queryablestoragemultiarg)
@@ -45,7 +45,7 @@
 
 Ƭ **ApiInterfaceEvents**: *`ProviderInterfaceEmitted` | "ready"*
 
-*Defined in [types.ts:224](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/types.ts#L224)*
+*Defined in [types.ts:206](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L206)*
 
 ___
 
@@ -53,7 +53,27 @@ ___
 
 Ƭ **ApiTypes**: *"promise" | "rxjs"*
 
-*Defined in [types.ts:226](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/types.ts#L226)*
+*Defined in [types.ts:208](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L208)*
+
+___
+
+###  DecoratedRpc
+
+Ƭ **DecoratedRpc**: *object*
+
+*Defined in [types.ts:79](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L79)*
+
+#### Type declaration:
+
+___
+
+###  DecoratedRpcSection
+
+Ƭ **DecoratedRpcSection**: *object*
+
+*Defined in [types.ts:73](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L73)*
+
+#### Type declaration:
 
 ___
 
@@ -61,7 +81,7 @@ ___
 
 Ƭ **MethodResult**: *`MethodResult<ApiType, F>`*
 
-*Defined in [types.ts:67](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/types.ts#L67)*
+*Defined in [types.ts:69](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L69)*
 
 ___
 
@@ -69,33 +89,7 @@ ___
 
 Ƭ **ObsInnerType**: *`ObsInnerType<O>`*
 
-*Defined in [types.ts:40](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/types.ts#L40)*
-
-___
-
-###  PromiseResult
-
-Ƭ **PromiseResult**: *function*
-
-*Defined in [types.ts:61](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/types.ts#L61)*
-
-#### Type declaration:
-
-▸ (...`args`: `Parameters<F>`): *`Promise<ObsInnerType<ReturnType<F>>>`*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`...args` | `Parameters<F>` |
-
-▸ (...`args`: `Push<Parameters<F>, Callback<ObsInnerType<ReturnType<F>>>>`): *[UnsubscribePromise](_types_.md#unsubscribepromise)*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`...args` | `Push<Parameters<F>, Callback<ObsInnerType<ReturnType<F>>>>` |
+*Defined in [types.ts:41](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L41)*
 
 ___
 
@@ -103,7 +97,7 @@ ___
 
 Ƭ **QueryableStorageEntry**: *`QueryableStorageEntry<ApiType>`*
 
-*Defined in [types.ts:134](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/types.ts#L134)*
+*Defined in [types.ts:116](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L116)*
 
 ___
 
@@ -111,7 +105,7 @@ ___
 
 Ƭ **QueryableStorageMulti**: *`QueryableStorageMulti<ApiType>`*
 
-*Defined in [types.ts:157](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/types.ts#L157)*
+*Defined in [types.ts:139](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L139)*
 
 ___
 
@@ -119,7 +113,7 @@ ___
 
 Ƭ **QueryableStorageMultiArg**: *[QueryableStorageEntry](_types_.md#queryablestorageentry)‹*`ApiType`*› | [[QueryableStorageEntry](_types_.md#queryablestorageentry)‹*`ApiType`*›, `Array`]*
 
-*Defined in [types.ts:143](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/types.ts#L143)*
+*Defined in [types.ts:125](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L125)*
 
 ___
 
@@ -127,7 +121,7 @@ ___
 
 Ƭ **QueryableStorageMultiArgs**: *[QueryableStorageMultiArg](_types_.md#queryablestoragemultiarg)‹*`ApiType`*›[]*
 
-*Defined in [types.ts:147](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/types.ts#L147)*
+*Defined in [types.ts:129](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L129)*
 
 ___
 
@@ -135,7 +129,7 @@ ___
 
 Ƭ **RxResult**: *function*
 
-*Defined in [types.ts:58](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/types.ts#L58)*
+*Defined in [types.ts:59](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L59)*
 
 #### Type declaration:
 
@@ -153,4 +147,4 @@ ___
 
 Ƭ **UnsubscribePromise**: *`Promise<function>`*
 
-*Defined in [types.ts:42](https://github.com/polkadot-js/api/blob/19c3e4b/packages/api/src/types.ts#L42)*
+*Defined in [types.ts:43](https://github.com/polkadot-js/api/blob/92044d4/packages/api/src/types.ts#L43)*

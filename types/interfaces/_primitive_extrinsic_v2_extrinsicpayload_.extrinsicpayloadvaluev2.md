@@ -20,7 +20,7 @@
 
 • **blockHash**: *[AnyU8a](../modules/_types_.md#anyu8a)*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:16](https://github.com/polkadot-js/api/blob/19c3e4b/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L16)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:16](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L16)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **era**: *[AnyU8a](../modules/_types_.md#anyu8a) | [IExtrinsicEra](_types_.iextrinsicera.md)*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:17](https://github.com/polkadot-js/api/blob/19c3e4b/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L17)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:17](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L17)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **method**: *[AnyU8a](../modules/_types_.md#anyu8a) | [IMethod](_types_.imethod.md)*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:18](https://github.com/polkadot-js/api/blob/19c3e4b/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L18)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:18](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L18)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **nonce**: *[AnyNumber](../modules/_types_.md#anynumber)*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:19](https://github.com/polkadot-js/api/blob/19c3e4b/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L19)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:19](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L19)*
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 • **tip**: *[AnyNumber](../modules/_types_.md#anynumber)*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:20](https://github.com/polkadot-js/api/blob/19c3e4b/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L20)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:20](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L20)*

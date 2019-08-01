@@ -22,7 +22,7 @@
 
 ▪ **defaultRegistry**: *[TypeRegistry](_codec_typeregistry_.typeregistry.md)* =  new TypeRegistry()
 
-*Defined in [codec/typeRegistry.ts:11](https://github.com/polkadot-js/api/blob/19c3e4b/packages/types/src/codec/typeRegistry.ts#L11)*
+*Defined in [codec/typeRegistry.ts:11](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/codec/typeRegistry.ts#L11)*
 
 ## Methods
 
@@ -30,7 +30,7 @@
 
 ▸ **get**<**T**>(`name`: string): *[Constructor](../interfaces/_types_.constructor.md)‹*`T`*› | undefined*
 
-*Defined in [codec/typeRegistry.ts:52](https://github.com/polkadot-js/api/blob/19c3e4b/packages/types/src/codec/typeRegistry.ts#L52)*
+*Defined in [codec/typeRegistry.ts:52](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/codec/typeRegistry.ts#L52)*
 
 **Type parameters:**
 
@@ -50,7 +50,7 @@ ___
 
 ▸ **getOrThrow**<**T**>(`name`: string, `msg?`: undefined | string): *[Constructor](../interfaces/_types_.constructor.md)‹*`T`*›*
 
-*Defined in [codec/typeRegistry.ts:56](https://github.com/polkadot-js/api/blob/19c3e4b/packages/types/src/codec/typeRegistry.ts#L56)*
+*Defined in [codec/typeRegistry.ts:56](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/codec/typeRegistry.ts#L56)*
 
 **Type parameters:**
 
@@ -71,7 +71,7 @@ ___
 
 ▸ **register**(`type`: [Constructor](../interfaces/_types_.constructor.md) | [RegistryTypes](../modules/_types_.md#registrytypes)): *void*
 
-*Defined in [codec/typeRegistry.ts:15](https://github.com/polkadot-js/api/blob/19c3e4b/packages/types/src/codec/typeRegistry.ts#L15)*
+*Defined in [codec/typeRegistry.ts:15](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/codec/typeRegistry.ts#L15)*
 
 **Parameters:**
 
@@ -83,7 +83,7 @@ Name | Type |
 
 ▸ **register**(`name`: string, `type`: [Constructor](../interfaces/_types_.constructor.md)): *void*
 
-*Defined in [codec/typeRegistry.ts:18](https://github.com/polkadot-js/api/blob/19c3e4b/packages/types/src/codec/typeRegistry.ts#L18)*
+*Defined in [codec/typeRegistry.ts:18](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/codec/typeRegistry.ts#L18)*
 
 **Parameters:**
 
