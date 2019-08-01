@@ -43,7 +43,7 @@ A type that should not be constructed
 
 \+ **new Unconstructable**(): *[Unconstructable](_primitive_unconstructable_.unconstructable.md)*
 
-*Defined in [primitive/Unconstructable.ts:14](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Unconstructable.ts#L14)*
+*Defined in [primitive/Unconstructable.ts:14](https://github.com/polkadot-js/api/blob/5899304/packages/types/src/primitive/Unconstructable.ts#L14)*
 
 **Returns:** *[Unconstructable](_primitive_unconstructable_.unconstructable.md)*
 
@@ -55,7 +55,7 @@ A type that should not be constructed
 
 *Inherited from [Null](_primitive_null_.null.md).[encodedLength](_primitive_null_.null.md#encodedlength)*
 
-*Defined in [primitive/Null.ts:21](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Null.ts#L21)*
+*Defined in [primitive/Null.ts:21](https://github.com/polkadot-js/api/blob/5899304/packages/types/src/primitive/Null.ts#L21)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -69,7 +69,7 @@ ___
 
 *Inherited from [Null](_primitive_null_.null.md).[hash](_primitive_null_.null.md#hash)*
 
-*Defined in [primitive/Null.ts:28](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Null.ts#L28)*
+*Defined in [primitive/Null.ts:28](https://github.com/polkadot-js/api/blob/5899304/packages/types/src/primitive/Null.ts#L28)*
 
 **`description`** returns a hash of the contents
 
@@ -83,7 +83,7 @@ ___
 
 *Inherited from [Null](_primitive_null_.null.md).[isEmpty](_primitive_null_.null.md#isempty)*
 
-*Defined in [primitive/Null.ts:35](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Null.ts#L35)*
+*Defined in [primitive/Null.ts:35](https://github.com/polkadot-js/api/blob/5899304/packages/types/src/primitive/Null.ts#L35)*
 
 **`description`** Checks if the value is an empty value (always true)
 
@@ -99,7 +99,7 @@ ___
 
 *Inherited from [Null](_primitive_null_.null.md).[eq](_primitive_null_.null.md#eq)*
 
-*Defined in [primitive/Null.ts:42](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Null.ts#L42)*
+*Defined in [primitive/Null.ts:42](https://github.com/polkadot-js/api/blob/5899304/packages/types/src/primitive/Null.ts#L42)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -119,7 +119,7 @@ ___
 
 *Inherited from [Null](_primitive_null_.null.md).[toHex](_primitive_null_.null.md#tohex)*
 
-*Defined in [primitive/Null.ts:49](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Null.ts#L49)*
+*Defined in [primitive/Null.ts:49](https://github.com/polkadot-js/api/blob/5899304/packages/types/src/primitive/Null.ts#L49)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -135,7 +135,7 @@ ___
 
 *Inherited from [Null](_primitive_null_.null.md).[toJSON](_primitive_null_.null.md#tojson)*
 
-*Defined in [primitive/Null.ts:56](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Null.ts#L56)*
+*Defined in [primitive/Null.ts:56](https://github.com/polkadot-js/api/blob/5899304/packages/types/src/primitive/Null.ts#L56)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -151,7 +151,7 @@ ___
 
 *Inherited from [Null](_primitive_null_.null.md).[toRawType](_primitive_null_.null.md#torawtype)*
 
-*Defined in [primitive/Null.ts:63](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Null.ts#L63)*
+*Defined in [primitive/Null.ts:63](https://github.com/polkadot-js/api/blob/5899304/packages/types/src/primitive/Null.ts#L63)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -167,7 +167,7 @@ ___
 
 *Inherited from [Null](_primitive_null_.null.md).[toString](_primitive_null_.null.md#tostring)*
 
-*Defined in [primitive/Null.ts:70](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Null.ts#L70)*
+*Defined in [primitive/Null.ts:70](https://github.com/polkadot-js/api/blob/5899304/packages/types/src/primitive/Null.ts#L70)*
 
 **`description`** Returns the string representation of the value
 
@@ -183,7 +183,7 @@ ___
 
 *Inherited from [Null](_primitive_null_.null.md).[toU8a](_primitive_null_.null.md#tou8a)*
 
-*Defined in [primitive/Null.ts:79](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Null.ts#L79)*
+*Defined in [primitive/Null.ts:79](https://github.com/polkadot-js/api/blob/5899304/packages/types/src/primitive/Null.ts#L79)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -201,7 +201,7 @@ ___
 
 ▸ **with**(`typeDef`: any): *[Constructor](../interfaces/_types_.constructor.md)*
 
-*Defined in [primitive/Unconstructable.ts:21](https://github.com/polkadot-js/api/blob/92044d4/packages/types/src/primitive/Unconstructable.ts#L21)*
+*Defined in [primitive/Unconstructable.ts:21](https://github.com/polkadot-js/api/blob/5899304/packages/types/src/primitive/Unconstructable.ts#L21)*
 
 **Parameters:**
 

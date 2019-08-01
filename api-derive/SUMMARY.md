@@ -43,7 +43,6 @@
   * [types.DerivedSessionInfo](interfaces/_types_.derivedsessioninfo.md)
   * [types.DerivedStaking](interfaces/_types_.derivedstaking.md)
   * [types.VoterPosition](interfaces/_types_.voterposition.md)
-  * [util/approvalFlagToBool](modules/_util_approvalflagtobool_.md)
   * [util/approvalFlagsToBools](modules/_util_approvalflagstobools_.md)
   * [util/drr](modules/_util_drr_.md)
 * [Classes]()
