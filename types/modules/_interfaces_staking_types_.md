@@ -23,7 +23,7 @@
 
 Ƭ **EraIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/staking/types.ts:8](https://github.com/polkadot-js/api/blob/1706309/packages/types/src/interfaces/staking/types.ts#L8)*
+*Defined in [interfaces/staking/types.ts:8](https://github.com/polkadot-js/api/blob/782f4f1/packages/types/src/interfaces/staking/types.ts#L8)*
 
 u32
 
@@ -33,6 +33,6 @@ ___
 
 Ƭ **MomentOf**: *[Moment](../interfaces/_interfaceregistry_.interfaceregistry.md#moment)*
 
-*Defined in [interfaces/staking/types.ts:37](https://github.com/polkadot-js/api/blob/1706309/packages/types/src/interfaces/staking/types.ts#L37)*
+*Defined in [interfaces/staking/types.ts:37](https://github.com/polkadot-js/api/blob/782f4f1/packages/types/src/interfaces/staking/types.ts#L37)*
 
 Moment
