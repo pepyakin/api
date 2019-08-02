@@ -4,7 +4,7 @@
 
 ### Classes
 
-* [SignerPayload](../classes/_signerpayload_.signerpayload.md)
+* [Payload](../classes/_signerpayload_.payload.md)
 
 ### Interfaces
 

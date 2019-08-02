@@ -15,7 +15,7 @@
 
 ▸ **validateAbi**(`abi`: [ContractABI](../interfaces/_types_.contractabi.md)): *void*
 
-*Defined in [validation.ts:42](https://github.com/polkadot-js/api/blob/782f4f1/packages/api-contract/src/validation.ts#L42)*
+*Defined in [validation.ts:42](https://github.com/polkadot-js/api/blob/9bd5c09/packages/api-contract/src/validation.ts#L42)*
 
 **Parameters:**
 
@@ -31,7 +31,7 @@ ___
 
 ▸ **validateArgs**(`name`: string, `args`: [ContractABIArg](../interfaces/_types_.contractabiarg.md)[]): *void*
 
-*Defined in [validation.ts:9](https://github.com/polkadot-js/api/blob/782f4f1/packages/api-contract/src/validation.ts#L9)*
+*Defined in [validation.ts:9](https://github.com/polkadot-js/api/blob/9bd5c09/packages/api-contract/src/validation.ts#L9)*
 
 **Parameters:**
 
@@ -48,7 +48,7 @@ ___
 
 ▸ **validateDeploy**(`__namedParameters`: object): *void*
 
-*Defined in [validation.ts:21](https://github.com/polkadot-js/api/blob/782f4f1/packages/api-contract/src/validation.ts#L21)*
+*Defined in [validation.ts:21](https://github.com/polkadot-js/api/blob/9bd5c09/packages/api-contract/src/validation.ts#L21)*
 
 **Parameters:**
 
@@ -64,7 +64,7 @@ ___
 
 ▸ **validateMethods**(`__namedParameters`: object): *void*
 
-*Defined in [validation.ts:29](https://github.com/polkadot-js/api/blob/782f4f1/packages/api-contract/src/validation.ts#L29)*
+*Defined in [validation.ts:29](https://github.com/polkadot-js/api/blob/9bd5c09/packages/api-contract/src/validation.ts#L29)*
 
 **Parameters:**
 
