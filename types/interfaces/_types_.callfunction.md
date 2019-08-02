@@ -8,7 +8,7 @@
 
 ▸ (...`args`: any[]): *[Call](../classes/_primitive_generic_call_.call.md)*
 
-*Defined in [types.ts:17](https://github.com/polkadot-js/api/blob/afa4b2b/packages/types/src/types.ts#L17)*
+*Defined in [types.ts:17](https://github.com/polkadot-js/api/blob/1706309/packages/types/src/types.ts#L17)*
 
 **Parameters:**
 
@@ -34,7 +34,7 @@ Name | Type |
 
 • **callIndex**: *`Uint8Array`*
 
-*Defined in [types.ts:19](https://github.com/polkadot-js/api/blob/afa4b2b/packages/types/src/types.ts#L19)*
+*Defined in [types.ts:19](https://github.com/polkadot-js/api/blob/1706309/packages/types/src/types.ts#L19)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **meta**: *[FunctionMetadata](../classes/_metadata_v1_calls_.functionmetadata.md)*
 
-*Defined in [types.ts:20](https://github.com/polkadot-js/api/blob/afa4b2b/packages/types/src/types.ts#L20)*
+*Defined in [types.ts:20](https://github.com/polkadot-js/api/blob/1706309/packages/types/src/types.ts#L20)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **method**: *string*
 
-*Defined in [types.ts:21](https://github.com/polkadot-js/api/blob/afa4b2b/packages/types/src/types.ts#L21)*
+*Defined in [types.ts:21](https://github.com/polkadot-js/api/blob/1706309/packages/types/src/types.ts#L21)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **section**: *string*
 
-*Defined in [types.ts:22](https://github.com/polkadot-js/api/blob/afa4b2b/packages/types/src/types.ts#L22)*
+*Defined in [types.ts:22](https://github.com/polkadot-js/api/blob/1706309/packages/types/src/types.ts#L22)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • **toJSON**: *function*
 
-*Defined in [types.ts:23](https://github.com/polkadot-js/api/blob/afa4b2b/packages/types/src/types.ts#L23)*
+*Defined in [types.ts:23](https://github.com/polkadot-js/api/blob/1706309/packages/types/src/types.ts#L23)*
 
 #### Type declaration:
 
