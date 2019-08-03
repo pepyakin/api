@@ -17,7 +17,7 @@
 
 Ƭ **InclusionHeight**: *[BlockNumber](../interfaces/_interfaceregistry_.interfaceregistry.md#blocknumber)*
 
-*Defined in [interfaces/authorship/types.ts:8](https://github.com/polkadot-js/api/blob/9bd5c09/packages/types/src/interfaces/authorship/types.ts#L8)*
+*Defined in [interfaces/authorship/types.ts:8](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/authorship/types.ts#L8)*
 
 BlockNumber
 
@@ -27,6 +27,6 @@ ___
 
 Ƭ **Uncle**: *[[Hash](../interfaces/_interfaceregistry_.interfaceregistry.md#hash), [Option](../classes/_codec_option_.option.md)‹*[AccountId](../classes/_primitive_generic_accountid_.accountid.md)*›] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/authorship/types.ts:11](https://github.com/polkadot-js/api/blob/9bd5c09/packages/types/src/interfaces/authorship/types.ts#L11)*
+*Defined in [interfaces/authorship/types.ts:11](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/authorship/types.ts#L11)*
 
 [Hash, Option<AccountId>] & Codec

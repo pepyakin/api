@@ -24,7 +24,7 @@
 
 \+ **new Constructor**(...`value`: any[]): *`T`*
 
-*Defined in [types.ts:123](https://github.com/polkadot-js/api/blob/9bd5c09/packages/types/src/types.ts#L123)*
+*Defined in [types.ts:123](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/types.ts#L123)*
 
 **Parameters:**
 
@@ -40,4 +40,4 @@ Name | Type |
 
 • **Fallback**? : *[Constructor](_types_.constructor.md)‹*[Codec](_types_.codec.md)*›*
 
-*Defined in [types.ts:123](https://github.com/polkadot-js/api/blob/9bd5c09/packages/types/src/types.ts#L123)*
+*Defined in [types.ts:123](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/types.ts#L123)*
