@@ -20,7 +20,7 @@
 
 Ƭ **CompactEncodable**: *[UInt](../classes/_codec_uint_.uint.md) | [CodecDate](../classes/_codec_date_.codecdate.md)*
 
-*Defined in [codec/Compact.ts:18](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Compact.ts#L18)*
+*Defined in [codec/Compact.ts:18](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Compact.ts#L18)*
 
 ## Variables
 
@@ -28,4 +28,4 @@
 
 • **COMPACT_ENCODABLE**: *[UInt](../classes/_codec_uint_.uint.md) | [CodecDate](../classes/_codec_date_.codecdate.md)[]* =  [UInt, CodecDate]
 
-*Defined in [codec/Compact.ts:17](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Compact.ts#L17)*
+*Defined in [codec/Compact.ts:17](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Compact.ts#L17)*

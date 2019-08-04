@@ -19,7 +19,7 @@
 
 Ƭ **PropIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/democracy/types.ts:25](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/democracy/types.ts#L25)*
+*Defined in [interfaces/democracy/types.ts:25](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/democracy/types.ts#L25)*
 
 u32
 
@@ -29,7 +29,7 @@ ___
 
 Ƭ **Proposal**: *[Call](../classes/_primitive_generic_call_.call.md)*
 
-*Defined in [interfaces/democracy/types.ts:28](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/democracy/types.ts#L28)*
+*Defined in [interfaces/democracy/types.ts:28](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/democracy/types.ts#L28)*
 
 Call
 
@@ -39,6 +39,6 @@ ___
 
 Ƭ **ReferendumIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/democracy/types.ts:31](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/democracy/types.ts#L31)*
+*Defined in [interfaces/democracy/types.ts:31](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/democracy/types.ts#L31)*
 
 u32

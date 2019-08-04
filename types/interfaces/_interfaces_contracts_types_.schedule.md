@@ -74,7 +74,7 @@ Struct
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[constructor](../classes/_codec_struct_.struct.md#constructor)*
 
-*Defined in [codec/Struct.ts:34](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L34)*
+*Defined in [codec/Struct.ts:34](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L34)*
 
 **Parameters:**
 
@@ -92,7 +92,7 @@ Name | Type | Default |
 
 • **enablePrintln**: *[bool](_interfaceregistry_.interfaceregistry.md#bool)*
 
-*Defined in [interfaces/contracts/types.ts:90](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L90)*
+*Defined in [interfaces/contracts/types.ts:90](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L90)*
 
 bool
 
@@ -102,7 +102,7 @@ ___
 
 • **eventBaseCost**: *[Gas](../modules/_interfaces_contracts_types_.md#gas)*
 
-*Defined in [interfaces/contracts/types.ts:78](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L78)*
+*Defined in [interfaces/contracts/types.ts:78](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L78)*
 
 Gas
 
@@ -112,7 +112,7 @@ ___
 
 • **eventDataPerByteCost**: *[Gas](../modules/_interfaces_contracts_types_.md#gas)*
 
-*Defined in [interfaces/contracts/types.ts:74](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L74)*
+*Defined in [interfaces/contracts/types.ts:74](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L74)*
 
 Gas
 
@@ -122,7 +122,7 @@ ___
 
 • **eventPerTopicCost**: *[Gas](../modules/_interfaces_contracts_types_.md#gas)*
 
-*Defined in [interfaces/contracts/types.ts:76](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L76)*
+*Defined in [interfaces/contracts/types.ts:76](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L76)*
 
 Gas
 
@@ -132,7 +132,7 @@ ___
 
 • **growMemCost**: *[Gas](../modules/_interfaces_contracts_types_.md#gas)*
 
-*Defined in [interfaces/contracts/types.ts:68](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L68)*
+*Defined in [interfaces/contracts/types.ts:68](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L68)*
 
 Gas
 
@@ -142,7 +142,7 @@ ___
 
 • **maxEventTopics**: *[u32](_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/contracts/types.ts:84](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L84)*
+*Defined in [interfaces/contracts/types.ts:84](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L84)*
 
 u32
 
@@ -152,7 +152,7 @@ ___
 
 • **maxMemoryPages**: *[u32](_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/contracts/types.ts:88](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L88)*
+*Defined in [interfaces/contracts/types.ts:88](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L88)*
 
 u32
 
@@ -162,7 +162,7 @@ ___
 
 • **maxStackHeight**: *[u32](_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/contracts/types.ts:86](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L86)*
+*Defined in [interfaces/contracts/types.ts:86](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L86)*
 
 u32
 
@@ -172,7 +172,7 @@ ___
 
 • **maxSubjectLen**: *[u32](_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/contracts/types.ts:92](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L92)*
+*Defined in [interfaces/contracts/types.ts:92](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L92)*
 
 u32
 
@@ -182,7 +182,7 @@ ___
 
 • **putCodePerByteCost**: *[Gas](../modules/_interfaces_contracts_types_.md#gas)*
 
-*Defined in [interfaces/contracts/types.ts:66](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L66)*
+*Defined in [interfaces/contracts/types.ts:66](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L66)*
 
 Gas
 
@@ -192,7 +192,7 @@ ___
 
 • **regularOpCost**: *[Gas](../modules/_interfaces_contracts_types_.md#gas)*
 
-*Defined in [interfaces/contracts/types.ts:70](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L70)*
+*Defined in [interfaces/contracts/types.ts:70](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L70)*
 
 Gas
 
@@ -202,7 +202,7 @@ ___
 
 • **returnDataPerByteCost**: *[Gas](../modules/_interfaces_contracts_types_.md#gas)*
 
-*Defined in [interfaces/contracts/types.ts:72](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L72)*
+*Defined in [interfaces/contracts/types.ts:72](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L72)*
 
 Gas
 
@@ -212,7 +212,7 @@ ___
 
 • **sandboxDataReadCost**: *[Gas](../modules/_interfaces_contracts_types_.md#gas)*
 
-*Defined in [interfaces/contracts/types.ts:80](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L80)*
+*Defined in [interfaces/contracts/types.ts:80](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L80)*
 
 Gas
 
@@ -222,7 +222,7 @@ ___
 
 • **sandboxDataWriteCost**: *[Gas](../modules/_interfaces_contracts_types_.md#gas)*
 
-*Defined in [interfaces/contracts/types.ts:82](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L82)*
+*Defined in [interfaces/contracts/types.ts:82](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L82)*
 
 Gas
 
@@ -232,7 +232,7 @@ ___
 
 • **version**: *[u32](_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/contracts/types.ts:64](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/interfaces/contracts/types.ts#L64)*
+*Defined in [interfaces/contracts/types.ts:64](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/interfaces/contracts/types.ts#L64)*
 
 u32
 
@@ -244,7 +244,7 @@ u32
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[Type](../classes/_codec_struct_.struct.md#type)*
 
-*Defined in [codec/Struct.ts:166](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L166)*
+*Defined in [codec/Struct.ts:166](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L166)*
 
 **`description`** Returns the Type description to sthe structure
 
@@ -258,7 +258,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[encodedLength](../classes/_codec_struct_.struct.md#encodedlength)*
 
-*Defined in [codec/Struct.ts:179](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L179)*
+*Defined in [codec/Struct.ts:179](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L179)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -272,7 +272,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[hash](../classes/_codec_struct_.struct.md#hash)*
 
-*Defined in [codec/Struct.ts:190](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L190)*
+*Defined in [codec/Struct.ts:190](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L190)*
 
 **`description`** returns a hash of the contents
 
@@ -286,7 +286,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[isEmpty](../classes/_codec_struct_.struct.md#isempty)*
 
-*Defined in [codec/Struct.ts:151](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L151)*
+*Defined in [codec/Struct.ts:151](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L151)*
 
 **`description`** Checks if the value is an empty value
 
@@ -300,7 +300,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[eq](../classes/_codec_struct_.struct.md#eq)*
 
-*Defined in [codec/Struct.ts:197](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L197)*
+*Defined in [codec/Struct.ts:197](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L197)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -322,7 +322,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/Struct.ts:205](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L205)*
+*Defined in [codec/Struct.ts:205](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L205)*
 
 **`description`** Returns a specific names entry in the structure
 
@@ -342,7 +342,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[getAtIndex](../classes/_codec_struct_.struct.md#getatindex)*
 
-*Defined in [codec/Struct.ts:212](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L212)*
+*Defined in [codec/Struct.ts:212](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L212)*
 
 **`description`** Returns the values of a member at a specific index (Rather use get(name) for performance)
 
@@ -362,7 +362,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[toArray](../classes/_codec_struct_.struct.md#toarray)*
 
-*Defined in [codec/Struct.ts:219](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L219)*
+*Defined in [codec/Struct.ts:219](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L219)*
 
 **`description`** Converts the Object to an standard JavaScript Array
 
@@ -376,7 +376,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[toHex](../classes/_codec_struct_.struct.md#tohex)*
 
-*Defined in [codec/Struct.ts:226](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L226)*
+*Defined in [codec/Struct.ts:226](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L226)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -390,7 +390,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[toJSON](../classes/_codec_struct_.struct.md#tojson)*
 
-*Defined in [codec/Struct.ts:233](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L233)*
+*Defined in [codec/Struct.ts:233](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L233)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -404,7 +404,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[toRawType](../classes/_codec_struct_.struct.md#torawtype)*
 
-*Defined in [codec/Struct.ts:249](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L249)*
+*Defined in [codec/Struct.ts:249](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L249)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -418,7 +418,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[toString](../classes/_codec_struct_.struct.md#tostring)*
 
-*Defined in [codec/Struct.ts:262](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L262)*
+*Defined in [codec/Struct.ts:262](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L262)*
 
 **`description`** Returns the string representation of the value
 
@@ -432,7 +432,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[toU8a](../classes/_codec_struct_.struct.md#tou8a)*
 
-*Defined in [codec/Struct.ts:270](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L270)*
+*Defined in [codec/Struct.ts:270](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L270)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -452,7 +452,7 @@ ___
 
 *Inherited from [Struct](../classes/_codec_struct_.struct.md).[with](../classes/_codec_struct_.struct.md#static-with)*
 
-*Defined in [codec/Struct.ts:126](https://github.com/polkadot-js/api/blob/9be9782/packages/types/src/codec/Struct.ts#L126)*
+*Defined in [codec/Struct.ts:126](https://github.com/polkadot-js/api/blob/8da5261/packages/types/src/codec/Struct.ts#L126)*
 
 **Type parameters:**
 
