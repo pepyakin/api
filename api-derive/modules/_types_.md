@@ -11,11 +11,16 @@
 * [DerivedReferendumVote](../interfaces/_types_.derivedreferendumvote.md)
 * [DerivedSessionInfo](../interfaces/_types_.derivedsessioninfo.md)
 * [DerivedStaking](../interfaces/_types_.derivedstaking.md)
+* [DerivedStakingOnlineStatus](../interfaces/_types_.derivedstakingonlinestatus.md)
+* [RecentlyOffline](../interfaces/_types_.recentlyoffline.md)
 * [VoterPosition](../interfaces/_types_.voterposition.md)
 
 ### Type aliases
 
 * [DerivedBalancesMap](_types_.md#derivedbalancesmap)
+* [DerivedRecentlyOffline](_types_.md#derivedrecentlyoffline)
+* [DerivedStakingAccount](_types_.md#derivedstakingaccount)
+* [DerivedStakingAccounts](_types_.md#derivedstakingaccounts)
 * [DerivedUnlocking](_types_.md#derivedunlocking)
 * [DerivedVoterPositions](_types_.md#derivedvoterpositions)
 
@@ -25,7 +30,31 @@
 
 Ƭ **DerivedBalancesMap**: *`Record<string, DerivedBalances>`*
 
-*Defined in [types.ts:20](https://github.com/polkadot-js/api/blob/8da5261/packages/api-derive/src/types.ts#L20)*
+*Defined in [types.ts:20](https://github.com/polkadot-js/api/blob/09ee77d/packages/api-derive/src/types.ts#L20)*
+
+___
+
+###  DerivedRecentlyOffline
+
+Ƭ **DerivedRecentlyOffline**: *`Record<string, RecentlyOffline[]>`*
+
+*Defined in [types.ts:59](https://github.com/polkadot-js/api/blob/09ee77d/packages/api-derive/src/types.ts#L59)*
+
+___
+
+###  DerivedStakingAccount
+
+Ƭ **DerivedStakingAccount**: *[`AccountId`, [DerivedStakingOnlineStatus](../interfaces/_types_.derivedstakingonlinestatus.md)]*
+
+*Defined in [types.ts:80](https://github.com/polkadot-js/api/blob/09ee77d/packages/api-derive/src/types.ts#L80)*
+
+___
+
+###  DerivedStakingAccounts
+
+Ƭ **DerivedStakingAccounts**: *[DerivedStakingAccount](_types_.md#derivedstakingaccount)[]*
+
+*Defined in [types.ts:82](https://github.com/polkadot-js/api/blob/09ee77d/packages/api-derive/src/types.ts#L82)*
 
 ___
 
@@ -33,7 +62,7 @@ ___
 
 Ƭ **DerivedUnlocking**: *object[]*
 
-*Defined in [types.ts:88](https://github.com/polkadot-js/api/blob/8da5261/packages/api-derive/src/types.ts#L88)*
+*Defined in [types.ts:110](https://github.com/polkadot-js/api/blob/09ee77d/packages/api-derive/src/types.ts#L110)*
 
 ___
 
@@ -41,4 +70,4 @@ ___
 
 Ƭ **DerivedVoterPositions**: *`Record<string, VoterPosition>`*
 
-*Defined in [types.ts:96](https://github.com/polkadot-js/api/blob/8da5261/packages/api-derive/src/types.ts#L96)*
+*Defined in [types.ts:118](https://github.com/polkadot-js/api/blob/09ee77d/packages/api-derive/src/types.ts#L118)*
