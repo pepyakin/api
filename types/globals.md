@@ -100,6 +100,8 @@
 * ["interfaces/babe/types"](modules/_interfaces_babe_types_.md)
 * ["interfaces/balances/definitions"](modules/_interfaces_balances_definitions_.md)
 * ["interfaces/balances/types"](modules/_interfaces_balances_types_.md)
+* ["interfaces/claims/definitions"](modules/_interfaces_claims_definitions_.md)
+* ["interfaces/claims/types"](modules/_interfaces_claims_types_.md)
 * ["interfaces/collective/definitions"](modules/_interfaces_collective_definitions_.md)
 * ["interfaces/collective/types"](modules/_interfaces_collective_types_.md)
 * ["interfaces/consensus/definitions"](modules/_interfaces_consensus_definitions_.md)

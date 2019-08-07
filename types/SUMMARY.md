@@ -182,6 +182,8 @@
   * [interfaces/balances/types.BalanceLock](interfaces/_interfaces_balances_types_.balancelock.md)
   * [interfaces/balances/types.VestingSchedule](interfaces/_interfaces_balances_types_.vestingschedule.md)
   * [interfaces/balances/types.WithdrawReasons](interfaces/_interfaces_balances_types_.withdrawreasons.md)
+  * [interfaces/claims/definitions](modules/_interfaces_claims_definitions_.md)
+  * [interfaces/claims/types](modules/_interfaces_claims_types_.md)
   * [interfaces/collective/definitions](modules/_interfaces_collective_definitions_.md)
   * [interfaces/collective/types](modules/_interfaces_collective_types_.md)
   * [interfaces/collective/types.Votes](interfaces/_interfaces_collective_types_.votes.md)

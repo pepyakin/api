@@ -22,7 +22,7 @@
 
 Ƭ **DigestOf**: *[Digest](../classes/_primitive_generic_digest_.digest.md)*
 
-*Defined in [interfaces/system/types.ts:8](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/system/types.ts#L8)*
+*Defined in [interfaces/system/types.ts:9](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/system/types.ts#L9)*
 
 Digest
 
@@ -32,7 +32,7 @@ ___
 
 Ƭ **Event**: *`GenericEvent`*
 
-*Defined in [interfaces/system/types.ts:11](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/system/types.ts#L11)*
+*Defined in [interfaces/system/types.ts:12](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/system/types.ts#L12)*
 
 GenericEvent
 
@@ -40,11 +40,11 @@ ___
 
 ###  EventId
 
-Ƭ **EventId**: *[Vec](../classes/_codec_vec_.vec.md)‹*[u8](../interfaces/_interfaceregistry_.interfaceregistry.md#u8)*›*
+Ƭ **EventId**: *`Uint8Array` & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/system/types.ts:14](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/system/types.ts#L14)*
+*Defined in [interfaces/system/types.ts:15](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/system/types.ts#L15)*
 
-Vec<u8>
+Uint8Array & Codec
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 Ƭ **EventIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/system/types.ts:17](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/system/types.ts#L17)*
+*Defined in [interfaces/system/types.ts:18](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/system/types.ts#L18)*
 
 u32
 
@@ -62,6 +62,6 @@ ___
 
 Ƭ **Key**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [interfaces/system/types.ts:38](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/system/types.ts#L38)*
+*Defined in [interfaces/system/types.ts:39](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/system/types.ts#L39)*
 
 Bytes

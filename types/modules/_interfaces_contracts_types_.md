@@ -25,7 +25,7 @@
 
 Ƭ **CodeHash**: *[Hash](../interfaces/_interfaceregistry_.interfaceregistry.md#hash)*
 
-*Defined in [interfaces/contracts/types.ts:24](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/contracts/types.ts#L24)*
+*Defined in [interfaces/contracts/types.ts:25](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/contracts/types.ts#L25)*
 
 Hash
 
@@ -33,11 +33,11 @@ ___
 
 ###  ContractStorageKey
 
-Ƭ **ContractStorageKey**: *[Vec](../classes/_codec_vec_.vec.md)‹*[u8](../interfaces/_interfaceregistry_.interfaceregistry.md#u8)*›*
+Ƭ **ContractStorageKey**: *`Uint8Array` & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/contracts/types.ts:39](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/contracts/types.ts#L39)*
+*Defined in [interfaces/contracts/types.ts:40](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/contracts/types.ts#L40)*
 
-Vec<u8>
+Uint8Array & Codec
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 Ƭ **Gas**: *[u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)*
 
-*Defined in [interfaces/contracts/types.ts:42](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/contracts/types.ts#L42)*
+*Defined in [interfaces/contracts/types.ts:43](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/contracts/types.ts#L43)*
 
 u64
 
@@ -55,7 +55,7 @@ ___
 
 Ƭ **PrefabWasmModuleReserved**: *[Option](../classes/_codec_option_.option.md)‹*[Null](../classes/_primitive_null_.null.md)*›*
 
-*Defined in [interfaces/contracts/types.ts:59](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/contracts/types.ts#L59)*
+*Defined in [interfaces/contracts/types.ts:60](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/contracts/types.ts#L60)*
 
 Option<Null>
 
@@ -65,7 +65,7 @@ ___
 
 Ƭ **SeedOf**: *[Hash](../interfaces/_interfaceregistry_.interfaceregistry.md#hash)*
 
-*Defined in [interfaces/contracts/types.ts:96](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/contracts/types.ts#L96)*
+*Defined in [interfaces/contracts/types.ts:97](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/contracts/types.ts#L97)*
 
 Hash
 
@@ -75,7 +75,7 @@ ___
 
 Ƭ **TombstoneContractInfo**: *[Hash](../interfaces/_interfaceregistry_.interfaceregistry.md#hash)*
 
-*Defined in [interfaces/contracts/types.ts:99](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/contracts/types.ts#L99)*
+*Defined in [interfaces/contracts/types.ts:100](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/contracts/types.ts#L100)*
 
 Hash
 
@@ -85,6 +85,6 @@ ___
 
 Ƭ **TrieId**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [interfaces/contracts/types.ts:102](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/interfaces/contracts/types.ts#L102)*
+*Defined in [interfaces/contracts/types.ts:103](https://github.com/polkadot-js/api/blob/438c02d/packages/types/src/interfaces/contracts/types.ts#L103)*
 
 Bytes
