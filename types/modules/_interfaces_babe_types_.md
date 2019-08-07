@@ -17,7 +17,7 @@
 
 Ƭ **BabeWeight**: *[u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)*
 
-*Defined in [interfaces/babe/types.ts:7](https://github.com/polkadot-js/api/blob/b2102d9/packages/types/src/interfaces/babe/types.ts#L7)*
+*Defined in [interfaces/babe/types.ts:7](https://github.com/polkadot-js/api/blob/2ddc87c/packages/types/src/interfaces/babe/types.ts#L7)*
 
 u64
 
@@ -27,6 +27,6 @@ ___
 
 Ƭ **SlotNumber**: *[u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)*
 
-*Defined in [interfaces/babe/types.ts:22](https://github.com/polkadot-js/api/blob/b2102d9/packages/types/src/interfaces/babe/types.ts#L22)*
+*Defined in [interfaces/babe/types.ts:22](https://github.com/polkadot-js/api/blob/2ddc87c/packages/types/src/interfaces/babe/types.ts#L22)*
 
 u64

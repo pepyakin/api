@@ -20,7 +20,7 @@
 
 Ƭ **ApprovalFlag**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/elections/types.ts:8](https://github.com/polkadot-js/api/blob/b2102d9/packages/types/src/interfaces/elections/types.ts#L8)*
+*Defined in [interfaces/elections/types.ts:8](https://github.com/polkadot-js/api/blob/2ddc87c/packages/types/src/interfaces/elections/types.ts#L8)*
 
 u32
 
@@ -30,7 +30,7 @@ ___
 
 Ƭ **SetIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/elections/types.ts:11](https://github.com/polkadot-js/api/blob/b2102d9/packages/types/src/interfaces/elections/types.ts#L11)*
+*Defined in [interfaces/elections/types.ts:11](https://github.com/polkadot-js/api/blob/2ddc87c/packages/types/src/interfaces/elections/types.ts#L11)*
 
 u32
 
@@ -40,7 +40,7 @@ ___
 
 Ƭ **Vote**: *`GenericVote`*
 
-*Defined in [interfaces/elections/types.ts:14](https://github.com/polkadot-js/api/blob/b2102d9/packages/types/src/interfaces/elections/types.ts#L14)*
+*Defined in [interfaces/elections/types.ts:14](https://github.com/polkadot-js/api/blob/2ddc87c/packages/types/src/interfaces/elections/types.ts#L14)*
 
 GenericVote
 
@@ -50,6 +50,6 @@ ___
 
 Ƭ **VoteIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/elections/types.ts:17](https://github.com/polkadot-js/api/blob/b2102d9/packages/types/src/interfaces/elections/types.ts#L17)*
+*Defined in [interfaces/elections/types.ts:17](https://github.com/polkadot-js/api/blob/2ddc87c/packages/types/src/interfaces/elections/types.ts#L17)*
 
 u32
