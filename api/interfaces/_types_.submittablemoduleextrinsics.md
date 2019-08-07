@@ -10,4 +10,4 @@
 
 ## Indexable
 
-● \[▪ **index**: *string*\]: [SubmittableExtrinsicFunction](_types_.submittableextrinsicfunction.md)‹*`ApiType`*›
+* \[ **index**: *string*\]: [SubmittableExtrinsicFunction](_types_.submittableextrinsicfunction.md)‹*`ApiType`*›

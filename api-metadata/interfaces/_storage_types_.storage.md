@@ -6,7 +6,7 @@
 
 ## Indexable
 
-● \[▪ **key**: *string*\]: [ModuleStorage](_storage_types_.modulestorage.md)
+* \[ **key**: *string*\]: [ModuleStorage](_storage_types_.modulestorage.md)
 
 ## Index
 
@@ -20,8 +20,8 @@
 
 • **substrate**: *object*
 
-*Defined in [storage/types.ts:13](https://github.com/polkadot-js/api/blob/438c02d/packages/api-metadata/src/storage/types.ts#L13)*
+*Defined in [storage/types.ts:13](https://github.com/polkadot-js/api/blob/b2102d9/packages/api-metadata/src/storage/types.ts#L13)*
 
 #### Type declaration:
 
-● \[▪ **key**: *string*\]: `StorageEntry`
+* \[ **key**: *string*\]: `StorageEntry`

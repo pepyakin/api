@@ -8,7 +8,7 @@
 
 ## Indexable
 
-● \[▪ **n**: *number*\]: [AnyJson](../modules/_types_.md#anyjson)
+* \[ **n**: *number*\]: [AnyJson](../modules/_types_.md#anyjson)
 
 ## Index
 
