@@ -20,7 +20,7 @@
 
 • **digest**? : *[Digest](../classes/_primitive_generic_digest_.digest.md) | object*
 
-*Defined in [primitive/Generic/Block.ts:16](https://github.com/polkadot-js/api/blob/400f33f/packages/types/src/primitive/Generic/Block.ts#L16)*
+*Defined in [primitive/Generic/Block.ts:16](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/primitive/Generic/Block.ts#L16)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **extrinsicsRoot**? : *[AnyU8a](../modules/_types_.md#anyu8a)*
 
-*Defined in [primitive/Generic/Block.ts:17](https://github.com/polkadot-js/api/blob/400f33f/packages/types/src/primitive/Generic/Block.ts#L17)*
+*Defined in [primitive/Generic/Block.ts:17](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/primitive/Generic/Block.ts#L17)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **number**? : *[AnyNumber](../modules/_types_.md#anynumber)*
 
-*Defined in [primitive/Generic/Block.ts:18](https://github.com/polkadot-js/api/blob/400f33f/packages/types/src/primitive/Generic/Block.ts#L18)*
+*Defined in [primitive/Generic/Block.ts:18](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/primitive/Generic/Block.ts#L18)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **parentHash**? : *[AnyU8a](../modules/_types_.md#anyu8a)*
 
-*Defined in [primitive/Generic/Block.ts:19](https://github.com/polkadot-js/api/blob/400f33f/packages/types/src/primitive/Generic/Block.ts#L19)*
+*Defined in [primitive/Generic/Block.ts:19](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/primitive/Generic/Block.ts#L19)*
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 • **stateRoot**? : *[AnyU8a](../modules/_types_.md#anyu8a)*
 
-*Defined in [primitive/Generic/Block.ts:20](https://github.com/polkadot-js/api/blob/400f33f/packages/types/src/primitive/Generic/Block.ts#L20)*
+*Defined in [primitive/Generic/Block.ts:20](https://github.com/polkadot-js/api/blob/3d8fbcf/packages/types/src/primitive/Generic/Block.ts#L20)*
