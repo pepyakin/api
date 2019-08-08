@@ -20,7 +20,7 @@
 
 Ƭ **AuthIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/imOnline/types.ts:10](https://github.com/polkadot-js/api/blob/2ddc87c/packages/types/src/interfaces/imOnline/types.ts#L10)*
+*Defined in [interfaces/imOnline/types.ts:10](https://github.com/polkadot-js/api/blob/fbd6bf1/packages/types/src/interfaces/imOnline/types.ts#L10)*
 
 u32
 
@@ -30,7 +30,7 @@ ___
 
 Ƭ **AuthoritySignature**: *[Signature](../interfaces/_interfaceregistry_.interfaceregistry.md#signature)*
 
-*Defined in [interfaces/imOnline/types.ts:13](https://github.com/polkadot-js/api/blob/2ddc87c/packages/types/src/interfaces/imOnline/types.ts#L13)*
+*Defined in [interfaces/imOnline/types.ts:13](https://github.com/polkadot-js/api/blob/fbd6bf1/packages/types/src/interfaces/imOnline/types.ts#L13)*
 
 Signature
 
@@ -40,7 +40,7 @@ ___
 
 Ƭ **OpaqueMultiaddr**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [interfaces/imOnline/types.ts:28](https://github.com/polkadot-js/api/blob/2ddc87c/packages/types/src/interfaces/imOnline/types.ts#L28)*
+*Defined in [interfaces/imOnline/types.ts:28](https://github.com/polkadot-js/api/blob/fbd6bf1/packages/types/src/interfaces/imOnline/types.ts#L28)*
 
 Bytes
 
@@ -50,6 +50,6 @@ ___
 
 Ƭ **OpaquePeerId**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [interfaces/imOnline/types.ts:39](https://github.com/polkadot-js/api/blob/2ddc87c/packages/types/src/interfaces/imOnline/types.ts#L39)*
+*Defined in [interfaces/imOnline/types.ts:39](https://github.com/polkadot-js/api/blob/fbd6bf1/packages/types/src/interfaces/imOnline/types.ts#L39)*
 
 Bytes
