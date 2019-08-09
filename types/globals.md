@@ -96,6 +96,8 @@
 * ["interfaceRegistry"](modules/_interfaceregistry_.md)
 * ["interfaces/abrs/definitions"](modules/_interfaces_abrs_definitions_.md)
 * ["interfaces/abrs/types"](modules/_interfaces_abrs_types_.md)
+* ["interfaces/attestations/definitions"](modules/_interfaces_attestations_definitions_.md)
+* ["interfaces/attestations/types"](modules/_interfaces_attestations_types_.md)
 * ["interfaces/aura/definitions"](modules/_interfaces_aura_definitions_.md)
 * ["interfaces/aura/types"](modules/_interfaces_aura_types_.md)
 * ["interfaces/authorship/definitions"](modules/_interfaces_authorship_definitions_.md)

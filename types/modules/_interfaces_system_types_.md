@@ -22,7 +22,7 @@
 
 Ƭ **DigestOf**: *[Digest](../classes/_primitive_generic_digest_.digest.md)*
 
-*Defined in [interfaces/system/types.ts:9](https://github.com/polkadot-js/api/blob/60148f2/packages/types/src/interfaces/system/types.ts#L9)*
+*Defined in [interfaces/system/types.ts:10](https://github.com/polkadot-js/api/blob/40cf70f/packages/types/src/interfaces/system/types.ts#L10)*
 
 Digest
 
@@ -32,7 +32,7 @@ ___
 
 Ƭ **Event**: *`GenericEvent`*
 
-*Defined in [interfaces/system/types.ts:12](https://github.com/polkadot-js/api/blob/60148f2/packages/types/src/interfaces/system/types.ts#L12)*
+*Defined in [interfaces/system/types.ts:13](https://github.com/polkadot-js/api/blob/40cf70f/packages/types/src/interfaces/system/types.ts#L13)*
 
 GenericEvent
 
@@ -42,7 +42,7 @@ ___
 
 Ƭ **EventId**: *`Uint8Array` & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/system/types.ts:15](https://github.com/polkadot-js/api/blob/60148f2/packages/types/src/interfaces/system/types.ts#L15)*
+*Defined in [interfaces/system/types.ts:16](https://github.com/polkadot-js/api/blob/40cf70f/packages/types/src/interfaces/system/types.ts#L16)*
 
 Uint8Array & Codec
 
@@ -52,7 +52,7 @@ ___
 
 Ƭ **EventIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/system/types.ts:18](https://github.com/polkadot-js/api/blob/60148f2/packages/types/src/interfaces/system/types.ts#L18)*
+*Defined in [interfaces/system/types.ts:19](https://github.com/polkadot-js/api/blob/40cf70f/packages/types/src/interfaces/system/types.ts#L19)*
 
 u32
 
@@ -62,6 +62,6 @@ ___
 
 Ƭ **Key**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [interfaces/system/types.ts:39](https://github.com/polkadot-js/api/blob/60148f2/packages/types/src/interfaces/system/types.ts#L39)*
+*Defined in [interfaces/system/types.ts:40](https://github.com/polkadot-js/api/blob/40cf70f/packages/types/src/interfaces/system/types.ts#L40)*
 
 Bytes
