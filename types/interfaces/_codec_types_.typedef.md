@@ -21,7 +21,7 @@
 
 • **ext**? : *[TypeDefExtVecFixed](_codec_types_.typedefextvecfixed.md)*
 
-*Defined in [codec/types.ts:29](https://github.com/polkadot-js/api/blob/fbd6bf1/packages/types/src/codec/types.ts#L29)*
+*Defined in [codec/types.ts:29](https://github.com/polkadot-js/api/blob/2e109ba/packages/types/src/codec/types.ts#L29)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **index**? : *undefined | number*
 
-*Defined in [codec/types.ts:28](https://github.com/polkadot-js/api/blob/fbd6bf1/packages/types/src/codec/types.ts#L28)*
+*Defined in [codec/types.ts:28](https://github.com/polkadot-js/api/blob/2e109ba/packages/types/src/codec/types.ts#L28)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **info**: *[TypeDefInfo](../enums/_codec_types_.typedefinfo.md)*
 
-*Defined in [codec/types.ts:27](https://github.com/polkadot-js/api/blob/fbd6bf1/packages/types/src/codec/types.ts#L27)*
+*Defined in [codec/types.ts:27](https://github.com/polkadot-js/api/blob/2e109ba/packages/types/src/codec/types.ts#L27)*
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 • **name**? : *undefined | string*
 
-*Defined in [codec/types.ts:30](https://github.com/polkadot-js/api/blob/fbd6bf1/packages/types/src/codec/types.ts#L30)*
+*Defined in [codec/types.ts:30](https://github.com/polkadot-js/api/blob/2e109ba/packages/types/src/codec/types.ts#L30)*
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 • **sub**? : *[TypeDef](_codec_types_.typedef.md) | [TypeDef](_codec_types_.typedef.md)[]*
 
-*Defined in [codec/types.ts:32](https://github.com/polkadot-js/api/blob/fbd6bf1/packages/types/src/codec/types.ts#L32)*
+*Defined in [codec/types.ts:32](https://github.com/polkadot-js/api/blob/2e109ba/packages/types/src/codec/types.ts#L32)*
 
 ___
 
@@ -61,4 +61,4 @@ ___
 
 • **type**: *string*
 
-*Defined in [codec/types.ts:31](https://github.com/polkadot-js/api/blob/fbd6bf1/packages/types/src/codec/types.ts#L31)*
+*Defined in [codec/types.ts:31](https://github.com/polkadot-js/api/blob/2e109ba/packages/types/src/codec/types.ts#L31)*
