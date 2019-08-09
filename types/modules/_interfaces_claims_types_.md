@@ -13,7 +13,7 @@
 
 Ƭ **EcdsaSignature**: *`Uint8Array` & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/claims/types.ts:7](https://github.com/polkadot-js/api/blob/2e109ba/packages/types/src/interfaces/claims/types.ts#L7)*
+*Defined in [interfaces/claims/types.ts:7](https://github.com/polkadot-js/api/blob/debb1dc/packages/types/src/interfaces/claims/types.ts#L7)*
 
 Uint8Array & Codec
 
@@ -23,6 +23,6 @@ ___
 
 Ƭ **EthereumAddress**: *[H160](../classes/_primitive_h160_.h160.md)*
 
-*Defined in [interfaces/claims/types.ts:10](https://github.com/polkadot-js/api/blob/2e109ba/packages/types/src/interfaces/claims/types.ts#L10)*
+*Defined in [interfaces/claims/types.ts:10](https://github.com/polkadot-js/api/blob/debb1dc/packages/types/src/interfaces/claims/types.ts#L10)*
 
 H160

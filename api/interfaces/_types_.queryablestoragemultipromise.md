@@ -12,7 +12,7 @@
 
 ▸ <**T**>(`calls`: [QueryableStorageMultiArgs](../modules/_types_.md#queryablestoragemultiargs)‹*`ApiType`*›, `callback`: `Callback<T[]>`): *[UnsubscribePromise](../modules/_types_.md#unsubscribepromise)*
 
-*Defined in [types.ts:135](https://github.com/polkadot-js/api/blob/2e109ba/packages/api/src/types.ts#L135)*
+*Defined in [types.ts:135](https://github.com/polkadot-js/api/blob/debb1dc/packages/api/src/types.ts#L135)*
 
 **Type parameters:**
 
