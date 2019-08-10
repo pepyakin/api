@@ -17,7 +17,7 @@
 
 Ƭ **Constants**: *`Record<string, ModuleConstants>`*
 
-*Defined in [consts/types.ts:14](https://github.com/polkadot-js/api/blob/40cf70f/packages/api-metadata/src/consts/types.ts#L14)*
+*Defined in [consts/types.ts:14](https://github.com/polkadot-js/api/blob/1c885a2/packages/api-metadata/src/consts/types.ts#L14)*
 
 ___
 
@@ -25,4 +25,4 @@ ___
 
 Ƭ **ModuleConstants**: *`Record<string, Codec>`*
 
-*Defined in [consts/types.ts:12](https://github.com/polkadot-js/api/blob/40cf70f/packages/api-metadata/src/consts/types.ts#L12)*
+*Defined in [consts/types.ts:12](https://github.com/polkadot-js/api/blob/1c885a2/packages/api-metadata/src/consts/types.ts#L12)*
