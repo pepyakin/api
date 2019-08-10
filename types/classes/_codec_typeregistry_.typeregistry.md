@@ -13,7 +13,9 @@
 ### Methods
 
 * [get](_codec_typeregistry_.typeregistry.md#get)
+* [getDefinition](_codec_typeregistry_.typeregistry.md#getdefinition)
 * [getOrThrow](_codec_typeregistry_.typeregistry.md#getorthrow)
+* [hasType](_codec_typeregistry_.typeregistry.md#hastype)
 * [register](_codec_typeregistry_.typeregistry.md#register)
 
 ## Properties
@@ -22,7 +24,7 @@
 
 ▪ **defaultRegistry**: *[TypeRegistry](_codec_typeregistry_.typeregistry.md)* =  new TypeRegistry()
 
-*Defined in [codec/typeRegistry.ts:11](https://github.com/polkadot-js/api/blob/aa3de43/packages/types/src/codec/typeRegistry.ts#L11)*
+*Defined in [codec/typeRegistry.ts:12](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/typeRegistry.ts#L12)*
 
 ## Methods
 
@@ -30,7 +32,7 @@
 
 ▸ **get**<**T**>(`name`: string): *[Constructor](../interfaces/_types_.constructor.md)‹*`T`*› | undefined*
 
-*Defined in [codec/typeRegistry.ts:52](https://github.com/polkadot-js/api/blob/aa3de43/packages/types/src/codec/typeRegistry.ts#L52)*
+*Defined in [codec/typeRegistry.ts:63](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/typeRegistry.ts#L63)*
 
 **Type parameters:**
 
@@ -46,11 +48,27 @@ Name | Type |
 
 ___
 
+###  getDefinition
+
+▸ **getDefinition**(`name`: string): *string | undefined*
+
+*Defined in [codec/typeRegistry.ts:88](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/typeRegistry.ts#L88)*
+
+**Parameters:**
+
+Name | Type |
+------ | ------ |
+`name` | string |
+
+**Returns:** *string | undefined*
+
+___
+
 ###  getOrThrow
 
 ▸ **getOrThrow**<**T**>(`name`: string, `msg?`: undefined | string): *[Constructor](../interfaces/_types_.constructor.md)‹*`T`*›*
 
-*Defined in [codec/typeRegistry.ts:56](https://github.com/polkadot-js/api/blob/aa3de43/packages/types/src/codec/typeRegistry.ts#L56)*
+*Defined in [codec/typeRegistry.ts:92](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/typeRegistry.ts#L92)*
 
 **Type parameters:**
 
@@ -67,11 +85,27 @@ Name | Type |
 
 ___
 
+###  hasType
+
+▸ **hasType**(`name`: string): *boolean*
+
+*Defined in [codec/typeRegistry.ts:102](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/typeRegistry.ts#L102)*
+
+**Parameters:**
+
+Name | Type |
+------ | ------ |
+`name` | string |
+
+**Returns:** *boolean*
+
+___
+
 ###  register
 
 ▸ **register**(`type`: [Constructor](../interfaces/_types_.constructor.md) | [RegistryTypes](../modules/_types_.md#registrytypes)): *void*
 
-*Defined in [codec/typeRegistry.ts:15](https://github.com/polkadot-js/api/blob/aa3de43/packages/types/src/codec/typeRegistry.ts#L15)*
+*Defined in [codec/typeRegistry.ts:18](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/typeRegistry.ts#L18)*
 
 **Parameters:**
 
@@ -83,7 +117,7 @@ Name | Type |
 
 ▸ **register**(`name`: string, `type`: [Constructor](../interfaces/_types_.constructor.md)): *void*
 
-*Defined in [codec/typeRegistry.ts:18](https://github.com/polkadot-js/api/blob/aa3de43/packages/types/src/codec/typeRegistry.ts#L18)*
+*Defined in [codec/typeRegistry.ts:21](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/typeRegistry.ts#L21)*
 
 **Parameters:**
 
