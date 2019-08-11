@@ -12,7 +12,7 @@
 
 ▸ **bestNumber**(`api`: `ApiInterfaceRx`): *function*
 
-*Defined in [chain/bestNumber.ts:25](https://github.com/polkadot-js/api/blob/5ee2caf/packages/api-derive/src/chain/bestNumber.ts#L25)*
+*Defined in [chain/bestNumber.ts:25](https://github.com/polkadot-js/api/blob/2a5fd1c/packages/api-derive/src/chain/bestNumber.ts#L25)*
 
 **`name`** bestNumber
 
