@@ -33,6 +33,7 @@
 * [CodecArg](_types_.md#codecarg)
 * [CodecTo](_types_.md#codecto)
 * [ConstructorDef](_types_.md#constructordef)
+* [InterfaceTypes](_types_.md#interfacetypes)
 * [ModulesWithCalls](_types_.md#moduleswithcalls)
 * [RegistryTypes](_types_.md#registrytypes)
 
@@ -42,7 +43,7 @@
 
 Ƭ **AnyFunction**: *function*
 
-*Defined in [types.ts:48](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L48)*
+*Defined in [types.ts:51](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L51)*
 
 #### Type declaration:
 
@@ -60,7 +61,7 @@ ___
 
 Ƭ **AnyJson**: *string | number | boolean | null | undefined | [AnyJsonObject](../interfaces/_types_.anyjsonobject.md) | [AnyJsonArray](../interfaces/_types_.anyjsonarray.md)*
 
-*Defined in [types.ts:60](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L60)*
+*Defined in [types.ts:63](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L63)*
 
 ___
 
@@ -68,7 +69,7 @@ ___
 
 Ƭ **AnyNumber**: *`BN` | `Uint8Array` | number | string*
 
-*Defined in [types.ts:50](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L50)*
+*Defined in [types.ts:53](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L53)*
 
 ___
 
@@ -76,7 +77,7 @@ ___
 
 Ƭ **AnyString**: *string | string*
 
-*Defined in [types.ts:52](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L52)*
+*Defined in [types.ts:55](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L55)*
 
 ___
 
@@ -84,7 +85,7 @@ ___
 
 Ƭ **AnyU8a**: *`Uint8Array` | number[] | string*
 
-*Defined in [types.ts:54](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L54)*
+*Defined in [types.ts:57](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L57)*
 
 ___
 
@@ -92,7 +93,7 @@ ___
 
 Ƭ **ArgsDef**: *`Record<string, Constructor>`*
 
-*Defined in [types.ts:154](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L154)*
+*Defined in [types.ts:157](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L157)*
 
 ___
 
@@ -100,7 +101,7 @@ ___
 
 Ƭ **Callback**: *function*
 
-*Defined in [types.ts:41](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L41)*
+*Defined in [types.ts:44](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L44)*
 
 #### Type declaration:
 
@@ -118,7 +119,7 @@ ___
 
 Ƭ **Calls**: *`Record<string, CallFunction>`*
 
-*Defined in [types.ts:26](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L26)*
+*Defined in [types.ts:29](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L29)*
 
 ___
 
@@ -126,7 +127,7 @@ ___
 
 Ƭ **CodecArg**: *[Codec](../interfaces/_types_.codec.md) | `BN` | boolean | string | `Uint8Array` | boolean | number | string | undefined | `CodecArgArray` | `CodecArgObject`*
 
-*Defined in [types.ts:39](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L39)*
+*Defined in [types.ts:42](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L42)*
 
 ___
 
@@ -134,7 +135,7 @@ ___
 
 Ƭ **CodecTo**: *"toHex" | "toJSON" | "toString" | "toU8a"*
 
-*Defined in [types.ts:120](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L120)*
+*Defined in [types.ts:123](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L123)*
 
 ___
 
@@ -142,7 +143,15 @@ ___
 
 Ƭ **ConstructorDef**: *`Record<string, Constructor<T>>`*
 
-*Defined in [types.ts:129](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L129)*
+*Defined in [types.ts:132](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L132)*
+
+___
+
+###  InterfaceTypes
+
+Ƭ **InterfaceTypes**: *keyof InterfaceRegistry*
+
+*Defined in [types.ts:18](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L18)*
 
 ___
 
@@ -150,7 +159,7 @@ ___
 
 Ƭ **ModulesWithCalls**: *`Record<string, Calls>`*
 
-*Defined in [types.ts:28](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L28)*
+*Defined in [types.ts:31](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L31)*
 
 ___
 
@@ -158,4 +167,4 @@ ___
 
 Ƭ **RegistryTypes**: *`Record<string, Constructor | string | Record<string, string> | object | object>`*
 
-*Defined in [types.ts:131](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/types.ts#L131)*
+*Defined in [types.ts:134](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L134)*

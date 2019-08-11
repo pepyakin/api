@@ -2,7 +2,7 @@
 
 ## Type parameters
 
-▪ **S**: *`ConstructorDef`*
+▪ **S**: *`TypesDef`*
 
 ▪ **T**: *object*
 
@@ -71,7 +71,7 @@
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:34](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L34)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:36](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L36)*
 
 **Parameters:**
 
@@ -111,7 +111,7 @@ Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:166](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L166)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:157](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L157)*
 
 **`description`** Returns the Type description to sthe structure
 
@@ -125,7 +125,7 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:179](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L179)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:170](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L170)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -139,7 +139,7 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:190](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L190)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:181](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L181)*
 
 **`description`** returns a hash of the contents
 
@@ -153,7 +153,7 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:151](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L151)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:142](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L142)*
 
 **`description`** Checks if the value is an empty value
 
@@ -165,7 +165,7 @@ ___
 
 • **get self**(): *[SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md)*
 
-*Defined in [SignerPayload.ts:36](https://github.com/polkadot-js/api/blob/b595428/packages/api/src/SignerPayload.ts#L36)*
+*Defined in [SignerPayload.ts:36](https://github.com/polkadot-js/api/blob/e5cc683/packages/api/src/SignerPayload.ts#L36)*
 
 **`description`** Returns this as a SignerPayloadType. This works since the Struct.with injects all the getters automatically (just ensure the 2 definitiona are matching)
 
@@ -237,7 +237,7 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:197](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L197)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:188](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L188)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -287,7 +287,7 @@ ___
 
 *Overrides void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:205](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L205)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:196](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L196)*
 
 **`description`** Returns a specific names entry in the structure
 
@@ -307,7 +307,7 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:212](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L212)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:203](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L203)*
 
 **`description`** Returns the values of a member at a specific index (Rather use get(name) for performance)
 
@@ -378,7 +378,7 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:219](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L219)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:210](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L210)*
 
 **`description`** Converts the Object to an standard JavaScript Array
 
@@ -392,7 +392,7 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:226](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L226)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:217](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L217)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -406,7 +406,7 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:233](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L233)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:224](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L224)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -418,7 +418,7 @@ ___
 
 ▸ **toPayload**(): *[SignerPayload](../interfaces/_types_.signerpayload.md)*
 
-*Defined in [SignerPayload.ts:43](https://github.com/polkadot-js/api/blob/b595428/packages/api/src/SignerPayload.ts#L43)*
+*Defined in [SignerPayload.ts:43](https://github.com/polkadot-js/api/blob/e5cc683/packages/api/src/SignerPayload.ts#L43)*
 
 **`description`** Creates an representation of the structure as an ISignerPayload JSON
 
@@ -430,7 +430,7 @@ ___
 
 ▸ **toRaw**(): *[SignerPayloadRaw](../interfaces/_types_.signerpayloadraw.md)*
 
-*Defined in [SignerPayload.ts:62](https://github.com/polkadot-js/api/blob/b595428/packages/api/src/SignerPayload.ts#L62)*
+*Defined in [SignerPayload.ts:62](https://github.com/polkadot-js/api/blob/e5cc683/packages/api/src/SignerPayload.ts#L62)*
 
 **`description`** Creates a representation of the payload in raw Exrinsic form
 
@@ -444,7 +444,7 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:249](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L249)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:240](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L240)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -458,7 +458,7 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:262](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L262)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:253](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L253)*
 
 **`description`** Returns the string representation of the value
 
@@ -472,7 +472,7 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:270](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L270)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:261](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L261)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -506,11 +506,11 @@ ___
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:126](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Struct.ts#L126)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:119](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Struct.ts#L119)*
 
 **Type parameters:**
 
-▪ **S**: *`ConstructorDef`*
+▪ **S**: *`TypesDef`*
 
 **Parameters:**
 

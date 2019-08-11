@@ -1,5 +1,9 @@
 > # Class: LinkageResult
 
+**`name`** LinkageResult
+
+**`description`** A Linkage keys/Values tuple
+
 ## Hierarchy
 
   * [Tuple](_codec_tuple_.tuple.md)
@@ -49,7 +53,7 @@
 
 *Overrides [Tuple](_codec_tuple_.tuple.md).[constructor](_codec_tuple_.tuple.md#constructor)*
 
-*Defined in [codec/Linkage.ts:53](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Linkage.ts#L53)*
+*Defined in [codec/Linkage.ts:65](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Linkage.ts#L65)*
 
 **Parameters:**
 
@@ -68,7 +72,7 @@ Name | Type |
 
 *Inherited from [Tuple](_codec_tuple_.tuple.md).[Types](_codec_tuple_.tuple.md#types)*
 
-*Defined in [codec/Tuple.ts:75](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Tuple.ts#L75)*
+*Defined in [codec/Tuple.ts:81](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Tuple.ts#L81)*
 
 **`description`** The types definition of the tuple
 
@@ -84,7 +88,7 @@ ___
 
 *Overrides [AbstractArray](_codec_abstractarray_.abstractarray.md).[encodedLength](_codec_abstractarray_.abstractarray.md#encodedlength)*
 
-*Defined in [codec/Tuple.ts:64](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Tuple.ts#L64)*
+*Defined in [codec/Tuple.ts:70](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Tuple.ts#L70)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -98,7 +102,7 @@ ___
 
 *Inherited from [AbstractArray](_codec_abstractarray_.abstractarray.md).[hash](_codec_abstractarray_.abstractarray.md#hash)*
 
-*Defined in [codec/AbstractArray.ts:34](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/AbstractArray.ts#L34)*
+*Defined in [codec/AbstractArray.ts:34](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/AbstractArray.ts#L34)*
 
 **`description`** returns a hash of the contents
 
@@ -112,7 +116,7 @@ ___
 
 *Inherited from [AbstractArray](_codec_abstractarray_.abstractarray.md).[isEmpty](_codec_abstractarray_.abstractarray.md#isempty)*
 
-*Defined in [codec/AbstractArray.ts:41](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/AbstractArray.ts#L41)*
+*Defined in [codec/AbstractArray.ts:41](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/AbstractArray.ts#L41)*
 
 **`description`** Checks if the value is an empty value
 
@@ -128,7 +132,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/AbstractArray.ts:48](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/AbstractArray.ts#L48)*
+*Defined in [codec/AbstractArray.ts:48](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/AbstractArray.ts#L48)*
 
 **`description`** The length of the value
 
@@ -144,7 +148,7 @@ ___
 
 *Inherited from [AbstractArray](_codec_abstractarray_.abstractarray.md).[eq](_codec_abstractarray_.abstractarray.md#eq)*
 
-*Defined in [codec/AbstractArray.ts:56](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/AbstractArray.ts#L56)*
+*Defined in [codec/AbstractArray.ts:56](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/AbstractArray.ts#L56)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -166,7 +170,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/AbstractArray.ts:126](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/AbstractArray.ts#L126)*
+*Defined in [codec/AbstractArray.ts:126](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/AbstractArray.ts#L126)*
 
 **`description`** Filters the array with the callback
 
@@ -202,7 +206,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/AbstractArray.ts:135](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/AbstractArray.ts#L135)*
+*Defined in [codec/AbstractArray.ts:135](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/AbstractArray.ts#L135)*
 
 **`description`** Maps the array with the callback
 
@@ -240,7 +244,7 @@ ___
 
 *Inherited from [AbstractArray](_codec_abstractarray_.abstractarray.md).[toArray](_codec_abstractarray_.abstractarray.md#toarray)*
 
-*Defined in [codec/AbstractArray.ts:63](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/AbstractArray.ts#L63)*
+*Defined in [codec/AbstractArray.ts:63](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/AbstractArray.ts#L63)*
 
 **`description`** Converts the Object to an standard JavaScript Array
 
@@ -254,7 +258,7 @@ ___
 
 *Inherited from [AbstractArray](_codec_abstractarray_.abstractarray.md).[toHex](_codec_abstractarray_.abstractarray.md#tohex)*
 
-*Defined in [codec/AbstractArray.ts:70](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/AbstractArray.ts#L70)*
+*Defined in [codec/AbstractArray.ts:70](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/AbstractArray.ts#L70)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -270,7 +274,7 @@ ___
 
 *Inherited from [AbstractArray](_codec_abstractarray_.abstractarray.md).[toJSON](_codec_abstractarray_.abstractarray.md#tojson)*
 
-*Defined in [codec/AbstractArray.ts:77](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/AbstractArray.ts#L77)*
+*Defined in [codec/AbstractArray.ts:77](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/AbstractArray.ts#L77)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -288,7 +292,7 @@ ___
 
 *Overrides [AbstractArray](_codec_abstractarray_.abstractarray.md).[toRawType](_codec_abstractarray_.abstractarray.md#abstract-torawtype)*
 
-*Defined in [codec/Tuple.ts:84](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Tuple.ts#L84)*
+*Defined in [codec/Tuple.ts:90](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Tuple.ts#L90)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -306,7 +310,7 @@ ___
 
 *Overrides [AbstractArray](_codec_abstractarray_.abstractarray.md).[toString](_codec_abstractarray_.abstractarray.md#tostring)*
 
-*Defined in [codec/Tuple.ts:97](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Tuple.ts#L97)*
+*Defined in [codec/Tuple.ts:103](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Tuple.ts#L103)*
 
 **`description`** Returns the string representation of the value
 
@@ -324,7 +328,7 @@ ___
 
 *Overrides [AbstractArray](_codec_abstractarray_.abstractarray.md).[toU8a](_codec_abstractarray_.abstractarray.md#tou8a)*
 
-*Defined in [codec/Tuple.ts:106](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Tuple.ts#L106)*
+*Defined in [codec/Tuple.ts:112](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Tuple.ts#L112)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -340,16 +344,16 @@ ___
 
 ### `Static` with
 
-▸ **with**(`Types`: `TupleConstructors`): *[Constructor](../interfaces/_types_.constructor.md)‹*[Tuple](_codec_tuple_.tuple.md)*›*
+▸ **with**(`Types`: `TupleTypes`): *[Constructor](../interfaces/_types_.constructor.md)‹*[Tuple](_codec_tuple_.tuple.md)*›*
 
 *Inherited from [Tuple](_codec_tuple_.tuple.md).[with](_codec_tuple_.tuple.md#static-with)*
 
-*Defined in [codec/Tuple.ts:53](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/codec/Tuple.ts#L53)*
+*Defined in [codec/Tuple.ts:59](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/Tuple.ts#L59)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`Types` | `TupleConstructors` |
+`Types` | `TupleTypes` |
 
 **Returns:** *[Constructor](../interfaces/_types_.constructor.md)‹*[Tuple](_codec_tuple_.tuple.md)*›*

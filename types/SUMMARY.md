@@ -167,6 +167,7 @@
   * [codec/utils/compareArray](modules/_codec_utils_comparearray_.md)
   * [codec/utils/compareMap](modules/_codec_utils_comparemap_.md)
   * [codec/utils/decodeU8a](modules/_codec_utils_decodeu8a_.md)
+  * [codec/utils/mapToTypeMap](modules/_codec_utils_maptotypemap_.md)
   * [index.types](modules/_index_types_.md)
   * [injector](modules/_injector_.md)
   * [interfaceRegistry](modules/_interfaceregistry_.md)

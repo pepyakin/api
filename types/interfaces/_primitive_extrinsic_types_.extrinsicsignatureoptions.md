@@ -16,4 +16,4 @@
 
 • **isSigned**? : *undefined | false | true*
 
-*Defined in [primitive/Extrinsic/types.ts:12](https://github.com/polkadot-js/api/blob/b595428/packages/types/src/primitive/Extrinsic/types.ts#L12)*
+*Defined in [primitive/Extrinsic/types.ts:12](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/primitive/Extrinsic/types.ts#L12)*
