@@ -14,17 +14,13 @@
 
 * [constructor](_types_.constructor.md#constructor)
 
-### Properties
-
-* [Fallback](_types_.constructor.md#optional-fallback)
-
 ## Constructors
 
 ###  constructor
 
 \+ **new Constructor**(...`value`: any[]): *`T`*
 
-*Defined in [types.ts:126](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L126)*
+*Defined in [types.ts:125](https://github.com/polkadot-js/api/blob/7e3da63/packages/types/src/types.ts#L125)*
 
 **Parameters:**
 
@@ -33,11 +29,3 @@ Name | Type |
 `...value` | any[] |
 
 **Returns:** *`T`*
-
-## Properties
-
-### `Optional` Fallback
-
-• **Fallback**? : *[Constructor](_types_.constructor.md)‹*[Codec](_types_.codec.md)*›*
-
-*Defined in [types.ts:126](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/types.ts#L126)*

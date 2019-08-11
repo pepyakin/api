@@ -12,7 +12,7 @@
 
 ▸ **compareMap**(`a`: `Map<any, any>`, `b?`: any): *boolean*
 
-*Defined in [codec/utils/compareMap.ts:9](https://github.com/polkadot-js/api/blob/e5cc683/packages/types/src/codec/utils/compareMap.ts#L9)*
+*Defined in [codec/utils/compareMap.ts:9](https://github.com/polkadot-js/api/blob/7e3da63/packages/types/src/codec/utils/compareMap.ts#L9)*
 
 **Parameters:**
 
