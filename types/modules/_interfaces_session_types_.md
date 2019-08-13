@@ -15,7 +15,7 @@
 
 Ƭ **Keys**: *[SessionKeysSubstrate](_interfaces_session_types_.md#sessionkeyssubstrate)*
 
-*Defined in [interfaces/session/types.ts:9](https://github.com/polkadot-js/api/blob/9738ea1/packages/types/src/interfaces/session/types.ts#L9)*
+*Defined in [interfaces/session/types.ts:9](https://github.com/polkadot-js/api/blob/b9142bc/packages/types/src/interfaces/session/types.ts#L9)*
 
 SessionKeysSubstrate
 
@@ -25,7 +25,7 @@ ___
 
 Ƭ **SessionIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/session/types.ts:12](https://github.com/polkadot-js/api/blob/9738ea1/packages/types/src/interfaces/session/types.ts#L12)*
+*Defined in [interfaces/session/types.ts:12](https://github.com/polkadot-js/api/blob/b9142bc/packages/types/src/interfaces/session/types.ts#L12)*
 
 u32
 
@@ -35,7 +35,7 @@ ___
 
 Ƭ **SessionKeysPolkadot**: *[[AccountId](../classes/_primitive_generic_accountid_.accountid.md), [AccountId](../classes/_primitive_generic_accountid_.accountid.md), [AccountId](../classes/_primitive_generic_accountid_.accountid.md), [AccountId](../classes/_primitive_generic_accountid_.accountid.md)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/session/types.ts:15](https://github.com/polkadot-js/api/blob/9738ea1/packages/types/src/interfaces/session/types.ts#L15)*
+*Defined in [interfaces/session/types.ts:15](https://github.com/polkadot-js/api/blob/b9142bc/packages/types/src/interfaces/session/types.ts#L15)*
 
 [AccountId, AccountId, AccountId, AccountId] & Codec
 
@@ -45,6 +45,6 @@ ___
 
 Ƭ **SessionKeysSubstrate**: *[[AccountId](../classes/_primitive_generic_accountid_.accountid.md), [AccountId](../classes/_primitive_generic_accountid_.accountid.md), [AccountId](../classes/_primitive_generic_accountid_.accountid.md)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/session/types.ts:18](https://github.com/polkadot-js/api/blob/9738ea1/packages/types/src/interfaces/session/types.ts#L18)*
+*Defined in [interfaces/session/types.ts:18](https://github.com/polkadot-js/api/blob/b9142bc/packages/types/src/interfaces/session/types.ts#L18)*
 
 [AccountId, AccountId, AccountId] & Codec
