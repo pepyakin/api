@@ -20,7 +20,7 @@
 
 • **substrate**: *object*
 
-*Defined in [storage/types.ts:13](https://github.com/polkadot-js/api/blob/604812d/packages/api-metadata/src/storage/types.ts#L13)*
+*Defined in [storage/types.ts:13](https://github.com/polkadot-js/api/blob/9e61deb/packages/api-metadata/src/storage/types.ts#L13)*
 
 #### Type declaration:
 

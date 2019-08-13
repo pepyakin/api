@@ -1,171 +1,131 @@
-> # Class: Payload <**S, T, V, E**>
-
-## Type parameters
-
-▪ **S**: *`TypesDef`*
-
-▪ **T**: *object*
-
-▪ **V**: *object*
-
-▪ **E**: *object*
+> # Class: Payload
 
 ## Hierarchy
 
-* `Struct`
+* [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md)
 
   * **Payload**
 
-## Implements
-
-* `Codec`
-
 ## Index
-
-### Constructors
-
-* [constructor](_signerpayload_.payload.md#constructor)
 
 ### Properties
 
-* [__@toStringTag](_signerpayload_.payload.md#__@tostringtag)
-* [size](_signerpayload_.payload.md#size)
+* [address](_signerpayload_.payload.md#address)
+* [blockHash](_signerpayload_.payload.md#blockhash)
+* [blockNumber](_signerpayload_.payload.md#blocknumber)
+* [era](_signerpayload_.payload.md#era)
+* [genesisHash](_signerpayload_.payload.md#genesishash)
+* [method](_signerpayload_.payload.md#method)
+* [nonce](_signerpayload_.payload.md#nonce)
+* [tip](_signerpayload_.payload.md#tip)
+* [version](_signerpayload_.payload.md#version)
 
 ### Accessors
 
-* [Type](_signerpayload_.payload.md#type)
-* [encodedLength](_signerpayload_.payload.md#encodedlength)
-* [hash](_signerpayload_.payload.md#hash)
-* [isEmpty](_signerpayload_.payload.md#isempty)
 * [self](_signerpayload_.payload.md#self)
 
 ### Methods
 
-* [__@iterator](_signerpayload_.payload.md#__@iterator)
-* [clear](_signerpayload_.payload.md#clear)
-* [delete](_signerpayload_.payload.md#delete)
-* [entries](_signerpayload_.payload.md#entries)
-* [eq](_signerpayload_.payload.md#eq)
-* [forEach](_signerpayload_.payload.md#foreach)
-* [get](_signerpayload_.payload.md#get)
-* [getAtIndex](_signerpayload_.payload.md#getatindex)
-* [has](_signerpayload_.payload.md#has)
-* [keys](_signerpayload_.payload.md#keys)
-* [set](_signerpayload_.payload.md#set)
-* [toArray](_signerpayload_.payload.md#toarray)
-* [toHex](_signerpayload_.payload.md#tohex)
-* [toJSON](_signerpayload_.payload.md#tojson)
 * [toPayload](_signerpayload_.payload.md#topayload)
 * [toRaw](_signerpayload_.payload.md#toraw)
-* [toRawType](_signerpayload_.payload.md#torawtype)
-* [toString](_signerpayload_.payload.md#tostring)
-* [toU8a](_signerpayload_.payload.md#tou8a)
-* [values](_signerpayload_.payload.md#values)
-* [with](_signerpayload_.payload.md#static-with)
-
-## Constructors
-
-###  constructor
-
-\+ **new Payload**(`Types`: `S`, `value`: `V` | `Map<any, any>` | any[] | string, `jsonMap`: `Map<keyof S, string>`): *[Payload](_signerpayload_.payload.md)*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:36](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L36)*
-
-**Parameters:**
-
-Name | Type | Default |
------- | ------ | ------ |
-`Types` | `S` | - |
-`value` | `V` \| `Map<any, any>` \| any[] \| string |  {} as unknown as V |
-`jsonMap` | `Map<keyof S, string>` |  new Map() |
-
-**Returns:** *[Payload](_signerpayload_.payload.md)*
 
 ## Properties
 
-###  __@toStringTag
+###  address
 
-• **__@toStringTag**: *string*
+• **address**: *`Address`*
 
-*Inherited from void*
+*Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[address](../interfaces/_signerpayload_.signerpayloadtype.md#address)*
 
-Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts:130
+*Defined in [SignerPayload.ts:12](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L12)*
 
 ___
 
-###  size
+###  blockHash
 
-• **size**: *number*
+• **blockHash**: *`Hash`*
 
-*Inherited from void*
+*Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[blockHash](../interfaces/_signerpayload_.signerpayloadtype.md#blockhash)*
 
-Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es2015.collection.d.ts:28
+*Defined in [SignerPayload.ts:13](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L13)*
+
+___
+
+###  blockNumber
+
+• **blockNumber**: *`BlockNumber`*
+
+*Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[blockNumber](../interfaces/_signerpayload_.signerpayloadtype.md#blocknumber)*
+
+*Defined in [SignerPayload.ts:14](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L14)*
+
+___
+
+###  era
+
+• **era**: *`ExtrinsicEra`*
+
+*Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[era](../interfaces/_signerpayload_.signerpayloadtype.md#era)*
+
+*Defined in [SignerPayload.ts:15](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L15)*
+
+___
+
+###  genesisHash
+
+• **genesisHash**: *`Hash`*
+
+*Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[genesisHash](../interfaces/_signerpayload_.signerpayloadtype.md#genesishash)*
+
+*Defined in [SignerPayload.ts:16](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L16)*
+
+___
+
+###  method
+
+• **method**: *`Call`*
+
+*Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[method](../interfaces/_signerpayload_.signerpayloadtype.md#method)*
+
+*Defined in [SignerPayload.ts:17](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L17)*
+
+___
+
+###  nonce
+
+• **nonce**: *`Compact<Index>`*
+
+*Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[nonce](../interfaces/_signerpayload_.signerpayloadtype.md#nonce)*
+
+*Defined in [SignerPayload.ts:18](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L18)*
+
+___
+
+###  tip
+
+• **tip**: *`Compact<Balance>`*
+
+*Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[tip](../interfaces/_signerpayload_.signerpayloadtype.md#tip)*
+
+*Defined in [SignerPayload.ts:19](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L19)*
+
+___
+
+###  version
+
+• **version**: *`u8`*
+
+*Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[version](../interfaces/_signerpayload_.signerpayloadtype.md#version)*
+
+*Defined in [SignerPayload.ts:20](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L20)*
 
 ## Accessors
-
-###  Type
-
-• **get Type**(): *`E`*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:157](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L157)*
-
-**`description`** Returns the Type description to sthe structure
-
-**Returns:** *`E`*
-
-___
-
-###  encodedLength
-
-• **get encodedLength**(): *number*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:170](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L170)*
-
-**`description`** The length of the value when encoded as a Uint8Array
-
-**Returns:** *number*
-
-___
-
-###  hash
-
-• **get hash**(): *`IHash`*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:181](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L181)*
-
-**`description`** returns a hash of the contents
-
-**Returns:** *`IHash`*
-
-___
-
-###  isEmpty
-
-• **get isEmpty**(): *boolean*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:142](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L142)*
-
-**`description`** Checks if the value is an empty value
-
-**Returns:** *boolean*
-
-___
 
 ###  self
 
 • **get self**(): *[SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md)*
 
-*Defined in [SignerPayload.ts:36](https://github.com/polkadot-js/api/blob/604812d/packages/api/src/SignerPayload.ts#L36)*
+*Defined in [SignerPayload.ts:41](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L41)*
 
 **`description`** Returns this as a SignerPayloadType. This works since the Struct.with injects all the getters automatically (just ensure the 2 definitiona are matching)
 
@@ -173,252 +133,11 @@ ___
 
 ## Methods
 
-###  __@iterator
-
-▸ **__@iterator**(): *`IterableIterator<[keyof S, Codec]>`*
-
-*Inherited from void*
-
-Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es2015.iterable.d.ts:113
-
-Returns an iterable of entries in the map.
-
-**Returns:** *`IterableIterator<[keyof S, Codec]>`*
-
-___
-
-###  clear
-
-▸ **clear**(): *void*
-
-*Inherited from void*
-
-Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es2015.collection.d.ts:22
-
-**Returns:** *void*
-
-___
-
-###  delete
-
-▸ **delete**(`key`: keyof S): *boolean*
-
-*Inherited from void*
-
-Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es2015.collection.d.ts:23
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`key` | keyof S |
-
-**Returns:** *boolean*
-
-___
-
-###  entries
-
-▸ **entries**(): *`IterableIterator<[keyof S, Codec]>`*
-
-*Inherited from void*
-
-Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es2015.iterable.d.ts:118
-
-Returns an iterable of key, value pairs for every entry in the map.
-
-**Returns:** *`IterableIterator<[keyof S, Codec]>`*
-
-___
-
-###  eq
-
-▸ **eq**(`other?`: any): *boolean*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:188](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L188)*
-
-**`description`** Compares the value of the input to see if there is a match
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`other?` | any |
-
-**Returns:** *boolean*
-
-___
-
-###  forEach
-
-▸ **forEach**(`callbackfn`: function, `thisArg?`: any): *void*
-
-*Inherited from void*
-
-Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es2015.collection.d.ts:24
-
-**Parameters:**
-
-▪ **callbackfn**: *function*
-
-▸ (`value`: `Codec`, `key`: keyof S, `map`: `Map<keyof S, Codec>`): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`value` | `Codec` |
-`key` | keyof S |
-`map` | `Map<keyof S, Codec>` |
-
-▪`Optional`  **thisArg**: *any*
-
-**Returns:** *void*
-
-___
-
-###  get
-
-▸ **get**(`name`: keyof S): *`Codec` | undefined*
-
-*Inherited from void*
-
-*Overrides void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:196](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L196)*
-
-**`description`** Returns a specific names entry in the structure
-
-**Parameters:**
-
-Name | Type | Description |
------- | ------ | ------ |
-`name` | keyof S | The name of the entry to retrieve  |
-
-**Returns:** *`Codec` | undefined*
-
-___
-
-###  getAtIndex
-
-▸ **getAtIndex**(`index`: number): *`Codec`*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:203](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L203)*
-
-**`description`** Returns the values of a member at a specific index (Rather use get(name) for performance)
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`index` | number |
-
-**Returns:** *`Codec`*
-
-___
-
-###  has
-
-▸ **has**(`key`: keyof S): *boolean*
-
-*Inherited from void*
-
-Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es2015.collection.d.ts:26
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`key` | keyof S |
-
-**Returns:** *boolean*
-
-___
-
-###  keys
-
-▸ **keys**(): *`IterableIterator<keyof S>`*
-
-*Inherited from void*
-
-Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es2015.iterable.d.ts:123
-
-Returns an iterable of keys in the map
-
-**Returns:** *`IterableIterator<keyof S>`*
-
-___
-
-###  set
-
-▸ **set**(`key`: keyof S, `value`: `Codec`): *this*
-
-*Inherited from void*
-
-Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es2015.collection.d.ts:27
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`key` | keyof S |
-`value` | `Codec` |
-
-**Returns:** *this*
-
-___
-
-###  toArray
-
-▸ **toArray**(): *`Codec`[]*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:210](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L210)*
-
-**`description`** Converts the Object to an standard JavaScript Array
-
-**Returns:** *`Codec`[]*
-
-___
-
-###  toHex
-
-▸ **toHex**(): *string*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:217](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L217)*
-
-**`description`** Returns a hex string representation of the value
-
-**Returns:** *string*
-
-___
-
-###  toJSON
-
-▸ **toJSON**(): *`AnyJsonObject` | string*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:224](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L224)*
-
-**`description`** Converts the Object to JSON, typically used for RPC transfers
-
-**Returns:** *`AnyJsonObject` | string*
-
-___
-
 ###  toPayload
 
 ▸ **toPayload**(): *[SignerPayload](../interfaces/_types_.signerpayload.md)*
 
-*Defined in [SignerPayload.ts:43](https://github.com/polkadot-js/api/blob/604812d/packages/api/src/SignerPayload.ts#L43)*
+*Defined in [SignerPayload.ts:48](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L48)*
 
 **`description`** Creates an representation of the structure as an ISignerPayload JSON
 
@@ -430,92 +149,8 @@ ___
 
 ▸ **toRaw**(): *[SignerPayloadRaw](../interfaces/_types_.signerpayloadraw.md)*
 
-*Defined in [SignerPayload.ts:62](https://github.com/polkadot-js/api/blob/604812d/packages/api/src/SignerPayload.ts#L62)*
+*Defined in [SignerPayload.ts:67](https://github.com/polkadot-js/api/blob/9e61deb/packages/api/src/SignerPayload.ts#L67)*
 
 **`description`** Creates a representation of the payload in raw Exrinsic form
 
 **Returns:** *[SignerPayloadRaw](../interfaces/_types_.signerpayloadraw.md)*
-
-___
-
-###  toRawType
-
-▸ **toRawType**(): *string*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:240](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L240)*
-
-**`description`** Returns the base runtime type name for this instance
-
-**Returns:** *string*
-
-___
-
-###  toString
-
-▸ **toString**(): *string*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:253](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L253)*
-
-**`description`** Returns the string representation of the value
-
-**Returns:** *string*
-
-___
-
-###  toU8a
-
-▸ **toU8a**(`isBare?`: undefined | false | true): *`Uint8Array`*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:261](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L261)*
-
-**`description`** Encodes the value as a Uint8Array as per the SCALE specifications
-
-**Parameters:**
-
-Name | Type | Description |
------- | ------ | ------ |
-`isBare?` | undefined \| false \| true | true when the value has none of the type-specific prefixes (internal)  |
-
-**Returns:** *`Uint8Array`*
-
-___
-
-###  values
-
-▸ **values**(): *`IterableIterator<Codec>`*
-
-*Inherited from void*
-
-Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es2015.iterable.d.ts:128
-
-Returns an iterable of values in the map
-
-**Returns:** *`IterableIterator<Codec>`*
-
-___
-
-### `Static` with
-
-▸ **with**<**S**>(`Types`: `S`): *`Constructor<Struct<S>>`*
-
-*Inherited from void*
-
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/codec/Struct.ts:119](https://github.com/polkadot-js/api/blob/604812d/packages/types/src/codec/Struct.ts#L119)*
-
-**Type parameters:**
-
-▪ **S**: *`TypesDef`*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`Types` | `S` |
-
-**Returns:** *`Constructor<Struct<S>>`*
