@@ -21,4 +21,4 @@
 
 Ƭ **FromReg**: *`FromReg<T, K>`*
 
-*Defined in [codec/create/types.ts:10](https://github.com/polkadot-js/api/blob/9954477/packages/types/src/codec/create/types.ts#L10)*
+*Defined in [codec/create/types.ts:10](https://github.com/polkadot-js/api/blob/c790cb5/packages/types/src/codec/create/types.ts#L10)*

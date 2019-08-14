@@ -8,7 +8,7 @@
 
 ▸ <**T**>(`args`: undefined | string | number | false | true | `Codec` | `Uint8Array` | `BN` | `CodecArgArray` | `CodecArgObject` | undefined | string | number | false | true | `Codec` | `Uint8Array` | `BN` | `CodecArgArray` | `CodecArgObject`[][]): *`Promise<T[]>`*
 
-*Defined in [types.ts:102](https://github.com/polkadot-js/api/blob/9954477/packages/api/src/types.ts#L102)*
+*Defined in [types.ts:102](https://github.com/polkadot-js/api/blob/c790cb5/packages/api/src/types.ts#L102)*
 
 **Type parameters:**
 
@@ -24,7 +24,7 @@ Name | Type |
 
 ▸ <**T**>(`args`: undefined | string | number | false | true | `Codec` | `Uint8Array` | `BN` | `CodecArgArray` | `CodecArgObject` | undefined | string | number | false | true | `Codec` | `Uint8Array` | `BN` | `CodecArgArray` | `CodecArgObject`[][], `callback`: `Callback<T[]>`): *[UnsubscribePromise](../modules/_types_.md#unsubscribepromise)*
 
-*Defined in [types.ts:103](https://github.com/polkadot-js/api/blob/9954477/packages/api/src/types.ts#L103)*
+*Defined in [types.ts:103](https://github.com/polkadot-js/api/blob/c790cb5/packages/api/src/types.ts#L103)*
 
 **Type parameters:**
 
