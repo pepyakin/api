@@ -29,7 +29,7 @@
 
 Ƭ **AbiMessages**: *`Record<string, ContractABIFn>`*
 
-*Defined in [types.ts:71](https://github.com/polkadot-js/api/blob/a9c752a/packages/api-contract/src/types.ts#L71)*
+*Defined in [types.ts:71](https://github.com/polkadot-js/api/blob/53256fe/packages/api-contract/src/types.ts#L71)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 Ƭ **ApiObject**: *`ApiObject<ApiType>`*
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/api/blob/a9c752a/packages/api-contract/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/api/blob/53256fe/packages/api-contract/src/types.ts#L11)*
 
 ___
 
@@ -45,4 +45,4 @@ ___
 
 Ƭ **ContractABITypes**: *string | [ContractABITypesStruct](../interfaces/_types_.contractabitypesstruct.md) | string | [ContractABITypesStruct](../interfaces/_types_.contractabitypesstruct.md)[]*
 
-*Defined in [types.ts:32](https://github.com/polkadot-js/api/blob/a9c752a/packages/api-contract/src/types.ts#L32)*
+*Defined in [types.ts:32](https://github.com/polkadot-js/api/blob/53256fe/packages/api-contract/src/types.ts#L32)*
