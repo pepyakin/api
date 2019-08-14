@@ -12,7 +12,7 @@
 
 ▸ **sign**(`signerPair`: [IKeyringPair](../interfaces/_types_.ikeyringpair.md), `u8a`: `Uint8Array`): *`Uint8Array`*
 
-*Defined in [primitive/Extrinsic/util.ts:10](https://github.com/polkadot-js/api/blob/4115b8a/packages/types/src/primitive/Extrinsic/util.ts#L10)*
+*Defined in [primitive/Extrinsic/util.ts:10](https://github.com/polkadot-js/api/blob/a39cacc/packages/types/src/primitive/Extrinsic/util.ts#L10)*
 
 **Parameters:**
 
