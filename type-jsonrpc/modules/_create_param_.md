@@ -10,16 +10,16 @@
 
 ###  createParam
 
-▸ **createParam**(`name`: string, `type`: string, `__namedParameters`: object): *[RpcParam](../interfaces/_types_.rpcparam.md)*
+▸ **createParam**(`name`: string, `type`: `InterfaceTypes`, `__namedParameters`: object): *[RpcParam](../interfaces/_types_.rpcparam.md)*
 
-*Defined in [create/param.ts:13](https://github.com/polkadot-js/api/blob/677e63b/packages/type-jsonrpc/src/create/param.ts#L13)*
+*Defined in [create/param.ts:12](https://github.com/polkadot-js/api/blob/a9c752a/packages/type-jsonrpc/src/create/param.ts#L12)*
 
 **Parameters:**
 
 Name | Type | Default |
 ------ | ------ | ------ |
 `name` | string | - |
-`type` | string | - |
+`type` | `InterfaceTypes` | - |
 `__namedParameters` | object |  { isOptional: false } |
 
 **Returns:** *[RpcParam](../interfaces/_types_.rpcparam.md)*
