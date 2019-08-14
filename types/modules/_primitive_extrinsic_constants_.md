@@ -18,7 +18,7 @@
 
 • **BIT_SIGNED**: *`128`* = 128
 
-*Defined in [primitive/Extrinsic/constants.ts:5](https://github.com/polkadot-js/api/blob/53256fe/packages/types/src/primitive/Extrinsic/constants.ts#L5)*
+*Defined in [primitive/Extrinsic/constants.ts:5](https://github.com/polkadot-js/api/blob/4115b8a/packages/types/src/primitive/Extrinsic/constants.ts#L5)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **BIT_UNSIGNED**: *`0`* = 0
 
-*Defined in [primitive/Extrinsic/constants.ts:7](https://github.com/polkadot-js/api/blob/53256fe/packages/types/src/primitive/Extrinsic/constants.ts#L7)*
+*Defined in [primitive/Extrinsic/constants.ts:7](https://github.com/polkadot-js/api/blob/4115b8a/packages/types/src/primitive/Extrinsic/constants.ts#L7)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **DEFAULT_VERSION**: *`1`* = 1
 
-*Defined in [primitive/Extrinsic/constants.ts:15](https://github.com/polkadot-js/api/blob/53256fe/packages/types/src/primitive/Extrinsic/constants.ts#L15)*
+*Defined in [primitive/Extrinsic/constants.ts:15](https://github.com/polkadot-js/api/blob/4115b8a/packages/types/src/primitive/Extrinsic/constants.ts#L15)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **EMPTY_U8A**: *`Uint8Array`* =  new Uint8Array()
 
-*Defined in [primitive/Extrinsic/constants.ts:9](https://github.com/polkadot-js/api/blob/53256fe/packages/types/src/primitive/Extrinsic/constants.ts#L9)*
+*Defined in [primitive/Extrinsic/constants.ts:9](https://github.com/polkadot-js/api/blob/4115b8a/packages/types/src/primitive/Extrinsic/constants.ts#L9)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **IMMORTAL_ERA**: *`Uint8Array`* =  new Uint8Array([0])
 
-*Defined in [primitive/Extrinsic/constants.ts:17](https://github.com/polkadot-js/api/blob/53256fe/packages/types/src/primitive/Extrinsic/constants.ts#L17)*
+*Defined in [primitive/Extrinsic/constants.ts:17](https://github.com/polkadot-js/api/blob/4115b8a/packages/types/src/primitive/Extrinsic/constants.ts#L17)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **LATEST_VERSION**: *`3`* = 3
 
-*Defined in [primitive/Extrinsic/constants.ts:11](https://github.com/polkadot-js/api/blob/53256fe/packages/types/src/primitive/Extrinsic/constants.ts#L11)*
+*Defined in [primitive/Extrinsic/constants.ts:11](https://github.com/polkadot-js/api/blob/4115b8a/packages/types/src/primitive/Extrinsic/constants.ts#L11)*
 
 ___
 
@@ -66,4 +66,4 @@ ___
 
 • **UNMASK_VERSION**: *`127`* = 127
 
-*Defined in [primitive/Extrinsic/constants.ts:19](https://github.com/polkadot-js/api/blob/53256fe/packages/types/src/primitive/Extrinsic/constants.ts#L19)*
+*Defined in [primitive/Extrinsic/constants.ts:19](https://github.com/polkadot-js/api/blob/4115b8a/packages/types/src/primitive/Extrinsic/constants.ts#L19)*

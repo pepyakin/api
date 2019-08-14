@@ -35,7 +35,7 @@
 
 *Overrides [RxBase](_rxbase_.rxbase.md).[constructor](_rxbase_.rxbase.md#constructor)*
 
-*Defined in [RxBlueprint.ts:38](https://github.com/polkadot-js/api/blob/53256fe/packages/api-contract/src/RxBlueprint.ts#L38)*
+*Defined in [RxBlueprint.ts:38](https://github.com/polkadot-js/api/blob/4115b8a/packages/api-contract/src/RxBlueprint.ts#L38)*
 
 **Parameters:**
 
@@ -57,7 +57,7 @@ Name | Type |
 
 *Inherited from [RxBase](_rxbase_.rxbase.md).[abi](_rxbase_.rxbase.md#abi)*
 
-*Defined in [RxBase.ts:14](https://github.com/polkadot-js/api/blob/53256fe/packages/api-contract/src/RxBase.ts#L14)*
+*Defined in [RxBase.ts:14](https://github.com/polkadot-js/api/blob/4115b8a/packages/api-contract/src/RxBase.ts#L14)*
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 *Inherited from [RxBase](_rxbase_.rxbase.md).[api](_rxbase_.rxbase.md#api)*
 
-*Defined in [RxBase.ts:16](https://github.com/polkadot-js/api/blob/53256fe/packages/api-contract/src/RxBase.ts#L16)*
+*Defined in [RxBase.ts:16](https://github.com/polkadot-js/api/blob/4115b8a/packages/api-contract/src/RxBase.ts#L16)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 *Inherited from [RxBase](_rxbase_.rxbase.md).[apiContracts](_rxbase_.rxbase.md#apicontracts)*
 
-*Defined in [RxBase.ts:18](https://github.com/polkadot-js/api/blob/53256fe/packages/api-contract/src/RxBase.ts#L18)*
+*Defined in [RxBase.ts:18](https://github.com/polkadot-js/api/blob/4115b8a/packages/api-contract/src/RxBase.ts#L18)*
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 • **codeHash**: *`Hash`*
 
-*Defined in [RxBlueprint.ts:38](https://github.com/polkadot-js/api/blob/53256fe/packages/api-contract/src/RxBlueprint.ts#L38)*
+*Defined in [RxBlueprint.ts:38](https://github.com/polkadot-js/api/blob/4115b8a/packages/api-contract/src/RxBlueprint.ts#L38)*
 
 ## Methods
 
@@ -97,7 +97,7 @@ ___
 
 ▸ **deployContract**(`endowment`: number | `BN`, `maxGas`: number | `BN`, ...`params`: any[]): *[BlueprintCreate](../interfaces/_rxblueprint_.blueprintcreate.md)*
 
-*Defined in [RxBlueprint.ts:46](https://github.com/polkadot-js/api/blob/53256fe/packages/api-contract/src/RxBlueprint.ts#L46)*
+*Defined in [RxBlueprint.ts:46](https://github.com/polkadot-js/api/blob/4115b8a/packages/api-contract/src/RxBlueprint.ts#L46)*
 
 **Parameters:**
 

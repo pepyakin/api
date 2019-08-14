@@ -20,7 +20,7 @@
 
 Ƭ **AuthorityWeight**: *[u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)*
 
-*Defined in [interfaces/grandpa/types.ts:11](https://github.com/polkadot-js/api/blob/53256fe/packages/types/src/interfaces/grandpa/types.ts#L11)*
+*Defined in [interfaces/grandpa/types.ts:11](https://github.com/polkadot-js/api/blob/4115b8a/packages/types/src/interfaces/grandpa/types.ts#L11)*
 
 u64
 
@@ -30,6 +30,6 @@ ___
 
 Ƭ **NextAuthority**: *[[AuthorityId](_interfaces_consensus_types_.md#authorityid), [u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/grandpa/types.ts:14](https://github.com/polkadot-js/api/blob/53256fe/packages/types/src/interfaces/grandpa/types.ts#L14)*
+*Defined in [interfaces/grandpa/types.ts:14](https://github.com/polkadot-js/api/blob/4115b8a/packages/types/src/interfaces/grandpa/types.ts#L14)*
 
 [AuthorityId, u64] & Codec
