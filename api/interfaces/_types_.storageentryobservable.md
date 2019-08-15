@@ -2,13 +2,15 @@
 
 ## Hierarchy
 
-* **StorageEntryObservable**
+* `StorageEntryBase<Observable<Codec>, Observable<Hash>, Observable<u64>>`
+
+  * **StorageEntryObservable**
 
 ## Callable
 
 ▸ (`arg1?`: `CodecArg`, `arg2?`: `CodecArg`): *`Observable<Codec>`*
 
-*Defined in [types.ts:83](https://github.com/polkadot-js/api/blob/411d432/packages/api/src/types.ts#L83)*
+*Defined in [types.ts:91](https://github.com/polkadot-js/api/blob/fbac330/packages/api/src/types.ts#L91)*
 
 **Parameters:**
 
@@ -21,7 +23,7 @@ Name | Type |
 
 ▸ <**T**>(`arg1?`: `CodecArg`, `arg2?`: `CodecArg`): *`Observable<T>`*
 
-*Defined in [types.ts:84](https://github.com/polkadot-js/api/blob/411d432/packages/api/src/types.ts#L84)*
+*Defined in [types.ts:92](https://github.com/polkadot-js/api/blob/fbac330/packages/api/src/types.ts#L92)*
 
 **Type parameters:**
 
@@ -53,7 +55,9 @@ Name | Type |
 
 • **at**: *function*
 
-*Defined in [types.ts:86](https://github.com/polkadot-js/api/blob/411d432/packages/api/src/types.ts#L86)*
+*Inherited from void*
+
+*Defined in [types.ts:84](https://github.com/polkadot-js/api/blob/fbac330/packages/api/src/types.ts#L84)*
 
 #### Type declaration:
 
@@ -73,7 +77,9 @@ ___
 
 • **creator**: *`StorageEntry`*
 
-*Defined in [types.ts:87](https://github.com/polkadot-js/api/blob/411d432/packages/api/src/types.ts#L87)*
+*Inherited from void*
+
+*Defined in [types.ts:85](https://github.com/polkadot-js/api/blob/fbac330/packages/api/src/types.ts#L85)*
 
 ___
 
@@ -81,7 +87,9 @@ ___
 
 • **hash**: *function*
 
-*Defined in [types.ts:88](https://github.com/polkadot-js/api/blob/411d432/packages/api/src/types.ts#L88)*
+*Inherited from void*
+
+*Defined in [types.ts:86](https://github.com/polkadot-js/api/blob/fbac330/packages/api/src/types.ts#L86)*
 
 #### Type declaration:
 
@@ -100,7 +108,9 @@ ___
 
 • **key**: *function*
 
-*Defined in [types.ts:89](https://github.com/polkadot-js/api/blob/411d432/packages/api/src/types.ts#L89)*
+*Inherited from void*
+
+*Defined in [types.ts:87](https://github.com/polkadot-js/api/blob/fbac330/packages/api/src/types.ts#L87)*
 
 #### Type declaration:
 
@@ -119,11 +129,11 @@ ___
 
 • **multi**: *function*
 
-*Defined in [types.ts:90](https://github.com/polkadot-js/api/blob/411d432/packages/api/src/types.ts#L90)*
+*Defined in [types.ts:94](https://github.com/polkadot-js/api/blob/fbac330/packages/api/src/types.ts#L94)*
 
 #### Type declaration:
 
-▸ <**T**>(`args`: undefined | string | number | false | true | `Codec` | `Uint8Array` | `BN` | `CodecArgArray` | `CodecArgObject` | undefined | string | number | false | true | `Codec` | `Uint8Array` | `BN` | `CodecArgArray` | `CodecArgObject`[][]): *`Observable<T[]>`*
+▸ <**T**>(`args`: undefined | string | number | false | true | `Uint8Array` | `Codec` | `BN` | `CodecArgArray` | `CodecArgObject` | undefined | string | number | false | true | `Uint8Array` | `Codec` | `BN` | `CodecArgArray` | `CodecArgObject`[][]): *`Observable<T[]>`*
 
 **Type parameters:**
 
@@ -133,7 +143,7 @@ ___
 
 Name | Type |
 ------ | ------ |
-`args` | undefined \| string \| number \| false \| true \| `Codec` \| `Uint8Array` \| `BN` \| `CodecArgArray` \| `CodecArgObject` \| undefined \| string \| number \| false \| true \| `Codec` \| `Uint8Array` \| `BN` \| `CodecArgArray` \| `CodecArgObject`[][] |
+`args` | undefined \| string \| number \| false \| true \| `Uint8Array` \| `Codec` \| `BN` \| `CodecArgArray` \| `CodecArgObject` \| undefined \| string \| number \| false \| true \| `Uint8Array` \| `Codec` \| `BN` \| `CodecArgArray` \| `CodecArgObject`[][] |
 
 ___
 
@@ -141,7 +151,9 @@ ___
 
 • **size**: *function*
 
-*Defined in [types.ts:91](https://github.com/polkadot-js/api/blob/411d432/packages/api/src/types.ts#L91)*
+*Inherited from void*
+
+*Defined in [types.ts:88](https://github.com/polkadot-js/api/blob/fbac330/packages/api/src/types.ts#L88)*
 
 #### Type declaration:
 

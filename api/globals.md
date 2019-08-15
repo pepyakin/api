@@ -4,9 +4,11 @@
 
 ### External modules
 
-* ["Base"](modules/_base_.md)
 * ["SignerPayload"](modules/_signerpayload_.md)
 * ["SubmittableExtrinsic"](modules/_submittableextrinsic_.md)
+* ["base/Decorate"](modules/_base_decorate_.md)
+* ["base/Events"](modules/_base_events_.md)
+* ["base/Init"](modules/_base_init_.md)
 * ["checkTypes.manual"](modules/_checktypes_manual_.md)
 * ["promise/Api"](modules/_promise_api_.md)
 * ["promise/Combinator"](modules/_promise_combinator_.md)
