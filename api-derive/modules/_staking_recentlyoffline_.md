@@ -12,7 +12,7 @@
 
 ▸ **recentlyOffline**(`api`: `ApiInterfaceRx`): *function*
 
-*Defined in [staking/recentlyOffline.ts:19](https://github.com/polkadot-js/api/blob/c790cb5/packages/api-derive/src/staking/recentlyOffline.ts#L19)*
+*Defined in [staking/recentlyOffline.ts:19](https://github.com/polkadot-js/api/blob/411d432/packages/api-derive/src/staking/recentlyOffline.ts#L19)*
 
 **`description`** Retrieve a keyed record of accounts recently reported to be offline
 
