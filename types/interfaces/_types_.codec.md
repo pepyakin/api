@@ -42,7 +42,7 @@ The Codec Base is however required for operating as an encoding/decoding layer
 * [Bytes](../classes/_primitive_bytes_.bytes.md)
 * [Call](../classes/_primitive_generic_call_.call.md)
 * [CallIndex](../classes/_primitive_generic_call_.callindex.md)
-* [CallMetadata](../classes/_metadata_v0_modules_.callmetadata.md)
+* [CallMetadataV0](_interfaces_metadata_types_.callmetadatav0.md)
 * [CandidateReceipt](_interfaces_parachains_types_.candidatereceipt.md)
 * [ChainProperties](_interfaces_rpc_types_.chainproperties.md)
 * [CodecDate](../classes/_codec_date_.codecdate.md)
@@ -54,14 +54,14 @@ The Codec Base is however required for operating as an encoding/decoding layer
 * [Data](../classes/_primitive_data_.data.md)
 * [Digest](../classes/_primitive_generic_digest_.digest.md)
 * [DigestItem](../classes/_primitive_generic_digest_.digestitem.md)
-* [DoubleMapType](../classes/_metadata_v5_storage_.doublemaptype.md)
-* [DoubleMapType](../classes/_metadata_v4_storage_.doublemaptype.md)
-* [DoubleMapType](../classes/_metadata_v3_storage_.doublemaptype.md)
+* [DoubleMapTypeV3](_interfaces_metadata_types_.doublemaptypev3.md)
+* [DoubleMapTypeV4](_interfaces_metadata_types_.doublemaptypev4.md)
+* [DoubleMapTypeV5](_interfaces_metadata_types_.doublemaptypev5.md)
 * [Enum](../classes/_codec_enumtype_.enum.md)
 * [EraRewards](_interfaces_staking_types_.erarewards.md)
 * [Event](../classes/_primitive_generic_event_.event.md)
 * [EventData](../classes/_primitive_generic_event_.eventdata.md)
-* [EventMetadata](../classes/_metadata_v0_events_.eventmetadata.md)
+* [EventMetadataV0](_interfaces_metadata_types_.eventmetadatav0.md)
 * [EventRecord](_interfaces_system_types_.eventrecord.md)
 * [EventRecord0to76](_interfaces_system_types_.eventrecord0to76.md)
 * [Exposure](_interfaces_staking_types_.exposure.md)
@@ -81,10 +81,9 @@ The Codec Base is however required for operating as an encoding/decoding layer
 * [ExtrinsicV2](../classes/_primitive_extrinsic_v2_extrinsic_.extrinsicv2.md)
 * [ExtrinsicV3](../classes/_primitive_extrinsic_v3_extrinsic_.extrinsicv3.md)
 * [Forcing](_interfaces_staking_types_.forcing.md)
-* [FunctionArgumentMetadata](../classes/_metadata_v0_modules_.functionargumentmetadata.md)
-* [FunctionArgumentMetadata](../classes/_metadata_v1_calls_.functionargumentmetadata.md)
-* [FunctionMetadata](../classes/_metadata_v0_modules_.functionmetadata.md)
-* [FunctionMetadata](../classes/_metadata_v1_calls_.functionmetadata.md)
+* [FunctionArgumentMetadataV0](_interfaces_metadata_types_.functionargumentmetadatav0.md)
+* [FunctionMetadataV0](_interfaces_metadata_types_.functionmetadatav0.md)
+* [FunctionMetadataV1](_interfaces_metadata_types_.functionmetadatav1.md)
 * [H160](../classes/_primitive_h160_.h160.md)
 * [H256](../classes/_primitive_h256_.h256.md)
 * [H512](../classes/_primitive_h512_.h512.md)
@@ -110,8 +109,8 @@ The Codec Base is however required for operating as an encoding/decoding layer
 * [LinkageResult](../classes/_codec_linkage_.linkageresult.md)
 * [MagicNumber](../classes/_metadata_magicnumber_.magicnumber.md)
 * [MapType](../classes/_metadata_v0_storage_.maptype.md)
-* [MapType](../classes/_metadata_v4_storage_.maptype.md)
 * [MapType](../classes/_metadata_v2_storage_.maptype.md)
+* [MapType](../classes/_metadata_v4_storage_.maptype.md)
 * [Metadata](../classes/_metadata_metadata_.metadata.md)
 * [MetadataV0](../classes/_metadata_v0_metadata_.metadatav0.md)
 * [MetadataV1](../classes/_metadata_v1_metadata_.metadatav1.md)
@@ -122,15 +121,15 @@ The Codec Base is however required for operating as an encoding/decoding layer
 * [MetadataV6](../classes/_metadata_v6_metadata_.metadatav6.md)
 * [MetadataV7](../classes/_metadata_v7_metadata_.metadatav7.md)
 * [MetadataVersioned](../classes/_metadata_metadataversioned_.metadataversioned.md)
-* [ModuleConstantMetadata](../classes/_metadata_v6_constants_.moduleconstantmetadata.md)
-* [ModuleMetadata](../classes/_metadata_v4_metadata_.modulemetadata.md)
-* [ModuleMetadata](../classes/_metadata_v6_metadata_.modulemetadata.md)
-* [ModuleMetadata](../classes/_metadata_v2_metadata_.modulemetadata.md)
-* [ModuleMetadata](../classes/_metadata_v5_metadata_.modulemetadata.md)
-* [ModuleMetadata](../classes/_metadata_v1_metadata_.modulemetadata.md)
-* [ModuleMetadata](../classes/_metadata_v0_modules_.modulemetadata.md)
-* [ModuleMetadata](../classes/_metadata_v7_metadata_.modulemetadata.md)
+* [ModuleConstantMetadataV6](_interfaces_metadata_types_.moduleconstantmetadatav6.md)
 * [ModuleMetadata](../classes/_metadata_v3_metadata_.modulemetadata.md)
+* [ModuleMetadata](../classes/_metadata_v2_metadata_.modulemetadata.md)
+* [ModuleMetadata](../classes/_metadata_v4_metadata_.modulemetadata.md)
+* [ModuleMetadata](../classes/_metadata_v7_metadata_.modulemetadata.md)
+* [ModuleMetadata](../classes/_metadata_v1_metadata_.modulemetadata.md)
+* [ModuleMetadata](../classes/_metadata_v6_metadata_.modulemetadata.md)
+* [ModuleMetadata](../classes/_metadata_v5_metadata_.modulemetadata.md)
+* [ModuleMetadataV0](_interfaces_metadata_types_.modulemetadatav0.md)
 * [MoreAttestations](_interfaces_attestations_types_.moreattestations.md)
 * [MortalEra](../classes/_primitive_extrinsic_extrinsicera_.mortalera.md)
 * [NetworkState](_interfaces_rpc_types_.networkstate.md)
@@ -140,8 +139,8 @@ The Codec Base is however required for operating as an encoding/decoding layer
 * [OpaqueNetworkState](_interfaces_imonline_types_.opaquenetworkstate.md)
 * [Option](../classes/_codec_option_.option.md)
 * [Origin](../classes/_primitive_generic_origin_.origin.md)
-* [OuterDispatchCall](../classes/_metadata_v0_calls_.outerdispatchcall.md)
-* [OuterDispatchMetadata](../classes/_metadata_v0_calls_.outerdispatchmetadata.md)
+* [OuterDispatchCallV0](_interfaces_metadata_types_.outerdispatchcallv0.md)
+* [OuterDispatchMetadataV0](_interfaces_metadata_types_.outerdispatchmetadatav0.md)
 * [OuterEventEventMetadata](../classes/_metadata_v0_events_.outereventeventmetadata.md)
 * [OuterEventMetadata](../classes/_metadata_v0_events_.outereventmetadata.md)
 * [Owner](_interfaces_genericasset_types_.owner.md)
@@ -160,7 +159,7 @@ The Codec Base is however required for operating as an encoding/decoding layer
 * [RawBabePreDigestSecondary](_interfaces_babe_types_.rawbabepredigestsecondary.md)
 * [ReferendumInfo](_interfaces_democracy_types_.referenduminfo.md)
 * [RewardDestination](_interfaces_staking_types_.rewarddestination.md)
-* [RuntimeModuleMetadata](../classes/_metadata_v0_modules_.runtimemodulemetadata.md)
+* [RuntimeModuleMetadataV0](../classes/_metadata_v0_modules_.runtimemodulemetadatav0.md)
 * [RuntimeVersion](_interfaces_rpc_types_.runtimeversion.md)
 * [Schedule](_interfaces_contracts_types_.schedule.md)
 * [SignedBlock](_interfaces_runtime_types_.signedblock.md)
@@ -169,20 +168,20 @@ The Codec Base is however required for operating as an encoding/decoding layer
 * [StorageChangeSet](_interfaces_rpc_types_.storagechangeset.md)
 * [StorageData](../classes/_primitive_storagedata_.storagedata.md)
 * [StorageFunctionMetadata](../classes/_metadata_v0_storage_.storagefunctionmetadata.md)
-* [StorageFunctionMetadata](../classes/_metadata_v2_storage_.storagefunctionmetadata.md)
-* [StorageFunctionMetadata](../classes/_metadata_v3_storage_.storagefunctionmetadata.md)
-* [StorageFunctionMetadata](../classes/_metadata_v4_storage_.storagefunctionmetadata.md)
 * [StorageFunctionMetadata](../classes/_metadata_v5_storage_.storagefunctionmetadata.md)
+* [StorageFunctionMetadata](../classes/_metadata_v4_storage_.storagefunctionmetadata.md)
+* [StorageFunctionMetadata](../classes/_metadata_v3_storage_.storagefunctionmetadata.md)
+* [StorageFunctionMetadata](../classes/_metadata_v2_storage_.storagefunctionmetadata.md)
 * [StorageFunctionModifier](../classes/_metadata_v0_storage_.storagefunctionmodifier.md)
-* [StorageFunctionType](../classes/_metadata_v5_storage_.storagefunctiontype.md)
-* [StorageFunctionType](../classes/_metadata_v0_storage_.storagefunctiontype.md)
 * [StorageFunctionType](../classes/_metadata_v3_storage_.storagefunctiontype.md)
+* [StorageFunctionType](../classes/_metadata_v0_storage_.storagefunctiontype.md)
+* [StorageFunctionType](../classes/_metadata_v5_storage_.storagefunctiontype.md)
 * [StorageFunctionType](../classes/_metadata_v4_storage_.storagefunctiontype.md)
 * [StorageFunctionType](../classes/_metadata_v2_storage_.storagefunctiontype.md)
 * [StorageHasher](../classes/_primitive_storagehasher_.storagehasher.md)
 * [StorageKey](../classes/_primitive_storagekey_.storagekey.md)
-* [StorageMetadata](../classes/_metadata_v0_storage_.storagemetadata.md)
 * [StorageMetadata](../classes/_metadata_v7_storage_.storagemetadata.md)
+* [StorageMetadataV0](../classes/_metadata_v0_storage_.storagemetadatav0.md)
 * [StoredPendingChange](_interfaces_grandpa_types_.storedpendingchange.md)
 * [StoredState](_interfaces_grandpa_types_.storedstate.md)
 * [Struct](../classes/_codec_struct_.struct.md)
@@ -240,7 +239,7 @@ The Codec Base is however required for operating as an encoding/decoding layer
 
 • **encodedLength**: *number*
 
-*Defined in [types.ts:76](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/types.ts#L76)*
+*Defined in [types.ts:76](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/types.ts#L76)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -250,7 +249,7 @@ ___
 
 • **hash**: *[IHash](_types_.ihash.md)*
 
-*Defined in [types.ts:81](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/types.ts#L81)*
+*Defined in [types.ts:81](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/types.ts#L81)*
 
 **`description`** Returns a hash of the value
 
@@ -260,7 +259,7 @@ ___
 
 • **isEmpty**: *boolean*
 
-*Defined in [types.ts:86](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/types.ts#L86)*
+*Defined in [types.ts:86](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/types.ts#L86)*
 
 **`description`** Checks if the value is an empty value
 
@@ -270,7 +269,7 @@ ___
 
 ▸ **eq**(`other?`: any): *boolean*
 
-*Defined in [types.ts:91](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/types.ts#L91)*
+*Defined in [types.ts:91](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/types.ts#L91)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -288,7 +287,7 @@ ___
 
 ▸ **toHex**(`isLe?`: undefined | false | true): *string*
 
-*Defined in [types.ts:96](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/types.ts#L96)*
+*Defined in [types.ts:96](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/types.ts#L96)*
 
 **`description`** Returns a hex string representation of the value. isLe returns a LE (number-only) representation
 
@@ -306,7 +305,7 @@ ___
 
 ▸ **toJSON**(): *[AnyJson](../modules/_types_.md#anyjson)*
 
-*Defined in [types.ts:101](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/types.ts#L101)*
+*Defined in [types.ts:101](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/types.ts#L101)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -318,7 +317,7 @@ ___
 
 ▸ **toRawType**(): *string*
 
-*Defined in [types.ts:106](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/types.ts#L106)*
+*Defined in [types.ts:106](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/types.ts#L106)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -330,7 +329,7 @@ ___
 
 ▸ **toString**(): *string*
 
-*Defined in [types.ts:111](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/types.ts#L111)*
+*Defined in [types.ts:111](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/types.ts#L111)*
 
 **`description`** Returns the string representation of the value
 
@@ -342,7 +341,7 @@ ___
 
 ▸ **toU8a**(`isBare?`: undefined | false | true): *`Uint8Array`*
 
-*Defined in [types.ts:117](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/types.ts#L117)*
+*Defined in [types.ts:117](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/types.ts#L117)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 

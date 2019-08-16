@@ -9,7 +9,7 @@
 * [StorageFunctionMetadata](../classes/_metadata_v0_storage_.storagefunctionmetadata.md)
 * [StorageFunctionModifier](../classes/_metadata_v0_storage_.storagefunctionmodifier.md)
 * [StorageFunctionType](../classes/_metadata_v0_storage_.storagefunctiontype.md)
-* [StorageMetadata](../classes/_metadata_v0_storage_.storagemetadata.md)
+* [StorageMetadataV0](../classes/_metadata_v0_storage_.storagemetadatav0.md)
 
 ### Interfaces
 

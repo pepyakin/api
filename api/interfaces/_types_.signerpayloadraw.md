@@ -20,7 +20,7 @@
 
 • **address**: *string*
 
-*Defined in [types.ts:276](https://github.com/polkadot-js/api/blob/8922bbf/packages/api/src/types.ts#L276)*
+*Defined in [types.ts:276](https://github.com/polkadot-js/api/blob/f30354e/packages/api/src/types.ts#L276)*
 
 **`description`** The ss-58 encoded address
 
@@ -32,7 +32,7 @@ ___
 
 *Inherited from [SignerPayloadRawBase](_types_.signerpayloadrawbase.md).[data](_types_.signerpayloadrawbase.md#data)*
 
-*Defined in [types.ts:264](https://github.com/polkadot-js/api/blob/8922bbf/packages/api/src/types.ts#L264)*
+*Defined in [types.ts:264](https://github.com/polkadot-js/api/blob/f30354e/packages/api/src/types.ts#L264)*
 
 **`description`** The hex-encoded data for this request
 
@@ -44,6 +44,6 @@ ___
 
 *Overrides [SignerPayloadRawBase](_types_.signerpayloadrawbase.md).[type](_types_.signerpayloadrawbase.md#optional-type)*
 
-*Defined in [types.ts:281](https://github.com/polkadot-js/api/blob/8922bbf/packages/api/src/types.ts#L281)*
+*Defined in [types.ts:281](https://github.com/polkadot-js/api/blob/f30354e/packages/api/src/types.ts#L281)*
 
 **`description`** The type of the contained data

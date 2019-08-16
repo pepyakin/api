@@ -4,7 +4,6 @@
 
 ### Classes
 
-* [DoubleMapType](../classes/_metadata_v4_storage_.doublemaptype.md)
 * [MapType](../classes/_metadata_v4_storage_.maptype.md)
 * [StorageFunctionMetadata](../classes/_metadata_v4_storage_.storagefunctionmetadata.md)
 * [StorageFunctionType](../classes/_metadata_v4_storage_.storagefunctiontype.md)

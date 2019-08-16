@@ -3,7 +3,7 @@
 **`name`** ExtrinsicPayloadV2
 
 **`description`** 
-A signing payload for an [Extrinsic](_primitive_extrinsic_extrinsic_.extrinsic.md). For the final encoding, it is variable length based
+A signing payload for an [Extrinsic](../modules/_interfaces_runtime_types_.md#extrinsic). For the final encoding, it is variable length based
 on the contents included
 
 ## Type parameters
@@ -66,7 +66,7 @@ on the contents included
 
 *Overrides [Struct](_codec_struct_.struct.md).[constructor](_codec_struct_.struct.md#constructor)*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:20](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L20)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:20](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L20)*
 
 **Parameters:**
 
@@ -84,7 +84,7 @@ Name | Type |
 
 *Inherited from [Struct](_codec_struct_.struct.md).[Type](_codec_struct_.struct.md#type)*
 
-*Defined in [codec/Struct.ts:157](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L157)*
+*Defined in [codec/Struct.ts:157](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L157)*
 
 **`description`** Returns the Type description to sthe structure
 
@@ -94,13 +94,13 @@ ___
 
 ###  blockHash
 
-• **get blockHash**(): *[Hash](../interfaces/_interfaceregistry_.interfaceregistry.md#hash)*
+• **get blockHash**(): *[Hash](../modules/_interfaces_runtime_types_.md#hash)*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:34](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L34)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:34](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L34)*
 
-**`description`** The block [Hash](../interfaces/_interfaceregistry_.interfaceregistry.md#hash) the signature applies to (mortal/immortal)
+**`description`** The block [Hash](../modules/_interfaces_runtime_types_.md#hash) the signature applies to (mortal/immortal)
 
-**Returns:** *[Hash](../interfaces/_interfaceregistry_.interfaceregistry.md#hash)*
+**Returns:** *[Hash](../modules/_interfaces_runtime_types_.md#hash)*
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[encodedLength](_codec_struct_.struct.md#encodedlength)*
 
-*Defined in [codec/Struct.ts:170](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L170)*
+*Defined in [codec/Struct.ts:170](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L170)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -122,9 +122,9 @@ ___
 
 • **get era**(): *[ExtrinsicEra](_primitive_extrinsic_extrinsicera_.extrinsicera.md)*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:41](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L41)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:41](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L41)*
 
-**`description`** The [ExtrinsicEra](_primitive_extrinsic_extrinsicera_.extrinsicera.md)
+**`description`** The [ExtrinsicEra](../modules/_interfaces_runtime_types_.md#extrinsicera)
 
 **Returns:** *[ExtrinsicEra](_primitive_extrinsic_extrinsicera_.extrinsicera.md)*
 
@@ -136,7 +136,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[hash](_codec_struct_.struct.md#hash)*
 
-*Defined in [codec/Struct.ts:181](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L181)*
+*Defined in [codec/Struct.ts:181](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L181)*
 
 **`description`** returns a hash of the contents
 
@@ -150,7 +150,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[isEmpty](_codec_struct_.struct.md#isempty)*
 
-*Defined in [codec/Struct.ts:142](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L142)*
+*Defined in [codec/Struct.ts:142](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L142)*
 
 **`description`** Checks if the value is an empty value
 
@@ -162,7 +162,7 @@ ___
 
 • **get method**(): *[Bytes](_primitive_bytes_.bytes.md)*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:48](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L48)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:48](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L48)*
 
 **`description`** The [Bytes](_primitive_bytes_.bytes.md) contained in the payload
 
@@ -172,25 +172,25 @@ ___
 
 ###  nonce
 
-• **get nonce**(): *[Compact](_codec_compact_.compact.md)‹*[Index](../interfaces/_interfaceregistry_.interfaceregistry.md#index)*›*
+• **get nonce**(): *[Compact](_codec_compact_.compact.md)‹*[Index](../modules/_interfaces_runtime_types_.md#index)*›*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:55](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L55)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:55](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L55)*
 
-**`description`** The [Index](../interfaces/_interfaceregistry_.interfaceregistry.md#index)
+**`description`** The [Index](../modules/_interfaces_runtime_types_.md#index)
 
-**Returns:** *[Compact](_codec_compact_.compact.md)‹*[Index](../interfaces/_interfaceregistry_.interfaceregistry.md#index)*›*
+**Returns:** *[Compact](_codec_compact_.compact.md)‹*[Index](../modules/_interfaces_runtime_types_.md#index)*›*
 
 ___
 
 ###  tip
 
-• **get tip**(): *[Compact](_codec_compact_.compact.md)‹*[Balance](../interfaces/_interfaceregistry_.interfaceregistry.md#balance)*›*
+• **get tip**(): *[Compact](_codec_compact_.compact.md)‹*[Balance](../modules/_interfaces_runtime_types_.md#balance)*›*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:62](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L62)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:62](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L62)*
 
-**`description`** The tip [Balance](../interfaces/_interfaceregistry_.interfaceregistry.md#balance)
+**`description`** The tip [Balance](../modules/_interfaces_runtime_types_.md#balance)
 
-**Returns:** *[Compact](_codec_compact_.compact.md)‹*[Balance](../interfaces/_interfaceregistry_.interfaceregistry.md#balance)*›*
+**Returns:** *[Compact](_codec_compact_.compact.md)‹*[Balance](../modules/_interfaces_runtime_types_.md#balance)*›*
 
 ## Methods
 
@@ -202,7 +202,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[eq](_codec_struct_.struct.md#eq)*
 
-*Defined in [codec/Struct.ts:188](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L188)*
+*Defined in [codec/Struct.ts:188](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L188)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -224,7 +224,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/Struct.ts:196](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L196)*
+*Defined in [codec/Struct.ts:196](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L196)*
 
 **`description`** Returns a specific names entry in the structure
 
@@ -244,7 +244,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[getAtIndex](_codec_struct_.struct.md#getatindex)*
 
-*Defined in [codec/Struct.ts:203](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L203)*
+*Defined in [codec/Struct.ts:203](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L203)*
 
 **`description`** Returns the values of a member at a specific index (Rather use get(name) for performance)
 
@@ -262,7 +262,7 @@ ___
 
 ▸ **sign**(`signerPair`: [IKeyringPair](../interfaces/_types_.ikeyringpair.md)): *`Uint8Array`*
 
-*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:69](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L69)*
+*Defined in [primitive/Extrinsic/v2/ExtrinsicPayload.ts:69](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/primitive/Extrinsic/v2/ExtrinsicPayload.ts#L69)*
 
 **`description`** Sign the payload with the keypair
 
@@ -282,7 +282,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toArray](_codec_struct_.struct.md#toarray)*
 
-*Defined in [codec/Struct.ts:210](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L210)*
+*Defined in [codec/Struct.ts:210](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L210)*
 
 **`description`** Converts the Object to an standard JavaScript Array
 
@@ -296,7 +296,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toHex](_codec_struct_.struct.md#tohex)*
 
-*Defined in [codec/Struct.ts:217](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L217)*
+*Defined in [codec/Struct.ts:217](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L217)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -312,7 +312,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toJSON](_codec_struct_.struct.md#tojson)*
 
-*Defined in [codec/Struct.ts:224](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L224)*
+*Defined in [codec/Struct.ts:224](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L224)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -328,7 +328,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toRawType](_codec_struct_.struct.md#torawtype)*
 
-*Defined in [codec/Struct.ts:240](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L240)*
+*Defined in [codec/Struct.ts:240](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L240)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -344,7 +344,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toString](_codec_struct_.struct.md#tostring)*
 
-*Defined in [codec/Struct.ts:253](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L253)*
+*Defined in [codec/Struct.ts:253](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L253)*
 
 **`description`** Returns the string representation of the value
 
@@ -360,7 +360,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toU8a](_codec_struct_.struct.md#tou8a)*
 
-*Defined in [codec/Struct.ts:261](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L261)*
+*Defined in [codec/Struct.ts:261](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L261)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -380,7 +380,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[with](_codec_struct_.struct.md#static-with)*
 
-*Defined in [codec/Struct.ts:119](https://github.com/polkadot-js/api/blob/8922bbf/packages/types/src/codec/Struct.ts#L119)*
+*Defined in [codec/Struct.ts:119](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/codec/Struct.ts#L119)*
 
 **Type parameters:**
 
