@@ -49,7 +49,7 @@
 
 Ƭ **DoubleMapTypeV6**: *[DoubleMapTypeV5](../interfaces/_interfaces_metadata_types_.doublemaptypev5.md)*
 
-*Defined in [interfaces/metadata/types.ts:56](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L56)*
+*Defined in [interfaces/metadata/types.ts:56](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L56)*
 
 DoubleMapTypeV5
 
@@ -59,7 +59,7 @@ ___
 
 Ƭ **DoubleMapTypeV7**: *[DoubleMapTypeV6](_interfaces_metadata_types_.md#doublemaptypev6)*
 
-*Defined in [interfaces/metadata/types.ts:59](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L59)*
+*Defined in [interfaces/metadata/types.ts:59](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L59)*
 
 DoubleMapTypeV6
 
@@ -69,7 +69,7 @@ ___
 
 Ƭ **EventMetadataV1**: *[EventMetadataV0](../interfaces/_interfaces_metadata_types_.eventmetadatav0.md)*
 
-*Defined in [interfaces/metadata/types.ts:72](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L72)*
+*Defined in [interfaces/metadata/types.ts:72](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L72)*
 
 EventMetadataV0
 
@@ -79,7 +79,7 @@ ___
 
 Ƭ **EventMetadataV2**: *[EventMetadataV1](_interfaces_metadata_types_.md#eventmetadatav1)*
 
-*Defined in [interfaces/metadata/types.ts:75](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L75)*
+*Defined in [interfaces/metadata/types.ts:75](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L75)*
 
 EventMetadataV1
 
@@ -89,7 +89,7 @@ ___
 
 Ƭ **EventMetadataV3**: *[EventMetadataV2](_interfaces_metadata_types_.md#eventmetadatav2)*
 
-*Defined in [interfaces/metadata/types.ts:78](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L78)*
+*Defined in [interfaces/metadata/types.ts:78](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L78)*
 
 EventMetadataV2
 
@@ -99,7 +99,7 @@ ___
 
 Ƭ **EventMetadataV4**: *[EventMetadataV3](_interfaces_metadata_types_.md#eventmetadatav3)*
 
-*Defined in [interfaces/metadata/types.ts:81](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L81)*
+*Defined in [interfaces/metadata/types.ts:81](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L81)*
 
 EventMetadataV3
 
@@ -109,7 +109,7 @@ ___
 
 Ƭ **EventMetadataV5**: *[EventMetadataV4](_interfaces_metadata_types_.md#eventmetadatav4)*
 
-*Defined in [interfaces/metadata/types.ts:84](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L84)*
+*Defined in [interfaces/metadata/types.ts:84](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L84)*
 
 EventMetadataV4
 
@@ -119,7 +119,7 @@ ___
 
 Ƭ **EventMetadataV6**: *[EventMetadataV5](_interfaces_metadata_types_.md#eventmetadatav5)*
 
-*Defined in [interfaces/metadata/types.ts:87](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L87)*
+*Defined in [interfaces/metadata/types.ts:87](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L87)*
 
 EventMetadataV5
 
@@ -129,7 +129,7 @@ ___
 
 Ƭ **EventMetadataV7**: *[EventMetadataV6](_interfaces_metadata_types_.md#eventmetadatav6)*
 
-*Defined in [interfaces/metadata/types.ts:90](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L90)*
+*Defined in [interfaces/metadata/types.ts:90](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L90)*
 
 EventMetadataV6
 
@@ -139,7 +139,7 @@ ___
 
 Ƭ **FunctionArgumentMetadataV1**: *[FunctionArgumentMetadataV0](../interfaces/_interfaces_metadata_types_.functionargumentmetadatav0.md)*
 
-*Defined in [interfaces/metadata/types.ts:101](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L101)*
+*Defined in [interfaces/metadata/types.ts:101](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L101)*
 
 FunctionArgumentMetadataV0
 
@@ -149,7 +149,7 @@ ___
 
 Ƭ **FunctionArgumentMetadataV2**: *[FunctionArgumentMetadataV1](_interfaces_metadata_types_.md#functionargumentmetadatav1)*
 
-*Defined in [interfaces/metadata/types.ts:104](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L104)*
+*Defined in [interfaces/metadata/types.ts:104](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L104)*
 
 FunctionArgumentMetadataV1
 
@@ -159,7 +159,7 @@ ___
 
 Ƭ **FunctionArgumentMetadataV3**: *[FunctionArgumentMetadataV2](_interfaces_metadata_types_.md#functionargumentmetadatav2)*
 
-*Defined in [interfaces/metadata/types.ts:107](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L107)*
+*Defined in [interfaces/metadata/types.ts:107](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L107)*
 
 FunctionArgumentMetadataV2
 
@@ -169,7 +169,7 @@ ___
 
 Ƭ **FunctionArgumentMetadataV4**: *[FunctionArgumentMetadataV3](_interfaces_metadata_types_.md#functionargumentmetadatav3)*
 
-*Defined in [interfaces/metadata/types.ts:110](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L110)*
+*Defined in [interfaces/metadata/types.ts:110](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L110)*
 
 FunctionArgumentMetadataV3
 
@@ -179,7 +179,7 @@ ___
 
 Ƭ **FunctionArgumentMetadataV5**: *[FunctionArgumentMetadataV4](_interfaces_metadata_types_.md#functionargumentmetadatav4)*
 
-*Defined in [interfaces/metadata/types.ts:113](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L113)*
+*Defined in [interfaces/metadata/types.ts:113](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L113)*
 
 FunctionArgumentMetadataV4
 
@@ -189,7 +189,7 @@ ___
 
 Ƭ **FunctionArgumentMetadataV6**: *[FunctionArgumentMetadataV5](_interfaces_metadata_types_.md#functionargumentmetadatav5)*
 
-*Defined in [interfaces/metadata/types.ts:116](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L116)*
+*Defined in [interfaces/metadata/types.ts:116](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L116)*
 
 FunctionArgumentMetadataV5
 
@@ -199,7 +199,7 @@ ___
 
 Ƭ **FunctionArgumentMetadataV7**: *[FunctionArgumentMetadataV6](_interfaces_metadata_types_.md#functionargumentmetadatav6)*
 
-*Defined in [interfaces/metadata/types.ts:119](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L119)*
+*Defined in [interfaces/metadata/types.ts:119](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L119)*
 
 FunctionArgumentMetadataV6
 
@@ -209,7 +209,7 @@ ___
 
 Ƭ **FunctionMetadataV2**: *[FunctionMetadataV1](../interfaces/_interfaces_metadata_types_.functionmetadatav1.md)*
 
-*Defined in [interfaces/metadata/types.ts:144](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L144)*
+*Defined in [interfaces/metadata/types.ts:144](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L144)*
 
 FunctionMetadataV1
 
@@ -219,7 +219,7 @@ ___
 
 Ƭ **FunctionMetadataV3**: *[FunctionMetadataV2](_interfaces_metadata_types_.md#functionmetadatav2)*
 
-*Defined in [interfaces/metadata/types.ts:147](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L147)*
+*Defined in [interfaces/metadata/types.ts:147](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L147)*
 
 FunctionMetadataV2
 
@@ -229,7 +229,7 @@ ___
 
 Ƭ **FunctionMetadataV4**: *[FunctionMetadataV3](_interfaces_metadata_types_.md#functionmetadatav3)*
 
-*Defined in [interfaces/metadata/types.ts:150](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L150)*
+*Defined in [interfaces/metadata/types.ts:150](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L150)*
 
 FunctionMetadataV3
 
@@ -239,7 +239,7 @@ ___
 
 Ƭ **FunctionMetadataV5**: *[FunctionMetadataV4](_interfaces_metadata_types_.md#functionmetadatav4)*
 
-*Defined in [interfaces/metadata/types.ts:153](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L153)*
+*Defined in [interfaces/metadata/types.ts:153](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L153)*
 
 FunctionMetadataV4
 
@@ -249,7 +249,7 @@ ___
 
 Ƭ **FunctionMetadataV6**: *[FunctionMetadataV5](_interfaces_metadata_types_.md#functionmetadatav5)*
 
-*Defined in [interfaces/metadata/types.ts:156](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L156)*
+*Defined in [interfaces/metadata/types.ts:156](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L156)*
 
 FunctionMetadataV5
 
@@ -259,7 +259,7 @@ ___
 
 Ƭ **FunctionMetadataV7**: *[FunctionMetadataV6](_interfaces_metadata_types_.md#functionmetadatav6)*
 
-*Defined in [interfaces/metadata/types.ts:159](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L159)*
+*Defined in [interfaces/metadata/types.ts:159](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L159)*
 
 FunctionMetadataV6
 
@@ -269,6 +269,6 @@ ___
 
 Ƭ **ModuleConstantMetadataV7**: *[ModuleConstantMetadataV6](../interfaces/_interfaces_metadata_types_.moduleconstantmetadatav6.md)*
 
-*Defined in [interfaces/metadata/types.ts:174](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/metadata/types.ts#L174)*
+*Defined in [interfaces/metadata/types.ts:174](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/metadata/types.ts#L174)*
 
 ModuleConstantMetadataV6

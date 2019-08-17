@@ -9,6 +9,7 @@
 * [Forcing](../interfaces/_interfaces_staking_types_.forcing.md)
 * [IndividualExposure](../interfaces/_interfaces_staking_types_.individualexposure.md)
 * [RewardDestination](../interfaces/_interfaces_staking_types_.rewarddestination.md)
+* [SlashJournalEntry](../interfaces/_interfaces_staking_types_.slashjournalentry.md)
 * [StakingLedger](../interfaces/_interfaces_staking_types_.stakingledger.md)
 * [UnlockChunk](../interfaces/_interfaces_staking_types_.unlockchunk.md)
 * [ValidatorPrefs](../interfaces/_interfaces_staking_types_.validatorprefs.md)
@@ -24,7 +25,7 @@
 
 Ƭ **EraIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/staking/types.ts:9](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/staking/types.ts#L9)*
+*Defined in [interfaces/staking/types.ts:9](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/staking/types.ts#L9)*
 
 u32
 
@@ -34,6 +35,6 @@ ___
 
 Ƭ **MomentOf**: *[Moment](_interfaces_runtime_types_.md#moment)*
 
-*Defined in [interfaces/staking/types.ts:48](https://github.com/polkadot-js/api/blob/f30354e/packages/types/src/interfaces/staking/types.ts#L48)*
+*Defined in [interfaces/staking/types.ts:48](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/staking/types.ts#L48)*
 
 Moment

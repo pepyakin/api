@@ -116,6 +116,8 @@
 * ["interfaces/imOnline/types"](modules/_interfaces_imonline_types_.md)
 * ["interfaces/metadata/definitions"](modules/_interfaces_metadata_definitions_.md)
 * ["interfaces/metadata/types"](modules/_interfaces_metadata_types_.md)
+* ["interfaces/offences/definitions"](modules/_interfaces_offences_definitions_.md)
+* ["interfaces/offences/types"](modules/_interfaces_offences_types_.md)
 * ["interfaces/parachains/definitions"](modules/_interfaces_parachains_definitions_.md)
 * ["interfaces/parachains/types"](modules/_interfaces_parachains_types_.md)
 * ["interfaces/rpc/definitions"](modules/_interfaces_rpc_definitions_.md)
