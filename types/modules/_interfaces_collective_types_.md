@@ -17,7 +17,7 @@
 
 Ƭ **MemberCount**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/collective/types.ts:9](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/collective/types.ts#L9)*
+*Defined in [interfaces/collective/types.ts:9](https://github.com/polkadot-js/api/blob/908e9a8/packages/types/src/interfaces/collective/types.ts#L9)*
 
 u32
 
@@ -27,6 +27,6 @@ ___
 
 Ƭ **ProposalIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/collective/types.ts:12](https://github.com/polkadot-js/api/blob/35a2960/packages/types/src/interfaces/collective/types.ts#L12)*
+*Defined in [interfaces/collective/types.ts:12](https://github.com/polkadot-js/api/blob/908e9a8/packages/types/src/interfaces/collective/types.ts#L12)*
 
 u32
