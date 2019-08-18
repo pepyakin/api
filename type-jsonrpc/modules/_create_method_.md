@@ -12,7 +12,7 @@
 
 ▸ **createMethod**(`section`: string, `method`: string, `__namedParameters`: object): *[RpcMethod](../interfaces/_types_.rpcmethod.md)*
 
-*Defined in [create/method.ts:9](https://github.com/polkadot-js/api/blob/908e9a8/packages/type-jsonrpc/src/create/method.ts#L9)*
+*Defined in [create/method.ts:9](https://github.com/polkadot-js/api/blob/c7c76f6/packages/type-jsonrpc/src/create/method.ts#L9)*
 
 **Parameters:**
 

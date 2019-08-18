@@ -5,4 +5,4 @@
 ### Classes
 
 * [MetadataV7](../classes/_metadata_v7_metadata_.metadatav7.md)
-* [ModuleMetadata](../classes/_metadata_v7_metadata_.modulemetadata.md)
+* [ModuleMetadataV7](../classes/_metadata_v7_metadata_.modulemetadatav7.md)

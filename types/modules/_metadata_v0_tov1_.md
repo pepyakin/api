@@ -10,9 +10,9 @@
 
 ###  toV1
 
-▸ **toV1**(`metadataV0`: [MetadataV0](../classes/_metadata_v0_metadata_.metadatav0.md)): *[MetadataV1](../classes/_metadata_v1_metadata_.metadatav1.md)*
+▸ **toV1**(`metadataV0`: [MetadataV0](../interfaces/_interfaces_metadata_types_.metadatav0.md)): *[MetadataV1](../interfaces/_interfaces_metadata_types_.metadatav1.md)*
 
-*Defined in [Metadata/v0/toV1.ts:42](https://github.com/polkadot-js/api/blob/908e9a8/packages/types/src/Metadata/v0/toV1.ts#L42)*
+*Defined in [Metadata/v0/toV1.ts:36](https://github.com/polkadot-js/api/blob/c7c76f6/packages/types/src/Metadata/v0/toV1.ts#L36)*
 
 Function that converts MetadataV0 to MetadataV1
 
@@ -20,6 +20,6 @@ Function that converts MetadataV0 to MetadataV1
 
 Name | Type |
 ------ | ------ |
-`metadataV0` | [MetadataV0](../classes/_metadata_v0_metadata_.metadatav0.md) |
+`metadataV0` | [MetadataV0](../interfaces/_interfaces_metadata_types_.metadatav0.md) |
 
-**Returns:** *[MetadataV1](../classes/_metadata_v1_metadata_.metadatav1.md)*
+**Returns:** *[MetadataV1](../interfaces/_interfaces_metadata_types_.metadatav1.md)*

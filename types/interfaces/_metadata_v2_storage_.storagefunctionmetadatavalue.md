@@ -20,7 +20,7 @@
 
 • **documentation**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Text](../classes/_primitive_text_.text.md)*› | string[]*
 
-*Defined in [Metadata/v2/Storage.ts:116](https://github.com/polkadot-js/api/blob/908e9a8/packages/types/src/Metadata/v2/Storage.ts#L116)*
+*Defined in [Metadata/v2/Storage.ts:77](https://github.com/polkadot-js/api/blob/c7c76f6/packages/types/src/Metadata/v2/Storage.ts#L77)*
 
 ___
 
@@ -28,15 +28,15 @@ ___
 
 • **fallback**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [Metadata/v2/Storage.ts:115](https://github.com/polkadot-js/api/blob/908e9a8/packages/types/src/Metadata/v2/Storage.ts#L115)*
+*Defined in [Metadata/v2/Storage.ts:76](https://github.com/polkadot-js/api/blob/c7c76f6/packages/types/src/Metadata/v2/Storage.ts#L76)*
 
 ___
 
 ###  modifier
 
-• **modifier**: *[StorageFunctionModifier](../classes/_metadata_v0_storage_.storagefunctionmodifier.md) | [AnyNumber](../modules/_types_.md#anynumber)*
+• **modifier**: *[StorageFunctionModifierV2](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv2) | [AnyNumber](../modules/_types_.md#anynumber)*
 
-*Defined in [Metadata/v2/Storage.ts:113](https://github.com/polkadot-js/api/blob/908e9a8/packages/types/src/Metadata/v2/Storage.ts#L113)*
+*Defined in [Metadata/v2/Storage.ts:74](https://github.com/polkadot-js/api/blob/c7c76f6/packages/types/src/Metadata/v2/Storage.ts#L74)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **name**: *string | [Text](../classes/_primitive_text_.text.md)*
 
-*Defined in [Metadata/v2/Storage.ts:112](https://github.com/polkadot-js/api/blob/908e9a8/packages/types/src/Metadata/v2/Storage.ts#L112)*
+*Defined in [Metadata/v2/Storage.ts:73](https://github.com/polkadot-js/api/blob/c7c76f6/packages/types/src/Metadata/v2/Storage.ts#L73)*
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 • **type**: *[StorageFunctionType](../classes/_metadata_v2_storage_.storagefunctiontype.md)*
 
-*Defined in [Metadata/v2/Storage.ts:114](https://github.com/polkadot-js/api/blob/908e9a8/packages/types/src/Metadata/v2/Storage.ts#L114)*
+*Defined in [Metadata/v2/Storage.ts:75](https://github.com/polkadot-js/api/blob/c7c76f6/packages/types/src/Metadata/v2/Storage.ts#L75)*
