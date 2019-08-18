@@ -50,7 +50,6 @@
 * ["codec/Compact"](modules/_codec_compact_.md)
 * ["codec/Date"](modules/_codec_date_.md)
 * ["codec/Enum"](modules/_codec_enum_.md)
-* ["codec/EnumType"](modules/_codec_enumtype_.md)
 * ["codec/Int"](modules/_codec_int_.md)
 * ["codec/Linkage"](modules/_codec_linkage_.md)
 * ["codec/Option"](modules/_codec_option_.md)
