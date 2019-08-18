@@ -17,7 +17,7 @@
 
 • **method**? : *[Call](../modules/_interfaces_runtime_types_.md#call)*
 
-*Defined in [primitive/Extrinsic/v2/Extrinsic.ts:18](https://github.com/polkadot-js/api/blob/71d4a7e/packages/types/src/primitive/Extrinsic/v2/Extrinsic.ts#L18)*
+*Defined in [primitive/Extrinsic/v2/Extrinsic.ts:18](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/types/src/primitive/Extrinsic/v2/Extrinsic.ts#L18)*
 
 ___
 
@@ -25,4 +25,4 @@ ___
 
 • **signature**? : *`ExtrinsicSignature`*
 
-*Defined in [primitive/Extrinsic/v2/Extrinsic.ts:19](https://github.com/polkadot-js/api/blob/71d4a7e/packages/types/src/primitive/Extrinsic/v2/Extrinsic.ts#L19)*
+*Defined in [primitive/Extrinsic/v2/Extrinsic.ts:19](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/types/src/primitive/Extrinsic/v2/Extrinsic.ts#L19)*

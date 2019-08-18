@@ -12,7 +12,7 @@
 
 ▸ **toV2**(`metadataV1`: [MetadataV1](../interfaces/_interfaces_metadata_types_.metadatav1.md)): *[MetadataV2](../classes/_metadata_v2_metadata_.metadatav2.md)*
 
-*Defined in [Metadata/v1/toV2.ts:9](https://github.com/polkadot-js/api/blob/71d4a7e/packages/types/src/Metadata/v1/toV2.ts#L9)*
+*Defined in [Metadata/v1/toV2.ts:9](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/types/src/Metadata/v1/toV2.ts#L9)*
 
 **Parameters:**
 
