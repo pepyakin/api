@@ -13,6 +13,7 @@
 * [StakingLedger](../interfaces/_interfaces_staking_types_.stakingledger.md)
 * [UnlockChunk](../interfaces/_interfaces_staking_types_.unlockchunk.md)
 * [ValidatorPrefs](../interfaces/_interfaces_staking_types_.validatorprefs.md)
+* [ValidatorPrefs0to145](../interfaces/_interfaces_staking_types_.validatorprefs0to145.md)
 
 ### Type aliases
 
@@ -25,7 +26,7 @@
 
 Ƭ **EraIndex**: *[u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaces/staking/types.ts:9](https://github.com/polkadot-js/api/blob/a9746b3/packages/types/src/interfaces/staking/types.ts#L9)*
+*Defined in [interfaces/staking/types.ts:9](https://github.com/polkadot-js/api/blob/6fee15b/packages/types/src/interfaces/staking/types.ts#L9)*
 
 u32
 
@@ -35,6 +36,6 @@ ___
 
 Ƭ **MomentOf**: *[Moment](_interfaces_runtime_types_.md#moment)*
 
-*Defined in [interfaces/staking/types.ts:48](https://github.com/polkadot-js/api/blob/a9746b3/packages/types/src/interfaces/staking/types.ts#L48)*
+*Defined in [interfaces/staking/types.ts:48](https://github.com/polkadot-js/api/blob/6fee15b/packages/types/src/interfaces/staking/types.ts#L48)*
 
 Moment
