@@ -17,7 +17,7 @@
 
 ▸ **createFunction**(`__namedParameters`: object, `options`: [CreateItemOptions](../interfaces/_storage_frommetadata_createfunction_.createitemoptions.md)): *`StorageEntry`*
 
-*Defined in [storage/fromMetadata/createFunction.ts:40](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/api-metadata/src/storage/fromMetadata/createFunction.ts#L40)*
+*Defined in [storage/fromMetadata/createFunction.ts:40](https://github.com/polkadot-js/api/blob/a9746b3/packages/api-metadata/src/storage/fromMetadata/createFunction.ts#L40)*
 
 From the schema of a function in the module's storage, generate the function
 that will return the correct storage key.

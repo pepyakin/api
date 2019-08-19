@@ -12,7 +12,7 @@
 
 ▸ **toV6**(`__namedParameters`: object): *[MetadataV6](../classes/_metadata_v6_metadata_.metadatav6.md)*
 
-*Defined in [Metadata/v5/toV6.ts:13](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/types/src/Metadata/v5/toV6.ts#L13)*
+*Defined in [Metadata/v5/toV6.ts:13](https://github.com/polkadot-js/api/blob/a9746b3/packages/types/src/Metadata/v5/toV6.ts#L13)*
 
 Convert from MetadataV5 to MetadataV6
 See https://github.com/polkadot-js/api/issues/1043 for details

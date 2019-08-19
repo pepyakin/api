@@ -141,7 +141,6 @@
 * ["primitive/Extrinsic/v1/ExtrinsicPayload"](modules/_primitive_extrinsic_v1_extrinsicpayload_.md)
 * ["primitive/Extrinsic/v1/ExtrinsicSignature"](modules/_primitive_extrinsic_v1_extrinsicsignature_.md)
 * ["primitive/Extrinsic/v2/Extrinsic"](modules/_primitive_extrinsic_v2_extrinsic_.md)
-* ["primitive/Extrinsic/v2/ExtrinsicExtra"](modules/_primitive_extrinsic_v2_extrinsicextra_.md)
 * ["primitive/Extrinsic/v2/ExtrinsicPayload"](modules/_primitive_extrinsic_v2_extrinsicpayload_.md)
 * ["primitive/Extrinsic/v2/ExtrinsicSignature"](modules/_primitive_extrinsic_v2_extrinsicsignature_.md)
 * ["primitive/Extrinsic/v3/Extrinsic"](modules/_primitive_extrinsic_v3_extrinsic_.md)

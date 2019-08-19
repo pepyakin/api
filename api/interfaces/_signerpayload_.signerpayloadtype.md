@@ -17,6 +17,7 @@
 * [genesisHash](_signerpayload_.signerpayloadtype.md#genesishash)
 * [method](_signerpayload_.signerpayloadtype.md#method)
 * [nonce](_signerpayload_.signerpayloadtype.md#nonce)
+* [runtimeVersion](_signerpayload_.signerpayloadtype.md#runtimeversion)
 * [tip](_signerpayload_.signerpayloadtype.md#tip)
 * [version](_signerpayload_.signerpayloadtype.md#version)
 
@@ -26,7 +27,7 @@
 
 • **address**: *`Address`*
 
-*Defined in [SignerPayload.ts:12](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/api/src/SignerPayload.ts#L12)*
+*Defined in [SignerPayload.ts:12](https://github.com/polkadot-js/api/blob/a9746b3/packages/api/src/SignerPayload.ts#L12)*
 
 ___
 
@@ -34,7 +35,7 @@ ___
 
 • **blockHash**: *`Hash`*
 
-*Defined in [SignerPayload.ts:13](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/api/src/SignerPayload.ts#L13)*
+*Defined in [SignerPayload.ts:13](https://github.com/polkadot-js/api/blob/a9746b3/packages/api/src/SignerPayload.ts#L13)*
 
 ___
 
@@ -42,7 +43,7 @@ ___
 
 • **blockNumber**: *`BlockNumber`*
 
-*Defined in [SignerPayload.ts:14](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/api/src/SignerPayload.ts#L14)*
+*Defined in [SignerPayload.ts:14](https://github.com/polkadot-js/api/blob/a9746b3/packages/api/src/SignerPayload.ts#L14)*
 
 ___
 
@@ -50,7 +51,7 @@ ___
 
 • **era**: *`ExtrinsicEra`*
 
-*Defined in [SignerPayload.ts:15](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/api/src/SignerPayload.ts#L15)*
+*Defined in [SignerPayload.ts:15](https://github.com/polkadot-js/api/blob/a9746b3/packages/api/src/SignerPayload.ts#L15)*
 
 ___
 
@@ -58,7 +59,7 @@ ___
 
 • **genesisHash**: *`Hash`*
 
-*Defined in [SignerPayload.ts:16](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/api/src/SignerPayload.ts#L16)*
+*Defined in [SignerPayload.ts:16](https://github.com/polkadot-js/api/blob/a9746b3/packages/api/src/SignerPayload.ts#L16)*
 
 ___
 
@@ -66,7 +67,7 @@ ___
 
 • **method**: *`Call`*
 
-*Defined in [SignerPayload.ts:17](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/api/src/SignerPayload.ts#L17)*
+*Defined in [SignerPayload.ts:17](https://github.com/polkadot-js/api/blob/a9746b3/packages/api/src/SignerPayload.ts#L17)*
 
 ___
 
@@ -74,7 +75,15 @@ ___
 
 • **nonce**: *`Compact<Index>`*
 
-*Defined in [SignerPayload.ts:18](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/api/src/SignerPayload.ts#L18)*
+*Defined in [SignerPayload.ts:18](https://github.com/polkadot-js/api/blob/a9746b3/packages/api/src/SignerPayload.ts#L18)*
+
+___
+
+###  runtimeVersion
+
+• **runtimeVersion**: *`RuntimeVersion`*
+
+*Defined in [SignerPayload.ts:19](https://github.com/polkadot-js/api/blob/a9746b3/packages/api/src/SignerPayload.ts#L19)*
 
 ___
 
@@ -82,7 +91,7 @@ ___
 
 • **tip**: *`Compact<Balance>`*
 
-*Defined in [SignerPayload.ts:19](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/api/src/SignerPayload.ts#L19)*
+*Defined in [SignerPayload.ts:20](https://github.com/polkadot-js/api/blob/a9746b3/packages/api/src/SignerPayload.ts#L20)*
 
 ___
 
@@ -90,4 +99,4 @@ ___
 
 • **version**: *`u8`*
 
-*Defined in [SignerPayload.ts:20](https://github.com/polkadot-js/api/blob/b8d8b7e/packages/api/src/SignerPayload.ts#L20)*
+*Defined in [SignerPayload.ts:21](https://github.com/polkadot-js/api/blob/a9746b3/packages/api/src/SignerPayload.ts#L21)*
