@@ -26,7 +26,7 @@
 
 Ƭ **SumbitableResultResult**: *`SumbitableResultResult<ApiType>`*
 
-*Defined in [SubmittableExtrinsic.ts:30](https://github.com/polkadot-js/api/blob/960d399/packages/api/src/SubmittableExtrinsic.ts#L30)*
+*Defined in [SubmittableExtrinsic.ts:30](https://github.com/polkadot-js/api/blob/67d6c50/packages/api/src/SubmittableExtrinsic.ts#L30)*
 
 ___
 
@@ -34,15 +34,15 @@ ___
 
 Ƭ **SumbitableResultSubscription**: *`SumbitableResultSubscription<ApiType>`*
 
-*Defined in [SubmittableExtrinsic.ts:35](https://github.com/polkadot-js/api/blob/960d399/packages/api/src/SubmittableExtrinsic.ts#L35)*
+*Defined in [SubmittableExtrinsic.ts:35](https://github.com/polkadot-js/api/blob/67d6c50/packages/api/src/SubmittableExtrinsic.ts#L35)*
 
 ## Functions
 
 ###  createSubmittableExtrinsic
 
-▸ **createSubmittableExtrinsic**<**ApiType**>(`type`: [ApiTypes](_types_.md#apitypes), `api`: [ApiInterfaceRx](../interfaces/_types_.apiinterfacerx.md), `decorateMethod`: `decorateMethod`, `extrinsic`: `Call` | `Uint8Array` | string, `trackingCb?`: `Callback<ISubmittableResult>`): *[SubmittableExtrinsic](../interfaces/_submittableextrinsic_.submittableextrinsic.md)‹*`ApiType`*›*
+▸ **createSubmittableExtrinsic**<**ApiType**>(`type`: [ApiTypes](_types_.md#apitypes), `api`: [ApiInterfaceRx](../interfaces/_types_.apiinterfacerx.md), `decorateMethod`: `decorateMethod`, `extrinsic`: `Call` | `Uint8Array` | string): *[SubmittableExtrinsic](../interfaces/_submittableextrinsic_.submittableextrinsic.md)‹*`ApiType`*›*
 
-*Defined in [SubmittableExtrinsic.ts:109](https://github.com/polkadot-js/api/blob/960d399/packages/api/src/SubmittableExtrinsic.ts#L109)*
+*Defined in [SubmittableExtrinsic.ts:109](https://github.com/polkadot-js/api/blob/67d6c50/packages/api/src/SubmittableExtrinsic.ts#L109)*
 
 **Type parameters:**
 
@@ -56,6 +56,5 @@ Name | Type |
 `api` | [ApiInterfaceRx](../interfaces/_types_.apiinterfacerx.md) |
 `decorateMethod` | `decorateMethod` |
 `extrinsic` | `Call` \| `Uint8Array` \| string |
-`trackingCb?` | `Callback<ISubmittableResult>` |
 
 **Returns:** *[SubmittableExtrinsic](../interfaces/_submittableextrinsic_.submittableextrinsic.md)‹*`ApiType`*›*
