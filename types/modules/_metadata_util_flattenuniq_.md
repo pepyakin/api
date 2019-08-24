@@ -12,7 +12,7 @@
 
 ▸ **flattenUniq**(`list`: any[]): *any[]*
 
-*Defined in [Metadata/util/flattenUniq.ts:6](https://github.com/polkadot-js/api/blob/895ed80/packages/types/src/Metadata/util/flattenUniq.ts#L6)*
+*Defined in [Metadata/util/flattenUniq.ts:6](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/Metadata/util/flattenUniq.ts#L6)*
 
 **Parameters:**
 
