@@ -12,7 +12,7 @@
   * [chain/bestNumberFinalized](modules/_chain_bestnumberfinalized_.md)
   * [chain/bestNumberLag](modules/_chain_bestnumberlag_.md)
   * [chain/getHeader](modules/_chain_getheader_.md)
-  * [chain/subscribeNewHead](modules/_chain_subscribenewhead_.md)
+  * [chain/subscribeNewHeads](modules/_chain_subscribenewheads_.md)
   * [contracts/fees](modules/_contracts_fees_.md)
   * [democracy/referendumInfo](modules/_democracy_referenduminfo_.md)
   * [democracy/referendumInfos](modules/_democracy_referenduminfos_.md)
