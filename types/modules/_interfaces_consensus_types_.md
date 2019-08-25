@@ -12,6 +12,6 @@
 
 Ƭ **AuthorityId**: *[AccountId](../classes/_primitive_generic_accountid_.accountid.md)*
 
-*Defined in [interfaces/consensus/types.ts:7](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/interfaces/consensus/types.ts#L7)*
+*Defined in [interfaces/consensus/types.ts:7](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/interfaces/consensus/types.ts#L7)*
 
 AccountId

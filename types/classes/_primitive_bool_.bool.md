@@ -48,7 +48,7 @@ Representation for a boolean value in the system. It extends the base JS `Boolea
 
 \+ **new Bool**(`value`: [Bool](_primitive_bool_.bool.md) | `Boolean` | `Uint8Array` | boolean | number): *[Bool](_primitive_bool_.bool.md)*
 
-*Defined in [primitive/Bool.ts:18](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L18)*
+*Defined in [primitive/Bool.ts:18](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L18)*
 
 **Parameters:**
 
@@ -72,7 +72,7 @@ Defined in /home/travis/build/polkadot-js/api/node_modules/typescript/lib/lib.es
 
 • **get encodedLength**(): *number*
 
-*Defined in [primitive/Bool.ts:39](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L39)*
+*Defined in [primitive/Bool.ts:39](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L39)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -84,7 +84,7 @@ ___
 
 • **get hash**(): *[IHash](../interfaces/_types_.ihash.md)*
 
-*Defined in [primitive/Bool.ts:46](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L46)*
+*Defined in [primitive/Bool.ts:46](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L46)*
 
 **`description`** returns a hash of the contents
 
@@ -96,7 +96,7 @@ ___
 
 • **get isEmpty**(): *boolean*
 
-*Defined in [primitive/Bool.ts:53](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L53)*
+*Defined in [primitive/Bool.ts:53](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L53)*
 
 **`description`** Checks if the value is an empty value (always false)
 
@@ -108,7 +108,7 @@ ___
 
 • **get isFalse**(): *boolean*
 
-*Defined in [primitive/Bool.ts:60](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L60)*
+*Defined in [primitive/Bool.ts:60](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L60)*
 
 **`description`** Checks if the value is an empty value (always false)
 
@@ -120,7 +120,7 @@ ___
 
 • **get isTrue**(): *boolean*
 
-*Defined in [primitive/Bool.ts:67](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L67)*
+*Defined in [primitive/Bool.ts:67](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L67)*
 
 **`description`** Checks if the value is an empty value (always false)
 
@@ -134,7 +134,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [primitive/Bool.ts:74](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L74)*
+*Defined in [primitive/Bool.ts:74](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L74)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -152,7 +152,7 @@ ___
 
 ▸ **toHex**(): *string*
 
-*Defined in [primitive/Bool.ts:85](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L85)*
+*Defined in [primitive/Bool.ts:85](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L85)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -166,7 +166,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [primitive/Bool.ts:92](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L92)*
+*Defined in [primitive/Bool.ts:92](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L92)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -180,7 +180,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [primitive/Bool.ts:99](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L99)*
+*Defined in [primitive/Bool.ts:99](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L99)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -194,7 +194,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [primitive/Bool.ts:106](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L106)*
+*Defined in [primitive/Bool.ts:106](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L106)*
 
 **`description`** Returns the string representation of the value
 
@@ -208,7 +208,7 @@ ___
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [primitive/Bool.ts:115](https://github.com/polkadot-js/api/blob/dc1104b/packages/types/src/primitive/Bool.ts#L115)*
+*Defined in [primitive/Bool.ts:115](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/primitive/Bool.ts#L115)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
