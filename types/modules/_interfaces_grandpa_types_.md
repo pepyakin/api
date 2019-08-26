@@ -13,6 +13,7 @@
 
 * [AuthorityWeight](_interfaces_grandpa_types_.md#authorityweight)
 * [NextAuthority](_interfaces_grandpa_types_.md#nextauthority)
+* [SetId](_interfaces_grandpa_types_.md#setid)
 
 ## Type aliases
 
@@ -20,7 +21,7 @@
 
 Ƭ **AuthorityWeight**: *[u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)*
 
-*Defined in [interfaces/grandpa/types.ts:11](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/interfaces/grandpa/types.ts#L11)*
+*Defined in [interfaces/grandpa/types.ts:11](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaces/grandpa/types.ts#L11)*
 
 u64
 
@@ -30,6 +31,16 @@ ___
 
 Ƭ **NextAuthority**: *[[AuthorityId](_interfaces_consensus_types_.md#authorityid), [u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/grandpa/types.ts:14](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/interfaces/grandpa/types.ts#L14)*
+*Defined in [interfaces/grandpa/types.ts:14](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaces/grandpa/types.ts#L14)*
 
 [AuthorityId, u64] & Codec
+
+___
+
+###  SetId
+
+Ƭ **SetId**: *[u64](../interfaces/_interfaceregistry_.interfaceregistry.md#u64)*
+
+*Defined in [interfaces/grandpa/types.ts:33](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaces/grandpa/types.ts#L33)*
+
+u64

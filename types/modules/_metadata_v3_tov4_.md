@@ -12,7 +12,7 @@
 
 ▸ **toV4**(`__namedParameters`: object): *[MetadataV4](../classes/_metadata_v4_metadata_.metadatav4.md)*
 
-*Defined in [Metadata/v3/toV4.ts:52](https://github.com/polkadot-js/api/blob/97a5b16/packages/types/src/Metadata/v3/toV4.ts#L52)*
+*Defined in [Metadata/v3/toV4.ts:52](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/Metadata/v3/toV4.ts#L52)*
 
 Convert from MetadataV3 to MetadataV4
 See https://github.com/paritytech/substrate/pull/2268 for details

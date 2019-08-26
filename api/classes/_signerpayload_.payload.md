@@ -34,7 +34,7 @@
 
 *Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[address](../interfaces/_signerpayload_.signerpayloadtype.md#address)*
 
-*Defined in [SignerPayload.ts:12](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L12)*
+*Defined in [SignerPayload.ts:12](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L12)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 *Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[blockHash](../interfaces/_signerpayload_.signerpayloadtype.md#blockhash)*
 
-*Defined in [SignerPayload.ts:13](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L13)*
+*Defined in [SignerPayload.ts:13](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L13)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 *Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[blockNumber](../interfaces/_signerpayload_.signerpayloadtype.md#blocknumber)*
 
-*Defined in [SignerPayload.ts:14](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L14)*
+*Defined in [SignerPayload.ts:14](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L14)*
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 *Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[era](../interfaces/_signerpayload_.signerpayloadtype.md#era)*
 
-*Defined in [SignerPayload.ts:15](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L15)*
+*Defined in [SignerPayload.ts:15](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L15)*
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 *Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[genesisHash](../interfaces/_signerpayload_.signerpayloadtype.md#genesishash)*
 
-*Defined in [SignerPayload.ts:16](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L16)*
+*Defined in [SignerPayload.ts:16](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L16)*
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 *Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[method](../interfaces/_signerpayload_.signerpayloadtype.md#method)*
 
-*Defined in [SignerPayload.ts:17](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L17)*
+*Defined in [SignerPayload.ts:17](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L17)*
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 *Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[nonce](../interfaces/_signerpayload_.signerpayloadtype.md#nonce)*
 
-*Defined in [SignerPayload.ts:18](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L18)*
+*Defined in [SignerPayload.ts:18](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L18)*
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 *Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[runtimeVersion](../interfaces/_signerpayload_.signerpayloadtype.md#runtimeversion)*
 
-*Defined in [SignerPayload.ts:19](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L19)*
+*Defined in [SignerPayload.ts:19](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L19)*
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 *Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[tip](../interfaces/_signerpayload_.signerpayloadtype.md#tip)*
 
-*Defined in [SignerPayload.ts:20](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L20)*
+*Defined in [SignerPayload.ts:20](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L20)*
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 *Inherited from [SignerPayloadType](../interfaces/_signerpayload_.signerpayloadtype.md).[version](../interfaces/_signerpayload_.signerpayloadtype.md#version)*
 
-*Defined in [SignerPayload.ts:21](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L21)*
+*Defined in [SignerPayload.ts:21](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L21)*
 
 ## Methods
 
@@ -132,7 +132,7 @@ ___
 
 ▸ **toPayload**(): *[SignerPayload](../interfaces/_types_.signerpayload.md)*
 
-*Defined in [SignerPayload.ts:43](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L43)*
+*Defined in [SignerPayload.ts:43](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L43)*
 
 **`description`** Creates an representation of the structure as an ISignerPayload JSON
 
@@ -144,7 +144,7 @@ ___
 
 ▸ **toRaw**(): *[SignerPayloadRaw](../interfaces/_types_.signerpayloadraw.md)*
 
-*Defined in [SignerPayload.ts:63](https://github.com/polkadot-js/api/blob/97a5b16/packages/api/src/SignerPayload.ts#L63)*
+*Defined in [SignerPayload.ts:63](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SignerPayload.ts#L63)*
 
 **`description`** Creates a representation of the payload in raw Exrinsic form
 
