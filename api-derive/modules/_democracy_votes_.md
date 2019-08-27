@@ -10,23 +10,23 @@
 
 ###  votes
 
-▸ **votes**(`api`: `ApiInterfaceRx`): *function*
+▸ **votes**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [democracy/votes.ts:14](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/democracy/votes.ts#L14)*
+*Defined in [democracy/votes.ts:14](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/democracy/votes.ts#L14)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`api` | `ApiInterfaceRx` |
+`api` | ApiInterfaceRx |
 
 **Returns:** *function*
 
-▸ (`referendumId`: `BN`, `accountIds?`: `AccountId`[]): *`Observable<Vote[]>`*
+▸ (`referendumId`: BN, `accountIds?`: AccountId[]): *Observable‹Vote[]›*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`referendumId` | `BN` |
-`accountIds?` | `AccountId`[] |
+`referendumId` | BN |
+`accountIds?` | AccountId[] |

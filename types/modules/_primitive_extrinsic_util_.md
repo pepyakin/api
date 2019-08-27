@@ -10,15 +10,15 @@
 
 ###  sign
 
-▸ **sign**(`signerPair`: [IKeyringPair](../interfaces/_types_.ikeyringpair.md), `u8a`: `Uint8Array`): *`Uint8Array`*
+▸ **sign**(`signerPair`: [IKeyringPair](../interfaces/_types_.ikeyringpair.md), `u8a`: Uint8Array): *Uint8Array*
 
-*Defined in [primitive/Extrinsic/util.ts:10](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Extrinsic/util.ts#L10)*
+*Defined in [primitive/Extrinsic/util.ts:10](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Extrinsic/util.ts#L10)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
 `signerPair` | [IKeyringPair](../interfaces/_types_.ikeyringpair.md) |
-`u8a` | `Uint8Array` |
+`u8a` | Uint8Array |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

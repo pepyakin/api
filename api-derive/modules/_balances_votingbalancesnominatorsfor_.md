@@ -10,22 +10,22 @@
 
 ###  votingBalancesNominatorsFor
 
-▸ **votingBalancesNominatorsFor**(`api`: `ApiInterfaceRx`): *function*
+▸ **votingBalancesNominatorsFor**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [balances/votingBalancesNominatorsFor.ts:17](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/balances/votingBalancesNominatorsFor.ts#L17)*
+*Defined in [balances/votingBalancesNominatorsFor.ts:17](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/balances/votingBalancesNominatorsFor.ts#L17)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`api` | `ApiInterfaceRx` |
+`api` | ApiInterfaceRx |
 
 **Returns:** *function*
 
-▸ (`address`: `AccountId` | `AccountIndex` | `Address` | string): *`Observable<DerivedBalances[]>`*
+▸ (`address`: AccountId | AccountIndex | Address | string): *Observable‹[DerivedBalances](../interfaces/_types_.derivedbalances.md)[]›*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`address` | `AccountId` \| `AccountIndex` \| `Address` \| string |
+`address` | AccountId \| AccountIndex \| Address \| string |

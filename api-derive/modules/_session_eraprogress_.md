@@ -10,16 +10,16 @@
 
 ###  eraProgress
 
-▸ **eraProgress**(`api`: `ApiInterfaceRx`): *function*
+▸ **eraProgress**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [session/eraProgress.ts:13](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/session/eraProgress.ts#L13)*
+*Defined in [session/eraProgress.ts:13](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/session/eraProgress.ts#L13)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`api` | `ApiInterfaceRx` |
+`api` | ApiInterfaceRx |
 
 **Returns:** *function*
 
-▸ (): *`Observable<BN>`*
+▸ (): *Observable‹BN›*

@@ -14,14 +14,14 @@
 
 ###  signAndSend
 
-▸ **signAndSend**(`account`: `IKeyringPair` | string | `AccountId` | `Address`): *`BlueprintCreateResultSubscription`*
+▸ **signAndSend**(`account`: IKeyringPair | string | AccountId | Address): *BlueprintCreateResultSubscription*
 
-*Defined in [RxBlueprint.ts:23](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-contract/src/RxBlueprint.ts#L23)*
+*Defined in [RxBlueprint.ts:23](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-contract/src/RxBlueprint.ts#L23)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`account` | `IKeyringPair` \| string \| `AccountId` \| `Address` |
+`account` | IKeyringPair \| string \| AccountId \| Address |
 
-**Returns:** *`BlueprintCreateResultSubscription`*
+**Returns:** *BlueprintCreateResultSubscription*

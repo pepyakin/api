@@ -24,25 +24,25 @@
 
 ###  SumbitableResultResult
 
-Ƭ **SumbitableResultResult**: *`SumbitableResultResult<ApiType>`*
+Ƭ **SumbitableResultResult**: *SumbitableResultResult<ApiType>*
 
-*Defined in [SubmittableExtrinsic.ts:30](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SubmittableExtrinsic.ts#L30)*
+*Defined in [SubmittableExtrinsic.ts:30](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/SubmittableExtrinsic.ts#L30)*
 
 ___
 
 ###  SumbitableResultSubscription
 
-Ƭ **SumbitableResultSubscription**: *`SumbitableResultSubscription<ApiType>`*
+Ƭ **SumbitableResultSubscription**: *SumbitableResultSubscription<ApiType>*
 
-*Defined in [SubmittableExtrinsic.ts:35](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SubmittableExtrinsic.ts#L35)*
+*Defined in [SubmittableExtrinsic.ts:35](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/SubmittableExtrinsic.ts#L35)*
 
 ## Functions
 
 ###  createSubmittableExtrinsic
 
-▸ **createSubmittableExtrinsic**<**ApiType**>(`type`: [ApiTypes](_types_.md#apitypes), `api`: [ApiInterfaceRx](../interfaces/_types_.apiinterfacerx.md), `decorateMethod`: `decorateMethod`, `extrinsic`: `Call` | `Uint8Array` | string): *[SubmittableExtrinsic](../interfaces/_submittableextrinsic_.submittableextrinsic.md)‹*`ApiType`*›*
+▸ **createSubmittableExtrinsic**<**ApiType**>(`type`: [ApiTypes](_types_.md#apitypes), `api`: [ApiInterfaceRx](../interfaces/_types_.apiinterfacerx.md), `decorateMethod`: decorateMethod, `extrinsic`: Call | Uint8Array | string): *[SubmittableExtrinsic](../interfaces/_submittableextrinsic_.submittableextrinsic.md)‹ApiType›*
 
-*Defined in [SubmittableExtrinsic.ts:109](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/SubmittableExtrinsic.ts#L109)*
+*Defined in [SubmittableExtrinsic.ts:109](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/SubmittableExtrinsic.ts#L109)*
 
 **Type parameters:**
 
@@ -54,7 +54,7 @@ Name | Type |
 ------ | ------ |
 `type` | [ApiTypes](_types_.md#apitypes) |
 `api` | [ApiInterfaceRx](../interfaces/_types_.apiinterfacerx.md) |
-`decorateMethod` | `decorateMethod` |
-`extrinsic` | `Call` \| `Uint8Array` \| string |
+`decorateMethod` | decorateMethod |
+`extrinsic` | Call \| Uint8Array \| string |
 
-**Returns:** *[SubmittableExtrinsic](../interfaces/_submittableextrinsic_.submittableextrinsic.md)‹*`ApiType`*›*
+**Returns:** *[SubmittableExtrinsic](../interfaces/_submittableextrinsic_.submittableextrinsic.md)‹ApiType›*

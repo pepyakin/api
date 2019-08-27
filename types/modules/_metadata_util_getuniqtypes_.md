@@ -10,15 +10,15 @@
 
 ###  getUniqTypes
 
-▸ **getUniqTypes**(`meta`: `ExtractionMetadata`, `throwError`: boolean): *string[]*
+▸ **getUniqTypes**(`meta`: ExtractionMetadata, `throwError`: boolean): *string[]*
 
-*Defined in [Metadata/util/getUniqTypes.ts:162](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/Metadata/util/getUniqTypes.ts#L162)*
+*Defined in [Metadata/util/getUniqTypes.ts:162](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/Metadata/util/getUniqTypes.ts#L162)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`meta` | `ExtractionMetadata` |
+`meta` | ExtractionMetadata |
 `throwError` | boolean |
 
 **Returns:** *string[]*

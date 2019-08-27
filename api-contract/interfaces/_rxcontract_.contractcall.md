@@ -14,14 +14,14 @@
 
 ###  signAndSend
 
-▸ **signAndSend**(`account`: `IKeyringPair` | string | `AccountId` | `Address`): *[ContractCallResultSubscription](../modules/_rxcontract_.md#contractcallresultsubscription)*
+▸ **signAndSend**(`account`: IKeyringPair | string | AccountId | Address): *[ContractCallResultSubscription](../modules/_rxcontract_.md#contractcallresultsubscription)*
 
-*Defined in [RxContract.ts:20](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-contract/src/RxContract.ts#L20)*
+*Defined in [RxContract.ts:20](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-contract/src/RxContract.ts#L20)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`account` | `IKeyringPair` \| string \| `AccountId` \| `Address` |
+`account` | IKeyringPair \| string \| AccountId \| Address |
 
 **Returns:** *[ContractCallResultSubscription](../modules/_rxcontract_.md#contractcallresultsubscription)*

@@ -10,9 +10,9 @@
 
 ###  decodeU8a
 
-▸ **decodeU8a**(`u8a`: `Uint8Array`, `_types`: [Constructor](../interfaces/_types_.constructor.md)[] | object): *[Codec](../interfaces/_types_.codec.md)[]*
+▸ **decodeU8a**(`u8a`: Uint8Array, `_types`: [Constructor](../interfaces/_types_.constructor.md)[] | object): *[Codec](../interfaces/_types_.codec.md)[]*
 
-*Defined in [codec/utils/decodeU8a.ts:14](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/utils/decodeU8a.ts#L14)*
+*Defined in [codec/utils/decodeU8a.ts:14](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/utils/decodeU8a.ts#L14)*
 
 Given an u8a, and an array of Type constructors, decode the u8a against the
 types, and return an array of decoded values.
@@ -21,7 +21,7 @@ types, and return an array of decoded values.
 
 Name | Type | Description |
 ------ | ------ | ------ |
-`u8a` | `Uint8Array` | The u8a to decode. |
+`u8a` | Uint8Array | The u8a to decode. |
 `_types` | [Constructor](../interfaces/_types_.constructor.md)[] \| object | - |
 
 **Returns:** *[Codec](../interfaces/_types_.codec.md)[]*

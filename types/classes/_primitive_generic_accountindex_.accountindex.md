@@ -43,7 +43,7 @@ for an Account. We extends from [U32](_primitive_u32_.u32.md) to provide the num
 
 *Overrides [U32](_primitive_u32_.u32.md).[constructor](_primitive_u32_.u32.md#constructor)*
 
-*Defined in [primitive/Generic/AccountIndex.ts:30](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/AccountIndex.ts#L30)*
+*Defined in [primitive/Generic/AccountIndex.ts:30](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/AccountIndex.ts#L30)*
 
 **Parameters:**
 
@@ -63,7 +63,7 @@ Name | Type | Default |
 
 *Overrides void*
 
-*Defined in [primitive/Generic/AccountIndex.ts:89](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/AccountIndex.ts#L89)*
+*Defined in [primitive/Generic/AccountIndex.ts:89](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/AccountIndex.ts#L89)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -85,7 +85,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:37](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/UInt.ts#L37)*
+*Defined in [codec/UInt.ts:37](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/UInt.ts#L37)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -107,7 +107,7 @@ ___
 
 *Overrides void*
 
-*Defined in [primitive/Generic/AccountIndex.ts:102](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/AccountIndex.ts#L102)*
+*Defined in [primitive/Generic/AccountIndex.ts:102](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/AccountIndex.ts#L102)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -123,7 +123,7 @@ ___
 
 *Overrides [UInt](_codec_uint_.uint.md).[toRawType](_codec_uint_.uint.md#torawtype)*
 
-*Defined in [primitive/Generic/AccountIndex.ts:118](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/AccountIndex.ts#L118)*
+*Defined in [primitive/Generic/AccountIndex.ts:118](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/AccountIndex.ts#L118)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -139,7 +139,7 @@ ___
 
 *Overrides void*
 
-*Defined in [primitive/Generic/AccountIndex.ts:109](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/AccountIndex.ts#L109)*
+*Defined in [primitive/Generic/AccountIndex.ts:109](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/AccountIndex.ts#L109)*
 
 **`description`** Returns the string representation of the value
 
@@ -149,7 +149,7 @@ ___
 
 ###  toU8a
 
-▸ **toU8a**(`isBare?`: undefined | false | true): *`Uint8Array`*
+▸ **toU8a**(`isBare?`: undefined | false | true): *Uint8Array*
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
@@ -157,7 +157,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/UInt.ts:63](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/UInt.ts#L63)*
+*Defined in [codec/UInt.ts:63](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/UInt.ts#L63)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -167,21 +167,21 @@ Name | Type | Description |
 ------ | ------ | ------ |
 `isBare?` | undefined \| false \| true | true when the value has none of the type-specific prefixes (internal)  |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*
 
 ___
 
 ### `Static` calcLength
 
-▸ **calcLength**(`_value`: `BN` | number): *number*
+▸ **calcLength**(`_value`: BN | number): *number*
 
-*Defined in [primitive/Generic/AccountIndex.ts:49](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/AccountIndex.ts#L49)*
+*Defined in [primitive/Generic/AccountIndex.ts:49](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/AccountIndex.ts#L49)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`_value` | `BN` \| number |
+`_value` | BN \| number |
 
 **Returns:** *number*
 
@@ -189,9 +189,9 @@ ___
 
 ### `Static` decodeAccountIndex
 
-▸ **decodeAccountIndex**(`value`: [AnyNumber](../modules/_types_.md#anynumber)): *`BN` | `Uint8Array` | number | string*
+▸ **decodeAccountIndex**(`value`: [AnyNumber](../modules/_types_.md#anynumber)): *BN | Uint8Array | number | string*
 
-*Defined in [primitive/Generic/AccountIndex.ts:37](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/AccountIndex.ts#L37)*
+*Defined in [primitive/Generic/AccountIndex.ts:37](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/AccountIndex.ts#L37)*
 
 **Parameters:**
 
@@ -199,21 +199,21 @@ Name | Type |
 ------ | ------ |
 `value` | [AnyNumber](../modules/_types_.md#anynumber) |
 
-**Returns:** *`BN` | `Uint8Array` | number | string*
+**Returns:** *BN | Uint8Array | number | string*
 
 ___
 
 ### `Static` readLength
 
-▸ **readLength**(`input`: `Uint8Array`): *[number, number]*
+▸ **readLength**(`input`: Uint8Array): *[number, number]*
 
-*Defined in [primitive/Generic/AccountIndex.ts:63](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/AccountIndex.ts#L63)*
+*Defined in [primitive/Generic/AccountIndex.ts:63](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/AccountIndex.ts#L63)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`input` | `Uint8Array` |
+`input` | Uint8Array |
 
 **Returns:** *[number, number]*
 
@@ -221,14 +221,14 @@ ___
 
 ### `Static` writeLength
 
-▸ **writeLength**(`input`: `Uint8Array`): *`Uint8Array`*
+▸ **writeLength**(`input`: Uint8Array): *Uint8Array*
 
-*Defined in [primitive/Generic/AccountIndex.ts:77](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/AccountIndex.ts#L77)*
+*Defined in [primitive/Generic/AccountIndex.ts:77](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/AccountIndex.ts#L77)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`input` | `Uint8Array` |
+`input` | Uint8Array |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

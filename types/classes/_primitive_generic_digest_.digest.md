@@ -7,7 +7,7 @@ A [Header](../interfaces/_interfaces_runtime_types_.header.md) Digest
 
 ## Type parameters
 
-▪ **S**: *`TypesDef`*
+▪ **S**: *TypesDef*
 
 ▪ **T**: *object*
 
@@ -63,7 +63,7 @@ A [Header](../interfaces/_interfaces_runtime_types_.header.md) Digest
 
 *Overrides [Struct](_codec_struct_.struct.md).[constructor](_codec_struct_.struct.md#constructor)*
 
-*Defined in [primitive/Generic/Digest.ts:165](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/Digest.ts#L165)*
+*Defined in [primitive/Generic/Digest.ts:165](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/Digest.ts#L165)*
 
 **Parameters:**
 
@@ -77,15 +77,15 @@ Name | Type |
 
 ###  Type
 
-• **get Type**(): *`E`*
+• **get Type**(): *E*
 
 *Inherited from [Struct](_codec_struct_.struct.md).[Type](_codec_struct_.struct.md#type)*
 
-*Defined in [codec/Struct.ts:157](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L157)*
+*Defined in [codec/Struct.ts:157](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L157)*
 
 **`description`** Returns the Type description to sthe structure
 
-**Returns:** *`E`*
+**Returns:** *E*
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[encodedLength](_codec_struct_.struct.md#encodedlength)*
 
-*Defined in [codec/Struct.ts:170](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L170)*
+*Defined in [codec/Struct.ts:170](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L170)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -109,7 +109,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[hash](_codec_struct_.struct.md#hash)*
 
-*Defined in [codec/Struct.ts:181](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L181)*
+*Defined in [codec/Struct.ts:181](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L181)*
 
 **`description`** returns a hash of the contents
 
@@ -123,7 +123,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[isEmpty](_codec_struct_.struct.md#isempty)*
 
-*Defined in [codec/Struct.ts:142](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L142)*
+*Defined in [codec/Struct.ts:142](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L142)*
 
 **`description`** Checks if the value is an empty value
 
@@ -133,13 +133,13 @@ ___
 
 ###  logs
 
-• **get logs**(): *[Vec](_codec_vec_.vec.md)‹*[DigestItem](_primitive_generic_digest_.digestitem.md)*›*
+• **get logs**(): *[Vec](_codec_vec_.vec.md)‹[DigestItem](_primitive_generic_digest_.digestitem.md)›*
 
-*Defined in [primitive/Generic/Digest.ts:175](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/Digest.ts#L175)*
+*Defined in [primitive/Generic/Digest.ts:175](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/Digest.ts#L175)*
 
 **`description`** The [DigestItem](_primitive_generic_digest_.digestitem.md) logs
 
-**Returns:** *[Vec](_codec_vec_.vec.md)‹*[DigestItem](_primitive_generic_digest_.digestitem.md)*›*
+**Returns:** *[Vec](_codec_vec_.vec.md)‹[DigestItem](_primitive_generic_digest_.digestitem.md)›*
 
 ## Methods
 
@@ -151,7 +151,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[eq](_codec_struct_.struct.md#eq)*
 
-*Defined in [codec/Struct.ts:188](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L188)*
+*Defined in [codec/Struct.ts:188](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L188)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -173,7 +173,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/Struct.ts:196](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L196)*
+*Defined in [codec/Struct.ts:196](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L196)*
 
 **`description`** Returns a specific names entry in the structure
 
@@ -193,7 +193,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[getAtIndex](_codec_struct_.struct.md#getatindex)*
 
-*Defined in [codec/Struct.ts:203](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L203)*
+*Defined in [codec/Struct.ts:203](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L203)*
 
 **`description`** Returns the values of a member at a specific index (Rather use get(name) for performance)
 
@@ -209,9 +209,9 @@ ___
 
 ###  logsWith
 
-▸ **logsWith**(...`include`: string[]): *[Vec](_codec_vec_.vec.md)‹*[DigestItem](_primitive_generic_digest_.digestitem.md)*›*
+▸ **logsWith**(...`include`: string[]): *[Vec](_codec_vec_.vec.md)‹[DigestItem](_primitive_generic_digest_.digestitem.md)›*
 
-*Defined in [primitive/Generic/Digest.ts:182](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/Digest.ts#L182)*
+*Defined in [primitive/Generic/Digest.ts:182](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/Digest.ts#L182)*
 
 **`description`** The [DigestItem](_primitive_generic_digest_.digestitem.md) logs, filtered, filter items included. This is useful for derive functionality where only a certain type of log is to be returned.
 
@@ -221,15 +221,15 @@ Name | Type |
 ------ | ------ |
 `...include` | string[] |
 
-**Returns:** *[Vec](_codec_vec_.vec.md)‹*[DigestItem](_primitive_generic_digest_.digestitem.md)*›*
+**Returns:** *[Vec](_codec_vec_.vec.md)‹[DigestItem](_primitive_generic_digest_.digestitem.md)›*
 
 ___
 
 ###  logsWithout
 
-▸ **logsWithout**(...`exclude`: string[]): *[Vec](_codec_vec_.vec.md)‹*[DigestItem](_primitive_generic_digest_.digestitem.md)*›*
+▸ **logsWithout**(...`exclude`: string[]): *[Vec](_codec_vec_.vec.md)‹[DigestItem](_primitive_generic_digest_.digestitem.md)›*
 
-*Defined in [primitive/Generic/Digest.ts:189](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Generic/Digest.ts#L189)*
+*Defined in [primitive/Generic/Digest.ts:189](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Generic/Digest.ts#L189)*
 
 **`description`** The [DigestItem](_primitive_generic_digest_.digestitem.md) logs, filtered, filter items exluded. This is useful for stripping headers for eg. WASM runtime execution.
 
@@ -239,7 +239,7 @@ Name | Type |
 ------ | ------ |
 `...exclude` | string[] |
 
-**Returns:** *[Vec](_codec_vec_.vec.md)‹*[DigestItem](_primitive_generic_digest_.digestitem.md)*›*
+**Returns:** *[Vec](_codec_vec_.vec.md)‹[DigestItem](_primitive_generic_digest_.digestitem.md)›*
 
 ___
 
@@ -249,7 +249,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toArray](_codec_struct_.struct.md#toarray)*
 
-*Defined in [codec/Struct.ts:210](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L210)*
+*Defined in [codec/Struct.ts:210](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L210)*
 
 **`description`** Converts the Object to an standard JavaScript Array
 
@@ -263,7 +263,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toHex](_codec_struct_.struct.md#tohex)*
 
-*Defined in [codec/Struct.ts:217](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L217)*
+*Defined in [codec/Struct.ts:217](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L217)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -279,7 +279,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toJSON](_codec_struct_.struct.md#tojson)*
 
-*Defined in [codec/Struct.ts:224](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L224)*
+*Defined in [codec/Struct.ts:224](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L224)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -295,7 +295,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toRawType](_codec_struct_.struct.md#torawtype)*
 
-*Defined in [codec/Struct.ts:248](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L248)*
+*Defined in [codec/Struct.ts:248](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L248)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -311,7 +311,7 @@ ___
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toString](_codec_struct_.struct.md#tostring)*
 
-*Defined in [codec/Struct.ts:257](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L257)*
+*Defined in [codec/Struct.ts:257](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L257)*
 
 **`description`** Returns the string representation of the value
 
@@ -321,13 +321,13 @@ ___
 
 ###  toU8a
 
-▸ **toU8a**(`isBare?`: undefined | false | true): *`Uint8Array`*
+▸ **toU8a**(`isBare?`: undefined | false | true): *Uint8Array*
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
 *Inherited from [Struct](_codec_struct_.struct.md).[toU8a](_codec_struct_.struct.md#tou8a)*
 
-*Defined in [codec/Struct.ts:265](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L265)*
+*Defined in [codec/Struct.ts:265](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L265)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -337,44 +337,44 @@ Name | Type | Description |
 ------ | ------ | ------ |
 `isBare?` | undefined \| false \| true | true when the value has none of the type-specific prefixes (internal)  |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*
 
 ___
 
 ### `Static` typesToMap
 
-▸ **typesToMap**(`Types`: `Record<string, Constructor>`): *`Record<string, string>`*
+▸ **typesToMap**(`Types`: Record‹string, [Constructor](../interfaces/_types_.constructor.md)›): *Record‹string, string›*
 
 *Inherited from [Struct](_codec_struct_.struct.md).[typesToMap](_codec_struct_.struct.md#static-typestomap)*
 
-*Defined in [codec/Struct.ts:237](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L237)*
+*Defined in [codec/Struct.ts:237](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L237)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`Types` | `Record<string, Constructor>` |
+`Types` | Record‹string, [Constructor](../interfaces/_types_.constructor.md)› |
 
-**Returns:** *`Record<string, string>`*
+**Returns:** *Record‹string, string›*
 
 ___
 
 ### `Static` with
 
-▸ **with**<**S**>(`Types`: `S`): *[Constructor](../interfaces/_types_.constructor.md)‹*[Struct](_codec_struct_.struct.md)‹*`S`*›*›*
+▸ **with**<**S**>(`Types`: S): *[Constructor](../interfaces/_types_.constructor.md)‹[Struct](_codec_struct_.struct.md)‹S››*
 
 *Inherited from [Struct](_codec_struct_.struct.md).[with](_codec_struct_.struct.md#static-with)*
 
-*Defined in [codec/Struct.ts:119](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Struct.ts#L119)*
+*Defined in [codec/Struct.ts:119](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Struct.ts#L119)*
 
 **Type parameters:**
 
-▪ **S**: *`TypesDef`*
+▪ **S**: *TypesDef*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`Types` | `S` |
+`Types` | S |
 
-**Returns:** *[Constructor](../interfaces/_types_.constructor.md)‹*[Struct](_codec_struct_.struct.md)‹*`S`*›*›*
+**Returns:** *[Constructor](../interfaces/_types_.constructor.md)‹[Struct](_codec_struct_.struct.md)‹S››*

@@ -17,9 +17,9 @@
 
 ###  body
 
-• **body**: *`Record<string, any>`*
+• **body**: *Record‹string, any›*
 
-*Defined in [mock/types.ts:14](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/rpc-provider/src/mock/types.ts#L14)*
+*Defined in [mock/types.ts:14](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/rpc-provider/src/mock/types.ts#L14)*
 
 ___
 
@@ -27,11 +27,11 @@ ___
 
 • **done**: *function*
 
-*Defined in [mock/types.ts:17](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/rpc-provider/src/mock/types.ts#L17)*
+*Defined in [mock/types.ts:17](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/rpc-provider/src/mock/types.ts#L17)*
 
 #### Type declaration:
 
-▸ (): *`__type`*
+▸ (): *__type*
 
 ___
 
@@ -39,12 +39,12 @@ ___
 
 • **requests**: *number*
 
-*Defined in [mock/types.ts:15](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/rpc-provider/src/mock/types.ts#L15)*
+*Defined in [mock/types.ts:15](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/rpc-provider/src/mock/types.ts#L15)*
 
 ___
 
 ###  server
 
-• **server**: *`Server`*
+• **server**: *Server*
 
-*Defined in [mock/types.ts:16](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/rpc-provider/src/mock/types.ts#L16)*
+*Defined in [mock/types.ts:16](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/rpc-provider/src/mock/types.ts#L16)*

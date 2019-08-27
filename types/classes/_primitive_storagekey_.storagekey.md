@@ -55,18 +55,18 @@ constructed by passing in a raw key or a StorageEntry with (optional) arguments.
 
 ###  constructor
 
-\+ **new StorageKey**(`value?`: [AnyU8a](../modules/_types_.md#anyu8a) | [StorageKey](_primitive_storagekey_.storagekey.md) | [StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md) | [[StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md), any], `override`: `Partial<StorageKeyExtra>`): *[StorageKey](_primitive_storagekey_.storagekey.md)*
+\+ **new StorageKey**(`value?`: [AnyU8a](../modules/_types_.md#anyu8a) | [StorageKey](_primitive_storagekey_.storagekey.md) | [StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md) | [[StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md), any], `override`: Partial‹StorageKeyExtra›): *[StorageKey](_primitive_storagekey_.storagekey.md)*
 
 *Overrides [Bytes](_primitive_bytes_.bytes.md).[constructor](_primitive_bytes_.bytes.md#constructor)*
 
-*Defined in [primitive/StorageKey.ts:45](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/StorageKey.ts#L45)*
+*Defined in [primitive/StorageKey.ts:45](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/StorageKey.ts#L45)*
 
 **Parameters:**
 
 Name | Type | Default |
 ------ | ------ | ------ |
 `value?` | [AnyU8a](../modules/_types_.md#anyu8a) \| [StorageKey](_primitive_storagekey_.storagekey.md) \| [StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md) \| [[StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md), any] | - |
-`override` | `Partial<StorageKeyExtra>` |  {} |
+`override` | Partial‹StorageKeyExtra› |  {} |
 
 **Returns:** *[StorageKey](_primitive_storagekey_.storagekey.md)*
 
@@ -80,7 +80,7 @@ Name | Type | Default |
 
 *Overrides [U8a](_codec_u8a_.u8a.md).[encodedLength](_codec_u8a_.u8a.md#encodedlength)*
 
-*Defined in [primitive/Bytes.ts:65](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Bytes.ts#L65)*
+*Defined in [primitive/Bytes.ts:65](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Bytes.ts#L65)*
 
 **`description`** The length of the value when encoded as a Uint8Array
 
@@ -94,7 +94,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[hash](_codec_u8a_.u8a.md#hash)*
 
-*Defined in [codec/U8a.ts:44](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/U8a.ts#L44)*
+*Defined in [codec/U8a.ts:44](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/U8a.ts#L44)*
 
 **`description`** returns a hash of the contents
 
@@ -108,7 +108,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[isEmpty](_codec_u8a_.u8a.md#isempty)*
 
-*Defined in [codec/U8a.ts:51](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/U8a.ts#L51)*
+*Defined in [codec/U8a.ts:51](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/U8a.ts#L51)*
 
 **`description`** Returns true if the type wraps an empty/default all-0 value
 
@@ -124,7 +124,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/U8a.ts:58](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/U8a.ts#L58)*
+*Defined in [codec/U8a.ts:58](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/U8a.ts#L58)*
 
 **`description`** The length of the value
 
@@ -134,13 +134,13 @@ ___
 
 ###  meta
 
-• **get meta**(): *`MetaV7` | undefined*
+• **get meta**(): *MetaV7 | undefined*
 
-*Defined in [primitive/StorageKey.ts:120](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/StorageKey.ts#L120)*
+*Defined in [primitive/StorageKey.ts:120](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/StorageKey.ts#L120)*
 
 **`description`** The metadata or `undefined` when not available
 
-**Returns:** *`MetaV7` | undefined*
+**Returns:** *MetaV7 | undefined*
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 • **get method**(): *string | undefined*
 
-*Defined in [primitive/StorageKey.ts:127](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/StorageKey.ts#L127)*
+*Defined in [primitive/StorageKey.ts:127](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/StorageKey.ts#L127)*
 
 **`description`** The key method or `undefined` when not specified
 
@@ -160,7 +160,7 @@ ___
 
 • **get outputType**(): *string | undefined*
 
-*Defined in [primitive/StorageKey.ts:134](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/StorageKey.ts#L134)*
+*Defined in [primitive/StorageKey.ts:134](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/StorageKey.ts#L134)*
 
 **`description`** The output type, `null` when not available
 
@@ -172,7 +172,7 @@ ___
 
 • **get section**(): *string | undefined*
 
-*Defined in [primitive/StorageKey.ts:141](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/StorageKey.ts#L141)*
+*Defined in [primitive/StorageKey.ts:141](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/StorageKey.ts#L141)*
 
 **`description`** The key section or `undefined` when not specified
 
@@ -186,7 +186,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[bitLength](_codec_u8a_.u8a.md#bitlength)*
 
-*Defined in [codec/U8a.ts:66](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/U8a.ts#L66)*
+*Defined in [codec/U8a.ts:66](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/U8a.ts#L66)*
 
 **`description`** Returns the number of bits in the value
 
@@ -202,7 +202,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[eq](_codec_u8a_.u8a.md#eq)*
 
-*Defined in [codec/U8a.ts:73](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/U8a.ts#L73)*
+*Defined in [codec/U8a.ts:73](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/U8a.ts#L73)*
 
 **`description`** Compares the value of the input to see if there is a match
 
@@ -218,13 +218,13 @@ ___
 
 ###  subarray
 
-▸ **subarray**(`begin`: number, `end?`: undefined | number): *`Uint8Array`*
+▸ **subarray**(`begin`: number, `end?`: undefined | number): *Uint8Array*
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[subarray](_codec_u8a_.u8a.md#subarray)*
 
 *Overrides void*
 
-*Defined in [codec/U8a.ts:88](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/U8a.ts#L88)*
+*Defined in [codec/U8a.ts:88](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/U8a.ts#L88)*
 
 **`description`** Create a new subarray from the actual buffer. This is needed for compat reasons since a new Uint8Array gets returned here
 
@@ -235,7 +235,7 @@ Name | Type | Description |
 `begin` | number | The position to start at |
 `end?` | undefined \| number | The position to end at  |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*
 
 ___
 
@@ -245,7 +245,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[toHex](_codec_u8a_.u8a.md#tohex)*
 
-*Defined in [codec/U8a.ts:95](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/U8a.ts#L95)*
+*Defined in [codec/U8a.ts:95](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/U8a.ts#L95)*
 
 **`description`** Returns a hex string representation of the value
 
@@ -261,7 +261,7 @@ ___
 
 *Inherited from [U8a](_codec_u8a_.u8a.md).[toJSON](_codec_u8a_.u8a.md#tojson)*
 
-*Defined in [codec/U8a.ts:102](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/U8a.ts#L102)*
+*Defined in [codec/U8a.ts:102](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/U8a.ts#L102)*
 
 **`description`** Converts the Object to JSON, typically used for RPC transfers
 
@@ -279,7 +279,7 @@ ___
 
 *Overrides [U8a](_codec_u8a_.u8a.md).[toRawType](_codec_u8a_.u8a.md#torawtype)*
 
-*Defined in [primitive/Bytes.ts:72](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Bytes.ts#L72)*
+*Defined in [primitive/Bytes.ts:72](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Bytes.ts#L72)*
 
 **`description`** Returns the base runtime type name for this instance
 
@@ -297,7 +297,7 @@ ___
 
 *Overrides void*
 
-*Defined in [codec/U8a.ts:116](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/U8a.ts#L116)*
+*Defined in [codec/U8a.ts:116](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/U8a.ts#L116)*
 
 **`description`** Returns the string representation of the value
 
@@ -307,7 +307,7 @@ ___
 
 ###  toU8a
 
-▸ **toU8a**(`isBare?`: undefined | false | true): *`Uint8Array`*
+▸ **toU8a**(`isBare?`: undefined | false | true): *Uint8Array*
 
 *Implementation of [Codec](../interfaces/_types_.codec.md)*
 
@@ -315,7 +315,7 @@ ___
 
 *Overrides [U8a](_codec_u8a_.u8a.md).[toU8a](_codec_u8a_.u8a.md#tou8a)*
 
-*Defined in [primitive/Bytes.ts:80](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Bytes.ts#L80)*
+*Defined in [primitive/Bytes.ts:80](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Bytes.ts#L80)*
 
 **`description`** Encodes the value as a Uint8Array as per the SCALE specifications
 
@@ -325,15 +325,15 @@ Name | Type | Description |
 ------ | ------ | ------ |
 `isBare?` | undefined \| false \| true | true when the value has none of the type-specific prefixes (internal)  |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*
 
 ___
 
 ### `Static` decodeStorageKey
 
-▸ **decodeStorageKey**(`value?`: [AnyU8a](../modules/_types_.md#anyu8a) | [StorageKey](_primitive_storagekey_.storagekey.md) | [StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md) | [[StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md), any]): *`Decoded`*
+▸ **decodeStorageKey**(`value?`: [AnyU8a](../modules/_types_.md#anyu8a) | [StorageKey](_primitive_storagekey_.storagekey.md) | [StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md) | [[StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md), any]): *Decoded*
 
-*Defined in [primitive/StorageKey.ts:58](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/StorageKey.ts#L58)*
+*Defined in [primitive/StorageKey.ts:58](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/StorageKey.ts#L58)*
 
 **Parameters:**
 
@@ -341,15 +341,15 @@ Name | Type |
 ------ | ------ |
 `value?` | [AnyU8a](../modules/_types_.md#anyu8a) \| [StorageKey](_primitive_storagekey_.storagekey.md) \| [StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md) \| [[StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md), any] |
 
-**Returns:** *`Decoded`*
+**Returns:** *Decoded*
 
 ___
 
 ### `Static` getMeta
 
-▸ **getMeta**(`value`: [StorageKey](_primitive_storagekey_.storagekey.md) | [StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md) | [[StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md), any]): *`MetaV7` | undefined*
+▸ **getMeta**(`value`: [StorageKey](_primitive_storagekey_.storagekey.md) | [StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md) | [[StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md), any]): *MetaV7 | undefined*
 
-*Defined in [primitive/StorageKey.ts:89](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/StorageKey.ts#L89)*
+*Defined in [primitive/StorageKey.ts:89](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/StorageKey.ts#L89)*
 
 **Parameters:**
 
@@ -357,7 +357,7 @@ Name | Type |
 ------ | ------ |
 `value` | [StorageKey](_primitive_storagekey_.storagekey.md) \| [StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md) \| [[StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md), any] |
 
-**Returns:** *`MetaV7` | undefined*
+**Returns:** *MetaV7 | undefined*
 
 ___
 
@@ -365,7 +365,7 @@ ___
 
 ▸ **getType**(`value`: [StorageKey](_primitive_storagekey_.storagekey.md) | [StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md) | [[StorageEntry](../interfaces/_primitive_storagekey_.storageentry.md), any]): *string | undefined*
 
-*Defined in [primitive/StorageKey.ts:103](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/StorageKey.ts#L103)*
+*Defined in [primitive/StorageKey.ts:103](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/StorageKey.ts#L103)*
 
 **Parameters:**
 

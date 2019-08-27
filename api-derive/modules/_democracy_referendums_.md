@@ -10,16 +10,16 @@
 
 ###  referendums
 
-▸ **referendums**(`api`: `ApiInterfaceRx`): *function*
+▸ **referendums**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [democracy/referendums.ts:17](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/democracy/referendums.ts#L17)*
+*Defined in [democracy/referendums.ts:17](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/democracy/referendums.ts#L17)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`api` | `ApiInterfaceRx` |
+`api` | ApiInterfaceRx |
 
 **Returns:** *function*
 
-▸ (): *`Observable<Option<ReferendumInfoExtended>[]>`*
+▸ (): *Observable‹Option‹[ReferendumInfoExtended](../classes/_type_referenduminfoextended_.referenduminfoextended.md)›[]›*

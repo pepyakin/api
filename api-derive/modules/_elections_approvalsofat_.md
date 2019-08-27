@@ -10,9 +10,9 @@
 
 ###  approvalsOfAt
 
-▸ **approvalsOfAt**(`api`: `ApiInterfaceRx`): *function*
+▸ **approvalsOfAt**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [elections/approvalsOfAt.ts:26](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/elections/approvalsOfAt.ts#L26)*
+*Defined in [elections/approvalsOfAt.ts:26](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/elections/approvalsOfAt.ts#L26)*
 
 **`name`** approvalsOfAt
 
@@ -29,17 +29,17 @@ api.derive.elections.approvalsOfAt(ALICE, new BN(0), (approvals) => {
 
 Name | Type |
 ------ | ------ |
-`api` | `ApiInterfaceRx` |
+`api` | ApiInterfaceRx |
 
 **Returns:** *function*
 
 An array of boolean approvals for the account and set index, converted from the returned ApprovalFlag.
 
-▸ (`who`: `AccountId`, `at`: `SetIndex`): *`Observable<boolean[]>`*
+▸ (`who`: AccountId, `at`: SetIndex): *Observable‹boolean[]›*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`who` | `AccountId` |
-`at` | `SetIndex` |
+`who` | AccountId |
+`at` | SetIndex |

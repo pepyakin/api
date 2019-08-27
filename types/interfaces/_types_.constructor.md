@@ -18,9 +18,9 @@
 
 ###  constructor
 
-\+ **new Constructor**(...`value`: any[]): *`T`*
+\+ **new Constructor**(...`value`: any[]): *T*
 
-*Defined in [types.ts:125](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/types.ts#L125)*
+*Defined in [types.ts:125](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/types.ts#L125)*
 
 **Parameters:**
 
@@ -28,4 +28,4 @@ Name | Type |
 ------ | ------ |
 `...value` | any[] |
 
-**Returns:** *`T`*
+**Returns:** *T*

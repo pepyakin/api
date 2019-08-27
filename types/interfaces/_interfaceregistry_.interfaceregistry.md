@@ -887,7 +887,7 @@
 
 • **AccountId**: *[AccountId](../classes/_primitive_generic_accountid_.accountid.md)*
 
-*Defined in [interfaceRegistry.ts:117](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L117)*
+*Defined in [interfaceRegistry.ts:117](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L117)*
 
 ___
 
@@ -895,7 +895,7 @@ ___
 
 • **AccountIdOf**: *[AccountIdOf](_interfaceregistry_.interfaceregistry.md#accountidof)*
 
-*Defined in [interfaceRegistry.ts:120](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L120)*
+*Defined in [interfaceRegistry.ts:120](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L120)*
 
 ___
 
@@ -903,7 +903,7 @@ ___
 
 • **AccountIndex**: *[AccountIndex](../classes/_primitive_generic_accountindex_.accountindex.md)*
 
-*Defined in [interfaceRegistry.ts:123](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L123)*
+*Defined in [interfaceRegistry.ts:123](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L123)*
 
 ___
 
@@ -911,7 +911,7 @@ ___
 
 • **AccountInfo**: *[AccountInfo](_interfaces_deprecated_types_.accountinfo.md)*
 
-*Defined in [interfaceRegistry.ts:375](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L375)*
+*Defined in [interfaceRegistry.ts:375](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L375)*
 
 ___
 
@@ -919,7 +919,7 @@ ___
 
 • **Address**: *[Address](../classes/_primitive_generic_address_.address.md)*
 
-*Defined in [interfaceRegistry.ts:127](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L127)*
+*Defined in [interfaceRegistry.ts:127](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L127)*
 
 ___
 
@@ -927,7 +927,7 @@ ___
 
 • **AliveContractInfo**: *[AliveContractInfo](_interfaces_contracts_types_.alivecontractinfo.md)*
 
-*Defined in [interfaceRegistry.ts:314](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L314)*
+*Defined in [interfaceRegistry.ts:314](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L314)*
 
 ___
 
@@ -935,7 +935,7 @@ ___
 
 • **Amount**: *[Amount](_interfaceregistry_.interfaceregistry.md#amount)*
 
-*Defined in [interfaceRegistry.ts:368](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L368)*
+*Defined in [interfaceRegistry.ts:368](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L368)*
 
 ___
 
@@ -943,7 +943,7 @@ ___
 
 • **ApiId**: *[ApiId](_interfaceregistry_.interfaceregistry.md#apiid)*
 
-*Defined in [interfaceRegistry.ts:871](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L871)*
+*Defined in [interfaceRegistry.ts:871](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L871)*
 
 ___
 
@@ -951,7 +951,7 @@ ___
 
 • **ApprovalFlag**: *[ApprovalFlag](_interfaceregistry_.interfaceregistry.md#approvalflag)*
 
-*Defined in [interfaceRegistry.ts:390](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L390)*
+*Defined in [interfaceRegistry.ts:390](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L390)*
 
 ___
 
@@ -959,7 +959,7 @@ ___
 
 • **AssetId**: *[AssetId](_interfaceregistry_.interfaceregistry.md#assetid)*
 
-*Defined in [interfaceRegistry.ts:130](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L130)*
+*Defined in [interfaceRegistry.ts:130](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L130)*
 
 ___
 
@@ -967,7 +967,7 @@ ___
 
 • **AssetOf**: *[AssetOf](_interfaceregistry_.interfaceregistry.md#assetof)*
 
-*Defined in [interfaceRegistry.ts:371](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L371)*
+*Defined in [interfaceRegistry.ts:371](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L371)*
 
 ___
 
@@ -975,7 +975,7 @@ ___
 
 • **AssetOptions**: *[AssetOptions](_interfaces_genericasset_types_.assetoptions.md)*
 
-*Defined in [interfaceRegistry.ts:411](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L411)*
+*Defined in [interfaceRegistry.ts:411](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L411)*
 
 ___
 
@@ -983,7 +983,7 @@ ___
 
 • **AttestedCandidate**: *[AttestedCandidate](_interfaces_parachains_types_.attestedcandidate.md)*
 
-*Defined in [interfaceRegistry.ts:585](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L585)*
+*Defined in [interfaceRegistry.ts:585](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L585)*
 
 ___
 
@@ -991,7 +991,7 @@ ___
 
 • **AuctionIndex**: *[AuctionIndex](_interfaceregistry_.interfaceregistry.md#auctionindex)*
 
-*Defined in [interfaceRegistry.ts:588](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L588)*
+*Defined in [interfaceRegistry.ts:588](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L588)*
 
 ___
 
@@ -999,7 +999,7 @@ ___
 
 • **AuthIndex**: *[AuthIndex](_interfaceregistry_.interfaceregistry.md#authindex)*
 
-*Defined in [interfaceRegistry.ts:449](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L449)*
+*Defined in [interfaceRegistry.ts:449](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L449)*
 
 ___
 
@@ -1007,7 +1007,7 @@ ___
 
 • **AuthorityId**: *[AuthorityId](_interfaceregistry_.interfaceregistry.md#authorityid)*
 
-*Defined in [interfaceRegistry.ts:311](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L311)*
+*Defined in [interfaceRegistry.ts:311](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L311)*
 
 ___
 
@@ -1015,7 +1015,7 @@ ___
 
 • **AuthoritySignature**: *[AuthoritySignature](_interfaceregistry_.interfaceregistry.md#authoritysignature)*
 
-*Defined in [interfaceRegistry.ts:453](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L453)*
+*Defined in [interfaceRegistry.ts:453](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L453)*
 
 ___
 
@@ -1023,7 +1023,7 @@ ___
 
 • **AuthorityWeight**: *[AuthorityWeight](_interfaceregistry_.interfaceregistry.md#authorityweight)*
 
-*Defined in [interfaceRegistry.ts:426](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L426)*
+*Defined in [interfaceRegistry.ts:426](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L426)*
 
 ___
 
@@ -1031,7 +1031,7 @@ ___
 
 • **BabeAuthorityWeight**: *[BabeAuthorityWeight](_interfaceregistry_.interfaceregistry.md#babeauthorityweight)*
 
-*Defined in [interfaceRegistry.ts:266](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L266)*
+*Defined in [interfaceRegistry.ts:266](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L266)*
 
 ___
 
@@ -1039,7 +1039,7 @@ ___
 
 • **BabeBlockWeight**: *[BabeBlockWeight](_interfaceregistry_.interfaceregistry.md#babeblockweight)*
 
-*Defined in [interfaceRegistry.ts:270](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L270)*
+*Defined in [interfaceRegistry.ts:270](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L270)*
 
 ___
 
@@ -1047,7 +1047,7 @@ ___
 
 • **BabeWeight**: *[BabeWeight](_interfaceregistry_.interfaceregistry.md#babeweight)*
 
-*Defined in [interfaceRegistry.ts:274](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L274)*
+*Defined in [interfaceRegistry.ts:274](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L274)*
 
 ___
 
@@ -1055,7 +1055,7 @@ ___
 
 • **Balance**: *[Balance](_interfaceregistry_.interfaceregistry.md#balance)*
 
-*Defined in [interfaceRegistry.ts:134](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L134)*
+*Defined in [interfaceRegistry.ts:134](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L134)*
 
 ___
 
@@ -1063,7 +1063,7 @@ ___
 
 • **BalanceLock**: *[BalanceLock](_interfaces_balances_types_.balancelock.md)*
 
-*Defined in [interfaceRegistry.ts:291](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L291)*
+*Defined in [interfaceRegistry.ts:291](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L291)*
 
 ___
 
@@ -1071,7 +1071,7 @@ ___
 
 • **BalanceOf**: *[BalanceOf](_interfaceregistry_.interfaceregistry.md#balanceof)*
 
-*Defined in [interfaceRegistry.ts:138](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L138)*
+*Defined in [interfaceRegistry.ts:138](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L138)*
 
 ___
 
@@ -1079,7 +1079,7 @@ ___
 
 • **BalanceUpload**: *[BalanceUpload](_interfaceregistry_.interfaceregistry.md#balanceupload)*
 
-*Defined in [interfaceRegistry.ts:592](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L592)*
+*Defined in [interfaceRegistry.ts:592](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L592)*
 
 ___
 
@@ -1087,7 +1087,7 @@ ___
 
 • **Bidder**: *[Bidder](_interfaces_parachains_types_.bidder.md)*
 
-*Defined in [interfaceRegistry.ts:595](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L595)*
+*Defined in [interfaceRegistry.ts:595](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L595)*
 
 ___
 
@@ -1095,7 +1095,7 @@ ___
 
 • **Block**: *[Block](../classes/_primitive_generic_block_.block.md)*
 
-*Defined in [interfaceRegistry.ts:141](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L141)*
+*Defined in [interfaceRegistry.ts:141](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L141)*
 
 ___
 
@@ -1103,7 +1103,7 @@ ___
 
 • **BlockAttestations**: *[BlockAttestations](_interfaces_attestations_types_.blockattestations.md)*
 
-*Defined in [interfaceRegistry.ts:570](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L570)*
+*Defined in [interfaceRegistry.ts:570](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L570)*
 
 ___
 
@@ -1111,7 +1111,7 @@ ___
 
 • **BlockNumber**: *[BlockNumber](_interfaceregistry_.interfaceregistry.md#blocknumber)*
 
-*Defined in [interfaceRegistry.ts:144](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L144)*
+*Defined in [interfaceRegistry.ts:144](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L144)*
 
 ___
 
@@ -1119,7 +1119,7 @@ ___
 
 • **Bytes**: *[Bytes](../classes/_primitive_bytes_.bytes.md)*
 
-*Defined in [interfaceRegistry.ts:35](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L35)*
+*Defined in [interfaceRegistry.ts:35](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L35)*
 
 ___
 
@@ -1127,7 +1127,7 @@ ___
 
 • **Call**: *[Call](../classes/_primitive_generic_call_.call.md)*
 
-*Defined in [interfaceRegistry.ts:148](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L148)*
+*Defined in [interfaceRegistry.ts:148](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L148)*
 
 ___
 
@@ -1135,7 +1135,7 @@ ___
 
 • **CallMetadataV0**: *[CallMetadataV0](_interfaces_metadata_types_.callmetadatav0.md)*
 
-*Defined in [interfaceRegistry.ts:664](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L664)*
+*Defined in [interfaceRegistry.ts:664](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L664)*
 
 ___
 
@@ -1143,7 +1143,7 @@ ___
 
 • **CandidateReceipt**: *[CandidateReceipt](_interfaces_parachains_types_.candidatereceipt.md)*
 
-*Defined in [interfaceRegistry.ts:598](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L598)*
+*Defined in [interfaceRegistry.ts:598](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L598)*
 
 ___
 
@@ -1151,7 +1151,7 @@ ___
 
 • **ChainProperties**: *[ChainProperties](_interfaces_rpc_types_.chainproperties.md)*
 
-*Defined in [interfaceRegistry.ts:874](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L874)*
+*Defined in [interfaceRegistry.ts:874](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L874)*
 
 ___
 
@@ -1159,7 +1159,7 @@ ___
 
 • **CodeHash**: *[CodeHash](_interfaceregistry_.interfaceregistry.md#codehash)*
 
-*Defined in [interfaceRegistry.ts:317](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L317)*
+*Defined in [interfaceRegistry.ts:317](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L317)*
 
 ___
 
@@ -1167,335 +1167,335 @@ ___
 
 • **CollatorSignature**: *[CollatorSignature](_interfaceregistry_.interfaceregistry.md#collatorsignature)*
 
-*Defined in [interfaceRegistry.ts:601](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L601)*
+*Defined in [interfaceRegistry.ts:601](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L601)*
 
 ___
 
 ###  Compact<AccountIndex>
 
-• **Compact<AccountIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[AccountIndex](../classes/_primitive_generic_accountindex_.accountindex.md)*›*
+• **Compact<AccountIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[AccountIndex](../classes/_primitive_generic_accountindex_.accountindex.md)›*
 
-*Defined in [interfaceRegistry.ts:124](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L124)*
+*Defined in [interfaceRegistry.ts:124](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L124)*
 
 ___
 
 ###  Compact<ApprovalFlag>
 
-• **Compact<ApprovalFlag>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[ApprovalFlag](_interfaceregistry_.interfaceregistry.md#approvalflag)*›*
+• **Compact<ApprovalFlag>**: *[Compact](../classes/_codec_compact_.compact.md)‹[ApprovalFlag](_interfaceregistry_.interfaceregistry.md#approvalflag)›*
 
-*Defined in [interfaceRegistry.ts:391](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L391)*
+*Defined in [interfaceRegistry.ts:391](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L391)*
 
 ___
 
 ###  Compact<AssetId>
 
-• **Compact<AssetId>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[AssetId](_interfaceregistry_.interfaceregistry.md#assetid)*›*
+• **Compact<AssetId>**: *[Compact](../classes/_codec_compact_.compact.md)‹[AssetId](_interfaceregistry_.interfaceregistry.md#assetid)›*
 
-*Defined in [interfaceRegistry.ts:131](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L131)*
+*Defined in [interfaceRegistry.ts:131](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L131)*
 
 ___
 
 ###  Compact<AssetOf>
 
-• **Compact<AssetOf>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[AssetOf](_interfaceregistry_.interfaceregistry.md#assetof)*›*
+• **Compact<AssetOf>**: *[Compact](../classes/_codec_compact_.compact.md)‹[AssetOf](_interfaceregistry_.interfaceregistry.md#assetof)›*
 
-*Defined in [interfaceRegistry.ts:372](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L372)*
+*Defined in [interfaceRegistry.ts:372](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L372)*
 
 ___
 
 ###  Compact<AuctionIndex>
 
-• **Compact<AuctionIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[AuctionIndex](_interfaceregistry_.interfaceregistry.md#auctionindex)*›*
+• **Compact<AuctionIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[AuctionIndex](_interfaceregistry_.interfaceregistry.md#auctionindex)›*
 
-*Defined in [interfaceRegistry.ts:589](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L589)*
+*Defined in [interfaceRegistry.ts:589](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L589)*
 
 ___
 
 ###  Compact<AuthIndex>
 
-• **Compact<AuthIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[AuthIndex](_interfaceregistry_.interfaceregistry.md#authindex)*›*
+• **Compact<AuthIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[AuthIndex](_interfaceregistry_.interfaceregistry.md#authindex)›*
 
-*Defined in [interfaceRegistry.ts:450](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L450)*
+*Defined in [interfaceRegistry.ts:450](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L450)*
 
 ___
 
 ###  Compact<AuthorityWeight>
 
-• **Compact<AuthorityWeight>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[AuthorityWeight](_interfaceregistry_.interfaceregistry.md#authorityweight)*›*
+• **Compact<AuthorityWeight>**: *[Compact](../classes/_codec_compact_.compact.md)‹[AuthorityWeight](_interfaceregistry_.interfaceregistry.md#authorityweight)›*
 
-*Defined in [interfaceRegistry.ts:427](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L427)*
+*Defined in [interfaceRegistry.ts:427](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L427)*
 
 ___
 
 ###  Compact<BabeAuthorityWeight>
 
-• **Compact<BabeAuthorityWeight>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[BabeAuthorityWeight](_interfaceregistry_.interfaceregistry.md#babeauthorityweight)*›*
+• **Compact<BabeAuthorityWeight>**: *[Compact](../classes/_codec_compact_.compact.md)‹[BabeAuthorityWeight](_interfaceregistry_.interfaceregistry.md#babeauthorityweight)›*
 
-*Defined in [interfaceRegistry.ts:267](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L267)*
+*Defined in [interfaceRegistry.ts:267](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L267)*
 
 ___
 
 ###  Compact<BabeBlockWeight>
 
-• **Compact<BabeBlockWeight>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[BabeBlockWeight](_interfaceregistry_.interfaceregistry.md#babeblockweight)*›*
+• **Compact<BabeBlockWeight>**: *[Compact](../classes/_codec_compact_.compact.md)‹[BabeBlockWeight](_interfaceregistry_.interfaceregistry.md#babeblockweight)›*
 
-*Defined in [interfaceRegistry.ts:271](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L271)*
+*Defined in [interfaceRegistry.ts:271](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L271)*
 
 ___
 
 ###  Compact<BabeWeight>
 
-• **Compact<BabeWeight>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[BabeWeight](_interfaceregistry_.interfaceregistry.md#babeweight)*›*
+• **Compact<BabeWeight>**: *[Compact](../classes/_codec_compact_.compact.md)‹[BabeWeight](_interfaceregistry_.interfaceregistry.md#babeweight)›*
 
-*Defined in [interfaceRegistry.ts:275](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L275)*
+*Defined in [interfaceRegistry.ts:275](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L275)*
 
 ___
 
 ###  Compact<Balance>
 
-• **Compact<Balance>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[Balance](_interfaceregistry_.interfaceregistry.md#balance)*›*
+• **Compact<Balance>**: *[Compact](../classes/_codec_compact_.compact.md)‹[Balance](_interfaceregistry_.interfaceregistry.md#balance)›*
 
-*Defined in [interfaceRegistry.ts:135](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L135)*
+*Defined in [interfaceRegistry.ts:135](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L135)*
 
 ___
 
 ###  Compact<BlockNumber>
 
-• **Compact<BlockNumber>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[BlockNumber](_interfaceregistry_.interfaceregistry.md#blocknumber)*›*
+• **Compact<BlockNumber>**: *[Compact](../classes/_codec_compact_.compact.md)‹[BlockNumber](_interfaceregistry_.interfaceregistry.md#blocknumber)›*
 
-*Defined in [interfaceRegistry.ts:145](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L145)*
+*Defined in [interfaceRegistry.ts:145](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L145)*
 
 ___
 
 ###  Compact<ConsensusEngineId>
 
-• **Compact<ConsensusEngineId>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[ConsensusEngineId](../classes/_primitive_generic_consensusengineid_.consensusengineid.md)*›*
+• **Compact<ConsensusEngineId>**: *[Compact](../classes/_codec_compact_.compact.md)‹[ConsensusEngineId](../classes/_primitive_generic_consensusengineid_.consensusengineid.md)›*
 
-*Defined in [interfaceRegistry.ts:152](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L152)*
+*Defined in [interfaceRegistry.ts:152](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L152)*
 
 ___
 
 ###  Compact<EraIndex>
 
-• **Compact<EraIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[EraIndex](_interfaceregistry_.interfaceregistry.md#eraindex)*›*
+• **Compact<EraIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[EraIndex](_interfaceregistry_.interfaceregistry.md#eraindex)›*
 
-*Defined in [interfaceRegistry.ts:506](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L506)*
+*Defined in [interfaceRegistry.ts:506](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L506)*
 
 ___
 
 ###  Compact<EventIndex>
 
-• **Compact<EventIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[EventIndex](_interfaceregistry_.interfaceregistry.md#eventindex)*›*
+• **Compact<EventIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[EventIndex](_interfaceregistry_.interfaceregistry.md#eventindex)›*
 
-*Defined in [interfaceRegistry.ts:552](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L552)*
+*Defined in [interfaceRegistry.ts:552](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L552)*
 
 ___
 
 ###  Compact<Gas>
 
-• **Compact<Gas>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[Gas](_interfaceregistry_.interfaceregistry.md#gas)*›*
+• **Compact<Gas>**: *[Compact](../classes/_codec_compact_.compact.md)‹[Gas](_interfaceregistry_.interfaceregistry.md#gas)›*
 
-*Defined in [interfaceRegistry.ts:327](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L327)*
+*Defined in [interfaceRegistry.ts:327](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L327)*
 
 ___
 
 ###  Compact<Index>
 
-• **Compact<Index>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[Index](_interfaceregistry_.interfaceregistry.md#index)*›*
+• **Compact<Index>**: *[Compact](../classes/_codec_compact_.compact.md)‹[Index](_interfaceregistry_.interfaceregistry.md#index)›*
 
-*Defined in [interfaceRegistry.ts:177](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L177)*
+*Defined in [interfaceRegistry.ts:177](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L177)*
 
 ___
 
 ###  Compact<KeyTypeId>
 
-• **Compact<KeyTypeId>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[KeyTypeId](_interfaceregistry_.interfaceregistry.md#keytypeid)*›*
+• **Compact<KeyTypeId>**: *[Compact](../classes/_codec_compact_.compact.md)‹[KeyTypeId](_interfaceregistry_.interfaceregistry.md#keytypeid)›*
 
-*Defined in [interfaceRegistry.ts:187](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L187)*
+*Defined in [interfaceRegistry.ts:187](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L187)*
 
 ___
 
 ###  Compact<MemberCount>
 
-• **Compact<MemberCount>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[MemberCount](_interfaceregistry_.interfaceregistry.md#membercount)*›*
+• **Compact<MemberCount>**: *[Compact](../classes/_codec_compact_.compact.md)‹[MemberCount](_interfaceregistry_.interfaceregistry.md#membercount)›*
 
-*Defined in [interfaceRegistry.ts:301](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L301)*
+*Defined in [interfaceRegistry.ts:301](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L301)*
 
 ___
 
 ###  Compact<Moment>
 
-• **Compact<Moment>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[Moment](_interfaceregistry_.interfaceregistry.md#moment)*›*
+• **Compact<Moment>**: *[Compact](../classes/_codec_compact_.compact.md)‹[Moment](_interfaceregistry_.interfaceregistry.md#moment)›*
 
-*Defined in [interfaceRegistry.ts:194](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L194)*
+*Defined in [interfaceRegistry.ts:194](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L194)*
 
 ___
 
 ###  Compact<ParaId>
 
-• **Compact<ParaId>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[ParaId](_interfaceregistry_.interfaceregistry.md#paraid)*›*
+• **Compact<ParaId>**: *[Compact](../classes/_codec_compact_.compact.md)‹[ParaId](_interfaceregistry_.interfaceregistry.md#paraid)›*
 
-*Defined in [interfaceRegistry.ts:629](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L629)*
+*Defined in [interfaceRegistry.ts:629](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L629)*
 
 ___
 
 ###  Compact<Perbill>
 
-• **Compact<Perbill>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[Perbill](_interfaceregistry_.interfaceregistry.md#perbill)*›*
+• **Compact<Perbill>**: *[Compact](../classes/_codec_compact_.compact.md)‹[Perbill](_interfaceregistry_.interfaceregistry.md#perbill)›*
 
-*Defined in [interfaceRegistry.ts:201](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L201)*
+*Defined in [interfaceRegistry.ts:201](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L201)*
 
 ___
 
 ###  Compact<Permill>
 
-• **Compact<Permill>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[Permill](_interfaceregistry_.interfaceregistry.md#permill)*›*
+• **Compact<Permill>**: *[Compact](../classes/_codec_compact_.compact.md)‹[Permill](_interfaceregistry_.interfaceregistry.md#permill)›*
 
-*Defined in [interfaceRegistry.ts:205](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L205)*
+*Defined in [interfaceRegistry.ts:205](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L205)*
 
 ___
 
 ###  Compact<PropIndex>
 
-• **Compact<PropIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[PropIndex](_interfaceregistry_.interfaceregistry.md#propindex)*›*
+• **Compact<PropIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[PropIndex](_interfaceregistry_.interfaceregistry.md#propindex)›*
 
-*Defined in [interfaceRegistry.ts:352](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L352)*
+*Defined in [interfaceRegistry.ts:352](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L352)*
 
 ___
 
 ###  Compact<ProposalIndex>
 
-• **Compact<ProposalIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[ProposalIndex](_interfaceregistry_.interfaceregistry.md#proposalindex)*›*
+• **Compact<ProposalIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[ProposalIndex](_interfaceregistry_.interfaceregistry.md#proposalindex)›*
 
-*Defined in [interfaceRegistry.ts:305](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L305)*
+*Defined in [interfaceRegistry.ts:305](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L305)*
 
 ___
 
 ###  Compact<ReferendumIndex>
 
-• **Compact<ReferendumIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[ReferendumIndex](_interfaceregistry_.interfaceregistry.md#referendumindex)*›*
+• **Compact<ReferendumIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[ReferendumIndex](_interfaceregistry_.interfaceregistry.md#referendumindex)›*
 
-*Defined in [interfaceRegistry.ts:359](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L359)*
+*Defined in [interfaceRegistry.ts:359](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L359)*
 
 ___
 
 ###  Compact<SessionIndex>
 
-• **Compact<SessionIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[SessionIndex](_interfaceregistry_.interfaceregistry.md#sessionindex)*›*
+• **Compact<SessionIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[SessionIndex](_interfaceregistry_.interfaceregistry.md#sessionindex)›*
 
-*Defined in [interfaceRegistry.ts:493](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L493)*
+*Defined in [interfaceRegistry.ts:493](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L493)*
 
 ___
 
 ###  Compact<SetId>
 
-• **Compact<SetId>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[SetId](_interfaceregistry_.interfaceregistry.md#setid)*›*
+• **Compact<SetId>**: *[Compact](../classes/_codec_compact_.compact.md)‹[SetId](_interfaceregistry_.interfaceregistry.md#setid)›*
 
-*Defined in [interfaceRegistry.ts:440](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L440)*
+*Defined in [interfaceRegistry.ts:440](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L440)*
 
 ___
 
 ###  Compact<SetIndex>
 
-• **Compact<SetIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[SetIndex](_interfaceregistry_.interfaceregistry.md#setindex)*›*
+• **Compact<SetIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[SetIndex](_interfaceregistry_.interfaceregistry.md#setindex)›*
 
-*Defined in [interfaceRegistry.ts:395](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L395)*
+*Defined in [interfaceRegistry.ts:395](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L395)*
 
 ___
 
 ###  Compact<SlotNumber>
 
-• **Compact<SlotNumber>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[SlotNumber](_interfaceregistry_.interfaceregistry.md#slotnumber)*›*
+• **Compact<SlotNumber>**: *[Compact](../classes/_codec_compact_.compact.md)‹[SlotNumber](_interfaceregistry_.interfaceregistry.md#slotnumber)›*
 
-*Defined in [interfaceRegistry.ts:288](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L288)*
+*Defined in [interfaceRegistry.ts:288](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L288)*
 
 ___
 
 ###  Compact<SubId>
 
-• **Compact<SubId>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[SubId](_interfaceregistry_.interfaceregistry.md#subid)*›*
+• **Compact<SubId>**: *[Compact](../classes/_codec_compact_.compact.md)‹[SubId](_interfaceregistry_.interfaceregistry.md#subid)›*
 
-*Defined in [interfaceRegistry.ts:642](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L642)*
+*Defined in [interfaceRegistry.ts:642](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L642)*
 
 ___
 
 ###  Compact<ValidatorIndex>
 
-• **Compact<ValidatorIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[ValidatorIndex](_interfaceregistry_.interfaceregistry.md#validatorindex)*›*
+• **Compact<ValidatorIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[ValidatorIndex](_interfaceregistry_.interfaceregistry.md#validatorindex)›*
 
-*Defined in [interfaceRegistry.ts:652](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L652)*
+*Defined in [interfaceRegistry.ts:652](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L652)*
 
 ___
 
 ###  Compact<VoteIndex>
 
-• **Compact<VoteIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[VoteIndex](_interfaceregistry_.interfaceregistry.md#voteindex)*›*
+• **Compact<VoteIndex>**: *[Compact](../classes/_codec_compact_.compact.md)‹[VoteIndex](_interfaceregistry_.interfaceregistry.md#voteindex)›*
 
-*Defined in [interfaceRegistry.ts:402](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L402)*
+*Defined in [interfaceRegistry.ts:402](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L402)*
 
 ___
 
 ###  Compact<Weight>
 
-• **Compact<Weight>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[Weight](_interfaceregistry_.interfaceregistry.md#weight)*›*
+• **Compact<Weight>**: *[Compact](../classes/_codec_compact_.compact.md)‹[Weight](_interfaceregistry_.interfaceregistry.md#weight)›*
 
-*Defined in [interfaceRegistry.ts:224](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L224)*
+*Defined in [interfaceRegistry.ts:224](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L224)*
 
 ___
 
 ###  Compact<u128>
 
-• **Compact<u128>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[u128](_interfaceregistry_.interfaceregistry.md#u128)*›*
+• **Compact<u128>**: *[Compact](../classes/_codec_compact_.compact.md)‹[u128](_interfaceregistry_.interfaceregistry.md#u128)›*
 
-*Defined in [interfaceRegistry.ts:106](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L106)*
+*Defined in [interfaceRegistry.ts:106](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L106)*
 
 ___
 
 ###  Compact<u16>
 
-• **Compact<u16>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[u16](_interfaceregistry_.interfaceregistry.md#u16)*›*
+• **Compact<u16>**: *[Compact](../classes/_codec_compact_.compact.md)‹[u16](_interfaceregistry_.interfaceregistry.md#u16)›*
 
-*Defined in [interfaceRegistry.ts:94](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L94)*
+*Defined in [interfaceRegistry.ts:94](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L94)*
 
 ___
 
 ###  Compact<u256>
 
-• **Compact<u256>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[u256](_interfaceregistry_.interfaceregistry.md#u256)*›*
+• **Compact<u256>**: *[Compact](../classes/_codec_compact_.compact.md)‹[u256](_interfaceregistry_.interfaceregistry.md#u256)›*
 
-*Defined in [interfaceRegistry.ts:110](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L110)*
+*Defined in [interfaceRegistry.ts:110](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L110)*
 
 ___
 
 ###  Compact<u32>
 
-• **Compact<u32>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[u32](_interfaceregistry_.interfaceregistry.md#u32)*›*
+• **Compact<u32>**: *[Compact](../classes/_codec_compact_.compact.md)‹[u32](_interfaceregistry_.interfaceregistry.md#u32)›*
 
-*Defined in [interfaceRegistry.ts:98](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L98)*
+*Defined in [interfaceRegistry.ts:98](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L98)*
 
 ___
 
 ###  Compact<u64>
 
-• **Compact<u64>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[u64](_interfaceregistry_.interfaceregistry.md#u64)*›*
+• **Compact<u64>**: *[Compact](../classes/_codec_compact_.compact.md)‹[u64](_interfaceregistry_.interfaceregistry.md#u64)›*
 
-*Defined in [interfaceRegistry.ts:102](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L102)*
+*Defined in [interfaceRegistry.ts:102](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L102)*
 
 ___
 
 ###  Compact<u8>
 
-• **Compact<u8>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[u8](_interfaceregistry_.interfaceregistry.md#u8)*›*
+• **Compact<u8>**: *[Compact](../classes/_codec_compact_.compact.md)‹[u8](_interfaceregistry_.interfaceregistry.md#u8)›*
 
-*Defined in [interfaceRegistry.ts:90](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L90)*
+*Defined in [interfaceRegistry.ts:90](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L90)*
 
 ___
 
 ###  Compact<usize>
 
-• **Compact<usize>**: *[Compact](../classes/_codec_compact_.compact.md)‹*[usize](_interfaceregistry_.interfaceregistry.md#usize)*›*
+• **Compact<usize>**: *[Compact](../classes/_codec_compact_.compact.md)‹[usize](_interfaceregistry_.interfaceregistry.md#usize)›*
 
-*Defined in [interfaceRegistry.ts:114](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L114)*
+*Defined in [interfaceRegistry.ts:114](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L114)*
 
 ___
 
@@ -1503,7 +1503,7 @@ ___
 
 • **Consensus**: *[Consensus](_interfaceregistry_.interfaceregistry.md#consensus)*
 
-*Defined in [interfaceRegistry.ts:251](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L251)*
+*Defined in [interfaceRegistry.ts:251](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L251)*
 
 ___
 
@@ -1511,7 +1511,7 @@ ___
 
 • **ConsensusEngineId**: *[ConsensusEngineId](../classes/_primitive_generic_consensusengineid_.consensusengineid.md)*
 
-*Defined in [interfaceRegistry.ts:151](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L151)*
+*Defined in [interfaceRegistry.ts:151](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L151)*
 
 ___
 
@@ -1519,7 +1519,7 @@ ___
 
 • **ContractInfo**: *[ContractInfo](_interfaces_contracts_types_.contractinfo.md)*
 
-*Defined in [interfaceRegistry.ts:320](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L320)*
+*Defined in [interfaceRegistry.ts:320](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L320)*
 
 ___
 
@@ -1527,7 +1527,7 @@ ___
 
 • **ContractStorageKey**: *[ContractStorageKey](_interfaceregistry_.interfaceregistry.md#contractstoragekey)*
 
-*Defined in [interfaceRegistry.ts:323](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L323)*
+*Defined in [interfaceRegistry.ts:323](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L323)*
 
 ___
 
@@ -1535,7 +1535,7 @@ ___
 
 • **Conviction**: *[Conviction](_interfaces_democracy_types_.conviction.md)*
 
-*Defined in [interfaceRegistry.ts:348](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L348)*
+*Defined in [interfaceRegistry.ts:348](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L348)*
 
 ___
 
@@ -1543,7 +1543,7 @@ ___
 
 • **Data**: *[Data](../classes/_primitive_data_.data.md)*
 
-*Defined in [interfaceRegistry.ts:38](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L38)*
+*Defined in [interfaceRegistry.ts:38](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L38)*
 
 ___
 
@@ -1551,7 +1551,7 @@ ___
 
 • **Digest**: *[Digest](../classes/_primitive_generic_digest_.digest.md)*
 
-*Defined in [interfaceRegistry.ts:155](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L155)*
+*Defined in [interfaceRegistry.ts:155](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L155)*
 
 ___
 
@@ -1559,7 +1559,7 @@ ___
 
 • **DigestItem**: *[DigestItem](../classes/_primitive_generic_digest_.digestitem.md)*
 
-*Defined in [interfaceRegistry.ts:158](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L158)*
+*Defined in [interfaceRegistry.ts:158](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L158)*
 
 ___
 
@@ -1567,7 +1567,7 @@ ___
 
 • **DigestOf**: *[DigestOf](_interfaceregistry_.interfaceregistry.md#digestof)*
 
-*Defined in [interfaceRegistry.ts:542](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L542)*
+*Defined in [interfaceRegistry.ts:542](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L542)*
 
 ___
 
@@ -1575,7 +1575,7 @@ ___
 
 • **DoubleMapTypeV3**: *[DoubleMapTypeV3](_interfaces_metadata_types_.doublemaptypev3.md)*
 
-*Defined in [interfaceRegistry.ts:760](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L760)*
+*Defined in [interfaceRegistry.ts:760](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L760)*
 
 ___
 
@@ -1583,7 +1583,7 @@ ___
 
 • **DoubleMapTypeV4**: *[DoubleMapTypeV4](_interfaces_metadata_types_.doublemaptypev4.md)*
 
-*Defined in [interfaceRegistry.ts:781](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L781)*
+*Defined in [interfaceRegistry.ts:781](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L781)*
 
 ___
 
@@ -1591,7 +1591,7 @@ ___
 
 • **DoubleMapTypeV5**: *[DoubleMapTypeV5](_interfaces_metadata_types_.doublemaptypev5.md)*
 
-*Defined in [interfaceRegistry.ts:802](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L802)*
+*Defined in [interfaceRegistry.ts:802](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L802)*
 
 ___
 
@@ -1599,7 +1599,7 @@ ___
 
 • **DoubleMapTypeV6**: *[DoubleMapTypeV6](_interfaceregistry_.interfaceregistry.md#doublemaptypev6)*
 
-*Defined in [interfaceRegistry.ts:823](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L823)*
+*Defined in [interfaceRegistry.ts:823](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L823)*
 
 ___
 
@@ -1607,7 +1607,7 @@ ___
 
 • **DoubleMapTypeV7**: *[DoubleMapTypeV7](_interfaceregistry_.interfaceregistry.md#doublemaptypev7)*
 
-*Defined in [interfaceRegistry.ts:847](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L847)*
+*Defined in [interfaceRegistry.ts:847](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L847)*
 
 ___
 
@@ -1615,7 +1615,7 @@ ___
 
 • **EcdsaSignature**: *[EcdsaSignature](_interfaceregistry_.interfaceregistry.md#ecdsasignature)*
 
-*Defined in [interfaceRegistry.ts:579](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L579)*
+*Defined in [interfaceRegistry.ts:579](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L579)*
 
 ___
 
@@ -1623,7 +1623,7 @@ ___
 
 • **Ed25519Signature**: *[Ed25519Signature](_interfaceregistry_.interfaceregistry.md#ed25519signature)*
 
-*Defined in [interfaceRegistry.ts:230](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L230)*
+*Defined in [interfaceRegistry.ts:230](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L230)*
 
 ___
 
@@ -1631,7 +1631,7 @@ ___
 
 • **EgressQueueRoot**: *[EgressQueueRoot](_interfaceregistry_.interfaceregistry.md#egressqueueroot)*
 
-*Defined in [interfaceRegistry.ts:604](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L604)*
+*Defined in [interfaceRegistry.ts:604](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L604)*
 
 ___
 
@@ -1639,7 +1639,7 @@ ___
 
 • **EraIndex**: *[EraIndex](_interfaceregistry_.interfaceregistry.md#eraindex)*
 
-*Defined in [interfaceRegistry.ts:505](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L505)*
+*Defined in [interfaceRegistry.ts:505](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L505)*
 
 ___
 
@@ -1647,7 +1647,7 @@ ___
 
 • **EraRewards**: *[EraRewards](_interfaces_staking_types_.erarewards.md)*
 
-*Defined in [interfaceRegistry.ts:509](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L509)*
+*Defined in [interfaceRegistry.ts:509](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L509)*
 
 ___
 
@@ -1655,7 +1655,7 @@ ___
 
 • **EthereumAddress**: *[EthereumAddress](_interfaceregistry_.interfaceregistry.md#ethereumaddress)*
 
-*Defined in [interfaceRegistry.ts:582](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L582)*
+*Defined in [interfaceRegistry.ts:582](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L582)*
 
 ___
 
@@ -1663,7 +1663,7 @@ ___
 
 • **Event**: *[Event](../classes/_primitive_generic_event_.event.md)*
 
-*Defined in [interfaceRegistry.ts:545](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L545)*
+*Defined in [interfaceRegistry.ts:545](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L545)*
 
 ___
 
@@ -1671,7 +1671,7 @@ ___
 
 • **EventId**: *[EventId](_interfaceregistry_.interfaceregistry.md#eventid)*
 
-*Defined in [interfaceRegistry.ts:548](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L548)*
+*Defined in [interfaceRegistry.ts:548](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L548)*
 
 ___
 
@@ -1679,7 +1679,7 @@ ___
 
 • **EventIndex**: *[EventIndex](_interfaceregistry_.interfaceregistry.md#eventindex)*
 
-*Defined in [interfaceRegistry.ts:551](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L551)*
+*Defined in [interfaceRegistry.ts:551](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L551)*
 
 ___
 
@@ -1687,7 +1687,7 @@ ___
 
 • **EventMetadataV0**: *[EventMetadataV0](_interfaces_metadata_types_.eventmetadatav0.md)*
 
-*Defined in [interfaceRegistry.ts:667](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L667)*
+*Defined in [interfaceRegistry.ts:667](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L667)*
 
 ___
 
@@ -1695,7 +1695,7 @@ ___
 
 • **EventMetadataV1**: *[EventMetadataV1](_interfaceregistry_.interfaceregistry.md#eventmetadatav1)*
 
-*Defined in [interfaceRegistry.ts:718](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L718)*
+*Defined in [interfaceRegistry.ts:718](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L718)*
 
 ___
 
@@ -1703,7 +1703,7 @@ ___
 
 • **EventMetadataV2**: *[EventMetadataV2](_interfaceregistry_.interfaceregistry.md#eventmetadatav2)*
 
-*Defined in [interfaceRegistry.ts:742](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L742)*
+*Defined in [interfaceRegistry.ts:742](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L742)*
 
 ___
 
@@ -1711,7 +1711,7 @@ ___
 
 • **EventMetadataV3**: *[EventMetadataV3](_interfaceregistry_.interfaceregistry.md#eventmetadatav3)*
 
-*Defined in [interfaceRegistry.ts:763](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L763)*
+*Defined in [interfaceRegistry.ts:763](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L763)*
 
 ___
 
@@ -1719,7 +1719,7 @@ ___
 
 • **EventMetadataV4**: *[EventMetadataV4](_interfaceregistry_.interfaceregistry.md#eventmetadatav4)*
 
-*Defined in [interfaceRegistry.ts:784](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L784)*
+*Defined in [interfaceRegistry.ts:784](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L784)*
 
 ___
 
@@ -1727,7 +1727,7 @@ ___
 
 • **EventMetadataV5**: *[EventMetadataV5](_interfaceregistry_.interfaceregistry.md#eventmetadatav5)*
 
-*Defined in [interfaceRegistry.ts:805](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L805)*
+*Defined in [interfaceRegistry.ts:805](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L805)*
 
 ___
 
@@ -1735,7 +1735,7 @@ ___
 
 • **EventMetadataV6**: *[EventMetadataV6](_interfaceregistry_.interfaceregistry.md#eventmetadatav6)*
 
-*Defined in [interfaceRegistry.ts:826](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L826)*
+*Defined in [interfaceRegistry.ts:826](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L826)*
 
 ___
 
@@ -1743,7 +1743,7 @@ ___
 
 • **EventMetadataV7**: *[EventMetadataV7](_interfaceregistry_.interfaceregistry.md#eventmetadatav7)*
 
-*Defined in [interfaceRegistry.ts:850](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L850)*
+*Defined in [interfaceRegistry.ts:850](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L850)*
 
 ___
 
@@ -1751,7 +1751,7 @@ ___
 
 • **EventRecord**: *[EventRecord](_interfaces_system_types_.eventrecord.md)*
 
-*Defined in [interfaceRegistry.ts:555](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L555)*
+*Defined in [interfaceRegistry.ts:555](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L555)*
 
 ___
 
@@ -1759,7 +1759,7 @@ ___
 
 • **EventRecord0to76**: *[EventRecord0to76](_interfaces_system_types_.eventrecord0to76.md)*
 
-*Defined in [interfaceRegistry.ts:558](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L558)*
+*Defined in [interfaceRegistry.ts:558](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L558)*
 
 ___
 
@@ -1767,7 +1767,7 @@ ___
 
 • **Exposure**: *[Exposure](_interfaces_staking_types_.exposure.md)*
 
-*Defined in [interfaceRegistry.ts:512](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L512)*
+*Defined in [interfaceRegistry.ts:512](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L512)*
 
 ___
 
@@ -1775,7 +1775,7 @@ ___
 
 • **Extrinsic**: *[Extrinsic](../classes/_primitive_extrinsic_extrinsic_.extrinsic.md)*
 
-*Defined in [interfaceRegistry.ts:161](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L161)*
+*Defined in [interfaceRegistry.ts:161](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L161)*
 
 ___
 
@@ -1783,7 +1783,7 @@ ___
 
 • **ExtrinsicEra**: *[ExtrinsicEra](../classes/_primitive_extrinsic_extrinsicera_.extrinsicera.md)*
 
-*Defined in [interfaceRegistry.ts:164](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L164)*
+*Defined in [interfaceRegistry.ts:164](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L164)*
 
 ___
 
@@ -1791,7 +1791,7 @@ ___
 
 • **ExtrinsicOrHash**: *[ExtrinsicOrHash](_interfaces_rpc_types_.extrinsicorhash.md)*
 
-*Defined in [interfaceRegistry.ts:877](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L877)*
+*Defined in [interfaceRegistry.ts:877](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L877)*
 
 ___
 
@@ -1799,7 +1799,7 @@ ___
 
 • **ExtrinsicPayload**: *[ExtrinsicPayload](../classes/_primitive_extrinsic_extrinsicpayload_.extrinsicpayload.md)*
 
-*Defined in [interfaceRegistry.ts:167](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L167)*
+*Defined in [interfaceRegistry.ts:167](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L167)*
 
 ___
 
@@ -1807,7 +1807,7 @@ ___
 
 • **ExtrinsicStatus**: *[ExtrinsicStatus](_interfaces_rpc_types_.extrinsicstatus.md)*
 
-*Defined in [interfaceRegistry.ts:880](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L880)*
+*Defined in [interfaceRegistry.ts:880](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L880)*
 
 ___
 
@@ -1815,7 +1815,7 @@ ___
 
 • **Fixed64**: *[Fixed64](_interfaceregistry_.interfaceregistry.md#fixed64)*
 
-*Defined in [interfaceRegistry.ts:62](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L62)*
+*Defined in [interfaceRegistry.ts:62](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L62)*
 
 ___
 
@@ -1823,7 +1823,7 @@ ___
 
 • **Forcing**: *[Forcing](_interfaces_staking_types_.forcing.md)*
 
-*Defined in [interfaceRegistry.ts:515](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L515)*
+*Defined in [interfaceRegistry.ts:515](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L515)*
 
 ___
 
@@ -1831,7 +1831,7 @@ ___
 
 • **FullIdentification**: *[FullIdentification](_interfaceregistry_.interfaceregistry.md#fullidentification)*
 
-*Defined in [interfaceRegistry.ts:486](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L486)*
+*Defined in [interfaceRegistry.ts:486](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L486)*
 
 ___
 
@@ -1839,7 +1839,7 @@ ___
 
 • **FunctionArgumentMetadataV0**: *[FunctionArgumentMetadataV0](_interfaces_metadata_types_.functionargumentmetadatav0.md)*
 
-*Defined in [interfaceRegistry.ts:670](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L670)*
+*Defined in [interfaceRegistry.ts:670](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L670)*
 
 ___
 
@@ -1847,7 +1847,7 @@ ___
 
 • **FunctionArgumentMetadataV1**: *[FunctionArgumentMetadataV1](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav1)*
 
-*Defined in [interfaceRegistry.ts:721](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L721)*
+*Defined in [interfaceRegistry.ts:721](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L721)*
 
 ___
 
@@ -1855,7 +1855,7 @@ ___
 
 • **FunctionArgumentMetadataV2**: *[FunctionArgumentMetadataV2](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav2)*
 
-*Defined in [interfaceRegistry.ts:745](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L745)*
+*Defined in [interfaceRegistry.ts:745](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L745)*
 
 ___
 
@@ -1863,7 +1863,7 @@ ___
 
 • **FunctionArgumentMetadataV3**: *[FunctionArgumentMetadataV3](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav3)*
 
-*Defined in [interfaceRegistry.ts:766](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L766)*
+*Defined in [interfaceRegistry.ts:766](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L766)*
 
 ___
 
@@ -1871,7 +1871,7 @@ ___
 
 • **FunctionArgumentMetadataV4**: *[FunctionArgumentMetadataV4](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav4)*
 
-*Defined in [interfaceRegistry.ts:787](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L787)*
+*Defined in [interfaceRegistry.ts:787](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L787)*
 
 ___
 
@@ -1879,7 +1879,7 @@ ___
 
 • **FunctionArgumentMetadataV5**: *[FunctionArgumentMetadataV5](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav5)*
 
-*Defined in [interfaceRegistry.ts:808](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L808)*
+*Defined in [interfaceRegistry.ts:808](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L808)*
 
 ___
 
@@ -1887,7 +1887,7 @@ ___
 
 • **FunctionArgumentMetadataV6**: *[FunctionArgumentMetadataV6](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav6)*
 
-*Defined in [interfaceRegistry.ts:829](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L829)*
+*Defined in [interfaceRegistry.ts:829](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L829)*
 
 ___
 
@@ -1895,7 +1895,7 @@ ___
 
 • **FunctionArgumentMetadataV7**: *[FunctionArgumentMetadataV7](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav7)*
 
-*Defined in [interfaceRegistry.ts:853](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L853)*
+*Defined in [interfaceRegistry.ts:853](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L853)*
 
 ___
 
@@ -1903,7 +1903,7 @@ ___
 
 • **FunctionMetadataV0**: *[FunctionMetadataV0](_interfaces_metadata_types_.functionmetadatav0.md)*
 
-*Defined in [interfaceRegistry.ts:673](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L673)*
+*Defined in [interfaceRegistry.ts:673](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L673)*
 
 ___
 
@@ -1911,7 +1911,7 @@ ___
 
 • **FunctionMetadataV1**: *[FunctionMetadataV1](_interfaces_metadata_types_.functionmetadatav1.md)*
 
-*Defined in [interfaceRegistry.ts:724](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L724)*
+*Defined in [interfaceRegistry.ts:724](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L724)*
 
 ___
 
@@ -1919,7 +1919,7 @@ ___
 
 • **FunctionMetadataV2**: *[FunctionMetadataV2](_interfaceregistry_.interfaceregistry.md#functionmetadatav2)*
 
-*Defined in [interfaceRegistry.ts:748](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L748)*
+*Defined in [interfaceRegistry.ts:748](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L748)*
 
 ___
 
@@ -1927,7 +1927,7 @@ ___
 
 • **FunctionMetadataV3**: *[FunctionMetadataV3](_interfaceregistry_.interfaceregistry.md#functionmetadatav3)*
 
-*Defined in [interfaceRegistry.ts:769](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L769)*
+*Defined in [interfaceRegistry.ts:769](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L769)*
 
 ___
 
@@ -1935,7 +1935,7 @@ ___
 
 • **FunctionMetadataV4**: *[FunctionMetadataV4](_interfaceregistry_.interfaceregistry.md#functionmetadatav4)*
 
-*Defined in [interfaceRegistry.ts:790](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L790)*
+*Defined in [interfaceRegistry.ts:790](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L790)*
 
 ___
 
@@ -1943,7 +1943,7 @@ ___
 
 • **FunctionMetadataV5**: *[FunctionMetadataV5](_interfaceregistry_.interfaceregistry.md#functionmetadatav5)*
 
-*Defined in [interfaceRegistry.ts:811](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L811)*
+*Defined in [interfaceRegistry.ts:811](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L811)*
 
 ___
 
@@ -1951,7 +1951,7 @@ ___
 
 • **FunctionMetadataV6**: *[FunctionMetadataV6](_interfaceregistry_.interfaceregistry.md#functionmetadatav6)*
 
-*Defined in [interfaceRegistry.ts:832](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L832)*
+*Defined in [interfaceRegistry.ts:832](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L832)*
 
 ___
 
@@ -1959,7 +1959,7 @@ ___
 
 • **FunctionMetadataV7**: *[FunctionMetadataV7](_interfaceregistry_.interfaceregistry.md#functionmetadatav7)*
 
-*Defined in [interfaceRegistry.ts:856](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L856)*
+*Defined in [interfaceRegistry.ts:856](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L856)*
 
 ___
 
@@ -1967,7 +1967,7 @@ ___
 
 • **Gas**: *[Gas](_interfaceregistry_.interfaceregistry.md#gas)*
 
-*Defined in [interfaceRegistry.ts:326](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L326)*
+*Defined in [interfaceRegistry.ts:326](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L326)*
 
 ___
 
@@ -1975,7 +1975,7 @@ ___
 
 • **H160**: *[H160](../classes/_primitive_h160_.h160.md)*
 
-*Defined in [interfaceRegistry.ts:41](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L41)*
+*Defined in [interfaceRegistry.ts:41](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L41)*
 
 ___
 
@@ -1983,7 +1983,7 @@ ___
 
 • **H256**: *[H256](../classes/_primitive_h256_.h256.md)*
 
-*Defined in [interfaceRegistry.ts:44](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L44)*
+*Defined in [interfaceRegistry.ts:44](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L44)*
 
 ___
 
@@ -1991,7 +1991,7 @@ ___
 
 • **H512**: *[H512](../classes/_primitive_h512_.h512.md)*
 
-*Defined in [interfaceRegistry.ts:47](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L47)*
+*Defined in [interfaceRegistry.ts:47](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L47)*
 
 ___
 
@@ -1999,7 +1999,7 @@ ___
 
 • **Hash**: *[Hash](_interfaceregistry_.interfaceregistry.md#hash)*
 
-*Defined in [interfaceRegistry.ts:170](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L170)*
+*Defined in [interfaceRegistry.ts:170](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L170)*
 
 ___
 
@@ -2007,7 +2007,7 @@ ___
 
 • **HeadData**: *[HeadData](_interfaceregistry_.interfaceregistry.md#headdata)*
 
-*Defined in [interfaceRegistry.ts:607](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L607)*
+*Defined in [interfaceRegistry.ts:607](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L607)*
 
 ___
 
@@ -2015,7 +2015,7 @@ ___
 
 • **Header**: *[Header](_interfaces_runtime_types_.header.md)*
 
-*Defined in [interfaceRegistry.ts:173](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L173)*
+*Defined in [interfaceRegistry.ts:173](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L173)*
 
 ___
 
@@ -2023,7 +2023,7 @@ ___
 
 • **Health**: *[Health](_interfaces_rpc_types_.health.md)*
 
-*Defined in [interfaceRegistry.ts:883](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L883)*
+*Defined in [interfaceRegistry.ts:883](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L883)*
 
 ___
 
@@ -2031,7 +2031,7 @@ ___
 
 • **Heartbeat**: *[Heartbeat](_interfaces_imonline_types_.heartbeat.md)*
 
-*Defined in [interfaceRegistry.ts:456](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L456)*
+*Defined in [interfaceRegistry.ts:456](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L456)*
 
 ___
 
@@ -2039,7 +2039,7 @@ ___
 
 • **IdentificationTuple**: *[IdentificationTuple](_interfaceregistry_.interfaceregistry.md#identificationtuple)*
 
-*Defined in [interfaceRegistry.ts:489](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L489)*
+*Defined in [interfaceRegistry.ts:489](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L489)*
 
 ___
 
@@ -2047,7 +2047,7 @@ ___
 
 • **ImmortalEra**: *[ImmortalEra](../classes/_primitive_extrinsic_extrinsicera_.immortalera.md)*
 
-*Defined in [interfaceRegistry.ts:236](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L236)*
+*Defined in [interfaceRegistry.ts:236](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L236)*
 
 ___
 
@@ -2055,7 +2055,7 @@ ___
 
 • **IncludedBlocks**: *[IncludedBlocks](_interfaces_attestations_types_.includedblocks.md)*
 
-*Defined in [interfaceRegistry.ts:573](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L573)*
+*Defined in [interfaceRegistry.ts:573](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L573)*
 
 ___
 
@@ -2063,7 +2063,7 @@ ___
 
 • **InclusionHeight**: *[InclusionHeight](_interfaceregistry_.interfaceregistry.md#inclusionheight)*
 
-*Defined in [interfaceRegistry.ts:254](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L254)*
+*Defined in [interfaceRegistry.ts:254](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L254)*
 
 ___
 
@@ -2071,7 +2071,7 @@ ___
 
 • **IncomingParachain**: *[IncomingParachain](_interfaces_parachains_types_.incomingparachain.md)*
 
-*Defined in [interfaceRegistry.ts:616](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L616)*
+*Defined in [interfaceRegistry.ts:616](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L616)*
 
 ___
 
@@ -2079,7 +2079,7 @@ ___
 
 • **IncomingParachainDeploy**: *[IncomingParachainDeploy](_interfaces_parachains_types_.incomingparachaindeploy.md)*
 
-*Defined in [interfaceRegistry.ts:610](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L610)*
+*Defined in [interfaceRegistry.ts:610](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L610)*
 
 ___
 
@@ -2087,7 +2087,7 @@ ___
 
 • **IncomingParachainFixed**: *[IncomingParachainFixed](_interfaces_parachains_types_.incomingparachainfixed.md)*
 
-*Defined in [interfaceRegistry.ts:613](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L613)*
+*Defined in [interfaceRegistry.ts:613](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L613)*
 
 ___
 
@@ -2095,7 +2095,7 @@ ___
 
 • **Index**: *[Index](_interfaceregistry_.interfaceregistry.md#index)*
 
-*Defined in [interfaceRegistry.ts:176](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L176)*
+*Defined in [interfaceRegistry.ts:176](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L176)*
 
 ___
 
@@ -2103,7 +2103,7 @@ ___
 
 • **IndividualExposure**: *[IndividualExposure](_interfaces_staking_types_.individualexposure.md)*
 
-*Defined in [interfaceRegistry.ts:518](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L518)*
+*Defined in [interfaceRegistry.ts:518](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L518)*
 
 ___
 
@@ -2111,7 +2111,7 @@ ___
 
 • **InherentOfflineReport**: *[InherentOfflineReport](_interfaceregistry_.interfaceregistry.md#inherentofflinereport)*
 
-*Defined in [interfaceRegistry.ts:381](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L381)*
+*Defined in [interfaceRegistry.ts:381](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L381)*
 
 ___
 
@@ -2119,7 +2119,7 @@ ___
 
 • **Justification**: *[Justification](_interfaceregistry_.interfaceregistry.md#justification)*
 
-*Defined in [interfaceRegistry.ts:180](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L180)*
+*Defined in [interfaceRegistry.ts:180](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L180)*
 
 ___
 
@@ -2127,7 +2127,7 @@ ___
 
 • **Key**: *[Key](_interfaceregistry_.interfaceregistry.md#key)*
 
-*Defined in [interfaceRegistry.ts:561](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L561)*
+*Defined in [interfaceRegistry.ts:561](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L561)*
 
 ___
 
@@ -2135,7 +2135,7 @@ ___
 
 • **KeyTypeId**: *[KeyTypeId](_interfaceregistry_.interfaceregistry.md#keytypeid)*
 
-*Defined in [interfaceRegistry.ts:186](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L186)*
+*Defined in [interfaceRegistry.ts:186](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L186)*
 
 ___
 
@@ -2143,7 +2143,7 @@ ___
 
 • **KeyValue**: *[KeyValue](_interfaceregistry_.interfaceregistry.md#keyvalue)*
 
-*Defined in [interfaceRegistry.ts:183](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L183)*
+*Defined in [interfaceRegistry.ts:183](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L183)*
 
 ___
 
@@ -2151,7 +2151,7 @@ ___
 
 • **KeyValueOption**: *[KeyValueOption](_interfaceregistry_.interfaceregistry.md#keyvalueoption)*
 
-*Defined in [interfaceRegistry.ts:886](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L886)*
+*Defined in [interfaceRegistry.ts:886](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L886)*
 
 ___
 
@@ -2159,7 +2159,7 @@ ___
 
 • **Keys**: *[Keys](_interfaceregistry_.interfaceregistry.md#keys)*
 
-*Defined in [interfaceRegistry.ts:496](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L496)*
+*Defined in [interfaceRegistry.ts:496](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L496)*
 
 ___
 
@@ -2167,7 +2167,7 @@ ___
 
 • **Kind**: *[Kind](_interfaceregistry_.interfaceregistry.md#kind)*
 
-*Defined in [interfaceRegistry.ts:468](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L468)*
+*Defined in [interfaceRegistry.ts:468](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L468)*
 
 ___
 
@@ -2175,7 +2175,7 @@ ___
 
 • **LeasePeriod**: *[LeasePeriod](_interfaceregistry_.interfaceregistry.md#leaseperiod)*
 
-*Defined in [interfaceRegistry.ts:619](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L619)*
+*Defined in [interfaceRegistry.ts:619](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L619)*
 
 ___
 
@@ -2183,7 +2183,7 @@ ___
 
 • **LeasePeriodOf**: *[LeasePeriodOf](_interfaceregistry_.interfaceregistry.md#leaseperiodof)*
 
-*Defined in [interfaceRegistry.ts:622](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L622)*
+*Defined in [interfaceRegistry.ts:622](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L622)*
 
 ___
 
@@ -2191,7 +2191,7 @@ ___
 
 • **LockIdentifier**: *[LockIdentifier](_interfaceregistry_.interfaceregistry.md#lockidentifier)*
 
-*Defined in [interfaceRegistry.ts:190](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L190)*
+*Defined in [interfaceRegistry.ts:190](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L190)*
 
 ___
 
@@ -2199,7 +2199,7 @@ ___
 
 • **LockPeriods**: *[LockPeriods](_interfaceregistry_.interfaceregistry.md#lockperiods)*
 
-*Defined in [interfaceRegistry.ts:378](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L378)*
+*Defined in [interfaceRegistry.ts:378](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L378)*
 
 ___
 
@@ -2207,7 +2207,7 @@ ___
 
 • **MapTypeV0**: *[MapTypeV0](_interfaces_metadata_types_.maptypev0.md)*
 
-*Defined in [interfaceRegistry.ts:676](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L676)*
+*Defined in [interfaceRegistry.ts:676](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L676)*
 
 ___
 
@@ -2215,7 +2215,7 @@ ___
 
 • **MapTypeV2**: *[MapTypeV2](_interfaces_metadata_types_.maptypev2.md)*
 
-*Defined in [interfaceRegistry.ts:751](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L751)*
+*Defined in [interfaceRegistry.ts:751](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L751)*
 
 ___
 
@@ -2223,7 +2223,7 @@ ___
 
 • **MapTypeV3**: *[MapTypeV3](_interfaceregistry_.interfaceregistry.md#maptypev3)*
 
-*Defined in [interfaceRegistry.ts:772](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L772)*
+*Defined in [interfaceRegistry.ts:772](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L772)*
 
 ___
 
@@ -2231,7 +2231,7 @@ ___
 
 • **MapTypeV4**: *[MapTypeV4](_interfaces_metadata_types_.maptypev4.md)*
 
-*Defined in [interfaceRegistry.ts:793](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L793)*
+*Defined in [interfaceRegistry.ts:793](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L793)*
 
 ___
 
@@ -2239,7 +2239,7 @@ ___
 
 • **MapTypeV5**: *[MapTypeV5](_interfaceregistry_.interfaceregistry.md#maptypev5)*
 
-*Defined in [interfaceRegistry.ts:814](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L814)*
+*Defined in [interfaceRegistry.ts:814](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L814)*
 
 ___
 
@@ -2247,7 +2247,7 @@ ___
 
 • **MapTypeV6**: *[MapTypeV6](_interfaceregistry_.interfaceregistry.md#maptypev6)*
 
-*Defined in [interfaceRegistry.ts:835](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L835)*
+*Defined in [interfaceRegistry.ts:835](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L835)*
 
 ___
 
@@ -2255,7 +2255,7 @@ ___
 
 • **MapTypeV7**: *[MapTypeV7](_interfaceregistry_.interfaceregistry.md#maptypev7)*
 
-*Defined in [interfaceRegistry.ts:859](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L859)*
+*Defined in [interfaceRegistry.ts:859](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L859)*
 
 ___
 
@@ -2263,7 +2263,7 @@ ___
 
 • **MemberCount**: *[MemberCount](_interfaceregistry_.interfaceregistry.md#membercount)*
 
-*Defined in [interfaceRegistry.ts:300](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L300)*
+*Defined in [interfaceRegistry.ts:300](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L300)*
 
 ___
 
@@ -2271,7 +2271,7 @@ ___
 
 • **MetadataV0**: *[MetadataV0](_interfaces_metadata_types_.metadatav0.md)*
 
-*Defined in [interfaceRegistry.ts:679](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L679)*
+*Defined in [interfaceRegistry.ts:679](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L679)*
 
 ___
 
@@ -2279,7 +2279,7 @@ ___
 
 • **MetadataV1**: *[MetadataV1](_interfaces_metadata_types_.metadatav1.md)*
 
-*Defined in [interfaceRegistry.ts:727](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L727)*
+*Defined in [interfaceRegistry.ts:727](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L727)*
 
 ___
 
@@ -2287,7 +2287,7 @@ ___
 
 • **ModuleConstantMetadataV6**: *[ModuleConstantMetadataV6](_interfaces_metadata_types_.moduleconstantmetadatav6.md)*
 
-*Defined in [interfaceRegistry.ts:838](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L838)*
+*Defined in [interfaceRegistry.ts:838](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L838)*
 
 ___
 
@@ -2295,7 +2295,7 @@ ___
 
 • **ModuleConstantMetadataV7**: *[ModuleConstantMetadataV7](_interfaceregistry_.interfaceregistry.md#moduleconstantmetadatav7)*
 
-*Defined in [interfaceRegistry.ts:862](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L862)*
+*Defined in [interfaceRegistry.ts:862](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L862)*
 
 ___
 
@@ -2303,7 +2303,7 @@ ___
 
 • **ModuleMetadataV0**: *[ModuleMetadataV0](_interfaces_metadata_types_.modulemetadatav0.md)*
 
-*Defined in [interfaceRegistry.ts:682](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L682)*
+*Defined in [interfaceRegistry.ts:682](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L682)*
 
 ___
 
@@ -2311,7 +2311,7 @@ ___
 
 • **ModuleMetadataV1**: *[ModuleMetadataV1](_interfaces_metadata_types_.modulemetadatav1.md)*
 
-*Defined in [interfaceRegistry.ts:730](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L730)*
+*Defined in [interfaceRegistry.ts:730](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L730)*
 
 ___
 
@@ -2319,7 +2319,7 @@ ___
 
 • **Moment**: *[Moment](_interfaceregistry_.interfaceregistry.md#moment)*
 
-*Defined in [interfaceRegistry.ts:193](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L193)*
+*Defined in [interfaceRegistry.ts:193](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L193)*
 
 ___
 
@@ -2327,7 +2327,7 @@ ___
 
 • **MomentOf**: *[MomentOf](_interfaceregistry_.interfaceregistry.md#momentof)*
 
-*Defined in [interfaceRegistry.ts:521](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L521)*
+*Defined in [interfaceRegistry.ts:521](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L521)*
 
 ___
 
@@ -2335,7 +2335,7 @@ ___
 
 • **MoreAttestations**: *[MoreAttestations](_interfaces_attestations_types_.moreattestations.md)*
 
-*Defined in [interfaceRegistry.ts:576](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L576)*
+*Defined in [interfaceRegistry.ts:576](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L576)*
 
 ___
 
@@ -2343,7 +2343,7 @@ ___
 
 • **MortalEra**: *[MortalEra](../classes/_primitive_extrinsic_extrinsicera_.mortalera.md)*
 
-*Defined in [interfaceRegistry.ts:239](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L239)*
+*Defined in [interfaceRegistry.ts:239](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L239)*
 
 ___
 
@@ -2351,7 +2351,7 @@ ___
 
 • **NetworkState**: *[NetworkState](_interfaces_rpc_types_.networkstate.md)*
 
-*Defined in [interfaceRegistry.ts:889](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L889)*
+*Defined in [interfaceRegistry.ts:889](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L889)*
 
 ___
 
@@ -2359,7 +2359,7 @@ ___
 
 • **NewAccountOutcome**: *[NewAccountOutcome](_interfaces_deprecated_types_.newaccountoutcome.md)*
 
-*Defined in [interfaceRegistry.ts:365](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L365)*
+*Defined in [interfaceRegistry.ts:365](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L365)*
 
 ___
 
@@ -2367,7 +2367,7 @@ ___
 
 • **NewBidder**: *[NewBidder](_interfaces_parachains_types_.newbidder.md)*
 
-*Defined in [interfaceRegistry.ts:625](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L625)*
+*Defined in [interfaceRegistry.ts:625](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L625)*
 
 ___
 
@@ -2375,7 +2375,7 @@ ___
 
 • **NextAuthority**: *[NextAuthority](_interfaceregistry_.interfaceregistry.md#nextauthority)*
 
-*Defined in [interfaceRegistry.ts:430](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L430)*
+*Defined in [interfaceRegistry.ts:430](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L430)*
 
 ___
 
@@ -2383,7 +2383,7 @@ ___
 
 • **Null**: *[Null](../classes/_primitive_null_.null.md)*
 
-*Defined in [interfaceRegistry.ts:71](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L71)*
+*Defined in [interfaceRegistry.ts:71](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L71)*
 
 ___
 
@@ -2391,7 +2391,7 @@ ___
 
 • **OffenceDetails**: *[OffenceDetails](_interfaces_offences_types_.offencedetails.md)*
 
-*Defined in [interfaceRegistry.ts:471](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L471)*
+*Defined in [interfaceRegistry.ts:471](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L471)*
 
 ___
 
@@ -2399,7 +2399,7 @@ ___
 
 • **Offender**: *[Offender](_interfaceregistry_.interfaceregistry.md#offender)*
 
-*Defined in [interfaceRegistry.ts:474](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L474)*
+*Defined in [interfaceRegistry.ts:474](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L474)*
 
 ___
 
@@ -2407,7 +2407,7 @@ ___
 
 • **OpaqueKey**: *[OpaqueKey](_interfaceregistry_.interfaceregistry.md#opaquekey)*
 
-*Defined in [interfaceRegistry.ts:387](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L387)*
+*Defined in [interfaceRegistry.ts:387](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L387)*
 
 ___
 
@@ -2415,7 +2415,7 @@ ___
 
 • **OpaqueMultiaddr**: *[OpaqueMultiaddr](_interfaceregistry_.interfaceregistry.md#opaquemultiaddr)*
 
-*Defined in [interfaceRegistry.ts:459](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L459)*
+*Defined in [interfaceRegistry.ts:459](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L459)*
 
 ___
 
@@ -2423,7 +2423,7 @@ ___
 
 • **OpaqueNetworkState**: *[OpaqueNetworkState](_interfaces_imonline_types_.opaquenetworkstate.md)*
 
-*Defined in [interfaceRegistry.ts:465](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L465)*
+*Defined in [interfaceRegistry.ts:465](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L465)*
 
 ___
 
@@ -2431,7 +2431,7 @@ ___
 
 • **OpaquePeerId**: *[OpaquePeerId](_interfaceregistry_.interfaceregistry.md#opaquepeerid)*
 
-*Defined in [interfaceRegistry.ts:462](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L462)*
+*Defined in [interfaceRegistry.ts:462](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L462)*
 
 ___
 
@@ -2439,2223 +2439,2223 @@ ___
 
 • **OpaqueTimeSlot**: *[OpaqueTimeSlot](_interfaceregistry_.interfaceregistry.md#opaquetimeslot)*
 
-*Defined in [interfaceRegistry.ts:477](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L477)*
+*Defined in [interfaceRegistry.ts:477](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L477)*
 
 ___
 
 ###  Option<AccountId>
 
-• **Option<AccountId>**: *[Option](../classes/_codec_option_.option.md)‹*[AccountId](../classes/_primitive_generic_accountid_.accountid.md)*›*
+• **Option<AccountId>**: *[Option](../classes/_codec_option_.option.md)‹[AccountId](../classes/_primitive_generic_accountid_.accountid.md)›*
 
-*Defined in [interfaceRegistry.ts:118](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L118)*
+*Defined in [interfaceRegistry.ts:118](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L118)*
 
 ___
 
 ###  Option<AccountIdOf>
 
-• **Option<AccountIdOf>**: *[Option](../classes/_codec_option_.option.md)‹*[AccountIdOf](_interfaceregistry_.interfaceregistry.md#accountidof)*›*
+• **Option<AccountIdOf>**: *[Option](../classes/_codec_option_.option.md)‹[AccountIdOf](_interfaceregistry_.interfaceregistry.md#accountidof)›*
 
-*Defined in [interfaceRegistry.ts:121](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L121)*
+*Defined in [interfaceRegistry.ts:121](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L121)*
 
 ___
 
 ###  Option<AccountIndex>
 
-• **Option<AccountIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[AccountIndex](../classes/_primitive_generic_accountindex_.accountindex.md)*›*
+• **Option<AccountIndex>**: *[Option](../classes/_codec_option_.option.md)‹[AccountIndex](../classes/_primitive_generic_accountindex_.accountindex.md)›*
 
-*Defined in [interfaceRegistry.ts:125](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L125)*
+*Defined in [interfaceRegistry.ts:125](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L125)*
 
 ___
 
 ###  Option<AccountInfo>
 
-• **Option<AccountInfo>**: *[Option](../classes/_codec_option_.option.md)‹*[AccountInfo](_interfaces_deprecated_types_.accountinfo.md)*›*
+• **Option<AccountInfo>**: *[Option](../classes/_codec_option_.option.md)‹[AccountInfo](_interfaces_deprecated_types_.accountinfo.md)›*
 
-*Defined in [interfaceRegistry.ts:376](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L376)*
+*Defined in [interfaceRegistry.ts:376](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L376)*
 
 ___
 
 ###  Option<Address>
 
-• **Option<Address>**: *[Option](../classes/_codec_option_.option.md)‹*[Address](../classes/_primitive_generic_address_.address.md)*›*
+• **Option<Address>**: *[Option](../classes/_codec_option_.option.md)‹[Address](../classes/_primitive_generic_address_.address.md)›*
 
-*Defined in [interfaceRegistry.ts:128](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L128)*
+*Defined in [interfaceRegistry.ts:128](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L128)*
 
 ___
 
 ###  Option<AliveContractInfo>
 
-• **Option<AliveContractInfo>**: *[Option](../classes/_codec_option_.option.md)‹*[AliveContractInfo](_interfaces_contracts_types_.alivecontractinfo.md)*›*
+• **Option<AliveContractInfo>**: *[Option](../classes/_codec_option_.option.md)‹[AliveContractInfo](_interfaces_contracts_types_.alivecontractinfo.md)›*
 
-*Defined in [interfaceRegistry.ts:315](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L315)*
+*Defined in [interfaceRegistry.ts:315](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L315)*
 
 ___
 
 ###  Option<Amount>
 
-• **Option<Amount>**: *[Option](../classes/_codec_option_.option.md)‹*[Amount](_interfaceregistry_.interfaceregistry.md#amount)*›*
+• **Option<Amount>**: *[Option](../classes/_codec_option_.option.md)‹[Amount](_interfaceregistry_.interfaceregistry.md#amount)›*
 
-*Defined in [interfaceRegistry.ts:369](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L369)*
+*Defined in [interfaceRegistry.ts:369](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L369)*
 
 ___
 
 ###  Option<ApiId>
 
-• **Option<ApiId>**: *[Option](../classes/_codec_option_.option.md)‹*[ApiId](_interfaceregistry_.interfaceregistry.md#apiid)*›*
+• **Option<ApiId>**: *[Option](../classes/_codec_option_.option.md)‹[ApiId](_interfaceregistry_.interfaceregistry.md#apiid)›*
 
-*Defined in [interfaceRegistry.ts:872](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L872)*
+*Defined in [interfaceRegistry.ts:872](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L872)*
 
 ___
 
 ###  Option<ApprovalFlag>
 
-• **Option<ApprovalFlag>**: *[Option](../classes/_codec_option_.option.md)‹*[ApprovalFlag](_interfaceregistry_.interfaceregistry.md#approvalflag)*›*
+• **Option<ApprovalFlag>**: *[Option](../classes/_codec_option_.option.md)‹[ApprovalFlag](_interfaceregistry_.interfaceregistry.md#approvalflag)›*
 
-*Defined in [interfaceRegistry.ts:392](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L392)*
+*Defined in [interfaceRegistry.ts:392](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L392)*
 
 ___
 
 ###  Option<AssetId>
 
-• **Option<AssetId>**: *[Option](../classes/_codec_option_.option.md)‹*[AssetId](_interfaceregistry_.interfaceregistry.md#assetid)*›*
+• **Option<AssetId>**: *[Option](../classes/_codec_option_.option.md)‹[AssetId](_interfaceregistry_.interfaceregistry.md#assetid)›*
 
-*Defined in [interfaceRegistry.ts:132](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L132)*
+*Defined in [interfaceRegistry.ts:132](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L132)*
 
 ___
 
 ###  Option<AssetOf>
 
-• **Option<AssetOf>**: *[Option](../classes/_codec_option_.option.md)‹*[AssetOf](_interfaceregistry_.interfaceregistry.md#assetof)*›*
+• **Option<AssetOf>**: *[Option](../classes/_codec_option_.option.md)‹[AssetOf](_interfaceregistry_.interfaceregistry.md#assetof)›*
 
-*Defined in [interfaceRegistry.ts:373](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L373)*
+*Defined in [interfaceRegistry.ts:373](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L373)*
 
 ___
 
 ###  Option<AssetOptions>
 
-• **Option<AssetOptions>**: *[Option](../classes/_codec_option_.option.md)‹*[AssetOptions](_interfaces_genericasset_types_.assetoptions.md)*›*
+• **Option<AssetOptions>**: *[Option](../classes/_codec_option_.option.md)‹[AssetOptions](_interfaces_genericasset_types_.assetoptions.md)›*
 
-*Defined in [interfaceRegistry.ts:412](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L412)*
+*Defined in [interfaceRegistry.ts:412](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L412)*
 
 ___
 
 ###  Option<AttestedCandidate>
 
-• **Option<AttestedCandidate>**: *[Option](../classes/_codec_option_.option.md)‹*[AttestedCandidate](_interfaces_parachains_types_.attestedcandidate.md)*›*
+• **Option<AttestedCandidate>**: *[Option](../classes/_codec_option_.option.md)‹[AttestedCandidate](_interfaces_parachains_types_.attestedcandidate.md)›*
 
-*Defined in [interfaceRegistry.ts:586](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L586)*
+*Defined in [interfaceRegistry.ts:586](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L586)*
 
 ___
 
 ###  Option<AuctionIndex>
 
-• **Option<AuctionIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[AuctionIndex](_interfaceregistry_.interfaceregistry.md#auctionindex)*›*
+• **Option<AuctionIndex>**: *[Option](../classes/_codec_option_.option.md)‹[AuctionIndex](_interfaceregistry_.interfaceregistry.md#auctionindex)›*
 
-*Defined in [interfaceRegistry.ts:590](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L590)*
+*Defined in [interfaceRegistry.ts:590](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L590)*
 
 ___
 
 ###  Option<AuthIndex>
 
-• **Option<AuthIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[AuthIndex](_interfaceregistry_.interfaceregistry.md#authindex)*›*
+• **Option<AuthIndex>**: *[Option](../classes/_codec_option_.option.md)‹[AuthIndex](_interfaceregistry_.interfaceregistry.md#authindex)›*
 
-*Defined in [interfaceRegistry.ts:451](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L451)*
+*Defined in [interfaceRegistry.ts:451](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L451)*
 
 ___
 
 ###  Option<AuthorityId>
 
-• **Option<AuthorityId>**: *[Option](../classes/_codec_option_.option.md)‹*[AuthorityId](_interfaceregistry_.interfaceregistry.md#authorityid)*›*
+• **Option<AuthorityId>**: *[Option](../classes/_codec_option_.option.md)‹[AuthorityId](_interfaceregistry_.interfaceregistry.md#authorityid)›*
 
-*Defined in [interfaceRegistry.ts:312](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L312)*
+*Defined in [interfaceRegistry.ts:312](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L312)*
 
 ___
 
 ###  Option<AuthoritySignature>
 
-• **Option<AuthoritySignature>**: *[Option](../classes/_codec_option_.option.md)‹*[AuthoritySignature](_interfaceregistry_.interfaceregistry.md#authoritysignature)*›*
+• **Option<AuthoritySignature>**: *[Option](../classes/_codec_option_.option.md)‹[AuthoritySignature](_interfaceregistry_.interfaceregistry.md#authoritysignature)›*
 
-*Defined in [interfaceRegistry.ts:454](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L454)*
+*Defined in [interfaceRegistry.ts:454](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L454)*
 
 ___
 
 ###  Option<AuthorityWeight>
 
-• **Option<AuthorityWeight>**: *[Option](../classes/_codec_option_.option.md)‹*[AuthorityWeight](_interfaceregistry_.interfaceregistry.md#authorityweight)*›*
+• **Option<AuthorityWeight>**: *[Option](../classes/_codec_option_.option.md)‹[AuthorityWeight](_interfaceregistry_.interfaceregistry.md#authorityweight)›*
 
-*Defined in [interfaceRegistry.ts:428](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L428)*
+*Defined in [interfaceRegistry.ts:428](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L428)*
 
 ___
 
 ###  Option<BabeAuthorityWeight>
 
-• **Option<BabeAuthorityWeight>**: *[Option](../classes/_codec_option_.option.md)‹*[BabeAuthorityWeight](_interfaceregistry_.interfaceregistry.md#babeauthorityweight)*›*
+• **Option<BabeAuthorityWeight>**: *[Option](../classes/_codec_option_.option.md)‹[BabeAuthorityWeight](_interfaceregistry_.interfaceregistry.md#babeauthorityweight)›*
 
-*Defined in [interfaceRegistry.ts:268](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L268)*
+*Defined in [interfaceRegistry.ts:268](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L268)*
 
 ___
 
 ###  Option<BabeBlockWeight>
 
-• **Option<BabeBlockWeight>**: *[Option](../classes/_codec_option_.option.md)‹*[BabeBlockWeight](_interfaceregistry_.interfaceregistry.md#babeblockweight)*›*
+• **Option<BabeBlockWeight>**: *[Option](../classes/_codec_option_.option.md)‹[BabeBlockWeight](_interfaceregistry_.interfaceregistry.md#babeblockweight)›*
 
-*Defined in [interfaceRegistry.ts:272](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L272)*
+*Defined in [interfaceRegistry.ts:272](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L272)*
 
 ___
 
 ###  Option<BabeWeight>
 
-• **Option<BabeWeight>**: *[Option](../classes/_codec_option_.option.md)‹*[BabeWeight](_interfaceregistry_.interfaceregistry.md#babeweight)*›*
+• **Option<BabeWeight>**: *[Option](../classes/_codec_option_.option.md)‹[BabeWeight](_interfaceregistry_.interfaceregistry.md#babeweight)›*
 
-*Defined in [interfaceRegistry.ts:276](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L276)*
+*Defined in [interfaceRegistry.ts:276](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L276)*
 
 ___
 
 ###  Option<Balance>
 
-• **Option<Balance>**: *[Option](../classes/_codec_option_.option.md)‹*[Balance](_interfaceregistry_.interfaceregistry.md#balance)*›*
+• **Option<Balance>**: *[Option](../classes/_codec_option_.option.md)‹[Balance](_interfaceregistry_.interfaceregistry.md#balance)›*
 
-*Defined in [interfaceRegistry.ts:136](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L136)*
+*Defined in [interfaceRegistry.ts:136](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L136)*
 
 ___
 
 ###  Option<BalanceLock>
 
-• **Option<BalanceLock>**: *[Option](../classes/_codec_option_.option.md)‹*[BalanceLock](_interfaces_balances_types_.balancelock.md)*›*
+• **Option<BalanceLock>**: *[Option](../classes/_codec_option_.option.md)‹[BalanceLock](_interfaces_balances_types_.balancelock.md)›*
 
-*Defined in [interfaceRegistry.ts:292](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L292)*
+*Defined in [interfaceRegistry.ts:292](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L292)*
 
 ___
 
 ###  Option<BalanceOf>
 
-• **Option<BalanceOf>**: *[Option](../classes/_codec_option_.option.md)‹*[BalanceOf](_interfaceregistry_.interfaceregistry.md#balanceof)*›*
+• **Option<BalanceOf>**: *[Option](../classes/_codec_option_.option.md)‹[BalanceOf](_interfaceregistry_.interfaceregistry.md#balanceof)›*
 
-*Defined in [interfaceRegistry.ts:139](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L139)*
+*Defined in [interfaceRegistry.ts:139](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L139)*
 
 ___
 
 ###  Option<BalanceUpload>
 
-• **Option<BalanceUpload>**: *[Option](../classes/_codec_option_.option.md)‹*[BalanceUpload](_interfaceregistry_.interfaceregistry.md#balanceupload)*›*
+• **Option<BalanceUpload>**: *[Option](../classes/_codec_option_.option.md)‹[BalanceUpload](_interfaceregistry_.interfaceregistry.md#balanceupload)›*
 
-*Defined in [interfaceRegistry.ts:593](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L593)*
+*Defined in [interfaceRegistry.ts:593](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L593)*
 
 ___
 
 ###  Option<Bidder>
 
-• **Option<Bidder>**: *[Option](../classes/_codec_option_.option.md)‹*[Bidder](_interfaces_parachains_types_.bidder.md)*›*
+• **Option<Bidder>**: *[Option](../classes/_codec_option_.option.md)‹[Bidder](_interfaces_parachains_types_.bidder.md)›*
 
-*Defined in [interfaceRegistry.ts:596](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L596)*
+*Defined in [interfaceRegistry.ts:596](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L596)*
 
 ___
 
 ###  Option<Block>
 
-• **Option<Block>**: *[Option](../classes/_codec_option_.option.md)‹*[Block](../classes/_primitive_generic_block_.block.md)*›*
+• **Option<Block>**: *[Option](../classes/_codec_option_.option.md)‹[Block](../classes/_primitive_generic_block_.block.md)›*
 
-*Defined in [interfaceRegistry.ts:142](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L142)*
+*Defined in [interfaceRegistry.ts:142](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L142)*
 
 ___
 
 ###  Option<BlockAttestations>
 
-• **Option<BlockAttestations>**: *[Option](../classes/_codec_option_.option.md)‹*[BlockAttestations](_interfaces_attestations_types_.blockattestations.md)*›*
+• **Option<BlockAttestations>**: *[Option](../classes/_codec_option_.option.md)‹[BlockAttestations](_interfaces_attestations_types_.blockattestations.md)›*
 
-*Defined in [interfaceRegistry.ts:571](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L571)*
+*Defined in [interfaceRegistry.ts:571](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L571)*
 
 ___
 
 ###  Option<BlockNumber>
 
-• **Option<BlockNumber>**: *[Option](../classes/_codec_option_.option.md)‹*[BlockNumber](_interfaceregistry_.interfaceregistry.md#blocknumber)*›*
+• **Option<BlockNumber>**: *[Option](../classes/_codec_option_.option.md)‹[BlockNumber](_interfaceregistry_.interfaceregistry.md#blocknumber)›*
 
-*Defined in [interfaceRegistry.ts:146](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L146)*
+*Defined in [interfaceRegistry.ts:146](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L146)*
 
 ___
 
 ###  Option<Bytes>
 
-• **Option<Bytes>**: *[Option](../classes/_codec_option_.option.md)‹*[Bytes](../classes/_primitive_bytes_.bytes.md)*›*
+• **Option<Bytes>**: *[Option](../classes/_codec_option_.option.md)‹[Bytes](../classes/_primitive_bytes_.bytes.md)›*
 
-*Defined in [interfaceRegistry.ts:36](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L36)*
+*Defined in [interfaceRegistry.ts:36](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L36)*
 
 ___
 
 ###  Option<Call>
 
-• **Option<Call>**: *[Option](../classes/_codec_option_.option.md)‹*[Call](../classes/_primitive_generic_call_.call.md)*›*
+• **Option<Call>**: *[Option](../classes/_codec_option_.option.md)‹[Call](../classes/_primitive_generic_call_.call.md)›*
 
-*Defined in [interfaceRegistry.ts:149](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L149)*
+*Defined in [interfaceRegistry.ts:149](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L149)*
 
 ___
 
 ###  Option<CallMetadataV0>
 
-• **Option<CallMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[CallMetadataV0](_interfaces_metadata_types_.callmetadatav0.md)*›*
+• **Option<CallMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[CallMetadataV0](_interfaces_metadata_types_.callmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:665](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L665)*
+*Defined in [interfaceRegistry.ts:665](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L665)*
 
 ___
 
 ###  Option<CandidateReceipt>
 
-• **Option<CandidateReceipt>**: *[Option](../classes/_codec_option_.option.md)‹*[CandidateReceipt](_interfaces_parachains_types_.candidatereceipt.md)*›*
+• **Option<CandidateReceipt>**: *[Option](../classes/_codec_option_.option.md)‹[CandidateReceipt](_interfaces_parachains_types_.candidatereceipt.md)›*
 
-*Defined in [interfaceRegistry.ts:599](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L599)*
+*Defined in [interfaceRegistry.ts:599](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L599)*
 
 ___
 
 ###  Option<ChainProperties>
 
-• **Option<ChainProperties>**: *[Option](../classes/_codec_option_.option.md)‹*[ChainProperties](_interfaces_rpc_types_.chainproperties.md)*›*
+• **Option<ChainProperties>**: *[Option](../classes/_codec_option_.option.md)‹[ChainProperties](_interfaces_rpc_types_.chainproperties.md)›*
 
-*Defined in [interfaceRegistry.ts:875](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L875)*
+*Defined in [interfaceRegistry.ts:875](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L875)*
 
 ___
 
 ###  Option<CodeHash>
 
-• **Option<CodeHash>**: *[Option](../classes/_codec_option_.option.md)‹*[CodeHash](_interfaceregistry_.interfaceregistry.md#codehash)*›*
+• **Option<CodeHash>**: *[Option](../classes/_codec_option_.option.md)‹[CodeHash](_interfaceregistry_.interfaceregistry.md#codehash)›*
 
-*Defined in [interfaceRegistry.ts:318](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L318)*
+*Defined in [interfaceRegistry.ts:318](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L318)*
 
 ___
 
 ###  Option<CollatorSignature>
 
-• **Option<CollatorSignature>**: *[Option](../classes/_codec_option_.option.md)‹*[CollatorSignature](_interfaceregistry_.interfaceregistry.md#collatorsignature)*›*
+• **Option<CollatorSignature>**: *[Option](../classes/_codec_option_.option.md)‹[CollatorSignature](_interfaceregistry_.interfaceregistry.md#collatorsignature)›*
 
-*Defined in [interfaceRegistry.ts:602](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L602)*
+*Defined in [interfaceRegistry.ts:602](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L602)*
 
 ___
 
 ###  Option<Consensus>
 
-• **Option<Consensus>**: *[Option](../classes/_codec_option_.option.md)‹*[Consensus](_interfaceregistry_.interfaceregistry.md#consensus)*›*
+• **Option<Consensus>**: *[Option](../classes/_codec_option_.option.md)‹[Consensus](_interfaceregistry_.interfaceregistry.md#consensus)›*
 
-*Defined in [interfaceRegistry.ts:252](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L252)*
+*Defined in [interfaceRegistry.ts:252](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L252)*
 
 ___
 
 ###  Option<ConsensusEngineId>
 
-• **Option<ConsensusEngineId>**: *[Option](../classes/_codec_option_.option.md)‹*[ConsensusEngineId](../classes/_primitive_generic_consensusengineid_.consensusengineid.md)*›*
+• **Option<ConsensusEngineId>**: *[Option](../classes/_codec_option_.option.md)‹[ConsensusEngineId](../classes/_primitive_generic_consensusengineid_.consensusengineid.md)›*
 
-*Defined in [interfaceRegistry.ts:153](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L153)*
+*Defined in [interfaceRegistry.ts:153](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L153)*
 
 ___
 
 ###  Option<ContractInfo>
 
-• **Option<ContractInfo>**: *[Option](../classes/_codec_option_.option.md)‹*[ContractInfo](_interfaces_contracts_types_.contractinfo.md)*›*
+• **Option<ContractInfo>**: *[Option](../classes/_codec_option_.option.md)‹[ContractInfo](_interfaces_contracts_types_.contractinfo.md)›*
 
-*Defined in [interfaceRegistry.ts:321](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L321)*
+*Defined in [interfaceRegistry.ts:321](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L321)*
 
 ___
 
 ###  Option<ContractStorageKey>
 
-• **Option<ContractStorageKey>**: *[Option](../classes/_codec_option_.option.md)‹*[ContractStorageKey](_interfaceregistry_.interfaceregistry.md#contractstoragekey)*›*
+• **Option<ContractStorageKey>**: *[Option](../classes/_codec_option_.option.md)‹[ContractStorageKey](_interfaceregistry_.interfaceregistry.md#contractstoragekey)›*
 
-*Defined in [interfaceRegistry.ts:324](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L324)*
+*Defined in [interfaceRegistry.ts:324](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L324)*
 
 ___
 
 ###  Option<Conviction>
 
-• **Option<Conviction>**: *[Option](../classes/_codec_option_.option.md)‹*[Conviction](_interfaces_democracy_types_.conviction.md)*›*
+• **Option<Conviction>**: *[Option](../classes/_codec_option_.option.md)‹[Conviction](_interfaces_democracy_types_.conviction.md)›*
 
-*Defined in [interfaceRegistry.ts:349](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L349)*
+*Defined in [interfaceRegistry.ts:349](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L349)*
 
 ___
 
 ###  Option<Data>
 
-• **Option<Data>**: *[Option](../classes/_codec_option_.option.md)‹*[Data](../classes/_primitive_data_.data.md)*›*
+• **Option<Data>**: *[Option](../classes/_codec_option_.option.md)‹[Data](../classes/_primitive_data_.data.md)›*
 
-*Defined in [interfaceRegistry.ts:39](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L39)*
+*Defined in [interfaceRegistry.ts:39](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L39)*
 
 ___
 
 ###  Option<Digest>
 
-• **Option<Digest>**: *[Option](../classes/_codec_option_.option.md)‹*[Digest](../classes/_primitive_generic_digest_.digest.md)*›*
+• **Option<Digest>**: *[Option](../classes/_codec_option_.option.md)‹[Digest](../classes/_primitive_generic_digest_.digest.md)›*
 
-*Defined in [interfaceRegistry.ts:156](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L156)*
+*Defined in [interfaceRegistry.ts:156](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L156)*
 
 ___
 
 ###  Option<DigestItem>
 
-• **Option<DigestItem>**: *[Option](../classes/_codec_option_.option.md)‹*[DigestItem](../classes/_primitive_generic_digest_.digestitem.md)*›*
+• **Option<DigestItem>**: *[Option](../classes/_codec_option_.option.md)‹[DigestItem](../classes/_primitive_generic_digest_.digestitem.md)›*
 
-*Defined in [interfaceRegistry.ts:159](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L159)*
+*Defined in [interfaceRegistry.ts:159](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L159)*
 
 ___
 
 ###  Option<DigestOf>
 
-• **Option<DigestOf>**: *[Option](../classes/_codec_option_.option.md)‹*[DigestOf](_interfaceregistry_.interfaceregistry.md#digestof)*›*
+• **Option<DigestOf>**: *[Option](../classes/_codec_option_.option.md)‹[DigestOf](_interfaceregistry_.interfaceregistry.md#digestof)›*
 
-*Defined in [interfaceRegistry.ts:543](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L543)*
+*Defined in [interfaceRegistry.ts:543](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L543)*
 
 ___
 
 ###  Option<DoubleMapTypeV3>
 
-• **Option<DoubleMapTypeV3>**: *[Option](../classes/_codec_option_.option.md)‹*[DoubleMapTypeV3](_interfaces_metadata_types_.doublemaptypev3.md)*›*
+• **Option<DoubleMapTypeV3>**: *[Option](../classes/_codec_option_.option.md)‹[DoubleMapTypeV3](_interfaces_metadata_types_.doublemaptypev3.md)›*
 
-*Defined in [interfaceRegistry.ts:761](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L761)*
+*Defined in [interfaceRegistry.ts:761](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L761)*
 
 ___
 
 ###  Option<DoubleMapTypeV4>
 
-• **Option<DoubleMapTypeV4>**: *[Option](../classes/_codec_option_.option.md)‹*[DoubleMapTypeV4](_interfaces_metadata_types_.doublemaptypev4.md)*›*
+• **Option<DoubleMapTypeV4>**: *[Option](../classes/_codec_option_.option.md)‹[DoubleMapTypeV4](_interfaces_metadata_types_.doublemaptypev4.md)›*
 
-*Defined in [interfaceRegistry.ts:782](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L782)*
+*Defined in [interfaceRegistry.ts:782](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L782)*
 
 ___
 
 ###  Option<DoubleMapTypeV5>
 
-• **Option<DoubleMapTypeV5>**: *[Option](../classes/_codec_option_.option.md)‹*[DoubleMapTypeV5](_interfaces_metadata_types_.doublemaptypev5.md)*›*
+• **Option<DoubleMapTypeV5>**: *[Option](../classes/_codec_option_.option.md)‹[DoubleMapTypeV5](_interfaces_metadata_types_.doublemaptypev5.md)›*
 
-*Defined in [interfaceRegistry.ts:803](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L803)*
+*Defined in [interfaceRegistry.ts:803](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L803)*
 
 ___
 
 ###  Option<DoubleMapTypeV6>
 
-• **Option<DoubleMapTypeV6>**: *[Option](../classes/_codec_option_.option.md)‹*[DoubleMapTypeV6](_interfaceregistry_.interfaceregistry.md#doublemaptypev6)*›*
+• **Option<DoubleMapTypeV6>**: *[Option](../classes/_codec_option_.option.md)‹[DoubleMapTypeV6](_interfaceregistry_.interfaceregistry.md#doublemaptypev6)›*
 
-*Defined in [interfaceRegistry.ts:824](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L824)*
+*Defined in [interfaceRegistry.ts:824](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L824)*
 
 ___
 
 ###  Option<DoubleMapTypeV7>
 
-• **Option<DoubleMapTypeV7>**: *[Option](../classes/_codec_option_.option.md)‹*[DoubleMapTypeV7](_interfaceregistry_.interfaceregistry.md#doublemaptypev7)*›*
+• **Option<DoubleMapTypeV7>**: *[Option](../classes/_codec_option_.option.md)‹[DoubleMapTypeV7](_interfaceregistry_.interfaceregistry.md#doublemaptypev7)›*
 
-*Defined in [interfaceRegistry.ts:848](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L848)*
+*Defined in [interfaceRegistry.ts:848](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L848)*
 
 ___
 
 ###  Option<EcdsaSignature>
 
-• **Option<EcdsaSignature>**: *[Option](../classes/_codec_option_.option.md)‹*[EcdsaSignature](_interfaceregistry_.interfaceregistry.md#ecdsasignature)*›*
+• **Option<EcdsaSignature>**: *[Option](../classes/_codec_option_.option.md)‹[EcdsaSignature](_interfaceregistry_.interfaceregistry.md#ecdsasignature)›*
 
-*Defined in [interfaceRegistry.ts:580](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L580)*
+*Defined in [interfaceRegistry.ts:580](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L580)*
 
 ___
 
 ###  Option<Ed25519Signature>
 
-• **Option<Ed25519Signature>**: *[Option](../classes/_codec_option_.option.md)‹*[Ed25519Signature](_interfaceregistry_.interfaceregistry.md#ed25519signature)*›*
+• **Option<Ed25519Signature>**: *[Option](../classes/_codec_option_.option.md)‹[Ed25519Signature](_interfaceregistry_.interfaceregistry.md#ed25519signature)›*
 
-*Defined in [interfaceRegistry.ts:231](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L231)*
+*Defined in [interfaceRegistry.ts:231](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L231)*
 
 ___
 
 ###  Option<EgressQueueRoot>
 
-• **Option<EgressQueueRoot>**: *[Option](../classes/_codec_option_.option.md)‹*[EgressQueueRoot](_interfaceregistry_.interfaceregistry.md#egressqueueroot)*›*
+• **Option<EgressQueueRoot>**: *[Option](../classes/_codec_option_.option.md)‹[EgressQueueRoot](_interfaceregistry_.interfaceregistry.md#egressqueueroot)›*
 
-*Defined in [interfaceRegistry.ts:605](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L605)*
+*Defined in [interfaceRegistry.ts:605](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L605)*
 
 ___
 
 ###  Option<EraIndex>
 
-• **Option<EraIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[EraIndex](_interfaceregistry_.interfaceregistry.md#eraindex)*›*
+• **Option<EraIndex>**: *[Option](../classes/_codec_option_.option.md)‹[EraIndex](_interfaceregistry_.interfaceregistry.md#eraindex)›*
 
-*Defined in [interfaceRegistry.ts:507](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L507)*
+*Defined in [interfaceRegistry.ts:507](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L507)*
 
 ___
 
 ###  Option<EraRewards>
 
-• **Option<EraRewards>**: *[Option](../classes/_codec_option_.option.md)‹*[EraRewards](_interfaces_staking_types_.erarewards.md)*›*
+• **Option<EraRewards>**: *[Option](../classes/_codec_option_.option.md)‹[EraRewards](_interfaces_staking_types_.erarewards.md)›*
 
-*Defined in [interfaceRegistry.ts:510](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L510)*
+*Defined in [interfaceRegistry.ts:510](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L510)*
 
 ___
 
 ###  Option<EthereumAddress>
 
-• **Option<EthereumAddress>**: *[Option](../classes/_codec_option_.option.md)‹*[EthereumAddress](_interfaceregistry_.interfaceregistry.md#ethereumaddress)*›*
+• **Option<EthereumAddress>**: *[Option](../classes/_codec_option_.option.md)‹[EthereumAddress](_interfaceregistry_.interfaceregistry.md#ethereumaddress)›*
 
-*Defined in [interfaceRegistry.ts:583](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L583)*
+*Defined in [interfaceRegistry.ts:583](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L583)*
 
 ___
 
 ###  Option<Event>
 
-• **Option<Event>**: *[Option](../classes/_codec_option_.option.md)‹*[Event](../classes/_primitive_generic_event_.event.md)*›*
+• **Option<Event>**: *[Option](../classes/_codec_option_.option.md)‹[Event](../classes/_primitive_generic_event_.event.md)›*
 
-*Defined in [interfaceRegistry.ts:546](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L546)*
+*Defined in [interfaceRegistry.ts:546](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L546)*
 
 ___
 
 ###  Option<EventId>
 
-• **Option<EventId>**: *[Option](../classes/_codec_option_.option.md)‹*[EventId](_interfaceregistry_.interfaceregistry.md#eventid)*›*
+• **Option<EventId>**: *[Option](../classes/_codec_option_.option.md)‹[EventId](_interfaceregistry_.interfaceregistry.md#eventid)›*
 
-*Defined in [interfaceRegistry.ts:549](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L549)*
+*Defined in [interfaceRegistry.ts:549](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L549)*
 
 ___
 
 ###  Option<EventIndex>
 
-• **Option<EventIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[EventIndex](_interfaceregistry_.interfaceregistry.md#eventindex)*›*
+• **Option<EventIndex>**: *[Option](../classes/_codec_option_.option.md)‹[EventIndex](_interfaceregistry_.interfaceregistry.md#eventindex)›*
 
-*Defined in [interfaceRegistry.ts:553](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L553)*
+*Defined in [interfaceRegistry.ts:553](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L553)*
 
 ___
 
 ###  Option<EventMetadataV0>
 
-• **Option<EventMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[EventMetadataV0](_interfaces_metadata_types_.eventmetadatav0.md)*›*
+• **Option<EventMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[EventMetadataV0](_interfaces_metadata_types_.eventmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:668](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L668)*
+*Defined in [interfaceRegistry.ts:668](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L668)*
 
 ___
 
 ###  Option<EventMetadataV1>
 
-• **Option<EventMetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹*[EventMetadataV1](_interfaceregistry_.interfaceregistry.md#eventmetadatav1)*›*
+• **Option<EventMetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹[EventMetadataV1](_interfaceregistry_.interfaceregistry.md#eventmetadatav1)›*
 
-*Defined in [interfaceRegistry.ts:719](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L719)*
+*Defined in [interfaceRegistry.ts:719](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L719)*
 
 ___
 
 ###  Option<EventMetadataV2>
 
-• **Option<EventMetadataV2>**: *[Option](../classes/_codec_option_.option.md)‹*[EventMetadataV2](_interfaceregistry_.interfaceregistry.md#eventmetadatav2)*›*
+• **Option<EventMetadataV2>**: *[Option](../classes/_codec_option_.option.md)‹[EventMetadataV2](_interfaceregistry_.interfaceregistry.md#eventmetadatav2)›*
 
-*Defined in [interfaceRegistry.ts:743](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L743)*
+*Defined in [interfaceRegistry.ts:743](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L743)*
 
 ___
 
 ###  Option<EventMetadataV3>
 
-• **Option<EventMetadataV3>**: *[Option](../classes/_codec_option_.option.md)‹*[EventMetadataV3](_interfaceregistry_.interfaceregistry.md#eventmetadatav3)*›*
+• **Option<EventMetadataV3>**: *[Option](../classes/_codec_option_.option.md)‹[EventMetadataV3](_interfaceregistry_.interfaceregistry.md#eventmetadatav3)›*
 
-*Defined in [interfaceRegistry.ts:764](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L764)*
+*Defined in [interfaceRegistry.ts:764](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L764)*
 
 ___
 
 ###  Option<EventMetadataV4>
 
-• **Option<EventMetadataV4>**: *[Option](../classes/_codec_option_.option.md)‹*[EventMetadataV4](_interfaceregistry_.interfaceregistry.md#eventmetadatav4)*›*
+• **Option<EventMetadataV4>**: *[Option](../classes/_codec_option_.option.md)‹[EventMetadataV4](_interfaceregistry_.interfaceregistry.md#eventmetadatav4)›*
 
-*Defined in [interfaceRegistry.ts:785](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L785)*
+*Defined in [interfaceRegistry.ts:785](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L785)*
 
 ___
 
 ###  Option<EventMetadataV5>
 
-• **Option<EventMetadataV5>**: *[Option](../classes/_codec_option_.option.md)‹*[EventMetadataV5](_interfaceregistry_.interfaceregistry.md#eventmetadatav5)*›*
+• **Option<EventMetadataV5>**: *[Option](../classes/_codec_option_.option.md)‹[EventMetadataV5](_interfaceregistry_.interfaceregistry.md#eventmetadatav5)›*
 
-*Defined in [interfaceRegistry.ts:806](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L806)*
+*Defined in [interfaceRegistry.ts:806](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L806)*
 
 ___
 
 ###  Option<EventMetadataV6>
 
-• **Option<EventMetadataV6>**: *[Option](../classes/_codec_option_.option.md)‹*[EventMetadataV6](_interfaceregistry_.interfaceregistry.md#eventmetadatav6)*›*
+• **Option<EventMetadataV6>**: *[Option](../classes/_codec_option_.option.md)‹[EventMetadataV6](_interfaceregistry_.interfaceregistry.md#eventmetadatav6)›*
 
-*Defined in [interfaceRegistry.ts:827](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L827)*
+*Defined in [interfaceRegistry.ts:827](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L827)*
 
 ___
 
 ###  Option<EventMetadataV7>
 
-• **Option<EventMetadataV7>**: *[Option](../classes/_codec_option_.option.md)‹*[EventMetadataV7](_interfaceregistry_.interfaceregistry.md#eventmetadatav7)*›*
+• **Option<EventMetadataV7>**: *[Option](../classes/_codec_option_.option.md)‹[EventMetadataV7](_interfaceregistry_.interfaceregistry.md#eventmetadatav7)›*
 
-*Defined in [interfaceRegistry.ts:851](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L851)*
+*Defined in [interfaceRegistry.ts:851](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L851)*
 
 ___
 
 ###  Option<EventRecord0to76>
 
-• **Option<EventRecord0to76>**: *[Option](../classes/_codec_option_.option.md)‹*[EventRecord0to76](_interfaces_system_types_.eventrecord0to76.md)*›*
+• **Option<EventRecord0to76>**: *[Option](../classes/_codec_option_.option.md)‹[EventRecord0to76](_interfaces_system_types_.eventrecord0to76.md)›*
 
-*Defined in [interfaceRegistry.ts:559](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L559)*
+*Defined in [interfaceRegistry.ts:559](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L559)*
 
 ___
 
 ###  Option<EventRecord>
 
-• **Option<EventRecord>**: *[Option](../classes/_codec_option_.option.md)‹*[EventRecord](_interfaces_system_types_.eventrecord.md)*›*
+• **Option<EventRecord>**: *[Option](../classes/_codec_option_.option.md)‹[EventRecord](_interfaces_system_types_.eventrecord.md)›*
 
-*Defined in [interfaceRegistry.ts:556](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L556)*
+*Defined in [interfaceRegistry.ts:556](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L556)*
 
 ___
 
 ###  Option<Exposure>
 
-• **Option<Exposure>**: *[Option](../classes/_codec_option_.option.md)‹*[Exposure](_interfaces_staking_types_.exposure.md)*›*
+• **Option<Exposure>**: *[Option](../classes/_codec_option_.option.md)‹[Exposure](_interfaces_staking_types_.exposure.md)›*
 
-*Defined in [interfaceRegistry.ts:513](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L513)*
+*Defined in [interfaceRegistry.ts:513](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L513)*
 
 ___
 
 ###  Option<Extrinsic>
 
-• **Option<Extrinsic>**: *[Option](../classes/_codec_option_.option.md)‹*[Extrinsic](../classes/_primitive_extrinsic_extrinsic_.extrinsic.md)*›*
+• **Option<Extrinsic>**: *[Option](../classes/_codec_option_.option.md)‹[Extrinsic](../classes/_primitive_extrinsic_extrinsic_.extrinsic.md)›*
 
-*Defined in [interfaceRegistry.ts:162](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L162)*
+*Defined in [interfaceRegistry.ts:162](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L162)*
 
 ___
 
 ###  Option<ExtrinsicEra>
 
-• **Option<ExtrinsicEra>**: *[Option](../classes/_codec_option_.option.md)‹*[ExtrinsicEra](../classes/_primitive_extrinsic_extrinsicera_.extrinsicera.md)*›*
+• **Option<ExtrinsicEra>**: *[Option](../classes/_codec_option_.option.md)‹[ExtrinsicEra](../classes/_primitive_extrinsic_extrinsicera_.extrinsicera.md)›*
 
-*Defined in [interfaceRegistry.ts:165](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L165)*
+*Defined in [interfaceRegistry.ts:165](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L165)*
 
 ___
 
 ###  Option<ExtrinsicOrHash>
 
-• **Option<ExtrinsicOrHash>**: *[Option](../classes/_codec_option_.option.md)‹*[ExtrinsicOrHash](_interfaces_rpc_types_.extrinsicorhash.md)*›*
+• **Option<ExtrinsicOrHash>**: *[Option](../classes/_codec_option_.option.md)‹[ExtrinsicOrHash](_interfaces_rpc_types_.extrinsicorhash.md)›*
 
-*Defined in [interfaceRegistry.ts:878](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L878)*
+*Defined in [interfaceRegistry.ts:878](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L878)*
 
 ___
 
 ###  Option<ExtrinsicPayload>
 
-• **Option<ExtrinsicPayload>**: *[Option](../classes/_codec_option_.option.md)‹*[ExtrinsicPayload](../classes/_primitive_extrinsic_extrinsicpayload_.extrinsicpayload.md)*›*
+• **Option<ExtrinsicPayload>**: *[Option](../classes/_codec_option_.option.md)‹[ExtrinsicPayload](../classes/_primitive_extrinsic_extrinsicpayload_.extrinsicpayload.md)›*
 
-*Defined in [interfaceRegistry.ts:168](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L168)*
+*Defined in [interfaceRegistry.ts:168](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L168)*
 
 ___
 
 ###  Option<ExtrinsicStatus>
 
-• **Option<ExtrinsicStatus>**: *[Option](../classes/_codec_option_.option.md)‹*[ExtrinsicStatus](_interfaces_rpc_types_.extrinsicstatus.md)*›*
+• **Option<ExtrinsicStatus>**: *[Option](../classes/_codec_option_.option.md)‹[ExtrinsicStatus](_interfaces_rpc_types_.extrinsicstatus.md)›*
 
-*Defined in [interfaceRegistry.ts:881](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L881)*
+*Defined in [interfaceRegistry.ts:881](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L881)*
 
 ___
 
 ###  Option<Fixed64>
 
-• **Option<Fixed64>**: *[Option](../classes/_codec_option_.option.md)‹*[Fixed64](_interfaceregistry_.interfaceregistry.md#fixed64)*›*
+• **Option<Fixed64>**: *[Option](../classes/_codec_option_.option.md)‹[Fixed64](_interfaceregistry_.interfaceregistry.md#fixed64)›*
 
-*Defined in [interfaceRegistry.ts:63](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L63)*
+*Defined in [interfaceRegistry.ts:63](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L63)*
 
 ___
 
 ###  Option<Forcing>
 
-• **Option<Forcing>**: *[Option](../classes/_codec_option_.option.md)‹*[Forcing](_interfaces_staking_types_.forcing.md)*›*
+• **Option<Forcing>**: *[Option](../classes/_codec_option_.option.md)‹[Forcing](_interfaces_staking_types_.forcing.md)›*
 
-*Defined in [interfaceRegistry.ts:516](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L516)*
+*Defined in [interfaceRegistry.ts:516](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L516)*
 
 ___
 
 ###  Option<FullIdentification>
 
-• **Option<FullIdentification>**: *[Option](../classes/_codec_option_.option.md)‹*[FullIdentification](_interfaceregistry_.interfaceregistry.md#fullidentification)*›*
+• **Option<FullIdentification>**: *[Option](../classes/_codec_option_.option.md)‹[FullIdentification](_interfaceregistry_.interfaceregistry.md#fullidentification)›*
 
-*Defined in [interfaceRegistry.ts:487](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L487)*
+*Defined in [interfaceRegistry.ts:487](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L487)*
 
 ___
 
 ###  Option<FunctionArgumentMetadataV0>
 
-• **Option<FunctionArgumentMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionArgumentMetadataV0](_interfaces_metadata_types_.functionargumentmetadatav0.md)*›*
+• **Option<FunctionArgumentMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionArgumentMetadataV0](_interfaces_metadata_types_.functionargumentmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:671](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L671)*
+*Defined in [interfaceRegistry.ts:671](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L671)*
 
 ___
 
 ###  Option<FunctionArgumentMetadataV1>
 
-• **Option<FunctionArgumentMetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionArgumentMetadataV1](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav1)*›*
+• **Option<FunctionArgumentMetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionArgumentMetadataV1](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav1)›*
 
-*Defined in [interfaceRegistry.ts:722](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L722)*
+*Defined in [interfaceRegistry.ts:722](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L722)*
 
 ___
 
 ###  Option<FunctionArgumentMetadataV2>
 
-• **Option<FunctionArgumentMetadataV2>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionArgumentMetadataV2](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav2)*›*
+• **Option<FunctionArgumentMetadataV2>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionArgumentMetadataV2](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav2)›*
 
-*Defined in [interfaceRegistry.ts:746](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L746)*
+*Defined in [interfaceRegistry.ts:746](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L746)*
 
 ___
 
 ###  Option<FunctionArgumentMetadataV3>
 
-• **Option<FunctionArgumentMetadataV3>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionArgumentMetadataV3](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav3)*›*
+• **Option<FunctionArgumentMetadataV3>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionArgumentMetadataV3](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav3)›*
 
-*Defined in [interfaceRegistry.ts:767](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L767)*
+*Defined in [interfaceRegistry.ts:767](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L767)*
 
 ___
 
 ###  Option<FunctionArgumentMetadataV4>
 
-• **Option<FunctionArgumentMetadataV4>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionArgumentMetadataV4](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav4)*›*
+• **Option<FunctionArgumentMetadataV4>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionArgumentMetadataV4](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav4)›*
 
-*Defined in [interfaceRegistry.ts:788](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L788)*
+*Defined in [interfaceRegistry.ts:788](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L788)*
 
 ___
 
 ###  Option<FunctionArgumentMetadataV5>
 
-• **Option<FunctionArgumentMetadataV5>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionArgumentMetadataV5](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav5)*›*
+• **Option<FunctionArgumentMetadataV5>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionArgumentMetadataV5](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav5)›*
 
-*Defined in [interfaceRegistry.ts:809](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L809)*
+*Defined in [interfaceRegistry.ts:809](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L809)*
 
 ___
 
 ###  Option<FunctionArgumentMetadataV6>
 
-• **Option<FunctionArgumentMetadataV6>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionArgumentMetadataV6](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav6)*›*
+• **Option<FunctionArgumentMetadataV6>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionArgumentMetadataV6](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav6)›*
 
-*Defined in [interfaceRegistry.ts:830](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L830)*
+*Defined in [interfaceRegistry.ts:830](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L830)*
 
 ___
 
 ###  Option<FunctionArgumentMetadataV7>
 
-• **Option<FunctionArgumentMetadataV7>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionArgumentMetadataV7](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav7)*›*
+• **Option<FunctionArgumentMetadataV7>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionArgumentMetadataV7](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav7)›*
 
-*Defined in [interfaceRegistry.ts:854](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L854)*
+*Defined in [interfaceRegistry.ts:854](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L854)*
 
 ___
 
 ###  Option<FunctionMetadataV0>
 
-• **Option<FunctionMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionMetadataV0](_interfaces_metadata_types_.functionmetadatav0.md)*›*
+• **Option<FunctionMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionMetadataV0](_interfaces_metadata_types_.functionmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:674](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L674)*
+*Defined in [interfaceRegistry.ts:674](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L674)*
 
 ___
 
 ###  Option<FunctionMetadataV1>
 
-• **Option<FunctionMetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionMetadataV1](_interfaces_metadata_types_.functionmetadatav1.md)*›*
+• **Option<FunctionMetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionMetadataV1](_interfaces_metadata_types_.functionmetadatav1.md)›*
 
-*Defined in [interfaceRegistry.ts:725](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L725)*
+*Defined in [interfaceRegistry.ts:725](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L725)*
 
 ___
 
 ###  Option<FunctionMetadataV2>
 
-• **Option<FunctionMetadataV2>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionMetadataV2](_interfaceregistry_.interfaceregistry.md#functionmetadatav2)*›*
+• **Option<FunctionMetadataV2>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionMetadataV2](_interfaceregistry_.interfaceregistry.md#functionmetadatav2)›*
 
-*Defined in [interfaceRegistry.ts:749](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L749)*
+*Defined in [interfaceRegistry.ts:749](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L749)*
 
 ___
 
 ###  Option<FunctionMetadataV3>
 
-• **Option<FunctionMetadataV3>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionMetadataV3](_interfaceregistry_.interfaceregistry.md#functionmetadatav3)*›*
+• **Option<FunctionMetadataV3>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionMetadataV3](_interfaceregistry_.interfaceregistry.md#functionmetadatav3)›*
 
-*Defined in [interfaceRegistry.ts:770](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L770)*
+*Defined in [interfaceRegistry.ts:770](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L770)*
 
 ___
 
 ###  Option<FunctionMetadataV4>
 
-• **Option<FunctionMetadataV4>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionMetadataV4](_interfaceregistry_.interfaceregistry.md#functionmetadatav4)*›*
+• **Option<FunctionMetadataV4>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionMetadataV4](_interfaceregistry_.interfaceregistry.md#functionmetadatav4)›*
 
-*Defined in [interfaceRegistry.ts:791](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L791)*
+*Defined in [interfaceRegistry.ts:791](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L791)*
 
 ___
 
 ###  Option<FunctionMetadataV5>
 
-• **Option<FunctionMetadataV5>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionMetadataV5](_interfaceregistry_.interfaceregistry.md#functionmetadatav5)*›*
+• **Option<FunctionMetadataV5>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionMetadataV5](_interfaceregistry_.interfaceregistry.md#functionmetadatav5)›*
 
-*Defined in [interfaceRegistry.ts:812](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L812)*
+*Defined in [interfaceRegistry.ts:812](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L812)*
 
 ___
 
 ###  Option<FunctionMetadataV6>
 
-• **Option<FunctionMetadataV6>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionMetadataV6](_interfaceregistry_.interfaceregistry.md#functionmetadatav6)*›*
+• **Option<FunctionMetadataV6>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionMetadataV6](_interfaceregistry_.interfaceregistry.md#functionmetadatav6)›*
 
-*Defined in [interfaceRegistry.ts:833](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L833)*
+*Defined in [interfaceRegistry.ts:833](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L833)*
 
 ___
 
 ###  Option<FunctionMetadataV7>
 
-• **Option<FunctionMetadataV7>**: *[Option](../classes/_codec_option_.option.md)‹*[FunctionMetadataV7](_interfaceregistry_.interfaceregistry.md#functionmetadatav7)*›*
+• **Option<FunctionMetadataV7>**: *[Option](../classes/_codec_option_.option.md)‹[FunctionMetadataV7](_interfaceregistry_.interfaceregistry.md#functionmetadatav7)›*
 
-*Defined in [interfaceRegistry.ts:857](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L857)*
+*Defined in [interfaceRegistry.ts:857](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L857)*
 
 ___
 
 ###  Option<Gas>
 
-• **Option<Gas>**: *[Option](../classes/_codec_option_.option.md)‹*[Gas](_interfaceregistry_.interfaceregistry.md#gas)*›*
+• **Option<Gas>**: *[Option](../classes/_codec_option_.option.md)‹[Gas](_interfaceregistry_.interfaceregistry.md#gas)›*
 
-*Defined in [interfaceRegistry.ts:328](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L328)*
+*Defined in [interfaceRegistry.ts:328](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L328)*
 
 ___
 
 ###  Option<H160>
 
-• **Option<H160>**: *[Option](../classes/_codec_option_.option.md)‹*[H160](../classes/_primitive_h160_.h160.md)*›*
+• **Option<H160>**: *[Option](../classes/_codec_option_.option.md)‹[H160](../classes/_primitive_h160_.h160.md)›*
 
-*Defined in [interfaceRegistry.ts:42](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L42)*
+*Defined in [interfaceRegistry.ts:42](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L42)*
 
 ___
 
 ###  Option<H256>
 
-• **Option<H256>**: *[Option](../classes/_codec_option_.option.md)‹*[H256](../classes/_primitive_h256_.h256.md)*›*
+• **Option<H256>**: *[Option](../classes/_codec_option_.option.md)‹[H256](../classes/_primitive_h256_.h256.md)›*
 
-*Defined in [interfaceRegistry.ts:45](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L45)*
+*Defined in [interfaceRegistry.ts:45](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L45)*
 
 ___
 
 ###  Option<H512>
 
-• **Option<H512>**: *[Option](../classes/_codec_option_.option.md)‹*[H512](../classes/_primitive_h512_.h512.md)*›*
+• **Option<H512>**: *[Option](../classes/_codec_option_.option.md)‹[H512](../classes/_primitive_h512_.h512.md)›*
 
-*Defined in [interfaceRegistry.ts:48](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L48)*
+*Defined in [interfaceRegistry.ts:48](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L48)*
 
 ___
 
 ###  Option<Hash>
 
-• **Option<Hash>**: *[Option](../classes/_codec_option_.option.md)‹*[Hash](_interfaceregistry_.interfaceregistry.md#hash)*›*
+• **Option<Hash>**: *[Option](../classes/_codec_option_.option.md)‹[Hash](_interfaceregistry_.interfaceregistry.md#hash)›*
 
-*Defined in [interfaceRegistry.ts:171](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L171)*
+*Defined in [interfaceRegistry.ts:171](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L171)*
 
 ___
 
 ###  Option<HeadData>
 
-• **Option<HeadData>**: *[Option](../classes/_codec_option_.option.md)‹*[HeadData](_interfaceregistry_.interfaceregistry.md#headdata)*›*
+• **Option<HeadData>**: *[Option](../classes/_codec_option_.option.md)‹[HeadData](_interfaceregistry_.interfaceregistry.md#headdata)›*
 
-*Defined in [interfaceRegistry.ts:608](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L608)*
+*Defined in [interfaceRegistry.ts:608](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L608)*
 
 ___
 
 ###  Option<Header>
 
-• **Option<Header>**: *[Option](../classes/_codec_option_.option.md)‹*[Header](_interfaces_runtime_types_.header.md)*›*
+• **Option<Header>**: *[Option](../classes/_codec_option_.option.md)‹[Header](_interfaces_runtime_types_.header.md)›*
 
-*Defined in [interfaceRegistry.ts:174](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L174)*
+*Defined in [interfaceRegistry.ts:174](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L174)*
 
 ___
 
 ###  Option<Health>
 
-• **Option<Health>**: *[Option](../classes/_codec_option_.option.md)‹*[Health](_interfaces_rpc_types_.health.md)*›*
+• **Option<Health>**: *[Option](../classes/_codec_option_.option.md)‹[Health](_interfaces_rpc_types_.health.md)›*
 
-*Defined in [interfaceRegistry.ts:884](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L884)*
+*Defined in [interfaceRegistry.ts:884](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L884)*
 
 ___
 
 ###  Option<Heartbeat>
 
-• **Option<Heartbeat>**: *[Option](../classes/_codec_option_.option.md)‹*[Heartbeat](_interfaces_imonline_types_.heartbeat.md)*›*
+• **Option<Heartbeat>**: *[Option](../classes/_codec_option_.option.md)‹[Heartbeat](_interfaces_imonline_types_.heartbeat.md)›*
 
-*Defined in [interfaceRegistry.ts:457](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L457)*
+*Defined in [interfaceRegistry.ts:457](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L457)*
 
 ___
 
 ###  Option<IdentificationTuple>
 
-• **Option<IdentificationTuple>**: *[Option](../classes/_codec_option_.option.md)‹*[IdentificationTuple](_interfaceregistry_.interfaceregistry.md#identificationtuple)*›*
+• **Option<IdentificationTuple>**: *[Option](../classes/_codec_option_.option.md)‹[IdentificationTuple](_interfaceregistry_.interfaceregistry.md#identificationtuple)›*
 
-*Defined in [interfaceRegistry.ts:490](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L490)*
+*Defined in [interfaceRegistry.ts:490](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L490)*
 
 ___
 
 ###  Option<ImmortalEra>
 
-• **Option<ImmortalEra>**: *[Option](../classes/_codec_option_.option.md)‹*[ImmortalEra](../classes/_primitive_extrinsic_extrinsicera_.immortalera.md)*›*
+• **Option<ImmortalEra>**: *[Option](../classes/_codec_option_.option.md)‹[ImmortalEra](../classes/_primitive_extrinsic_extrinsicera_.immortalera.md)›*
 
-*Defined in [interfaceRegistry.ts:237](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L237)*
+*Defined in [interfaceRegistry.ts:237](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L237)*
 
 ___
 
 ###  Option<IncludedBlocks>
 
-• **Option<IncludedBlocks>**: *[Option](../classes/_codec_option_.option.md)‹*[IncludedBlocks](_interfaces_attestations_types_.includedblocks.md)*›*
+• **Option<IncludedBlocks>**: *[Option](../classes/_codec_option_.option.md)‹[IncludedBlocks](_interfaces_attestations_types_.includedblocks.md)›*
 
-*Defined in [interfaceRegistry.ts:574](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L574)*
+*Defined in [interfaceRegistry.ts:574](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L574)*
 
 ___
 
 ###  Option<InclusionHeight>
 
-• **Option<InclusionHeight>**: *[Option](../classes/_codec_option_.option.md)‹*[InclusionHeight](_interfaceregistry_.interfaceregistry.md#inclusionheight)*›*
+• **Option<InclusionHeight>**: *[Option](../classes/_codec_option_.option.md)‹[InclusionHeight](_interfaceregistry_.interfaceregistry.md#inclusionheight)›*
 
-*Defined in [interfaceRegistry.ts:255](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L255)*
+*Defined in [interfaceRegistry.ts:255](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L255)*
 
 ___
 
 ###  Option<IncomingParachain>
 
-• **Option<IncomingParachain>**: *[Option](../classes/_codec_option_.option.md)‹*[IncomingParachain](_interfaces_parachains_types_.incomingparachain.md)*›*
+• **Option<IncomingParachain>**: *[Option](../classes/_codec_option_.option.md)‹[IncomingParachain](_interfaces_parachains_types_.incomingparachain.md)›*
 
-*Defined in [interfaceRegistry.ts:617](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L617)*
+*Defined in [interfaceRegistry.ts:617](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L617)*
 
 ___
 
 ###  Option<IncomingParachainDeploy>
 
-• **Option<IncomingParachainDeploy>**: *[Option](../classes/_codec_option_.option.md)‹*[IncomingParachainDeploy](_interfaces_parachains_types_.incomingparachaindeploy.md)*›*
+• **Option<IncomingParachainDeploy>**: *[Option](../classes/_codec_option_.option.md)‹[IncomingParachainDeploy](_interfaces_parachains_types_.incomingparachaindeploy.md)›*
 
-*Defined in [interfaceRegistry.ts:611](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L611)*
+*Defined in [interfaceRegistry.ts:611](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L611)*
 
 ___
 
 ###  Option<IncomingParachainFixed>
 
-• **Option<IncomingParachainFixed>**: *[Option](../classes/_codec_option_.option.md)‹*[IncomingParachainFixed](_interfaces_parachains_types_.incomingparachainfixed.md)*›*
+• **Option<IncomingParachainFixed>**: *[Option](../classes/_codec_option_.option.md)‹[IncomingParachainFixed](_interfaces_parachains_types_.incomingparachainfixed.md)›*
 
-*Defined in [interfaceRegistry.ts:614](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L614)*
+*Defined in [interfaceRegistry.ts:614](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L614)*
 
 ___
 
 ###  Option<Index>
 
-• **Option<Index>**: *[Option](../classes/_codec_option_.option.md)‹*[Index](_interfaceregistry_.interfaceregistry.md#index)*›*
+• **Option<Index>**: *[Option](../classes/_codec_option_.option.md)‹[Index](_interfaceregistry_.interfaceregistry.md#index)›*
 
-*Defined in [interfaceRegistry.ts:178](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L178)*
+*Defined in [interfaceRegistry.ts:178](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L178)*
 
 ___
 
 ###  Option<IndividualExposure>
 
-• **Option<IndividualExposure>**: *[Option](../classes/_codec_option_.option.md)‹*[IndividualExposure](_interfaces_staking_types_.individualexposure.md)*›*
+• **Option<IndividualExposure>**: *[Option](../classes/_codec_option_.option.md)‹[IndividualExposure](_interfaces_staking_types_.individualexposure.md)›*
 
-*Defined in [interfaceRegistry.ts:519](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L519)*
+*Defined in [interfaceRegistry.ts:519](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L519)*
 
 ___
 
 ###  Option<InherentOfflineReport>
 
-• **Option<InherentOfflineReport>**: *[Option](../classes/_codec_option_.option.md)‹*[InherentOfflineReport](_interfaceregistry_.interfaceregistry.md#inherentofflinereport)*›*
+• **Option<InherentOfflineReport>**: *[Option](../classes/_codec_option_.option.md)‹[InherentOfflineReport](_interfaceregistry_.interfaceregistry.md#inherentofflinereport)›*
 
-*Defined in [interfaceRegistry.ts:382](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L382)*
+*Defined in [interfaceRegistry.ts:382](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L382)*
 
 ___
 
 ###  Option<Justification>
 
-• **Option<Justification>**: *[Option](../classes/_codec_option_.option.md)‹*[Justification](_interfaceregistry_.interfaceregistry.md#justification)*›*
+• **Option<Justification>**: *[Option](../classes/_codec_option_.option.md)‹[Justification](_interfaceregistry_.interfaceregistry.md#justification)›*
 
-*Defined in [interfaceRegistry.ts:181](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L181)*
+*Defined in [interfaceRegistry.ts:181](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L181)*
 
 ___
 
 ###  Option<Key>
 
-• **Option<Key>**: *[Option](../classes/_codec_option_.option.md)‹*[Key](_interfaceregistry_.interfaceregistry.md#key)*›*
+• **Option<Key>**: *[Option](../classes/_codec_option_.option.md)‹[Key](_interfaceregistry_.interfaceregistry.md#key)›*
 
-*Defined in [interfaceRegistry.ts:562](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L562)*
+*Defined in [interfaceRegistry.ts:562](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L562)*
 
 ___
 
 ###  Option<KeyTypeId>
 
-• **Option<KeyTypeId>**: *[Option](../classes/_codec_option_.option.md)‹*[KeyTypeId](_interfaceregistry_.interfaceregistry.md#keytypeid)*›*
+• **Option<KeyTypeId>**: *[Option](../classes/_codec_option_.option.md)‹[KeyTypeId](_interfaceregistry_.interfaceregistry.md#keytypeid)›*
 
-*Defined in [interfaceRegistry.ts:188](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L188)*
+*Defined in [interfaceRegistry.ts:188](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L188)*
 
 ___
 
 ###  Option<KeyValue>
 
-• **Option<KeyValue>**: *[Option](../classes/_codec_option_.option.md)‹*[KeyValue](_interfaceregistry_.interfaceregistry.md#keyvalue)*›*
+• **Option<KeyValue>**: *[Option](../classes/_codec_option_.option.md)‹[KeyValue](_interfaceregistry_.interfaceregistry.md#keyvalue)›*
 
-*Defined in [interfaceRegistry.ts:184](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L184)*
+*Defined in [interfaceRegistry.ts:184](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L184)*
 
 ___
 
 ###  Option<KeyValueOption>
 
-• **Option<KeyValueOption>**: *[Option](../classes/_codec_option_.option.md)‹*[KeyValueOption](_interfaceregistry_.interfaceregistry.md#keyvalueoption)*›*
+• **Option<KeyValueOption>**: *[Option](../classes/_codec_option_.option.md)‹[KeyValueOption](_interfaceregistry_.interfaceregistry.md#keyvalueoption)›*
 
-*Defined in [interfaceRegistry.ts:887](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L887)*
+*Defined in [interfaceRegistry.ts:887](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L887)*
 
 ___
 
 ###  Option<Keys>
 
-• **Option<Keys>**: *[Option](../classes/_codec_option_.option.md)‹*[Keys](_interfaceregistry_.interfaceregistry.md#keys)*›*
+• **Option<Keys>**: *[Option](../classes/_codec_option_.option.md)‹[Keys](_interfaceregistry_.interfaceregistry.md#keys)›*
 
-*Defined in [interfaceRegistry.ts:497](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L497)*
+*Defined in [interfaceRegistry.ts:497](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L497)*
 
 ___
 
 ###  Option<Kind>
 
-• **Option<Kind>**: *[Option](../classes/_codec_option_.option.md)‹*[Kind](_interfaceregistry_.interfaceregistry.md#kind)*›*
+• **Option<Kind>**: *[Option](../classes/_codec_option_.option.md)‹[Kind](_interfaceregistry_.interfaceregistry.md#kind)›*
 
-*Defined in [interfaceRegistry.ts:469](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L469)*
+*Defined in [interfaceRegistry.ts:469](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L469)*
 
 ___
 
 ###  Option<LeasePeriod>
 
-• **Option<LeasePeriod>**: *[Option](../classes/_codec_option_.option.md)‹*[LeasePeriod](_interfaceregistry_.interfaceregistry.md#leaseperiod)*›*
+• **Option<LeasePeriod>**: *[Option](../classes/_codec_option_.option.md)‹[LeasePeriod](_interfaceregistry_.interfaceregistry.md#leaseperiod)›*
 
-*Defined in [interfaceRegistry.ts:620](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L620)*
+*Defined in [interfaceRegistry.ts:620](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L620)*
 
 ___
 
 ###  Option<LeasePeriodOf>
 
-• **Option<LeasePeriodOf>**: *[Option](../classes/_codec_option_.option.md)‹*[LeasePeriodOf](_interfaceregistry_.interfaceregistry.md#leaseperiodof)*›*
+• **Option<LeasePeriodOf>**: *[Option](../classes/_codec_option_.option.md)‹[LeasePeriodOf](_interfaceregistry_.interfaceregistry.md#leaseperiodof)›*
 
-*Defined in [interfaceRegistry.ts:623](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L623)*
+*Defined in [interfaceRegistry.ts:623](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L623)*
 
 ___
 
 ###  Option<LockIdentifier>
 
-• **Option<LockIdentifier>**: *[Option](../classes/_codec_option_.option.md)‹*[LockIdentifier](_interfaceregistry_.interfaceregistry.md#lockidentifier)*›*
+• **Option<LockIdentifier>**: *[Option](../classes/_codec_option_.option.md)‹[LockIdentifier](_interfaceregistry_.interfaceregistry.md#lockidentifier)›*
 
-*Defined in [interfaceRegistry.ts:191](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L191)*
+*Defined in [interfaceRegistry.ts:191](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L191)*
 
 ___
 
 ###  Option<LockPeriods>
 
-• **Option<LockPeriods>**: *[Option](../classes/_codec_option_.option.md)‹*[LockPeriods](_interfaceregistry_.interfaceregistry.md#lockperiods)*›*
+• **Option<LockPeriods>**: *[Option](../classes/_codec_option_.option.md)‹[LockPeriods](_interfaceregistry_.interfaceregistry.md#lockperiods)›*
 
-*Defined in [interfaceRegistry.ts:379](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L379)*
+*Defined in [interfaceRegistry.ts:379](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L379)*
 
 ___
 
 ###  Option<MapTypeV0>
 
-• **Option<MapTypeV0>**: *[Option](../classes/_codec_option_.option.md)‹*[MapTypeV0](_interfaces_metadata_types_.maptypev0.md)*›*
+• **Option<MapTypeV0>**: *[Option](../classes/_codec_option_.option.md)‹[MapTypeV0](_interfaces_metadata_types_.maptypev0.md)›*
 
-*Defined in [interfaceRegistry.ts:677](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L677)*
+*Defined in [interfaceRegistry.ts:677](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L677)*
 
 ___
 
 ###  Option<MapTypeV2>
 
-• **Option<MapTypeV2>**: *[Option](../classes/_codec_option_.option.md)‹*[MapTypeV2](_interfaces_metadata_types_.maptypev2.md)*›*
+• **Option<MapTypeV2>**: *[Option](../classes/_codec_option_.option.md)‹[MapTypeV2](_interfaces_metadata_types_.maptypev2.md)›*
 
-*Defined in [interfaceRegistry.ts:752](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L752)*
+*Defined in [interfaceRegistry.ts:752](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L752)*
 
 ___
 
 ###  Option<MapTypeV3>
 
-• **Option<MapTypeV3>**: *[Option](../classes/_codec_option_.option.md)‹*[MapTypeV3](_interfaceregistry_.interfaceregistry.md#maptypev3)*›*
+• **Option<MapTypeV3>**: *[Option](../classes/_codec_option_.option.md)‹[MapTypeV3](_interfaceregistry_.interfaceregistry.md#maptypev3)›*
 
-*Defined in [interfaceRegistry.ts:773](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L773)*
+*Defined in [interfaceRegistry.ts:773](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L773)*
 
 ___
 
 ###  Option<MapTypeV4>
 
-• **Option<MapTypeV4>**: *[Option](../classes/_codec_option_.option.md)‹*[MapTypeV4](_interfaces_metadata_types_.maptypev4.md)*›*
+• **Option<MapTypeV4>**: *[Option](../classes/_codec_option_.option.md)‹[MapTypeV4](_interfaces_metadata_types_.maptypev4.md)›*
 
-*Defined in [interfaceRegistry.ts:794](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L794)*
+*Defined in [interfaceRegistry.ts:794](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L794)*
 
 ___
 
 ###  Option<MapTypeV5>
 
-• **Option<MapTypeV5>**: *[Option](../classes/_codec_option_.option.md)‹*[MapTypeV5](_interfaceregistry_.interfaceregistry.md#maptypev5)*›*
+• **Option<MapTypeV5>**: *[Option](../classes/_codec_option_.option.md)‹[MapTypeV5](_interfaceregistry_.interfaceregistry.md#maptypev5)›*
 
-*Defined in [interfaceRegistry.ts:815](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L815)*
+*Defined in [interfaceRegistry.ts:815](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L815)*
 
 ___
 
 ###  Option<MapTypeV6>
 
-• **Option<MapTypeV6>**: *[Option](../classes/_codec_option_.option.md)‹*[MapTypeV6](_interfaceregistry_.interfaceregistry.md#maptypev6)*›*
+• **Option<MapTypeV6>**: *[Option](../classes/_codec_option_.option.md)‹[MapTypeV6](_interfaceregistry_.interfaceregistry.md#maptypev6)›*
 
-*Defined in [interfaceRegistry.ts:836](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L836)*
+*Defined in [interfaceRegistry.ts:836](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L836)*
 
 ___
 
 ###  Option<MapTypeV7>
 
-• **Option<MapTypeV7>**: *[Option](../classes/_codec_option_.option.md)‹*[MapTypeV7](_interfaceregistry_.interfaceregistry.md#maptypev7)*›*
+• **Option<MapTypeV7>**: *[Option](../classes/_codec_option_.option.md)‹[MapTypeV7](_interfaceregistry_.interfaceregistry.md#maptypev7)›*
 
-*Defined in [interfaceRegistry.ts:860](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L860)*
+*Defined in [interfaceRegistry.ts:860](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L860)*
 
 ___
 
 ###  Option<MemberCount>
 
-• **Option<MemberCount>**: *[Option](../classes/_codec_option_.option.md)‹*[MemberCount](_interfaceregistry_.interfaceregistry.md#membercount)*›*
+• **Option<MemberCount>**: *[Option](../classes/_codec_option_.option.md)‹[MemberCount](_interfaceregistry_.interfaceregistry.md#membercount)›*
 
-*Defined in [interfaceRegistry.ts:302](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L302)*
+*Defined in [interfaceRegistry.ts:302](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L302)*
 
 ___
 
 ###  Option<MetadataV0>
 
-• **Option<MetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[MetadataV0](_interfaces_metadata_types_.metadatav0.md)*›*
+• **Option<MetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[MetadataV0](_interfaces_metadata_types_.metadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:680](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L680)*
+*Defined in [interfaceRegistry.ts:680](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L680)*
 
 ___
 
 ###  Option<MetadataV1>
 
-• **Option<MetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹*[MetadataV1](_interfaces_metadata_types_.metadatav1.md)*›*
+• **Option<MetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹[MetadataV1](_interfaces_metadata_types_.metadatav1.md)›*
 
-*Defined in [interfaceRegistry.ts:728](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L728)*
+*Defined in [interfaceRegistry.ts:728](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L728)*
 
 ___
 
 ###  Option<ModuleConstantMetadataV6>
 
-• **Option<ModuleConstantMetadataV6>**: *[Option](../classes/_codec_option_.option.md)‹*[ModuleConstantMetadataV6](_interfaces_metadata_types_.moduleconstantmetadatav6.md)*›*
+• **Option<ModuleConstantMetadataV6>**: *[Option](../classes/_codec_option_.option.md)‹[ModuleConstantMetadataV6](_interfaces_metadata_types_.moduleconstantmetadatav6.md)›*
 
-*Defined in [interfaceRegistry.ts:839](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L839)*
+*Defined in [interfaceRegistry.ts:839](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L839)*
 
 ___
 
 ###  Option<ModuleConstantMetadataV7>
 
-• **Option<ModuleConstantMetadataV7>**: *[Option](../classes/_codec_option_.option.md)‹*[ModuleConstantMetadataV7](_interfaceregistry_.interfaceregistry.md#moduleconstantmetadatav7)*›*
+• **Option<ModuleConstantMetadataV7>**: *[Option](../classes/_codec_option_.option.md)‹[ModuleConstantMetadataV7](_interfaceregistry_.interfaceregistry.md#moduleconstantmetadatav7)›*
 
-*Defined in [interfaceRegistry.ts:863](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L863)*
+*Defined in [interfaceRegistry.ts:863](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L863)*
 
 ___
 
 ###  Option<ModuleMetadataV0>
 
-• **Option<ModuleMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[ModuleMetadataV0](_interfaces_metadata_types_.modulemetadatav0.md)*›*
+• **Option<ModuleMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[ModuleMetadataV0](_interfaces_metadata_types_.modulemetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:683](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L683)*
+*Defined in [interfaceRegistry.ts:683](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L683)*
 
 ___
 
 ###  Option<ModuleMetadataV1>
 
-• **Option<ModuleMetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹*[ModuleMetadataV1](_interfaces_metadata_types_.modulemetadatav1.md)*›*
+• **Option<ModuleMetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹[ModuleMetadataV1](_interfaces_metadata_types_.modulemetadatav1.md)›*
 
-*Defined in [interfaceRegistry.ts:731](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L731)*
+*Defined in [interfaceRegistry.ts:731](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L731)*
 
 ___
 
 ###  Option<Moment>
 
-• **Option<Moment>**: *[Option](../classes/_codec_option_.option.md)‹*[Moment](_interfaceregistry_.interfaceregistry.md#moment)*›*
+• **Option<Moment>**: *[Option](../classes/_codec_option_.option.md)‹[Moment](_interfaceregistry_.interfaceregistry.md#moment)›*
 
-*Defined in [interfaceRegistry.ts:195](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L195)*
+*Defined in [interfaceRegistry.ts:195](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L195)*
 
 ___
 
 ###  Option<MomentOf>
 
-• **Option<MomentOf>**: *[Option](../classes/_codec_option_.option.md)‹*[MomentOf](_interfaceregistry_.interfaceregistry.md#momentof)*›*
+• **Option<MomentOf>**: *[Option](../classes/_codec_option_.option.md)‹[MomentOf](_interfaceregistry_.interfaceregistry.md#momentof)›*
 
-*Defined in [interfaceRegistry.ts:522](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L522)*
+*Defined in [interfaceRegistry.ts:522](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L522)*
 
 ___
 
 ###  Option<MoreAttestations>
 
-• **Option<MoreAttestations>**: *[Option](../classes/_codec_option_.option.md)‹*[MoreAttestations](_interfaces_attestations_types_.moreattestations.md)*›*
+• **Option<MoreAttestations>**: *[Option](../classes/_codec_option_.option.md)‹[MoreAttestations](_interfaces_attestations_types_.moreattestations.md)›*
 
-*Defined in [interfaceRegistry.ts:577](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L577)*
+*Defined in [interfaceRegistry.ts:577](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L577)*
 
 ___
 
 ###  Option<MortalEra>
 
-• **Option<MortalEra>**: *[Option](../classes/_codec_option_.option.md)‹*[MortalEra](../classes/_primitive_extrinsic_extrinsicera_.mortalera.md)*›*
+• **Option<MortalEra>**: *[Option](../classes/_codec_option_.option.md)‹[MortalEra](../classes/_primitive_extrinsic_extrinsicera_.mortalera.md)›*
 
-*Defined in [interfaceRegistry.ts:240](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L240)*
+*Defined in [interfaceRegistry.ts:240](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L240)*
 
 ___
 
 ###  Option<NetworkState>
 
-• **Option<NetworkState>**: *[Option](../classes/_codec_option_.option.md)‹*[NetworkState](_interfaces_rpc_types_.networkstate.md)*›*
+• **Option<NetworkState>**: *[Option](../classes/_codec_option_.option.md)‹[NetworkState](_interfaces_rpc_types_.networkstate.md)›*
 
-*Defined in [interfaceRegistry.ts:890](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L890)*
+*Defined in [interfaceRegistry.ts:890](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L890)*
 
 ___
 
 ###  Option<NewAccountOutcome>
 
-• **Option<NewAccountOutcome>**: *[Option](../classes/_codec_option_.option.md)‹*[NewAccountOutcome](_interfaces_deprecated_types_.newaccountoutcome.md)*›*
+• **Option<NewAccountOutcome>**: *[Option](../classes/_codec_option_.option.md)‹[NewAccountOutcome](_interfaces_deprecated_types_.newaccountoutcome.md)›*
 
-*Defined in [interfaceRegistry.ts:366](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L366)*
+*Defined in [interfaceRegistry.ts:366](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L366)*
 
 ___
 
 ###  Option<NewBidder>
 
-• **Option<NewBidder>**: *[Option](../classes/_codec_option_.option.md)‹*[NewBidder](_interfaces_parachains_types_.newbidder.md)*›*
+• **Option<NewBidder>**: *[Option](../classes/_codec_option_.option.md)‹[NewBidder](_interfaces_parachains_types_.newbidder.md)›*
 
-*Defined in [interfaceRegistry.ts:626](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L626)*
+*Defined in [interfaceRegistry.ts:626](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L626)*
 
 ___
 
 ###  Option<NextAuthority>
 
-• **Option<NextAuthority>**: *[Option](../classes/_codec_option_.option.md)‹*[NextAuthority](_interfaceregistry_.interfaceregistry.md#nextauthority)*›*
+• **Option<NextAuthority>**: *[Option](../classes/_codec_option_.option.md)‹[NextAuthority](_interfaceregistry_.interfaceregistry.md#nextauthority)›*
 
-*Defined in [interfaceRegistry.ts:431](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L431)*
+*Defined in [interfaceRegistry.ts:431](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L431)*
 
 ___
 
 ###  Option<Null>
 
-• **Option<Null>**: *[Option](../classes/_codec_option_.option.md)‹*[Null](../classes/_primitive_null_.null.md)*›*
+• **Option<Null>**: *[Option](../classes/_codec_option_.option.md)‹[Null](../classes/_primitive_null_.null.md)›*
 
-*Defined in [interfaceRegistry.ts:72](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L72)*
+*Defined in [interfaceRegistry.ts:72](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L72)*
 
 ___
 
 ###  Option<OffenceDetails>
 
-• **Option<OffenceDetails>**: *[Option](../classes/_codec_option_.option.md)‹*[OffenceDetails](_interfaces_offences_types_.offencedetails.md)*›*
+• **Option<OffenceDetails>**: *[Option](../classes/_codec_option_.option.md)‹[OffenceDetails](_interfaces_offences_types_.offencedetails.md)›*
 
-*Defined in [interfaceRegistry.ts:472](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L472)*
+*Defined in [interfaceRegistry.ts:472](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L472)*
 
 ___
 
 ###  Option<Offender>
 
-• **Option<Offender>**: *[Option](../classes/_codec_option_.option.md)‹*[Offender](_interfaceregistry_.interfaceregistry.md#offender)*›*
+• **Option<Offender>**: *[Option](../classes/_codec_option_.option.md)‹[Offender](_interfaceregistry_.interfaceregistry.md#offender)›*
 
-*Defined in [interfaceRegistry.ts:475](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L475)*
+*Defined in [interfaceRegistry.ts:475](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L475)*
 
 ___
 
 ###  Option<OpaqueKey>
 
-• **Option<OpaqueKey>**: *[Option](../classes/_codec_option_.option.md)‹*[OpaqueKey](_interfaceregistry_.interfaceregistry.md#opaquekey)*›*
+• **Option<OpaqueKey>**: *[Option](../classes/_codec_option_.option.md)‹[OpaqueKey](_interfaceregistry_.interfaceregistry.md#opaquekey)›*
 
-*Defined in [interfaceRegistry.ts:388](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L388)*
+*Defined in [interfaceRegistry.ts:388](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L388)*
 
 ___
 
 ###  Option<OpaqueMultiaddr>
 
-• **Option<OpaqueMultiaddr>**: *[Option](../classes/_codec_option_.option.md)‹*[OpaqueMultiaddr](_interfaceregistry_.interfaceregistry.md#opaquemultiaddr)*›*
+• **Option<OpaqueMultiaddr>**: *[Option](../classes/_codec_option_.option.md)‹[OpaqueMultiaddr](_interfaceregistry_.interfaceregistry.md#opaquemultiaddr)›*
 
-*Defined in [interfaceRegistry.ts:460](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L460)*
+*Defined in [interfaceRegistry.ts:460](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L460)*
 
 ___
 
 ###  Option<OpaqueNetworkState>
 
-• **Option<OpaqueNetworkState>**: *[Option](../classes/_codec_option_.option.md)‹*[OpaqueNetworkState](_interfaces_imonline_types_.opaquenetworkstate.md)*›*
+• **Option<OpaqueNetworkState>**: *[Option](../classes/_codec_option_.option.md)‹[OpaqueNetworkState](_interfaces_imonline_types_.opaquenetworkstate.md)›*
 
-*Defined in [interfaceRegistry.ts:466](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L466)*
+*Defined in [interfaceRegistry.ts:466](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L466)*
 
 ___
 
 ###  Option<OpaquePeerId>
 
-• **Option<OpaquePeerId>**: *[Option](../classes/_codec_option_.option.md)‹*[OpaquePeerId](_interfaceregistry_.interfaceregistry.md#opaquepeerid)*›*
+• **Option<OpaquePeerId>**: *[Option](../classes/_codec_option_.option.md)‹[OpaquePeerId](_interfaceregistry_.interfaceregistry.md#opaquepeerid)›*
 
-*Defined in [interfaceRegistry.ts:463](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L463)*
+*Defined in [interfaceRegistry.ts:463](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L463)*
 
 ___
 
 ###  Option<OpaqueTimeSlot>
 
-• **Option<OpaqueTimeSlot>**: *[Option](../classes/_codec_option_.option.md)‹*[OpaqueTimeSlot](_interfaceregistry_.interfaceregistry.md#opaquetimeslot)*›*
+• **Option<OpaqueTimeSlot>**: *[Option](../classes/_codec_option_.option.md)‹[OpaqueTimeSlot](_interfaceregistry_.interfaceregistry.md#opaquetimeslot)›*
 
-*Defined in [interfaceRegistry.ts:478](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L478)*
+*Defined in [interfaceRegistry.ts:478](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L478)*
 
 ___
 
 ###  Option<Origin>
 
-• **Option<Origin>**: *[Option](../classes/_codec_option_.option.md)‹*[Origin](../classes/_primitive_generic_origin_.origin.md)*›*
+• **Option<Origin>**: *[Option](../classes/_codec_option_.option.md)‹[Origin](../classes/_primitive_generic_origin_.origin.md)›*
 
-*Defined in [interfaceRegistry.ts:198](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L198)*
+*Defined in [interfaceRegistry.ts:198](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L198)*
 
 ___
 
 ###  Option<OuterDispatchCallV0>
 
-• **Option<OuterDispatchCallV0>**: *[Option](../classes/_codec_option_.option.md)‹*[OuterDispatchCallV0](_interfaces_metadata_types_.outerdispatchcallv0.md)*›*
+• **Option<OuterDispatchCallV0>**: *[Option](../classes/_codec_option_.option.md)‹[OuterDispatchCallV0](_interfaces_metadata_types_.outerdispatchcallv0.md)›*
 
-*Defined in [interfaceRegistry.ts:686](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L686)*
+*Defined in [interfaceRegistry.ts:686](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L686)*
 
 ___
 
 ###  Option<OuterDispatchMetadataV0>
 
-• **Option<OuterDispatchMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[OuterDispatchMetadataV0](_interfaces_metadata_types_.outerdispatchmetadatav0.md)*›*
+• **Option<OuterDispatchMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[OuterDispatchMetadataV0](_interfaces_metadata_types_.outerdispatchmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:689](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L689)*
+*Defined in [interfaceRegistry.ts:689](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L689)*
 
 ___
 
 ###  Option<OuterEventEventMetadataEventsV0>
 
-• **Option<OuterEventEventMetadataEventsV0>**: *[Option](../classes/_codec_option_.option.md)‹*[OuterEventEventMetadataEventsV0](_interfaceregistry_.interfaceregistry.md#outereventeventmetadataeventsv0)*›*
+• **Option<OuterEventEventMetadataEventsV0>**: *[Option](../classes/_codec_option_.option.md)‹[OuterEventEventMetadataEventsV0](_interfaceregistry_.interfaceregistry.md#outereventeventmetadataeventsv0)›*
 
-*Defined in [interfaceRegistry.ts:692](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L692)*
+*Defined in [interfaceRegistry.ts:692](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L692)*
 
 ___
 
 ###  Option<OuterEventEventMetadataV0>
 
-• **Option<OuterEventEventMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[OuterEventEventMetadataV0](_interfaceregistry_.interfaceregistry.md#outereventeventmetadatav0)*›*
+• **Option<OuterEventEventMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[OuterEventEventMetadataV0](_interfaceregistry_.interfaceregistry.md#outereventeventmetadatav0)›*
 
-*Defined in [interfaceRegistry.ts:695](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L695)*
+*Defined in [interfaceRegistry.ts:695](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L695)*
 
 ___
 
 ###  Option<OuterEventMetadataV0>
 
-• **Option<OuterEventMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[OuterEventMetadataV0](_interfaces_metadata_types_.outereventmetadatav0.md)*›*
+• **Option<OuterEventMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[OuterEventMetadataV0](_interfaces_metadata_types_.outereventmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:698](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L698)*
+*Defined in [interfaceRegistry.ts:698](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L698)*
 
 ___
 
 ###  Option<Owner>
 
-• **Option<Owner>**: *[Option](../classes/_codec_option_.option.md)‹*[Owner](_interfaces_genericasset_types_.owner.md)*›*
+• **Option<Owner>**: *[Option](../classes/_codec_option_.option.md)‹[Owner](_interfaces_genericasset_types_.owner.md)›*
 
-*Defined in [interfaceRegistry.ts:415](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L415)*
+*Defined in [interfaceRegistry.ts:415](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L415)*
 
 ___
 
 ###  Option<ParaId>
 
-• **Option<ParaId>**: *[Option](../classes/_codec_option_.option.md)‹*[ParaId](_interfaceregistry_.interfaceregistry.md#paraid)*›*
+• **Option<ParaId>**: *[Option](../classes/_codec_option_.option.md)‹[ParaId](_interfaceregistry_.interfaceregistry.md#paraid)›*
 
-*Defined in [interfaceRegistry.ts:630](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L630)*
+*Defined in [interfaceRegistry.ts:630](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L630)*
 
 ___
 
 ###  Option<ParaIdOf>
 
-• **Option<ParaIdOf>**: *[Option](../classes/_codec_option_.option.md)‹*[ParaIdOf](_interfaceregistry_.interfaceregistry.md#paraidof)*›*
+• **Option<ParaIdOf>**: *[Option](../classes/_codec_option_.option.md)‹[ParaIdOf](_interfaceregistry_.interfaceregistry.md#paraidof)›*
 
-*Defined in [interfaceRegistry.ts:633](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L633)*
+*Defined in [interfaceRegistry.ts:633](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L633)*
 
 ___
 
 ###  Option<ParachainDispatchOrigin>
 
-• **Option<ParachainDispatchOrigin>**: *[Option](../classes/_codec_option_.option.md)‹*[ParachainDispatchOrigin](_interfaces_parachains_types_.parachaindispatchorigin.md)*›*
+• **Option<ParachainDispatchOrigin>**: *[Option](../classes/_codec_option_.option.md)‹[ParachainDispatchOrigin](_interfaces_parachains_types_.parachaindispatchorigin.md)›*
 
-*Defined in [interfaceRegistry.ts:636](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L636)*
+*Defined in [interfaceRegistry.ts:636](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L636)*
 
 ___
 
 ###  Option<PeerInfo>
 
-• **Option<PeerInfo>**: *[Option](../classes/_codec_option_.option.md)‹*[PeerInfo](_interfaces_rpc_types_.peerinfo.md)*›*
+• **Option<PeerInfo>**: *[Option](../classes/_codec_option_.option.md)‹[PeerInfo](_interfaces_rpc_types_.peerinfo.md)›*
 
-*Defined in [interfaceRegistry.ts:893](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L893)*
+*Defined in [interfaceRegistry.ts:893](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L893)*
 
 ___
 
 ###  Option<PendingPause>
 
-• **Option<PendingPause>**: *[Option](../classes/_codec_option_.option.md)‹*[PendingPause](_interfaces_grandpa_types_.pendingpause.md)*›*
+• **Option<PendingPause>**: *[Option](../classes/_codec_option_.option.md)‹[PendingPause](_interfaces_grandpa_types_.pendingpause.md)›*
 
-*Defined in [interfaceRegistry.ts:434](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L434)*
+*Defined in [interfaceRegistry.ts:434](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L434)*
 
 ___
 
 ###  Option<PendingResume>
 
-• **Option<PendingResume>**: *[Option](../classes/_codec_option_.option.md)‹*[PendingResume](_interfaces_grandpa_types_.pendingresume.md)*›*
+• **Option<PendingResume>**: *[Option](../classes/_codec_option_.option.md)‹[PendingResume](_interfaces_grandpa_types_.pendingresume.md)›*
 
-*Defined in [interfaceRegistry.ts:437](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L437)*
+*Defined in [interfaceRegistry.ts:437](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L437)*
 
 ___
 
 ###  Option<Perbill>
 
-• **Option<Perbill>**: *[Option](../classes/_codec_option_.option.md)‹*[Perbill](_interfaceregistry_.interfaceregistry.md#perbill)*›*
+• **Option<Perbill>**: *[Option](../classes/_codec_option_.option.md)‹[Perbill](_interfaceregistry_.interfaceregistry.md#perbill)›*
 
-*Defined in [interfaceRegistry.ts:202](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L202)*
+*Defined in [interfaceRegistry.ts:202](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L202)*
 
 ___
 
 ###  Option<Permill>
 
-• **Option<Permill>**: *[Option](../classes/_codec_option_.option.md)‹*[Permill](_interfaceregistry_.interfaceregistry.md#permill)*›*
+• **Option<Permill>**: *[Option](../classes/_codec_option_.option.md)‹[Permill](_interfaceregistry_.interfaceregistry.md#permill)›*
 
-*Defined in [interfaceRegistry.ts:206](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L206)*
+*Defined in [interfaceRegistry.ts:206](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L206)*
 
 ___
 
 ###  Option<PermissionLatest>
 
-• **Option<PermissionLatest>**: *[Option](../classes/_codec_option_.option.md)‹*[PermissionLatest](_interfaceregistry_.interfaceregistry.md#permissionlatest)*›*
+• **Option<PermissionLatest>**: *[Option](../classes/_codec_option_.option.md)‹[PermissionLatest](_interfaceregistry_.interfaceregistry.md#permissionlatest)›*
 
-*Defined in [interfaceRegistry.ts:424](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L424)*
+*Defined in [interfaceRegistry.ts:424](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L424)*
 
 ___
 
 ###  Option<PermissionVersions>
 
-• **Option<PermissionVersions>**: *[Option](../classes/_codec_option_.option.md)‹*[PermissionVersions](_interfaces_genericasset_types_.permissionversions.md)*›*
+• **Option<PermissionVersions>**: *[Option](../classes/_codec_option_.option.md)‹[PermissionVersions](_interfaces_genericasset_types_.permissionversions.md)›*
 
-*Defined in [interfaceRegistry.ts:421](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L421)*
+*Defined in [interfaceRegistry.ts:421](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L421)*
 
 ___
 
 ###  Option<PermissionsV1>
 
-• **Option<PermissionsV1>**: *[Option](../classes/_codec_option_.option.md)‹*[PermissionsV1](_interfaces_genericasset_types_.permissionsv1.md)*›*
+• **Option<PermissionsV1>**: *[Option](../classes/_codec_option_.option.md)‹[PermissionsV1](_interfaces_genericasset_types_.permissionsv1.md)›*
 
-*Defined in [interfaceRegistry.ts:418](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L418)*
+*Defined in [interfaceRegistry.ts:418](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L418)*
 
 ___
 
 ###  Option<Phantom>
 
-• **Option<Phantom>**: *[Option](../classes/_codec_option_.option.md)‹*[Phantom](_interfaceregistry_.interfaceregistry.md#phantom)*›*
+• **Option<Phantom>**: *[Option](../classes/_codec_option_.option.md)‹[Phantom](_interfaceregistry_.interfaceregistry.md#phantom)›*
 
-*Defined in [interfaceRegistry.ts:209](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L209)*
+*Defined in [interfaceRegistry.ts:209](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L209)*
 
 ___
 
 ###  Option<PhantomData>
 
-• **Option<PhantomData>**: *[Option](../classes/_codec_option_.option.md)‹*[PhantomData](_interfaceregistry_.interfaceregistry.md#phantomdata)*›*
+• **Option<PhantomData>**: *[Option](../classes/_codec_option_.option.md)‹[PhantomData](_interfaceregistry_.interfaceregistry.md#phantomdata)›*
 
-*Defined in [interfaceRegistry.ts:212](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L212)*
+*Defined in [interfaceRegistry.ts:212](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L212)*
 
 ___
 
 ###  Option<Phase>
 
-• **Option<Phase>**: *[Option](../classes/_codec_option_.option.md)‹*[Phase](_interfaces_system_types_.phase.md)*›*
+• **Option<Phase>**: *[Option](../classes/_codec_option_.option.md)‹[Phase](_interfaces_system_types_.phase.md)›*
 
-*Defined in [interfaceRegistry.ts:565](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L565)*
+*Defined in [interfaceRegistry.ts:565](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L565)*
 
 ___
 
 ###  Option<PlainTypeV0>
 
-• **Option<PlainTypeV0>**: *[Option](../classes/_codec_option_.option.md)‹*[PlainTypeV0](_interfaceregistry_.interfaceregistry.md#plaintypev0)*›*
+• **Option<PlainTypeV0>**: *[Option](../classes/_codec_option_.option.md)‹[PlainTypeV0](_interfaceregistry_.interfaceregistry.md#plaintypev0)›*
 
-*Defined in [interfaceRegistry.ts:701](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L701)*
+*Defined in [interfaceRegistry.ts:701](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L701)*
 
 ___
 
 ###  Option<PlainTypeV2>
 
-• **Option<PlainTypeV2>**: *[Option](../classes/_codec_option_.option.md)‹*[PlainTypeV2](_interfaceregistry_.interfaceregistry.md#plaintypev2)*›*
+• **Option<PlainTypeV2>**: *[Option](../classes/_codec_option_.option.md)‹[PlainTypeV2](_interfaceregistry_.interfaceregistry.md#plaintypev2)›*
 
-*Defined in [interfaceRegistry.ts:755](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L755)*
+*Defined in [interfaceRegistry.ts:755](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L755)*
 
 ___
 
 ###  Option<PlainTypeV3>
 
-• **Option<PlainTypeV3>**: *[Option](../classes/_codec_option_.option.md)‹*[PlainTypeV3](_interfaceregistry_.interfaceregistry.md#plaintypev3)*›*
+• **Option<PlainTypeV3>**: *[Option](../classes/_codec_option_.option.md)‹[PlainTypeV3](_interfaceregistry_.interfaceregistry.md#plaintypev3)›*
 
-*Defined in [interfaceRegistry.ts:776](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L776)*
+*Defined in [interfaceRegistry.ts:776](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L776)*
 
 ___
 
 ###  Option<PlainTypeV4>
 
-• **Option<PlainTypeV4>**: *[Option](../classes/_codec_option_.option.md)‹*[PlainTypeV4](_interfaceregistry_.interfaceregistry.md#plaintypev4)*›*
+• **Option<PlainTypeV4>**: *[Option](../classes/_codec_option_.option.md)‹[PlainTypeV4](_interfaceregistry_.interfaceregistry.md#plaintypev4)›*
 
-*Defined in [interfaceRegistry.ts:797](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L797)*
+*Defined in [interfaceRegistry.ts:797](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L797)*
 
 ___
 
 ###  Option<PlainTypeV5>
 
-• **Option<PlainTypeV5>**: *[Option](../classes/_codec_option_.option.md)‹*[PlainTypeV5](_interfaceregistry_.interfaceregistry.md#plaintypev5)*›*
+• **Option<PlainTypeV5>**: *[Option](../classes/_codec_option_.option.md)‹[PlainTypeV5](_interfaceregistry_.interfaceregistry.md#plaintypev5)›*
 
-*Defined in [interfaceRegistry.ts:818](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L818)*
+*Defined in [interfaceRegistry.ts:818](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L818)*
 
 ___
 
 ###  Option<PlainTypeV6>
 
-• **Option<PlainTypeV6>**: *[Option](../classes/_codec_option_.option.md)‹*[PlainTypeV6](_interfaceregistry_.interfaceregistry.md#plaintypev6)*›*
+• **Option<PlainTypeV6>**: *[Option](../classes/_codec_option_.option.md)‹[PlainTypeV6](_interfaceregistry_.interfaceregistry.md#plaintypev6)›*
 
-*Defined in [interfaceRegistry.ts:842](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L842)*
+*Defined in [interfaceRegistry.ts:842](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L842)*
 
 ___
 
 ###  Option<PlainTypeV7>
 
-• **Option<PlainTypeV7>**: *[Option](../classes/_codec_option_.option.md)‹*[PlainTypeV7](_interfaceregistry_.interfaceregistry.md#plaintypev7)*›*
+• **Option<PlainTypeV7>**: *[Option](../classes/_codec_option_.option.md)‹[PlainTypeV7](_interfaceregistry_.interfaceregistry.md#plaintypev7)›*
 
-*Defined in [interfaceRegistry.ts:866](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L866)*
+*Defined in [interfaceRegistry.ts:866](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L866)*
 
 ___
 
 ###  Option<PreRuntime>
 
-• **Option<PreRuntime>**: *[Option](../classes/_codec_option_.option.md)‹*[PreRuntime](_interfaceregistry_.interfaceregistry.md#preruntime)*›*
+• **Option<PreRuntime>**: *[Option](../classes/_codec_option_.option.md)‹[PreRuntime](_interfaceregistry_.interfaceregistry.md#preruntime)›*
 
-*Defined in [interfaceRegistry.ts:243](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L243)*
+*Defined in [interfaceRegistry.ts:243](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L243)*
 
 ___
 
 ###  Option<PrefabWasmModule>
 
-• **Option<PrefabWasmModule>**: *[Option](../classes/_codec_option_.option.md)‹*[PrefabWasmModule](_interfaces_contracts_types_.prefabwasmmodule.md)*›*
+• **Option<PrefabWasmModule>**: *[Option](../classes/_codec_option_.option.md)‹[PrefabWasmModule](_interfaces_contracts_types_.prefabwasmmodule.md)›*
 
-*Defined in [interfaceRegistry.ts:331](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L331)*
+*Defined in [interfaceRegistry.ts:331](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L331)*
 
 ___
 
 ###  Option<PrefabWasmModuleReserved>
 
-• **Option<PrefabWasmModuleReserved>**: *[Option](../classes/_codec_option_.option.md)‹*[PrefabWasmModuleReserved](_interfaceregistry_.interfaceregistry.md#prefabwasmmodulereserved)*›*
+• **Option<PrefabWasmModuleReserved>**: *[Option](../classes/_codec_option_.option.md)‹[PrefabWasmModuleReserved](_interfaceregistry_.interfaceregistry.md#prefabwasmmodulereserved)›*
 
-*Defined in [interfaceRegistry.ts:334](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L334)*
+*Defined in [interfaceRegistry.ts:334](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L334)*
 
 ___
 
 ###  Option<PropIndex>
 
-• **Option<PropIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[PropIndex](_interfaceregistry_.interfaceregistry.md#propindex)*›*
+• **Option<PropIndex>**: *[Option](../classes/_codec_option_.option.md)‹[PropIndex](_interfaceregistry_.interfaceregistry.md#propindex)›*
 
-*Defined in [interfaceRegistry.ts:353](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L353)*
+*Defined in [interfaceRegistry.ts:353](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L353)*
 
 ___
 
 ###  Option<Proposal>
 
-• **Option<Proposal>**: *[Option](../classes/_codec_option_.option.md)‹*[Proposal](_interfaceregistry_.interfaceregistry.md#proposal)*›*
+• **Option<Proposal>**: *[Option](../classes/_codec_option_.option.md)‹[Proposal](_interfaceregistry_.interfaceregistry.md#proposal)›*
 
-*Defined in [interfaceRegistry.ts:356](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L356)*
+*Defined in [interfaceRegistry.ts:356](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L356)*
 
 ___
 
 ###  Option<ProposalIndex>
 
-• **Option<ProposalIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[ProposalIndex](_interfaceregistry_.interfaceregistry.md#proposalindex)*›*
+• **Option<ProposalIndex>**: *[Option](../classes/_codec_option_.option.md)‹[ProposalIndex](_interfaceregistry_.interfaceregistry.md#proposalindex)›*
 
-*Defined in [interfaceRegistry.ts:306](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L306)*
+*Defined in [interfaceRegistry.ts:306](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L306)*
 
 ___
 
 ###  Option<RawAuraPreDigest>
 
-• **Option<RawAuraPreDigest>**: *[Option](../classes/_codec_option_.option.md)‹*[RawAuraPreDigest](_interfaces_aura_types_.rawaurapredigest.md)*›*
+• **Option<RawAuraPreDigest>**: *[Option](../classes/_codec_option_.option.md)‹[RawAuraPreDigest](_interfaces_aura_types_.rawaurapredigest.md)›*
 
-*Defined in [interfaceRegistry.ts:264](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L264)*
+*Defined in [interfaceRegistry.ts:264](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L264)*
 
 ___
 
 ###  Option<RawBabePreDigest>
 
-• **Option<RawBabePreDigest>**: *[Option](../classes/_codec_option_.option.md)‹*[RawBabePreDigest](_interfaces_babe_types_.rawbabepredigest.md)*›*
+• **Option<RawBabePreDigest>**: *[Option](../classes/_codec_option_.option.md)‹[RawBabePreDigest](_interfaces_babe_types_.rawbabepredigest.md)›*
 
-*Defined in [interfaceRegistry.ts:279](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L279)*
+*Defined in [interfaceRegistry.ts:279](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L279)*
 
 ___
 
 ###  Option<RawBabePreDigestPrimary>
 
-• **Option<RawBabePreDigestPrimary>**: *[Option](../classes/_codec_option_.option.md)‹*[RawBabePreDigestPrimary](_interfaces_babe_types_.rawbabepredigestprimary.md)*›*
+• **Option<RawBabePreDigestPrimary>**: *[Option](../classes/_codec_option_.option.md)‹[RawBabePreDigestPrimary](_interfaces_babe_types_.rawbabepredigestprimary.md)›*
 
-*Defined in [interfaceRegistry.ts:282](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L282)*
+*Defined in [interfaceRegistry.ts:282](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L282)*
 
 ___
 
 ###  Option<RawBabePreDigestSecondary>
 
-• **Option<RawBabePreDigestSecondary>**: *[Option](../classes/_codec_option_.option.md)‹*[RawBabePreDigestSecondary](_interfaces_babe_types_.rawbabepredigestsecondary.md)*›*
+• **Option<RawBabePreDigestSecondary>**: *[Option](../classes/_codec_option_.option.md)‹[RawBabePreDigestSecondary](_interfaces_babe_types_.rawbabepredigestsecondary.md)›*
 
-*Defined in [interfaceRegistry.ts:285](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L285)*
+*Defined in [interfaceRegistry.ts:285](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L285)*
 
 ___
 
 ###  Option<ReferendumIndex>
 
-• **Option<ReferendumIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[ReferendumIndex](_interfaceregistry_.interfaceregistry.md#referendumindex)*›*
+• **Option<ReferendumIndex>**: *[Option](../classes/_codec_option_.option.md)‹[ReferendumIndex](_interfaceregistry_.interfaceregistry.md#referendumindex)›*
 
-*Defined in [interfaceRegistry.ts:360](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L360)*
+*Defined in [interfaceRegistry.ts:360](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L360)*
 
 ___
 
 ###  Option<ReferendumInfo>
 
-• **Option<ReferendumInfo>**: *[Option](../classes/_codec_option_.option.md)‹*[ReferendumInfo](_interfaces_democracy_types_.referenduminfo.md)*›*
+• **Option<ReferendumInfo>**: *[Option](../classes/_codec_option_.option.md)‹[ReferendumInfo](_interfaces_democracy_types_.referenduminfo.md)›*
 
-*Defined in [interfaceRegistry.ts:363](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L363)*
+*Defined in [interfaceRegistry.ts:363](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L363)*
 
 ___
 
 ###  Option<ReportIdOf>
 
-• **Option<ReportIdOf>**: *[Option](../classes/_codec_option_.option.md)‹*[ReportIdOf](_interfaceregistry_.interfaceregistry.md#reportidof)*›*
+• **Option<ReportIdOf>**: *[Option](../classes/_codec_option_.option.md)‹[ReportIdOf](_interfaceregistry_.interfaceregistry.md#reportidof)›*
 
-*Defined in [interfaceRegistry.ts:481](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L481)*
+*Defined in [interfaceRegistry.ts:481](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L481)*
 
 ___
 
 ###  Option<Reporter>
 
-• **Option<Reporter>**: *[Option](../classes/_codec_option_.option.md)‹*[Reporter](_interfaceregistry_.interfaceregistry.md#reporter)*›*
+• **Option<Reporter>**: *[Option](../classes/_codec_option_.option.md)‹[Reporter](_interfaceregistry_.interfaceregistry.md#reporter)›*
 
-*Defined in [interfaceRegistry.ts:484](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L484)*
+*Defined in [interfaceRegistry.ts:484](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L484)*
 
 ___
 
 ###  Option<RewardDestination>
 
-• **Option<RewardDestination>**: *[Option](../classes/_codec_option_.option.md)‹*[RewardDestination](_interfaces_staking_types_.rewarddestination.md)*›*
+• **Option<RewardDestination>**: *[Option](../classes/_codec_option_.option.md)‹[RewardDestination](_interfaces_staking_types_.rewarddestination.md)›*
 
-*Defined in [interfaceRegistry.ts:525](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L525)*
+*Defined in [interfaceRegistry.ts:525](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L525)*
 
 ___
 
 ###  Option<RuntimeModuleMetadataV0>
 
-• **Option<RuntimeModuleMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[RuntimeModuleMetadataV0](_interfaces_metadata_types_.runtimemodulemetadatav0.md)*›*
+• **Option<RuntimeModuleMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[RuntimeModuleMetadataV0](_interfaces_metadata_types_.runtimemodulemetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:704](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L704)*
+*Defined in [interfaceRegistry.ts:704](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L704)*
 
 ___
 
 ###  Option<RuntimeVersion>
 
-• **Option<RuntimeVersion>**: *[Option](../classes/_codec_option_.option.md)‹*[RuntimeVersion](_interfaces_rpc_types_.runtimeversion.md)*›*
+• **Option<RuntimeVersion>**: *[Option](../classes/_codec_option_.option.md)‹[RuntimeVersion](_interfaces_rpc_types_.runtimeversion.md)›*
 
-*Defined in [interfaceRegistry.ts:899](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L899)*
+*Defined in [interfaceRegistry.ts:899](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L899)*
 
 ___
 
 ###  Option<RuntimeVersionApi>
 
-• **Option<RuntimeVersionApi>**: *[Option](../classes/_codec_option_.option.md)‹*[RuntimeVersionApi](_interfaceregistry_.interfaceregistry.md#runtimeversionapi)*›*
+• **Option<RuntimeVersionApi>**: *[Option](../classes/_codec_option_.option.md)‹[RuntimeVersionApi](_interfaceregistry_.interfaceregistry.md#runtimeversionapi)›*
 
-*Defined in [interfaceRegistry.ts:896](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L896)*
+*Defined in [interfaceRegistry.ts:896](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L896)*
 
 ___
 
 ###  Option<Schedule>
 
-• **Option<Schedule>**: *[Option](../classes/_codec_option_.option.md)‹*[Schedule](_interfaces_contracts_types_.schedule.md)*›*
+• **Option<Schedule>**: *[Option](../classes/_codec_option_.option.md)‹[Schedule](_interfaces_contracts_types_.schedule.md)›*
 
-*Defined in [interfaceRegistry.ts:337](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L337)*
+*Defined in [interfaceRegistry.ts:337](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L337)*
 
 ___
 
 ###  Option<Seal>
 
-• **Option<Seal>**: *[Option](../classes/_codec_option_.option.md)‹*[Seal](_interfaceregistry_.interfaceregistry.md#seal)*›*
+• **Option<Seal>**: *[Option](../classes/_codec_option_.option.md)‹[Seal](_interfaceregistry_.interfaceregistry.md#seal)›*
 
-*Defined in [interfaceRegistry.ts:249](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L249)*
+*Defined in [interfaceRegistry.ts:249](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L249)*
 
 ___
 
 ###  Option<SealV0>
 
-• **Option<SealV0>**: *[Option](../classes/_codec_option_.option.md)‹*[SealV0](_interfaceregistry_.interfaceregistry.md#sealv0)*›*
+• **Option<SealV0>**: *[Option](../classes/_codec_option_.option.md)‹[SealV0](_interfaceregistry_.interfaceregistry.md#sealv0)›*
 
-*Defined in [interfaceRegistry.ts:246](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L246)*
+*Defined in [interfaceRegistry.ts:246](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L246)*
 
 ___
 
 ###  Option<SeedOf>
 
-• **Option<SeedOf>**: *[Option](../classes/_codec_option_.option.md)‹*[SeedOf](_interfaceregistry_.interfaceregistry.md#seedof)*›*
+• **Option<SeedOf>**: *[Option](../classes/_codec_option_.option.md)‹[SeedOf](_interfaceregistry_.interfaceregistry.md#seedof)›*
 
-*Defined in [interfaceRegistry.ts:340](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L340)*
+*Defined in [interfaceRegistry.ts:340](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L340)*
 
 ___
 
 ###  Option<SessionIndex>
 
-• **Option<SessionIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[SessionIndex](_interfaceregistry_.interfaceregistry.md#sessionindex)*›*
+• **Option<SessionIndex>**: *[Option](../classes/_codec_option_.option.md)‹[SessionIndex](_interfaceregistry_.interfaceregistry.md#sessionindex)›*
 
-*Defined in [interfaceRegistry.ts:494](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L494)*
+*Defined in [interfaceRegistry.ts:494](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L494)*
 
 ___
 
 ###  Option<SessionKey>
 
-• **Option<SessionKey>**: *[Option](../classes/_codec_option_.option.md)‹*[SessionKey](_interfaceregistry_.interfaceregistry.md#sessionkey)*›*
+• **Option<SessionKey>**: *[Option](../classes/_codec_option_.option.md)‹[SessionKey](_interfaceregistry_.interfaceregistry.md#sessionkey)›*
 
-*Defined in [interfaceRegistry.ts:385](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L385)*
+*Defined in [interfaceRegistry.ts:385](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L385)*
 
 ___
 
 ###  Option<SessionKeysPolkadot>
 
-• **Option<SessionKeysPolkadot>**: *[Option](../classes/_codec_option_.option.md)‹*[SessionKeysPolkadot](_interfaceregistry_.interfaceregistry.md#sessionkeyspolkadot)*›*
+• **Option<SessionKeysPolkadot>**: *[Option](../classes/_codec_option_.option.md)‹[SessionKeysPolkadot](_interfaceregistry_.interfaceregistry.md#sessionkeyspolkadot)›*
 
-*Defined in [interfaceRegistry.ts:503](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L503)*
+*Defined in [interfaceRegistry.ts:503](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L503)*
 
 ___
 
 ###  Option<SessionKeysSubstrate>
 
-• **Option<SessionKeysSubstrate>**: *[Option](../classes/_codec_option_.option.md)‹*[SessionKeysSubstrate](_interfaceregistry_.interfaceregistry.md#sessionkeyssubstrate)*›*
+• **Option<SessionKeysSubstrate>**: *[Option](../classes/_codec_option_.option.md)‹[SessionKeysSubstrate](_interfaceregistry_.interfaceregistry.md#sessionkeyssubstrate)›*
 
-*Defined in [interfaceRegistry.ts:500](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L500)*
+*Defined in [interfaceRegistry.ts:500](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L500)*
 
 ___
 
 ###  Option<SetId>
 
-• **Option<SetId>**: *[Option](../classes/_codec_option_.option.md)‹*[SetId](_interfaceregistry_.interfaceregistry.md#setid)*›*
+• **Option<SetId>**: *[Option](../classes/_codec_option_.option.md)‹[SetId](_interfaceregistry_.interfaceregistry.md#setid)›*
 
-*Defined in [interfaceRegistry.ts:441](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L441)*
+*Defined in [interfaceRegistry.ts:441](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L441)*
 
 ___
 
 ###  Option<SetIndex>
 
-• **Option<SetIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[SetIndex](_interfaceregistry_.interfaceregistry.md#setindex)*›*
+• **Option<SetIndex>**: *[Option](../classes/_codec_option_.option.md)‹[SetIndex](_interfaceregistry_.interfaceregistry.md#setindex)›*
 
-*Defined in [interfaceRegistry.ts:396](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L396)*
+*Defined in [interfaceRegistry.ts:396](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L396)*
 
 ___
 
 ###  Option<Signature>
 
-• **Option<Signature>**: *[Option](../classes/_codec_option_.option.md)‹*[Signature](_interfaceregistry_.interfaceregistry.md#signature)*›*
+• **Option<Signature>**: *[Option](../classes/_codec_option_.option.md)‹[Signature](_interfaceregistry_.interfaceregistry.md#signature)›*
 
-*Defined in [interfaceRegistry.ts:215](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L215)*
+*Defined in [interfaceRegistry.ts:215](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L215)*
 
 ___
 
 ###  Option<SignedBlock>
 
-• **Option<SignedBlock>**: *[Option](../classes/_codec_option_.option.md)‹*[SignedBlock](_interfaces_runtime_types_.signedblock.md)*›*
+• **Option<SignedBlock>**: *[Option](../classes/_codec_option_.option.md)‹[SignedBlock](_interfaces_runtime_types_.signedblock.md)›*
 
-*Defined in [interfaceRegistry.ts:218](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L218)*
+*Defined in [interfaceRegistry.ts:218](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L218)*
 
 ___
 
 ###  Option<SlashJournalEntry>
 
-• **Option<SlashJournalEntry>**: *[Option](../classes/_codec_option_.option.md)‹*[SlashJournalEntry](_interfaces_staking_types_.slashjournalentry.md)*›*
+• **Option<SlashJournalEntry>**: *[Option](../classes/_codec_option_.option.md)‹[SlashJournalEntry](_interfaces_staking_types_.slashjournalentry.md)›*
 
-*Defined in [interfaceRegistry.ts:528](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L528)*
+*Defined in [interfaceRegistry.ts:528](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L528)*
 
 ___
 
 ###  Option<SlotNumber>
 
-• **Option<SlotNumber>**: *[Option](../classes/_codec_option_.option.md)‹*[SlotNumber](_interfaceregistry_.interfaceregistry.md#slotnumber)*›*
+• **Option<SlotNumber>**: *[Option](../classes/_codec_option_.option.md)‹[SlotNumber](_interfaceregistry_.interfaceregistry.md#slotnumber)›*
 
-*Defined in [interfaceRegistry.ts:289](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L289)*
+*Defined in [interfaceRegistry.ts:289](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L289)*
 
 ___
 
 ###  Option<SlotRange>
 
-• **Option<SlotRange>**: *[Option](../classes/_codec_option_.option.md)‹*[SlotRange](_interfaces_parachains_types_.slotrange.md)*›*
+• **Option<SlotRange>**: *[Option](../classes/_codec_option_.option.md)‹[SlotRange](_interfaces_parachains_types_.slotrange.md)›*
 
-*Defined in [interfaceRegistry.ts:639](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L639)*
+*Defined in [interfaceRegistry.ts:639](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L639)*
 
 ___
 
 ###  Option<Sr25519Signature>
 
-• **Option<Sr25519Signature>**: *[Option](../classes/_codec_option_.option.md)‹*[Sr25519Signature](_interfaceregistry_.interfaceregistry.md#sr25519signature)*›*
+• **Option<Sr25519Signature>**: *[Option](../classes/_codec_option_.option.md)‹[Sr25519Signature](_interfaceregistry_.interfaceregistry.md#sr25519signature)›*
 
-*Defined in [interfaceRegistry.ts:234](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L234)*
+*Defined in [interfaceRegistry.ts:234](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L234)*
 
 ___
 
 ###  Option<StakingLedger>
 
-• **Option<StakingLedger>**: *[Option](../classes/_codec_option_.option.md)‹*[StakingLedger](_interfaces_staking_types_.stakingledger.md)*›*
+• **Option<StakingLedger>**: *[Option](../classes/_codec_option_.option.md)‹[StakingLedger](_interfaces_staking_types_.stakingledger.md)›*
 
-*Defined in [interfaceRegistry.ts:531](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L531)*
+*Defined in [interfaceRegistry.ts:531](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L531)*
 
 ___
 
 ###  Option<StorageChangeSet>
 
-• **Option<StorageChangeSet>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageChangeSet](_interfaces_rpc_types_.storagechangeset.md)*›*
+• **Option<StorageChangeSet>**: *[Option](../classes/_codec_option_.option.md)‹[StorageChangeSet](_interfaces_rpc_types_.storagechangeset.md)›*
 
-*Defined in [interfaceRegistry.ts:902](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L902)*
+*Defined in [interfaceRegistry.ts:902](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L902)*
 
 ___
 
 ###  Option<StorageData>
 
-• **Option<StorageData>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageData](../classes/_primitive_storagedata_.storagedata.md)*›*
+• **Option<StorageData>**: *[Option](../classes/_codec_option_.option.md)‹[StorageData](../classes/_primitive_storagedata_.storagedata.md)›*
 
-*Defined in [interfaceRegistry.ts:75](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L75)*
+*Defined in [interfaceRegistry.ts:75](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L75)*
 
 ___
 
 ###  Option<StorageEntryModifierV6>
 
-• **Option<StorageEntryModifierV6>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageEntryModifierV6](_interfaceregistry_.interfaceregistry.md#storageentrymodifierv6)*›*
+• **Option<StorageEntryModifierV6>**: *[Option](../classes/_codec_option_.option.md)‹[StorageEntryModifierV6](_interfaceregistry_.interfaceregistry.md#storageentrymodifierv6)›*
 
-*Defined in [interfaceRegistry.ts:845](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L845)*
+*Defined in [interfaceRegistry.ts:845](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L845)*
 
 ___
 
 ###  Option<StorageEntryModifierV7>
 
-• **Option<StorageEntryModifierV7>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageEntryModifierV7](_interfaceregistry_.interfaceregistry.md#storageentrymodifierv7)*›*
+• **Option<StorageEntryModifierV7>**: *[Option](../classes/_codec_option_.option.md)‹[StorageEntryModifierV7](_interfaceregistry_.interfaceregistry.md#storageentrymodifierv7)›*
 
-*Defined in [interfaceRegistry.ts:869](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L869)*
+*Defined in [interfaceRegistry.ts:869](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L869)*
 
 ___
 
 ###  Option<StorageFunctionMetadataV0>
 
-• **Option<StorageFunctionMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageFunctionMetadataV0](_interfaces_metadata_types_.storagefunctionmetadatav0.md)*›*
+• **Option<StorageFunctionMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[StorageFunctionMetadataV0](_interfaces_metadata_types_.storagefunctionmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:707](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L707)*
+*Defined in [interfaceRegistry.ts:707](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L707)*
 
 ___
 
 ###  Option<StorageFunctionMetadataV1>
 
-• **Option<StorageFunctionMetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageFunctionMetadataV1](_interfaceregistry_.interfaceregistry.md#storagefunctionmetadatav1)*›*
+• **Option<StorageFunctionMetadataV1>**: *[Option](../classes/_codec_option_.option.md)‹[StorageFunctionMetadataV1](_interfaceregistry_.interfaceregistry.md#storagefunctionmetadatav1)›*
 
-*Defined in [interfaceRegistry.ts:734](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L734)*
+*Defined in [interfaceRegistry.ts:734](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L734)*
 
 ___
 
 ###  Option<StorageFunctionModifierV0>
 
-• **Option<StorageFunctionModifierV0>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageFunctionModifierV0](_interfaces_metadata_types_.storagefunctionmodifierv0.md)*›*
+• **Option<StorageFunctionModifierV0>**: *[Option](../classes/_codec_option_.option.md)‹[StorageFunctionModifierV0](_interfaces_metadata_types_.storagefunctionmodifierv0.md)›*
 
-*Defined in [interfaceRegistry.ts:710](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L710)*
+*Defined in [interfaceRegistry.ts:710](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L710)*
 
 ___
 
 ###  Option<StorageFunctionModifierV1>
 
-• **Option<StorageFunctionModifierV1>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageFunctionModifierV1](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv1)*›*
+• **Option<StorageFunctionModifierV1>**: *[Option](../classes/_codec_option_.option.md)‹[StorageFunctionModifierV1](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv1)›*
 
-*Defined in [interfaceRegistry.ts:737](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L737)*
+*Defined in [interfaceRegistry.ts:737](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L737)*
 
 ___
 
 ###  Option<StorageFunctionModifierV2>
 
-• **Option<StorageFunctionModifierV2>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageFunctionModifierV2](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv2)*›*
+• **Option<StorageFunctionModifierV2>**: *[Option](../classes/_codec_option_.option.md)‹[StorageFunctionModifierV2](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv2)›*
 
-*Defined in [interfaceRegistry.ts:758](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L758)*
+*Defined in [interfaceRegistry.ts:758](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L758)*
 
 ___
 
 ###  Option<StorageFunctionModifierV3>
 
-• **Option<StorageFunctionModifierV3>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageFunctionModifierV3](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv3)*›*
+• **Option<StorageFunctionModifierV3>**: *[Option](../classes/_codec_option_.option.md)‹[StorageFunctionModifierV3](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv3)›*
 
-*Defined in [interfaceRegistry.ts:779](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L779)*
+*Defined in [interfaceRegistry.ts:779](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L779)*
 
 ___
 
 ###  Option<StorageFunctionModifierV4>
 
-• **Option<StorageFunctionModifierV4>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageFunctionModifierV4](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv4)*›*
+• **Option<StorageFunctionModifierV4>**: *[Option](../classes/_codec_option_.option.md)‹[StorageFunctionModifierV4](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv4)›*
 
-*Defined in [interfaceRegistry.ts:800](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L800)*
+*Defined in [interfaceRegistry.ts:800](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L800)*
 
 ___
 
 ###  Option<StorageFunctionModifierV5>
 
-• **Option<StorageFunctionModifierV5>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageFunctionModifierV5](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv5)*›*
+• **Option<StorageFunctionModifierV5>**: *[Option](../classes/_codec_option_.option.md)‹[StorageFunctionModifierV5](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv5)›*
 
-*Defined in [interfaceRegistry.ts:821](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L821)*
+*Defined in [interfaceRegistry.ts:821](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L821)*
 
 ___
 
 ###  Option<StorageFunctionTypeV0>
 
-• **Option<StorageFunctionTypeV0>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageFunctionTypeV0](_interfaces_metadata_types_.storagefunctiontypev0.md)*›*
+• **Option<StorageFunctionTypeV0>**: *[Option](../classes/_codec_option_.option.md)‹[StorageFunctionTypeV0](_interfaces_metadata_types_.storagefunctiontypev0.md)›*
 
-*Defined in [interfaceRegistry.ts:713](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L713)*
+*Defined in [interfaceRegistry.ts:713](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L713)*
 
 ___
 
 ###  Option<StorageFunctionTypeV1>
 
-• **Option<StorageFunctionTypeV1>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageFunctionTypeV1](_interfaceregistry_.interfaceregistry.md#storagefunctiontypev1)*›*
+• **Option<StorageFunctionTypeV1>**: *[Option](../classes/_codec_option_.option.md)‹[StorageFunctionTypeV1](_interfaceregistry_.interfaceregistry.md#storagefunctiontypev1)›*
 
-*Defined in [interfaceRegistry.ts:740](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L740)*
+*Defined in [interfaceRegistry.ts:740](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L740)*
 
 ___
 
 ###  Option<StorageHasher>
 
-• **Option<StorageHasher>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageHasher](../classes/_primitive_storagehasher_.storagehasher.md)*›*
+• **Option<StorageHasher>**: *[Option](../classes/_codec_option_.option.md)‹[StorageHasher](../classes/_primitive_storagehasher_.storagehasher.md)›*
 
-*Defined in [interfaceRegistry.ts:78](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L78)*
+*Defined in [interfaceRegistry.ts:78](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L78)*
 
 ___
 
 ###  Option<StorageKey>
 
-• **Option<StorageKey>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageKey](../classes/_primitive_storagekey_.storagekey.md)*›*
+• **Option<StorageKey>**: *[Option](../classes/_codec_option_.option.md)‹[StorageKey](../classes/_primitive_storagekey_.storagekey.md)›*
 
-*Defined in [interfaceRegistry.ts:81](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L81)*
+*Defined in [interfaceRegistry.ts:81](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L81)*
 
 ___
 
 ###  Option<StorageMetadataV0>
 
-• **Option<StorageMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹*[StorageMetadataV0](_interfaces_metadata_types_.storagemetadatav0.md)*›*
+• **Option<StorageMetadataV0>**: *[Option](../classes/_codec_option_.option.md)‹[StorageMetadataV0](_interfaces_metadata_types_.storagemetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:716](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L716)*
+*Defined in [interfaceRegistry.ts:716](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L716)*
 
 ___
 
 ###  Option<StoredPendingChange>
 
-• **Option<StoredPendingChange>**: *[Option](../classes/_codec_option_.option.md)‹*[StoredPendingChange](_interfaces_grandpa_types_.storedpendingchange.md)*›*
+• **Option<StoredPendingChange>**: *[Option](../classes/_codec_option_.option.md)‹[StoredPendingChange](_interfaces_grandpa_types_.storedpendingchange.md)›*
 
-*Defined in [interfaceRegistry.ts:444](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L444)*
+*Defined in [interfaceRegistry.ts:444](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L444)*
 
 ___
 
 ###  Option<StoredState>
 
-• **Option<StoredState>**: *[Option](../classes/_codec_option_.option.md)‹*[StoredState](_interfaces_grandpa_types_.storedstate.md)*›*
+• **Option<StoredState>**: *[Option](../classes/_codec_option_.option.md)‹[StoredState](_interfaces_grandpa_types_.storedstate.md)›*
 
-*Defined in [interfaceRegistry.ts:447](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L447)*
+*Defined in [interfaceRegistry.ts:447](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L447)*
 
 ___
 
 ###  Option<SubId>
 
-• **Option<SubId>**: *[Option](../classes/_codec_option_.option.md)‹*[SubId](_interfaceregistry_.interfaceregistry.md#subid)*›*
+• **Option<SubId>**: *[Option](../classes/_codec_option_.option.md)‹[SubId](_interfaceregistry_.interfaceregistry.md#subid)›*
 
-*Defined in [interfaceRegistry.ts:643](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L643)*
+*Defined in [interfaceRegistry.ts:643](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L643)*
 
 ___
 
 ###  Option<Text>
 
-• **Option<Text>**: *[Option](../classes/_codec_option_.option.md)‹*[Text](../classes/_primitive_text_.text.md)*›*
+• **Option<Text>**: *[Option](../classes/_codec_option_.option.md)‹[Text](../classes/_primitive_text_.text.md)›*
 
-*Defined in [interfaceRegistry.ts:84](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L84)*
+*Defined in [interfaceRegistry.ts:84](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L84)*
 
 ___
 
 ###  Option<TombstoneContractInfo>
 
-• **Option<TombstoneContractInfo>**: *[Option](../classes/_codec_option_.option.md)‹*[TombstoneContractInfo](_interfaceregistry_.interfaceregistry.md#tombstonecontractinfo)*›*
+• **Option<TombstoneContractInfo>**: *[Option](../classes/_codec_option_.option.md)‹[TombstoneContractInfo](_interfaceregistry_.interfaceregistry.md#tombstonecontractinfo)›*
 
-*Defined in [interfaceRegistry.ts:343](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L343)*
+*Defined in [interfaceRegistry.ts:343](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L343)*
 
 ___
 
 ###  Option<TreasuryProposal>
 
-• **Option<TreasuryProposal>**: *[Option](../classes/_codec_option_.option.md)‹*[TreasuryProposal](_interfaces_treasury_types_.treasuryproposal.md)*›*
+• **Option<TreasuryProposal>**: *[Option](../classes/_codec_option_.option.md)‹[TreasuryProposal](_interfaces_treasury_types_.treasuryproposal.md)›*
 
-*Defined in [interfaceRegistry.ts:568](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L568)*
+*Defined in [interfaceRegistry.ts:568](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L568)*
 
 ___
 
 ###  Option<TrieId>
 
-• **Option<TrieId>**: *[Option](../classes/_codec_option_.option.md)‹*[TrieId](_interfaceregistry_.interfaceregistry.md#trieid)*›*
+• **Option<TrieId>**: *[Option](../classes/_codec_option_.option.md)‹[TrieId](_interfaceregistry_.interfaceregistry.md#trieid)›*
 
-*Defined in [interfaceRegistry.ts:346](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L346)*
+*Defined in [interfaceRegistry.ts:346](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L346)*
 
 ___
 
 ###  Option<Type>
 
-• **Option<Type>**: *[Option](../classes/_codec_option_.option.md)‹*[Type](../classes/_primitive_type_.type.md)*›*
+• **Option<Type>**: *[Option](../classes/_codec_option_.option.md)‹[Type](../classes/_primitive_type_.type.md)›*
 
-*Defined in [interfaceRegistry.ts:87](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L87)*
+*Defined in [interfaceRegistry.ts:87](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L87)*
 
 ___
 
 ###  Option<Uncle>
 
-• **Option<Uncle>**: *[Option](../classes/_codec_option_.option.md)‹*[Uncle](_interfaceregistry_.interfaceregistry.md#uncle)*›*
+• **Option<Uncle>**: *[Option](../classes/_codec_option_.option.md)‹[Uncle](_interfaceregistry_.interfaceregistry.md#uncle)›*
 
-*Defined in [interfaceRegistry.ts:258](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L258)*
+*Defined in [interfaceRegistry.ts:258](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L258)*
 
 ___
 
 ###  Option<UncleEntryItem>
 
-• **Option<UncleEntryItem>**: *[Option](../classes/_codec_option_.option.md)‹*[UncleEntryItem](_interfaces_authorship_types_.uncleentryitem.md)*›*
+• **Option<UncleEntryItem>**: *[Option](../classes/_codec_option_.option.md)‹[UncleEntryItem](_interfaces_authorship_types_.uncleentryitem.md)›*
 
-*Defined in [interfaceRegistry.ts:261](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L261)*
+*Defined in [interfaceRegistry.ts:261](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L261)*
 
 ___
 
 ###  Option<UnlockChunk>
 
-• **Option<UnlockChunk>**: *[Option](../classes/_codec_option_.option.md)‹*[UnlockChunk](_interfaces_staking_types_.unlockchunk.md)*›*
+• **Option<UnlockChunk>**: *[Option](../classes/_codec_option_.option.md)‹[UnlockChunk](_interfaces_staking_types_.unlockchunk.md)›*
 
-*Defined in [interfaceRegistry.ts:534](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L534)*
+*Defined in [interfaceRegistry.ts:534](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L534)*
 
 ___
 
 ###  Option<UpwardMessage>
 
-• **Option<UpwardMessage>**: *[Option](../classes/_codec_option_.option.md)‹*[UpwardMessage](_interfaces_parachains_types_.upwardmessage.md)*›*
+• **Option<UpwardMessage>**: *[Option](../classes/_codec_option_.option.md)‹[UpwardMessage](_interfaces_parachains_types_.upwardmessage.md)›*
 
-*Defined in [interfaceRegistry.ts:646](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L646)*
+*Defined in [interfaceRegistry.ts:646](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L646)*
 
 ___
 
 ###  Option<ValidatorId>
 
-• **Option<ValidatorId>**: *[Option](../classes/_codec_option_.option.md)‹*[ValidatorId](_interfaceregistry_.interfaceregistry.md#validatorid)*›*
+• **Option<ValidatorId>**: *[Option](../classes/_codec_option_.option.md)‹[ValidatorId](_interfaceregistry_.interfaceregistry.md#validatorid)›*
 
-*Defined in [interfaceRegistry.ts:221](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L221)*
+*Defined in [interfaceRegistry.ts:221](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L221)*
 
 ___
 
 ###  Option<ValidatorIndex>
 
-• **Option<ValidatorIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[ValidatorIndex](_interfaceregistry_.interfaceregistry.md#validatorindex)*›*
+• **Option<ValidatorIndex>**: *[Option](../classes/_codec_option_.option.md)‹[ValidatorIndex](_interfaceregistry_.interfaceregistry.md#validatorindex)›*
 
-*Defined in [interfaceRegistry.ts:653](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L653)*
+*Defined in [interfaceRegistry.ts:653](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L653)*
 
 ___
 
 ###  Option<ValidatorPrefs0to145>
 
-• **Option<ValidatorPrefs0to145>**: *[Option](../classes/_codec_option_.option.md)‹*[ValidatorPrefs0to145](_interfaces_staking_types_.validatorprefs0to145.md)*›*
+• **Option<ValidatorPrefs0to145>**: *[Option](../classes/_codec_option_.option.md)‹[ValidatorPrefs0to145](_interfaces_staking_types_.validatorprefs0to145.md)›*
 
-*Defined in [interfaceRegistry.ts:540](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L540)*
+*Defined in [interfaceRegistry.ts:540](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L540)*
 
 ___
 
 ###  Option<ValidatorPrefs>
 
-• **Option<ValidatorPrefs>**: *[Option](../classes/_codec_option_.option.md)‹*[ValidatorPrefs](_interfaces_staking_types_.validatorprefs.md)*›*
+• **Option<ValidatorPrefs>**: *[Option](../classes/_codec_option_.option.md)‹[ValidatorPrefs](_interfaces_staking_types_.validatorprefs.md)›*
 
-*Defined in [interfaceRegistry.ts:537](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L537)*
+*Defined in [interfaceRegistry.ts:537](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L537)*
 
 ___
 
 ###  Option<ValidityAttestation>
 
-• **Option<ValidityAttestation>**: *[Option](../classes/_codec_option_.option.md)‹*[ValidityAttestation](_interfaces_parachains_types_.validityattestation.md)*›*
+• **Option<ValidityAttestation>**: *[Option](../classes/_codec_option_.option.md)‹[ValidityAttestation](_interfaces_parachains_types_.validityattestation.md)›*
 
-*Defined in [interfaceRegistry.ts:649](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L649)*
+*Defined in [interfaceRegistry.ts:649](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L649)*
 
 ___
 
 ###  Option<ValidityVote>
 
-• **Option<ValidityVote>**: *[Option](../classes/_codec_option_.option.md)‹*[ValidityVote](_interfaceregistry_.interfaceregistry.md#validityvote)*›*
+• **Option<ValidityVote>**: *[Option](../classes/_codec_option_.option.md)‹[ValidityVote](_interfaceregistry_.interfaceregistry.md#validityvote)›*
 
-*Defined in [interfaceRegistry.ts:656](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L656)*
+*Defined in [interfaceRegistry.ts:656](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L656)*
 
 ___
 
 ###  Option<VestingSchedule>
 
-• **Option<VestingSchedule>**: *[Option](../classes/_codec_option_.option.md)‹*[VestingSchedule](_interfaces_balances_types_.vestingschedule.md)*›*
+• **Option<VestingSchedule>**: *[Option](../classes/_codec_option_.option.md)‹[VestingSchedule](_interfaces_balances_types_.vestingschedule.md)›*
 
-*Defined in [interfaceRegistry.ts:295](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L295)*
+*Defined in [interfaceRegistry.ts:295](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L295)*
 
 ___
 
 ###  Option<Vote>
 
-• **Option<Vote>**: *[Option](../classes/_codec_option_.option.md)‹*[Vote](../classes/_primitive_generic_vote_.vote.md)*›*
+• **Option<Vote>**: *[Option](../classes/_codec_option_.option.md)‹[Vote](../classes/_primitive_generic_vote_.vote.md)›*
 
-*Defined in [interfaceRegistry.ts:399](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L399)*
+*Defined in [interfaceRegistry.ts:399](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L399)*
 
 ___
 
 ###  Option<VoteIndex>
 
-• **Option<VoteIndex>**: *[Option](../classes/_codec_option_.option.md)‹*[VoteIndex](_interfaceregistry_.interfaceregistry.md#voteindex)*›*
+• **Option<VoteIndex>**: *[Option](../classes/_codec_option_.option.md)‹[VoteIndex](_interfaceregistry_.interfaceregistry.md#voteindex)›*
 
-*Defined in [interfaceRegistry.ts:403](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L403)*
+*Defined in [interfaceRegistry.ts:403](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L403)*
 
 ___
 
 ###  Option<VoteThreshold>
 
-• **Option<VoteThreshold>**: *[Option](../classes/_codec_option_.option.md)‹*[VoteThreshold](_interfaces_elections_types_.votethreshold.md)*›*
+• **Option<VoteThreshold>**: *[Option](../classes/_codec_option_.option.md)‹[VoteThreshold](_interfaces_elections_types_.votethreshold.md)›*
 
-*Defined in [interfaceRegistry.ts:409](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L409)*
+*Defined in [interfaceRegistry.ts:409](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L409)*
 
 ___
 
 ###  Option<VoterInfo>
 
-• **Option<VoterInfo>**: *[Option](../classes/_codec_option_.option.md)‹*[VoterInfo](_interfaces_elections_types_.voterinfo.md)*›*
+• **Option<VoterInfo>**: *[Option](../classes/_codec_option_.option.md)‹[VoterInfo](_interfaces_elections_types_.voterinfo.md)›*
 
-*Defined in [interfaceRegistry.ts:406](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L406)*
+*Defined in [interfaceRegistry.ts:406](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L406)*
 
 ___
 
 ###  Option<Votes>
 
-• **Option<Votes>**: *[Option](../classes/_codec_option_.option.md)‹*[Votes](_interfaces_collective_types_.votes.md)*›*
+• **Option<Votes>**: *[Option](../classes/_codec_option_.option.md)‹[Votes](_interfaces_collective_types_.votes.md)›*
 
-*Defined in [interfaceRegistry.ts:309](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L309)*
+*Defined in [interfaceRegistry.ts:309](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L309)*
 
 ___
 
 ###  Option<Weight>
 
-• **Option<Weight>**: *[Option](../classes/_codec_option_.option.md)‹*[Weight](_interfaceregistry_.interfaceregistry.md#weight)*›*
+• **Option<Weight>**: *[Option](../classes/_codec_option_.option.md)‹[Weight](_interfaceregistry_.interfaceregistry.md#weight)›*
 
-*Defined in [interfaceRegistry.ts:225](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L225)*
+*Defined in [interfaceRegistry.ts:225](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L225)*
 
 ___
 
 ###  Option<WeightMultiplier>
 
-• **Option<WeightMultiplier>**: *[Option](../classes/_codec_option_.option.md)‹*[WeightMultiplier](_interfaceregistry_.interfaceregistry.md#weightmultiplier)*›*
+• **Option<WeightMultiplier>**: *[Option](../classes/_codec_option_.option.md)‹[WeightMultiplier](_interfaceregistry_.interfaceregistry.md#weightmultiplier)›*
 
-*Defined in [interfaceRegistry.ts:228](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L228)*
+*Defined in [interfaceRegistry.ts:228](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L228)*
 
 ___
 
 ###  Option<WinningData>
 
-• **Option<WinningData>**: *[Option](../classes/_codec_option_.option.md)‹*[WinningData](_interfaceregistry_.interfaceregistry.md#winningdata)*›*
+• **Option<WinningData>**: *[Option](../classes/_codec_option_.option.md)‹[WinningData](_interfaceregistry_.interfaceregistry.md#winningdata)›*
 
-*Defined in [interfaceRegistry.ts:662](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L662)*
+*Defined in [interfaceRegistry.ts:662](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L662)*
 
 ___
 
 ###  Option<WinningDataEntry>
 
-• **Option<WinningDataEntry>**: *[Option](../classes/_codec_option_.option.md)‹*[WinningDataEntry](_interfaceregistry_.interfaceregistry.md#winningdataentry)*›*
+• **Option<WinningDataEntry>**: *[Option](../classes/_codec_option_.option.md)‹[WinningDataEntry](_interfaceregistry_.interfaceregistry.md#winningdataentry)›*
 
-*Defined in [interfaceRegistry.ts:659](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L659)*
+*Defined in [interfaceRegistry.ts:659](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L659)*
 
 ___
 
 ###  Option<WithdrawReasons>
 
-• **Option<WithdrawReasons>**: *[Option](../classes/_codec_option_.option.md)‹*[WithdrawReasons](_interfaces_balances_types_.withdrawreasons.md)*›*
+• **Option<WithdrawReasons>**: *[Option](../classes/_codec_option_.option.md)‹[WithdrawReasons](_interfaces_balances_types_.withdrawreasons.md)›*
 
-*Defined in [interfaceRegistry.ts:298](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L298)*
+*Defined in [interfaceRegistry.ts:298](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L298)*
 
 ___
 
 ###  Option<bool>
 
-• **Option<bool>**: *[Option](../classes/_codec_option_.option.md)‹*[bool](_interfaceregistry_.interfaceregistry.md#bool)*›*
+• **Option<bool>**: *[Option](../classes/_codec_option_.option.md)‹[bool](_interfaceregistry_.interfaceregistry.md#bool)›*
 
-*Defined in [interfaceRegistry.ts:33](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L33)*
+*Defined in [interfaceRegistry.ts:33](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L33)*
 
 ___
 
 ###  Option<i128>
 
-• **Option<i128>**: *[Option](../classes/_codec_option_.option.md)‹*[i128](_interfaceregistry_.interfaceregistry.md#i128)*›*
+• **Option<i128>**: *[Option](../classes/_codec_option_.option.md)‹[i128](_interfaceregistry_.interfaceregistry.md#i128)›*
 
-*Defined in [interfaceRegistry.ts:66](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L66)*
+*Defined in [interfaceRegistry.ts:66](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L66)*
 
 ___
 
 ###  Option<i16>
 
-• **Option<i16>**: *[Option](../classes/_codec_option_.option.md)‹*[i16](_interfaceregistry_.interfaceregistry.md#i16)*›*
+• **Option<i16>**: *[Option](../classes/_codec_option_.option.md)‹[i16](_interfaceregistry_.interfaceregistry.md#i16)›*
 
-*Defined in [interfaceRegistry.ts:54](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L54)*
+*Defined in [interfaceRegistry.ts:54](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L54)*
 
 ___
 
 ###  Option<i256>
 
-• **Option<i256>**: *[Option](../classes/_codec_option_.option.md)‹*[i256](_interfaceregistry_.interfaceregistry.md#i256)*›*
+• **Option<i256>**: *[Option](../classes/_codec_option_.option.md)‹[i256](_interfaceregistry_.interfaceregistry.md#i256)›*
 
-*Defined in [interfaceRegistry.ts:69](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L69)*
+*Defined in [interfaceRegistry.ts:69](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L69)*
 
 ___
 
 ###  Option<i32>
 
-• **Option<i32>**: *[Option](../classes/_codec_option_.option.md)‹*[i32](_interfaceregistry_.interfaceregistry.md#i32)*›*
+• **Option<i32>**: *[Option](../classes/_codec_option_.option.md)‹[i32](_interfaceregistry_.interfaceregistry.md#i32)›*
 
-*Defined in [interfaceRegistry.ts:57](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L57)*
+*Defined in [interfaceRegistry.ts:57](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L57)*
 
 ___
 
 ###  Option<i64>
 
-• **Option<i64>**: *[Option](../classes/_codec_option_.option.md)‹*[i64](_interfaceregistry_.interfaceregistry.md#i64)*›*
+• **Option<i64>**: *[Option](../classes/_codec_option_.option.md)‹[i64](_interfaceregistry_.interfaceregistry.md#i64)›*
 
-*Defined in [interfaceRegistry.ts:60](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L60)*
+*Defined in [interfaceRegistry.ts:60](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L60)*
 
 ___
 
 ###  Option<i8>
 
-• **Option<i8>**: *[Option](../classes/_codec_option_.option.md)‹*[i8](_interfaceregistry_.interfaceregistry.md#i8)*›*
+• **Option<i8>**: *[Option](../classes/_codec_option_.option.md)‹[i8](_interfaceregistry_.interfaceregistry.md#i8)›*
 
-*Defined in [interfaceRegistry.ts:51](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L51)*
+*Defined in [interfaceRegistry.ts:51](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L51)*
 
 ___
 
 ###  Option<u128>
 
-• **Option<u128>**: *[Option](../classes/_codec_option_.option.md)‹*[u128](_interfaceregistry_.interfaceregistry.md#u128)*›*
+• **Option<u128>**: *[Option](../classes/_codec_option_.option.md)‹[u128](_interfaceregistry_.interfaceregistry.md#u128)›*
 
-*Defined in [interfaceRegistry.ts:107](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L107)*
+*Defined in [interfaceRegistry.ts:107](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L107)*
 
 ___
 
 ###  Option<u16>
 
-• **Option<u16>**: *[Option](../classes/_codec_option_.option.md)‹*[u16](_interfaceregistry_.interfaceregistry.md#u16)*›*
+• **Option<u16>**: *[Option](../classes/_codec_option_.option.md)‹[u16](_interfaceregistry_.interfaceregistry.md#u16)›*
 
-*Defined in [interfaceRegistry.ts:95](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L95)*
+*Defined in [interfaceRegistry.ts:95](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L95)*
 
 ___
 
 ###  Option<u256>
 
-• **Option<u256>**: *[Option](../classes/_codec_option_.option.md)‹*[u256](_interfaceregistry_.interfaceregistry.md#u256)*›*
+• **Option<u256>**: *[Option](../classes/_codec_option_.option.md)‹[u256](_interfaceregistry_.interfaceregistry.md#u256)›*
 
-*Defined in [interfaceRegistry.ts:111](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L111)*
+*Defined in [interfaceRegistry.ts:111](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L111)*
 
 ___
 
 ###  Option<u32>
 
-• **Option<u32>**: *[Option](../classes/_codec_option_.option.md)‹*[u32](_interfaceregistry_.interfaceregistry.md#u32)*›*
+• **Option<u32>**: *[Option](../classes/_codec_option_.option.md)‹[u32](_interfaceregistry_.interfaceregistry.md#u32)›*
 
-*Defined in [interfaceRegistry.ts:99](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L99)*
+*Defined in [interfaceRegistry.ts:99](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L99)*
 
 ___
 
 ###  Option<u64>
 
-• **Option<u64>**: *[Option](../classes/_codec_option_.option.md)‹*[u64](_interfaceregistry_.interfaceregistry.md#u64)*›*
+• **Option<u64>**: *[Option](../classes/_codec_option_.option.md)‹[u64](_interfaceregistry_.interfaceregistry.md#u64)›*
 
-*Defined in [interfaceRegistry.ts:103](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L103)*
+*Defined in [interfaceRegistry.ts:103](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L103)*
 
 ___
 
 ###  Option<u8>
 
-• **Option<u8>**: *[Option](../classes/_codec_option_.option.md)‹*[u8](_interfaceregistry_.interfaceregistry.md#u8)*›*
+• **Option<u8>**: *[Option](../classes/_codec_option_.option.md)‹[u8](_interfaceregistry_.interfaceregistry.md#u8)›*
 
-*Defined in [interfaceRegistry.ts:91](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L91)*
+*Defined in [interfaceRegistry.ts:91](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L91)*
 
 ___
 
 ###  Option<usize>
 
-• **Option<usize>**: *[Option](../classes/_codec_option_.option.md)‹*[usize](_interfaceregistry_.interfaceregistry.md#usize)*›*
+• **Option<usize>**: *[Option](../classes/_codec_option_.option.md)‹[usize](_interfaceregistry_.interfaceregistry.md#usize)›*
 
-*Defined in [interfaceRegistry.ts:115](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L115)*
+*Defined in [interfaceRegistry.ts:115](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L115)*
 
 ___
 
@@ -4663,7 +4663,7 @@ ___
 
 • **Origin**: *[Origin](../classes/_primitive_generic_origin_.origin.md)*
 
-*Defined in [interfaceRegistry.ts:197](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L197)*
+*Defined in [interfaceRegistry.ts:197](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L197)*
 
 ___
 
@@ -4671,7 +4671,7 @@ ___
 
 • **OuterDispatchCallV0**: *[OuterDispatchCallV0](_interfaces_metadata_types_.outerdispatchcallv0.md)*
 
-*Defined in [interfaceRegistry.ts:685](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L685)*
+*Defined in [interfaceRegistry.ts:685](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L685)*
 
 ___
 
@@ -4679,7 +4679,7 @@ ___
 
 • **OuterDispatchMetadataV0**: *[OuterDispatchMetadataV0](_interfaces_metadata_types_.outerdispatchmetadatav0.md)*
 
-*Defined in [interfaceRegistry.ts:688](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L688)*
+*Defined in [interfaceRegistry.ts:688](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L688)*
 
 ___
 
@@ -4687,7 +4687,7 @@ ___
 
 • **OuterEventEventMetadataEventsV0**: *[OuterEventEventMetadataEventsV0](_interfaceregistry_.interfaceregistry.md#outereventeventmetadataeventsv0)*
 
-*Defined in [interfaceRegistry.ts:691](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L691)*
+*Defined in [interfaceRegistry.ts:691](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L691)*
 
 ___
 
@@ -4695,7 +4695,7 @@ ___
 
 • **OuterEventEventMetadataV0**: *[OuterEventEventMetadataV0](_interfaceregistry_.interfaceregistry.md#outereventeventmetadatav0)*
 
-*Defined in [interfaceRegistry.ts:694](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L694)*
+*Defined in [interfaceRegistry.ts:694](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L694)*
 
 ___
 
@@ -4703,7 +4703,7 @@ ___
 
 • **OuterEventMetadataV0**: *[OuterEventMetadataV0](_interfaces_metadata_types_.outereventmetadatav0.md)*
 
-*Defined in [interfaceRegistry.ts:697](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L697)*
+*Defined in [interfaceRegistry.ts:697](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L697)*
 
 ___
 
@@ -4711,7 +4711,7 @@ ___
 
 • **Owner**: *[Owner](_interfaces_genericasset_types_.owner.md)*
 
-*Defined in [interfaceRegistry.ts:414](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L414)*
+*Defined in [interfaceRegistry.ts:414](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L414)*
 
 ___
 
@@ -4719,7 +4719,7 @@ ___
 
 • **ParaId**: *[ParaId](_interfaceregistry_.interfaceregistry.md#paraid)*
 
-*Defined in [interfaceRegistry.ts:628](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L628)*
+*Defined in [interfaceRegistry.ts:628](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L628)*
 
 ___
 
@@ -4727,7 +4727,7 @@ ___
 
 • **ParaIdOf**: *[ParaIdOf](_interfaceregistry_.interfaceregistry.md#paraidof)*
 
-*Defined in [interfaceRegistry.ts:632](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L632)*
+*Defined in [interfaceRegistry.ts:632](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L632)*
 
 ___
 
@@ -4735,7 +4735,7 @@ ___
 
 • **ParachainDispatchOrigin**: *[ParachainDispatchOrigin](_interfaces_parachains_types_.parachaindispatchorigin.md)*
 
-*Defined in [interfaceRegistry.ts:635](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L635)*
+*Defined in [interfaceRegistry.ts:635](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L635)*
 
 ___
 
@@ -4743,7 +4743,7 @@ ___
 
 • **PeerInfo**: *[PeerInfo](_interfaces_rpc_types_.peerinfo.md)*
 
-*Defined in [interfaceRegistry.ts:892](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L892)*
+*Defined in [interfaceRegistry.ts:892](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L892)*
 
 ___
 
@@ -4751,7 +4751,7 @@ ___
 
 • **PendingPause**: *[PendingPause](_interfaces_grandpa_types_.pendingpause.md)*
 
-*Defined in [interfaceRegistry.ts:433](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L433)*
+*Defined in [interfaceRegistry.ts:433](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L433)*
 
 ___
 
@@ -4759,7 +4759,7 @@ ___
 
 • **PendingResume**: *[PendingResume](_interfaces_grandpa_types_.pendingresume.md)*
 
-*Defined in [interfaceRegistry.ts:436](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L436)*
+*Defined in [interfaceRegistry.ts:436](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L436)*
 
 ___
 
@@ -4767,7 +4767,7 @@ ___
 
 • **Perbill**: *[Perbill](_interfaceregistry_.interfaceregistry.md#perbill)*
 
-*Defined in [interfaceRegistry.ts:200](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L200)*
+*Defined in [interfaceRegistry.ts:200](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L200)*
 
 ___
 
@@ -4775,7 +4775,7 @@ ___
 
 • **Permill**: *[Permill](_interfaceregistry_.interfaceregistry.md#permill)*
 
-*Defined in [interfaceRegistry.ts:204](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L204)*
+*Defined in [interfaceRegistry.ts:204](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L204)*
 
 ___
 
@@ -4783,7 +4783,7 @@ ___
 
 • **PermissionLatest**: *[PermissionLatest](_interfaceregistry_.interfaceregistry.md#permissionlatest)*
 
-*Defined in [interfaceRegistry.ts:423](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L423)*
+*Defined in [interfaceRegistry.ts:423](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L423)*
 
 ___
 
@@ -4791,7 +4791,7 @@ ___
 
 • **PermissionVersions**: *[PermissionVersions](_interfaces_genericasset_types_.permissionversions.md)*
 
-*Defined in [interfaceRegistry.ts:420](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L420)*
+*Defined in [interfaceRegistry.ts:420](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L420)*
 
 ___
 
@@ -4799,7 +4799,7 @@ ___
 
 • **PermissionsV1**: *[PermissionsV1](_interfaces_genericasset_types_.permissionsv1.md)*
 
-*Defined in [interfaceRegistry.ts:417](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L417)*
+*Defined in [interfaceRegistry.ts:417](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L417)*
 
 ___
 
@@ -4807,7 +4807,7 @@ ___
 
 • **Phantom**: *[Phantom](_interfaceregistry_.interfaceregistry.md#phantom)*
 
-*Defined in [interfaceRegistry.ts:208](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L208)*
+*Defined in [interfaceRegistry.ts:208](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L208)*
 
 ___
 
@@ -4815,7 +4815,7 @@ ___
 
 • **PhantomData**: *[PhantomData](_interfaceregistry_.interfaceregistry.md#phantomdata)*
 
-*Defined in [interfaceRegistry.ts:211](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L211)*
+*Defined in [interfaceRegistry.ts:211](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L211)*
 
 ___
 
@@ -4823,7 +4823,7 @@ ___
 
 • **Phase**: *[Phase](_interfaces_system_types_.phase.md)*
 
-*Defined in [interfaceRegistry.ts:564](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L564)*
+*Defined in [interfaceRegistry.ts:564](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L564)*
 
 ___
 
@@ -4831,7 +4831,7 @@ ___
 
 • **PlainTypeV0**: *[PlainTypeV0](_interfaceregistry_.interfaceregistry.md#plaintypev0)*
 
-*Defined in [interfaceRegistry.ts:700](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L700)*
+*Defined in [interfaceRegistry.ts:700](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L700)*
 
 ___
 
@@ -4839,7 +4839,7 @@ ___
 
 • **PlainTypeV2**: *[PlainTypeV2](_interfaceregistry_.interfaceregistry.md#plaintypev2)*
 
-*Defined in [interfaceRegistry.ts:754](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L754)*
+*Defined in [interfaceRegistry.ts:754](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L754)*
 
 ___
 
@@ -4847,7 +4847,7 @@ ___
 
 • **PlainTypeV3**: *[PlainTypeV3](_interfaceregistry_.interfaceregistry.md#plaintypev3)*
 
-*Defined in [interfaceRegistry.ts:775](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L775)*
+*Defined in [interfaceRegistry.ts:775](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L775)*
 
 ___
 
@@ -4855,7 +4855,7 @@ ___
 
 • **PlainTypeV4**: *[PlainTypeV4](_interfaceregistry_.interfaceregistry.md#plaintypev4)*
 
-*Defined in [interfaceRegistry.ts:796](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L796)*
+*Defined in [interfaceRegistry.ts:796](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L796)*
 
 ___
 
@@ -4863,7 +4863,7 @@ ___
 
 • **PlainTypeV5**: *[PlainTypeV5](_interfaceregistry_.interfaceregistry.md#plaintypev5)*
 
-*Defined in [interfaceRegistry.ts:817](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L817)*
+*Defined in [interfaceRegistry.ts:817](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L817)*
 
 ___
 
@@ -4871,7 +4871,7 @@ ___
 
 • **PlainTypeV6**: *[PlainTypeV6](_interfaceregistry_.interfaceregistry.md#plaintypev6)*
 
-*Defined in [interfaceRegistry.ts:841](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L841)*
+*Defined in [interfaceRegistry.ts:841](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L841)*
 
 ___
 
@@ -4879,7 +4879,7 @@ ___
 
 • **PlainTypeV7**: *[PlainTypeV7](_interfaceregistry_.interfaceregistry.md#plaintypev7)*
 
-*Defined in [interfaceRegistry.ts:865](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L865)*
+*Defined in [interfaceRegistry.ts:865](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L865)*
 
 ___
 
@@ -4887,7 +4887,7 @@ ___
 
 • **PreRuntime**: *[PreRuntime](_interfaceregistry_.interfaceregistry.md#preruntime)*
 
-*Defined in [interfaceRegistry.ts:242](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L242)*
+*Defined in [interfaceRegistry.ts:242](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L242)*
 
 ___
 
@@ -4895,7 +4895,7 @@ ___
 
 • **PrefabWasmModule**: *[PrefabWasmModule](_interfaces_contracts_types_.prefabwasmmodule.md)*
 
-*Defined in [interfaceRegistry.ts:330](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L330)*
+*Defined in [interfaceRegistry.ts:330](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L330)*
 
 ___
 
@@ -4903,7 +4903,7 @@ ___
 
 • **PrefabWasmModuleReserved**: *[PrefabWasmModuleReserved](_interfaceregistry_.interfaceregistry.md#prefabwasmmodulereserved)*
 
-*Defined in [interfaceRegistry.ts:333](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L333)*
+*Defined in [interfaceRegistry.ts:333](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L333)*
 
 ___
 
@@ -4911,7 +4911,7 @@ ___
 
 • **PropIndex**: *[PropIndex](_interfaceregistry_.interfaceregistry.md#propindex)*
 
-*Defined in [interfaceRegistry.ts:351](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L351)*
+*Defined in [interfaceRegistry.ts:351](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L351)*
 
 ___
 
@@ -4919,7 +4919,7 @@ ___
 
 • **Proposal**: *[Proposal](_interfaceregistry_.interfaceregistry.md#proposal)*
 
-*Defined in [interfaceRegistry.ts:355](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L355)*
+*Defined in [interfaceRegistry.ts:355](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L355)*
 
 ___
 
@@ -4927,7 +4927,7 @@ ___
 
 • **ProposalIndex**: *[ProposalIndex](_interfaceregistry_.interfaceregistry.md#proposalindex)*
 
-*Defined in [interfaceRegistry.ts:304](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L304)*
+*Defined in [interfaceRegistry.ts:304](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L304)*
 
 ___
 
@@ -4935,7 +4935,7 @@ ___
 
 • **RawAuraPreDigest**: *[RawAuraPreDigest](_interfaces_aura_types_.rawaurapredigest.md)*
 
-*Defined in [interfaceRegistry.ts:263](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L263)*
+*Defined in [interfaceRegistry.ts:263](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L263)*
 
 ___
 
@@ -4943,7 +4943,7 @@ ___
 
 • **RawBabePreDigest**: *[RawBabePreDigest](_interfaces_babe_types_.rawbabepredigest.md)*
 
-*Defined in [interfaceRegistry.ts:278](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L278)*
+*Defined in [interfaceRegistry.ts:278](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L278)*
 
 ___
 
@@ -4951,7 +4951,7 @@ ___
 
 • **RawBabePreDigestPrimary**: *[RawBabePreDigestPrimary](_interfaces_babe_types_.rawbabepredigestprimary.md)*
 
-*Defined in [interfaceRegistry.ts:281](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L281)*
+*Defined in [interfaceRegistry.ts:281](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L281)*
 
 ___
 
@@ -4959,7 +4959,7 @@ ___
 
 • **RawBabePreDigestSecondary**: *[RawBabePreDigestSecondary](_interfaces_babe_types_.rawbabepredigestsecondary.md)*
 
-*Defined in [interfaceRegistry.ts:284](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L284)*
+*Defined in [interfaceRegistry.ts:284](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L284)*
 
 ___
 
@@ -4967,7 +4967,7 @@ ___
 
 • **ReferendumIndex**: *[ReferendumIndex](_interfaceregistry_.interfaceregistry.md#referendumindex)*
 
-*Defined in [interfaceRegistry.ts:358](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L358)*
+*Defined in [interfaceRegistry.ts:358](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L358)*
 
 ___
 
@@ -4975,7 +4975,7 @@ ___
 
 • **ReferendumInfo**: *[ReferendumInfo](_interfaces_democracy_types_.referenduminfo.md)*
 
-*Defined in [interfaceRegistry.ts:362](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L362)*
+*Defined in [interfaceRegistry.ts:362](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L362)*
 
 ___
 
@@ -4983,7 +4983,7 @@ ___
 
 • **ReportIdOf**: *[ReportIdOf](_interfaceregistry_.interfaceregistry.md#reportidof)*
 
-*Defined in [interfaceRegistry.ts:480](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L480)*
+*Defined in [interfaceRegistry.ts:480](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L480)*
 
 ___
 
@@ -4991,7 +4991,7 @@ ___
 
 • **Reporter**: *[Reporter](_interfaceregistry_.interfaceregistry.md#reporter)*
 
-*Defined in [interfaceRegistry.ts:483](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L483)*
+*Defined in [interfaceRegistry.ts:483](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L483)*
 
 ___
 
@@ -4999,7 +4999,7 @@ ___
 
 • **RewardDestination**: *[RewardDestination](_interfaces_staking_types_.rewarddestination.md)*
 
-*Defined in [interfaceRegistry.ts:524](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L524)*
+*Defined in [interfaceRegistry.ts:524](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L524)*
 
 ___
 
@@ -5007,7 +5007,7 @@ ___
 
 • **RuntimeModuleMetadataV0**: *[RuntimeModuleMetadataV0](_interfaces_metadata_types_.runtimemodulemetadatav0.md)*
 
-*Defined in [interfaceRegistry.ts:703](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L703)*
+*Defined in [interfaceRegistry.ts:703](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L703)*
 
 ___
 
@@ -5015,7 +5015,7 @@ ___
 
 • **RuntimeVersion**: *[RuntimeVersion](_interfaces_rpc_types_.runtimeversion.md)*
 
-*Defined in [interfaceRegistry.ts:898](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L898)*
+*Defined in [interfaceRegistry.ts:898](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L898)*
 
 ___
 
@@ -5023,7 +5023,7 @@ ___
 
 • **RuntimeVersionApi**: *[RuntimeVersionApi](_interfaceregistry_.interfaceregistry.md#runtimeversionapi)*
 
-*Defined in [interfaceRegistry.ts:895](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L895)*
+*Defined in [interfaceRegistry.ts:895](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L895)*
 
 ___
 
@@ -5031,7 +5031,7 @@ ___
 
 • **Schedule**: *[Schedule](_interfaces_contracts_types_.schedule.md)*
 
-*Defined in [interfaceRegistry.ts:336](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L336)*
+*Defined in [interfaceRegistry.ts:336](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L336)*
 
 ___
 
@@ -5039,7 +5039,7 @@ ___
 
 • **Seal**: *[Seal](_interfaceregistry_.interfaceregistry.md#seal)*
 
-*Defined in [interfaceRegistry.ts:248](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L248)*
+*Defined in [interfaceRegistry.ts:248](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L248)*
 
 ___
 
@@ -5047,7 +5047,7 @@ ___
 
 • **SealV0**: *[SealV0](_interfaceregistry_.interfaceregistry.md#sealv0)*
 
-*Defined in [interfaceRegistry.ts:245](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L245)*
+*Defined in [interfaceRegistry.ts:245](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L245)*
 
 ___
 
@@ -5055,7 +5055,7 @@ ___
 
 • **SeedOf**: *[SeedOf](_interfaceregistry_.interfaceregistry.md#seedof)*
 
-*Defined in [interfaceRegistry.ts:339](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L339)*
+*Defined in [interfaceRegistry.ts:339](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L339)*
 
 ___
 
@@ -5063,7 +5063,7 @@ ___
 
 • **SessionIndex**: *[SessionIndex](_interfaceregistry_.interfaceregistry.md#sessionindex)*
 
-*Defined in [interfaceRegistry.ts:492](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L492)*
+*Defined in [interfaceRegistry.ts:492](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L492)*
 
 ___
 
@@ -5071,7 +5071,7 @@ ___
 
 • **SessionKey**: *[SessionKey](_interfaceregistry_.interfaceregistry.md#sessionkey)*
 
-*Defined in [interfaceRegistry.ts:384](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L384)*
+*Defined in [interfaceRegistry.ts:384](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L384)*
 
 ___
 
@@ -5079,7 +5079,7 @@ ___
 
 • **SessionKeysPolkadot**: *[SessionKeysPolkadot](_interfaceregistry_.interfaceregistry.md#sessionkeyspolkadot)*
 
-*Defined in [interfaceRegistry.ts:502](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L502)*
+*Defined in [interfaceRegistry.ts:502](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L502)*
 
 ___
 
@@ -5087,7 +5087,7 @@ ___
 
 • **SessionKeysSubstrate**: *[SessionKeysSubstrate](_interfaceregistry_.interfaceregistry.md#sessionkeyssubstrate)*
 
-*Defined in [interfaceRegistry.ts:499](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L499)*
+*Defined in [interfaceRegistry.ts:499](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L499)*
 
 ___
 
@@ -5095,7 +5095,7 @@ ___
 
 • **SetId**: *[SetId](_interfaceregistry_.interfaceregistry.md#setid)*
 
-*Defined in [interfaceRegistry.ts:439](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L439)*
+*Defined in [interfaceRegistry.ts:439](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L439)*
 
 ___
 
@@ -5103,7 +5103,7 @@ ___
 
 • **SetIndex**: *[SetIndex](_interfaceregistry_.interfaceregistry.md#setindex)*
 
-*Defined in [interfaceRegistry.ts:394](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L394)*
+*Defined in [interfaceRegistry.ts:394](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L394)*
 
 ___
 
@@ -5111,7 +5111,7 @@ ___
 
 • **Signature**: *[Signature](_interfaceregistry_.interfaceregistry.md#signature)*
 
-*Defined in [interfaceRegistry.ts:214](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L214)*
+*Defined in [interfaceRegistry.ts:214](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L214)*
 
 ___
 
@@ -5119,7 +5119,7 @@ ___
 
 • **SignedBlock**: *[SignedBlock](_interfaces_runtime_types_.signedblock.md)*
 
-*Defined in [interfaceRegistry.ts:217](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L217)*
+*Defined in [interfaceRegistry.ts:217](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L217)*
 
 ___
 
@@ -5127,7 +5127,7 @@ ___
 
 • **SlashJournalEntry**: *[SlashJournalEntry](_interfaces_staking_types_.slashjournalentry.md)*
 
-*Defined in [interfaceRegistry.ts:527](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L527)*
+*Defined in [interfaceRegistry.ts:527](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L527)*
 
 ___
 
@@ -5135,7 +5135,7 @@ ___
 
 • **SlotNumber**: *[SlotNumber](_interfaceregistry_.interfaceregistry.md#slotnumber)*
 
-*Defined in [interfaceRegistry.ts:287](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L287)*
+*Defined in [interfaceRegistry.ts:287](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L287)*
 
 ___
 
@@ -5143,7 +5143,7 @@ ___
 
 • **SlotRange**: *[SlotRange](_interfaces_parachains_types_.slotrange.md)*
 
-*Defined in [interfaceRegistry.ts:638](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L638)*
+*Defined in [interfaceRegistry.ts:638](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L638)*
 
 ___
 
@@ -5151,7 +5151,7 @@ ___
 
 • **Sr25519Signature**: *[Sr25519Signature](_interfaceregistry_.interfaceregistry.md#sr25519signature)*
 
-*Defined in [interfaceRegistry.ts:233](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L233)*
+*Defined in [interfaceRegistry.ts:233](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L233)*
 
 ___
 
@@ -5159,7 +5159,7 @@ ___
 
 • **StakingLedger**: *[StakingLedger](_interfaces_staking_types_.stakingledger.md)*
 
-*Defined in [interfaceRegistry.ts:530](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L530)*
+*Defined in [interfaceRegistry.ts:530](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L530)*
 
 ___
 
@@ -5167,7 +5167,7 @@ ___
 
 • **StorageChangeSet**: *[StorageChangeSet](_interfaces_rpc_types_.storagechangeset.md)*
 
-*Defined in [interfaceRegistry.ts:901](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L901)*
+*Defined in [interfaceRegistry.ts:901](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L901)*
 
 ___
 
@@ -5175,7 +5175,7 @@ ___
 
 • **StorageData**: *[StorageData](../classes/_primitive_storagedata_.storagedata.md)*
 
-*Defined in [interfaceRegistry.ts:74](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L74)*
+*Defined in [interfaceRegistry.ts:74](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L74)*
 
 ___
 
@@ -5183,7 +5183,7 @@ ___
 
 • **StorageEntryModifierV6**: *[StorageEntryModifierV6](_interfaceregistry_.interfaceregistry.md#storageentrymodifierv6)*
 
-*Defined in [interfaceRegistry.ts:844](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L844)*
+*Defined in [interfaceRegistry.ts:844](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L844)*
 
 ___
 
@@ -5191,7 +5191,7 @@ ___
 
 • **StorageEntryModifierV7**: *[StorageEntryModifierV7](_interfaceregistry_.interfaceregistry.md#storageentrymodifierv7)*
 
-*Defined in [interfaceRegistry.ts:868](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L868)*
+*Defined in [interfaceRegistry.ts:868](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L868)*
 
 ___
 
@@ -5199,7 +5199,7 @@ ___
 
 • **StorageFunctionMetadataV0**: *[StorageFunctionMetadataV0](_interfaces_metadata_types_.storagefunctionmetadatav0.md)*
 
-*Defined in [interfaceRegistry.ts:706](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L706)*
+*Defined in [interfaceRegistry.ts:706](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L706)*
 
 ___
 
@@ -5207,7 +5207,7 @@ ___
 
 • **StorageFunctionMetadataV1**: *[StorageFunctionMetadataV1](_interfaceregistry_.interfaceregistry.md#storagefunctionmetadatav1)*
 
-*Defined in [interfaceRegistry.ts:733](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L733)*
+*Defined in [interfaceRegistry.ts:733](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L733)*
 
 ___
 
@@ -5215,7 +5215,7 @@ ___
 
 • **StorageFunctionModifierV0**: *[StorageFunctionModifierV0](_interfaces_metadata_types_.storagefunctionmodifierv0.md)*
 
-*Defined in [interfaceRegistry.ts:709](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L709)*
+*Defined in [interfaceRegistry.ts:709](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L709)*
 
 ___
 
@@ -5223,7 +5223,7 @@ ___
 
 • **StorageFunctionModifierV1**: *[StorageFunctionModifierV1](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv1)*
 
-*Defined in [interfaceRegistry.ts:736](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L736)*
+*Defined in [interfaceRegistry.ts:736](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L736)*
 
 ___
 
@@ -5231,7 +5231,7 @@ ___
 
 • **StorageFunctionModifierV2**: *[StorageFunctionModifierV2](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv2)*
 
-*Defined in [interfaceRegistry.ts:757](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L757)*
+*Defined in [interfaceRegistry.ts:757](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L757)*
 
 ___
 
@@ -5239,7 +5239,7 @@ ___
 
 • **StorageFunctionModifierV3**: *[StorageFunctionModifierV3](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv3)*
 
-*Defined in [interfaceRegistry.ts:778](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L778)*
+*Defined in [interfaceRegistry.ts:778](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L778)*
 
 ___
 
@@ -5247,7 +5247,7 @@ ___
 
 • **StorageFunctionModifierV4**: *[StorageFunctionModifierV4](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv4)*
 
-*Defined in [interfaceRegistry.ts:799](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L799)*
+*Defined in [interfaceRegistry.ts:799](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L799)*
 
 ___
 
@@ -5255,7 +5255,7 @@ ___
 
 • **StorageFunctionModifierV5**: *[StorageFunctionModifierV5](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv5)*
 
-*Defined in [interfaceRegistry.ts:820](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L820)*
+*Defined in [interfaceRegistry.ts:820](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L820)*
 
 ___
 
@@ -5263,7 +5263,7 @@ ___
 
 • **StorageFunctionTypeV0**: *[StorageFunctionTypeV0](_interfaces_metadata_types_.storagefunctiontypev0.md)*
 
-*Defined in [interfaceRegistry.ts:712](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L712)*
+*Defined in [interfaceRegistry.ts:712](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L712)*
 
 ___
 
@@ -5271,7 +5271,7 @@ ___
 
 • **StorageFunctionTypeV1**: *[StorageFunctionTypeV1](_interfaceregistry_.interfaceregistry.md#storagefunctiontypev1)*
 
-*Defined in [interfaceRegistry.ts:739](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L739)*
+*Defined in [interfaceRegistry.ts:739](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L739)*
 
 ___
 
@@ -5279,7 +5279,7 @@ ___
 
 • **StorageHasher**: *[StorageHasher](../classes/_primitive_storagehasher_.storagehasher.md)*
 
-*Defined in [interfaceRegistry.ts:77](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L77)*
+*Defined in [interfaceRegistry.ts:77](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L77)*
 
 ___
 
@@ -5287,7 +5287,7 @@ ___
 
 • **StorageKey**: *[StorageKey](../classes/_primitive_storagekey_.storagekey.md)*
 
-*Defined in [interfaceRegistry.ts:80](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L80)*
+*Defined in [interfaceRegistry.ts:80](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L80)*
 
 ___
 
@@ -5295,7 +5295,7 @@ ___
 
 • **StorageMetadataV0**: *[StorageMetadataV0](_interfaces_metadata_types_.storagemetadatav0.md)*
 
-*Defined in [interfaceRegistry.ts:715](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L715)*
+*Defined in [interfaceRegistry.ts:715](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L715)*
 
 ___
 
@@ -5303,7 +5303,7 @@ ___
 
 • **StoredPendingChange**: *[StoredPendingChange](_interfaces_grandpa_types_.storedpendingchange.md)*
 
-*Defined in [interfaceRegistry.ts:443](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L443)*
+*Defined in [interfaceRegistry.ts:443](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L443)*
 
 ___
 
@@ -5311,7 +5311,7 @@ ___
 
 • **StoredState**: *[StoredState](_interfaces_grandpa_types_.storedstate.md)*
 
-*Defined in [interfaceRegistry.ts:446](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L446)*
+*Defined in [interfaceRegistry.ts:446](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L446)*
 
 ___
 
@@ -5319,7 +5319,7 @@ ___
 
 • **SubId**: *[SubId](_interfaceregistry_.interfaceregistry.md#subid)*
 
-*Defined in [interfaceRegistry.ts:641](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L641)*
+*Defined in [interfaceRegistry.ts:641](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L641)*
 
 ___
 
@@ -5327,7 +5327,7 @@ ___
 
 • **Text**: *[Text](../classes/_primitive_text_.text.md)*
 
-*Defined in [interfaceRegistry.ts:83](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L83)*
+*Defined in [interfaceRegistry.ts:83](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L83)*
 
 ___
 
@@ -5335,7 +5335,7 @@ ___
 
 • **TombstoneContractInfo**: *[TombstoneContractInfo](_interfaceregistry_.interfaceregistry.md#tombstonecontractinfo)*
 
-*Defined in [interfaceRegistry.ts:342](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L342)*
+*Defined in [interfaceRegistry.ts:342](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L342)*
 
 ___
 
@@ -5343,7 +5343,7 @@ ___
 
 • **TreasuryProposal**: *[TreasuryProposal](_interfaces_treasury_types_.treasuryproposal.md)*
 
-*Defined in [interfaceRegistry.ts:567](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L567)*
+*Defined in [interfaceRegistry.ts:567](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L567)*
 
 ___
 
@@ -5351,7 +5351,7 @@ ___
 
 • **TrieId**: *[TrieId](_interfaceregistry_.interfaceregistry.md#trieid)*
 
-*Defined in [interfaceRegistry.ts:345](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L345)*
+*Defined in [interfaceRegistry.ts:345](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L345)*
 
 ___
 
@@ -5359,7 +5359,7 @@ ___
 
 • **Type**: *[Type](../classes/_primitive_type_.type.md)*
 
-*Defined in [interfaceRegistry.ts:86](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L86)*
+*Defined in [interfaceRegistry.ts:86](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L86)*
 
 ___
 
@@ -5367,7 +5367,7 @@ ___
 
 • **Uncle**: *[Uncle](_interfaceregistry_.interfaceregistry.md#uncle)*
 
-*Defined in [interfaceRegistry.ts:257](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L257)*
+*Defined in [interfaceRegistry.ts:257](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L257)*
 
 ___
 
@@ -5375,7 +5375,7 @@ ___
 
 • **UncleEntryItem**: *[UncleEntryItem](_interfaces_authorship_types_.uncleentryitem.md)*
 
-*Defined in [interfaceRegistry.ts:260](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L260)*
+*Defined in [interfaceRegistry.ts:260](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L260)*
 
 ___
 
@@ -5383,7 +5383,7 @@ ___
 
 • **UnlockChunk**: *[UnlockChunk](_interfaces_staking_types_.unlockchunk.md)*
 
-*Defined in [interfaceRegistry.ts:533](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L533)*
+*Defined in [interfaceRegistry.ts:533](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L533)*
 
 ___
 
@@ -5391,7 +5391,7 @@ ___
 
 • **UpwardMessage**: *[UpwardMessage](_interfaces_parachains_types_.upwardmessage.md)*
 
-*Defined in [interfaceRegistry.ts:645](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L645)*
+*Defined in [interfaceRegistry.ts:645](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L645)*
 
 ___
 
@@ -5399,7 +5399,7 @@ ___
 
 • **ValidatorId**: *[ValidatorId](_interfaceregistry_.interfaceregistry.md#validatorid)*
 
-*Defined in [interfaceRegistry.ts:220](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L220)*
+*Defined in [interfaceRegistry.ts:220](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L220)*
 
 ___
 
@@ -5407,7 +5407,7 @@ ___
 
 • **ValidatorIndex**: *[ValidatorIndex](_interfaceregistry_.interfaceregistry.md#validatorindex)*
 
-*Defined in [interfaceRegistry.ts:651](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L651)*
+*Defined in [interfaceRegistry.ts:651](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L651)*
 
 ___
 
@@ -5415,7 +5415,7 @@ ___
 
 • **ValidatorPrefs**: *[ValidatorPrefs](_interfaces_staking_types_.validatorprefs.md)*
 
-*Defined in [interfaceRegistry.ts:536](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L536)*
+*Defined in [interfaceRegistry.ts:536](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L536)*
 
 ___
 
@@ -5423,7 +5423,7 @@ ___
 
 • **ValidatorPrefs0to145**: *[ValidatorPrefs0to145](_interfaces_staking_types_.validatorprefs0to145.md)*
 
-*Defined in [interfaceRegistry.ts:539](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L539)*
+*Defined in [interfaceRegistry.ts:539](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L539)*
 
 ___
 
@@ -5431,7 +5431,7 @@ ___
 
 • **ValidityAttestation**: *[ValidityAttestation](_interfaces_parachains_types_.validityattestation.md)*
 
-*Defined in [interfaceRegistry.ts:648](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L648)*
+*Defined in [interfaceRegistry.ts:648](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L648)*
 
 ___
 
@@ -5439,2223 +5439,2223 @@ ___
 
 • **ValidityVote**: *[ValidityVote](_interfaceregistry_.interfaceregistry.md#validityvote)*
 
-*Defined in [interfaceRegistry.ts:655](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L655)*
+*Defined in [interfaceRegistry.ts:655](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L655)*
 
 ___
 
 ###  Vec<AccountId>
 
-• **Vec<AccountId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AccountId](../classes/_primitive_generic_accountid_.accountid.md)*›*
+• **Vec<AccountId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AccountId](../classes/_primitive_generic_accountid_.accountid.md)›*
 
-*Defined in [interfaceRegistry.ts:119](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L119)*
+*Defined in [interfaceRegistry.ts:119](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L119)*
 
 ___
 
 ###  Vec<AccountIdOf>
 
-• **Vec<AccountIdOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AccountIdOf](_interfaceregistry_.interfaceregistry.md#accountidof)*›*
+• **Vec<AccountIdOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AccountIdOf](_interfaceregistry_.interfaceregistry.md#accountidof)›*
 
-*Defined in [interfaceRegistry.ts:122](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L122)*
+*Defined in [interfaceRegistry.ts:122](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L122)*
 
 ___
 
 ###  Vec<AccountIndex>
 
-• **Vec<AccountIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AccountIndex](../classes/_primitive_generic_accountindex_.accountindex.md)*›*
+• **Vec<AccountIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AccountIndex](../classes/_primitive_generic_accountindex_.accountindex.md)›*
 
-*Defined in [interfaceRegistry.ts:126](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L126)*
+*Defined in [interfaceRegistry.ts:126](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L126)*
 
 ___
 
 ###  Vec<AccountInfo>
 
-• **Vec<AccountInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AccountInfo](_interfaces_deprecated_types_.accountinfo.md)*›*
+• **Vec<AccountInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AccountInfo](_interfaces_deprecated_types_.accountinfo.md)›*
 
-*Defined in [interfaceRegistry.ts:377](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L377)*
+*Defined in [interfaceRegistry.ts:377](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L377)*
 
 ___
 
 ###  Vec<Address>
 
-• **Vec<Address>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Address](../classes/_primitive_generic_address_.address.md)*›*
+• **Vec<Address>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Address](../classes/_primitive_generic_address_.address.md)›*
 
-*Defined in [interfaceRegistry.ts:129](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L129)*
+*Defined in [interfaceRegistry.ts:129](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L129)*
 
 ___
 
 ###  Vec<AliveContractInfo>
 
-• **Vec<AliveContractInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AliveContractInfo](_interfaces_contracts_types_.alivecontractinfo.md)*›*
+• **Vec<AliveContractInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AliveContractInfo](_interfaces_contracts_types_.alivecontractinfo.md)›*
 
-*Defined in [interfaceRegistry.ts:316](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L316)*
+*Defined in [interfaceRegistry.ts:316](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L316)*
 
 ___
 
 ###  Vec<Amount>
 
-• **Vec<Amount>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Amount](_interfaceregistry_.interfaceregistry.md#amount)*›*
+• **Vec<Amount>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Amount](_interfaceregistry_.interfaceregistry.md#amount)›*
 
-*Defined in [interfaceRegistry.ts:370](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L370)*
+*Defined in [interfaceRegistry.ts:370](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L370)*
 
 ___
 
 ###  Vec<ApiId>
 
-• **Vec<ApiId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ApiId](_interfaceregistry_.interfaceregistry.md#apiid)*›*
+• **Vec<ApiId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ApiId](_interfaceregistry_.interfaceregistry.md#apiid)›*
 
-*Defined in [interfaceRegistry.ts:873](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L873)*
+*Defined in [interfaceRegistry.ts:873](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L873)*
 
 ___
 
 ###  Vec<ApprovalFlag>
 
-• **Vec<ApprovalFlag>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ApprovalFlag](_interfaceregistry_.interfaceregistry.md#approvalflag)*›*
+• **Vec<ApprovalFlag>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ApprovalFlag](_interfaceregistry_.interfaceregistry.md#approvalflag)›*
 
-*Defined in [interfaceRegistry.ts:393](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L393)*
+*Defined in [interfaceRegistry.ts:393](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L393)*
 
 ___
 
 ###  Vec<AssetId>
 
-• **Vec<AssetId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AssetId](_interfaceregistry_.interfaceregistry.md#assetid)*›*
+• **Vec<AssetId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AssetId](_interfaceregistry_.interfaceregistry.md#assetid)›*
 
-*Defined in [interfaceRegistry.ts:133](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L133)*
+*Defined in [interfaceRegistry.ts:133](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L133)*
 
 ___
 
 ###  Vec<AssetOf>
 
-• **Vec<AssetOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AssetOf](_interfaceregistry_.interfaceregistry.md#assetof)*›*
+• **Vec<AssetOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AssetOf](_interfaceregistry_.interfaceregistry.md#assetof)›*
 
-*Defined in [interfaceRegistry.ts:374](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L374)*
+*Defined in [interfaceRegistry.ts:374](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L374)*
 
 ___
 
 ###  Vec<AssetOptions>
 
-• **Vec<AssetOptions>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AssetOptions](_interfaces_genericasset_types_.assetoptions.md)*›*
+• **Vec<AssetOptions>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AssetOptions](_interfaces_genericasset_types_.assetoptions.md)›*
 
-*Defined in [interfaceRegistry.ts:413](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L413)*
+*Defined in [interfaceRegistry.ts:413](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L413)*
 
 ___
 
 ###  Vec<AttestedCandidate>
 
-• **Vec<AttestedCandidate>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AttestedCandidate](_interfaces_parachains_types_.attestedcandidate.md)*›*
+• **Vec<AttestedCandidate>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AttestedCandidate](_interfaces_parachains_types_.attestedcandidate.md)›*
 
-*Defined in [interfaceRegistry.ts:587](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L587)*
+*Defined in [interfaceRegistry.ts:587](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L587)*
 
 ___
 
 ###  Vec<AuctionIndex>
 
-• **Vec<AuctionIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AuctionIndex](_interfaceregistry_.interfaceregistry.md#auctionindex)*›*
+• **Vec<AuctionIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AuctionIndex](_interfaceregistry_.interfaceregistry.md#auctionindex)›*
 
-*Defined in [interfaceRegistry.ts:591](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L591)*
+*Defined in [interfaceRegistry.ts:591](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L591)*
 
 ___
 
 ###  Vec<AuthIndex>
 
-• **Vec<AuthIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AuthIndex](_interfaceregistry_.interfaceregistry.md#authindex)*›*
+• **Vec<AuthIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AuthIndex](_interfaceregistry_.interfaceregistry.md#authindex)›*
 
-*Defined in [interfaceRegistry.ts:452](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L452)*
+*Defined in [interfaceRegistry.ts:452](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L452)*
 
 ___
 
 ###  Vec<AuthorityId>
 
-• **Vec<AuthorityId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AuthorityId](_interfaceregistry_.interfaceregistry.md#authorityid)*›*
+• **Vec<AuthorityId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AuthorityId](_interfaceregistry_.interfaceregistry.md#authorityid)›*
 
-*Defined in [interfaceRegistry.ts:313](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L313)*
+*Defined in [interfaceRegistry.ts:313](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L313)*
 
 ___
 
 ###  Vec<AuthoritySignature>
 
-• **Vec<AuthoritySignature>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AuthoritySignature](_interfaceregistry_.interfaceregistry.md#authoritysignature)*›*
+• **Vec<AuthoritySignature>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AuthoritySignature](_interfaceregistry_.interfaceregistry.md#authoritysignature)›*
 
-*Defined in [interfaceRegistry.ts:455](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L455)*
+*Defined in [interfaceRegistry.ts:455](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L455)*
 
 ___
 
 ###  Vec<AuthorityWeight>
 
-• **Vec<AuthorityWeight>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[AuthorityWeight](_interfaceregistry_.interfaceregistry.md#authorityweight)*›*
+• **Vec<AuthorityWeight>**: *[Vec](../classes/_codec_vec_.vec.md)‹[AuthorityWeight](_interfaceregistry_.interfaceregistry.md#authorityweight)›*
 
-*Defined in [interfaceRegistry.ts:429](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L429)*
+*Defined in [interfaceRegistry.ts:429](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L429)*
 
 ___
 
 ###  Vec<BabeAuthorityWeight>
 
-• **Vec<BabeAuthorityWeight>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[BabeAuthorityWeight](_interfaceregistry_.interfaceregistry.md#babeauthorityweight)*›*
+• **Vec<BabeAuthorityWeight>**: *[Vec](../classes/_codec_vec_.vec.md)‹[BabeAuthorityWeight](_interfaceregistry_.interfaceregistry.md#babeauthorityweight)›*
 
-*Defined in [interfaceRegistry.ts:269](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L269)*
+*Defined in [interfaceRegistry.ts:269](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L269)*
 
 ___
 
 ###  Vec<BabeBlockWeight>
 
-• **Vec<BabeBlockWeight>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[BabeBlockWeight](_interfaceregistry_.interfaceregistry.md#babeblockweight)*›*
+• **Vec<BabeBlockWeight>**: *[Vec](../classes/_codec_vec_.vec.md)‹[BabeBlockWeight](_interfaceregistry_.interfaceregistry.md#babeblockweight)›*
 
-*Defined in [interfaceRegistry.ts:273](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L273)*
+*Defined in [interfaceRegistry.ts:273](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L273)*
 
 ___
 
 ###  Vec<BabeWeight>
 
-• **Vec<BabeWeight>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[BabeWeight](_interfaceregistry_.interfaceregistry.md#babeweight)*›*
+• **Vec<BabeWeight>**: *[Vec](../classes/_codec_vec_.vec.md)‹[BabeWeight](_interfaceregistry_.interfaceregistry.md#babeweight)›*
 
-*Defined in [interfaceRegistry.ts:277](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L277)*
+*Defined in [interfaceRegistry.ts:277](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L277)*
 
 ___
 
 ###  Vec<Balance>
 
-• **Vec<Balance>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Balance](_interfaceregistry_.interfaceregistry.md#balance)*›*
+• **Vec<Balance>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Balance](_interfaceregistry_.interfaceregistry.md#balance)›*
 
-*Defined in [interfaceRegistry.ts:137](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L137)*
+*Defined in [interfaceRegistry.ts:137](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L137)*
 
 ___
 
 ###  Vec<BalanceLock>
 
-• **Vec<BalanceLock>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[BalanceLock](_interfaces_balances_types_.balancelock.md)*›*
+• **Vec<BalanceLock>**: *[Vec](../classes/_codec_vec_.vec.md)‹[BalanceLock](_interfaces_balances_types_.balancelock.md)›*
 
-*Defined in [interfaceRegistry.ts:293](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L293)*
+*Defined in [interfaceRegistry.ts:293](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L293)*
 
 ___
 
 ###  Vec<BalanceOf>
 
-• **Vec<BalanceOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[BalanceOf](_interfaceregistry_.interfaceregistry.md#balanceof)*›*
+• **Vec<BalanceOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹[BalanceOf](_interfaceregistry_.interfaceregistry.md#balanceof)›*
 
-*Defined in [interfaceRegistry.ts:140](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L140)*
+*Defined in [interfaceRegistry.ts:140](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L140)*
 
 ___
 
 ###  Vec<BalanceUpload>
 
-• **Vec<BalanceUpload>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[BalanceUpload](_interfaceregistry_.interfaceregistry.md#balanceupload)*›*
+• **Vec<BalanceUpload>**: *[Vec](../classes/_codec_vec_.vec.md)‹[BalanceUpload](_interfaceregistry_.interfaceregistry.md#balanceupload)›*
 
-*Defined in [interfaceRegistry.ts:594](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L594)*
+*Defined in [interfaceRegistry.ts:594](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L594)*
 
 ___
 
 ###  Vec<Bidder>
 
-• **Vec<Bidder>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Bidder](_interfaces_parachains_types_.bidder.md)*›*
+• **Vec<Bidder>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Bidder](_interfaces_parachains_types_.bidder.md)›*
 
-*Defined in [interfaceRegistry.ts:597](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L597)*
+*Defined in [interfaceRegistry.ts:597](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L597)*
 
 ___
 
 ###  Vec<Block>
 
-• **Vec<Block>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Block](../classes/_primitive_generic_block_.block.md)*›*
+• **Vec<Block>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Block](../classes/_primitive_generic_block_.block.md)›*
 
-*Defined in [interfaceRegistry.ts:143](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L143)*
+*Defined in [interfaceRegistry.ts:143](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L143)*
 
 ___
 
 ###  Vec<BlockAttestations>
 
-• **Vec<BlockAttestations>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[BlockAttestations](_interfaces_attestations_types_.blockattestations.md)*›*
+• **Vec<BlockAttestations>**: *[Vec](../classes/_codec_vec_.vec.md)‹[BlockAttestations](_interfaces_attestations_types_.blockattestations.md)›*
 
-*Defined in [interfaceRegistry.ts:572](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L572)*
+*Defined in [interfaceRegistry.ts:572](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L572)*
 
 ___
 
 ###  Vec<BlockNumber>
 
-• **Vec<BlockNumber>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[BlockNumber](_interfaceregistry_.interfaceregistry.md#blocknumber)*›*
+• **Vec<BlockNumber>**: *[Vec](../classes/_codec_vec_.vec.md)‹[BlockNumber](_interfaceregistry_.interfaceregistry.md#blocknumber)›*
 
-*Defined in [interfaceRegistry.ts:147](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L147)*
+*Defined in [interfaceRegistry.ts:147](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L147)*
 
 ___
 
 ###  Vec<Bytes>
 
-• **Vec<Bytes>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Bytes](../classes/_primitive_bytes_.bytes.md)*›*
+• **Vec<Bytes>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Bytes](../classes/_primitive_bytes_.bytes.md)›*
 
-*Defined in [interfaceRegistry.ts:37](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L37)*
+*Defined in [interfaceRegistry.ts:37](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L37)*
 
 ___
 
 ###  Vec<Call>
 
-• **Vec<Call>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Call](../classes/_primitive_generic_call_.call.md)*›*
+• **Vec<Call>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Call](../classes/_primitive_generic_call_.call.md)›*
 
-*Defined in [interfaceRegistry.ts:150](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L150)*
+*Defined in [interfaceRegistry.ts:150](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L150)*
 
 ___
 
 ###  Vec<CallMetadataV0>
 
-• **Vec<CallMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[CallMetadataV0](_interfaces_metadata_types_.callmetadatav0.md)*›*
+• **Vec<CallMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[CallMetadataV0](_interfaces_metadata_types_.callmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:666](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L666)*
+*Defined in [interfaceRegistry.ts:666](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L666)*
 
 ___
 
 ###  Vec<CandidateReceipt>
 
-• **Vec<CandidateReceipt>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[CandidateReceipt](_interfaces_parachains_types_.candidatereceipt.md)*›*
+• **Vec<CandidateReceipt>**: *[Vec](../classes/_codec_vec_.vec.md)‹[CandidateReceipt](_interfaces_parachains_types_.candidatereceipt.md)›*
 
-*Defined in [interfaceRegistry.ts:600](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L600)*
+*Defined in [interfaceRegistry.ts:600](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L600)*
 
 ___
 
 ###  Vec<ChainProperties>
 
-• **Vec<ChainProperties>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ChainProperties](_interfaces_rpc_types_.chainproperties.md)*›*
+• **Vec<ChainProperties>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ChainProperties](_interfaces_rpc_types_.chainproperties.md)›*
 
-*Defined in [interfaceRegistry.ts:876](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L876)*
+*Defined in [interfaceRegistry.ts:876](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L876)*
 
 ___
 
 ###  Vec<CodeHash>
 
-• **Vec<CodeHash>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[CodeHash](_interfaceregistry_.interfaceregistry.md#codehash)*›*
+• **Vec<CodeHash>**: *[Vec](../classes/_codec_vec_.vec.md)‹[CodeHash](_interfaceregistry_.interfaceregistry.md#codehash)›*
 
-*Defined in [interfaceRegistry.ts:319](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L319)*
+*Defined in [interfaceRegistry.ts:319](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L319)*
 
 ___
 
 ###  Vec<CollatorSignature>
 
-• **Vec<CollatorSignature>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[CollatorSignature](_interfaceregistry_.interfaceregistry.md#collatorsignature)*›*
+• **Vec<CollatorSignature>**: *[Vec](../classes/_codec_vec_.vec.md)‹[CollatorSignature](_interfaceregistry_.interfaceregistry.md#collatorsignature)›*
 
-*Defined in [interfaceRegistry.ts:603](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L603)*
+*Defined in [interfaceRegistry.ts:603](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L603)*
 
 ___
 
 ###  Vec<Consensus>
 
-• **Vec<Consensus>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Consensus](_interfaceregistry_.interfaceregistry.md#consensus)*›*
+• **Vec<Consensus>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Consensus](_interfaceregistry_.interfaceregistry.md#consensus)›*
 
-*Defined in [interfaceRegistry.ts:253](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L253)*
+*Defined in [interfaceRegistry.ts:253](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L253)*
 
 ___
 
 ###  Vec<ConsensusEngineId>
 
-• **Vec<ConsensusEngineId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ConsensusEngineId](../classes/_primitive_generic_consensusengineid_.consensusengineid.md)*›*
+• **Vec<ConsensusEngineId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ConsensusEngineId](../classes/_primitive_generic_consensusengineid_.consensusengineid.md)›*
 
-*Defined in [interfaceRegistry.ts:154](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L154)*
+*Defined in [interfaceRegistry.ts:154](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L154)*
 
 ___
 
 ###  Vec<ContractInfo>
 
-• **Vec<ContractInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ContractInfo](_interfaces_contracts_types_.contractinfo.md)*›*
+• **Vec<ContractInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ContractInfo](_interfaces_contracts_types_.contractinfo.md)›*
 
-*Defined in [interfaceRegistry.ts:322](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L322)*
+*Defined in [interfaceRegistry.ts:322](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L322)*
 
 ___
 
 ###  Vec<ContractStorageKey>
 
-• **Vec<ContractStorageKey>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ContractStorageKey](_interfaceregistry_.interfaceregistry.md#contractstoragekey)*›*
+• **Vec<ContractStorageKey>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ContractStorageKey](_interfaceregistry_.interfaceregistry.md#contractstoragekey)›*
 
-*Defined in [interfaceRegistry.ts:325](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L325)*
+*Defined in [interfaceRegistry.ts:325](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L325)*
 
 ___
 
 ###  Vec<Conviction>
 
-• **Vec<Conviction>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Conviction](_interfaces_democracy_types_.conviction.md)*›*
+• **Vec<Conviction>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Conviction](_interfaces_democracy_types_.conviction.md)›*
 
-*Defined in [interfaceRegistry.ts:350](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L350)*
+*Defined in [interfaceRegistry.ts:350](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L350)*
 
 ___
 
 ###  Vec<Data>
 
-• **Vec<Data>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Data](../classes/_primitive_data_.data.md)*›*
+• **Vec<Data>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Data](../classes/_primitive_data_.data.md)›*
 
-*Defined in [interfaceRegistry.ts:40](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L40)*
+*Defined in [interfaceRegistry.ts:40](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L40)*
 
 ___
 
 ###  Vec<Digest>
 
-• **Vec<Digest>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Digest](../classes/_primitive_generic_digest_.digest.md)*›*
+• **Vec<Digest>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Digest](../classes/_primitive_generic_digest_.digest.md)›*
 
-*Defined in [interfaceRegistry.ts:157](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L157)*
+*Defined in [interfaceRegistry.ts:157](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L157)*
 
 ___
 
 ###  Vec<DigestItem>
 
-• **Vec<DigestItem>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[DigestItem](../classes/_primitive_generic_digest_.digestitem.md)*›*
+• **Vec<DigestItem>**: *[Vec](../classes/_codec_vec_.vec.md)‹[DigestItem](../classes/_primitive_generic_digest_.digestitem.md)›*
 
-*Defined in [interfaceRegistry.ts:160](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L160)*
+*Defined in [interfaceRegistry.ts:160](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L160)*
 
 ___
 
 ###  Vec<DigestOf>
 
-• **Vec<DigestOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[DigestOf](_interfaceregistry_.interfaceregistry.md#digestof)*›*
+• **Vec<DigestOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹[DigestOf](_interfaceregistry_.interfaceregistry.md#digestof)›*
 
-*Defined in [interfaceRegistry.ts:544](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L544)*
+*Defined in [interfaceRegistry.ts:544](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L544)*
 
 ___
 
 ###  Vec<DoubleMapTypeV3>
 
-• **Vec<DoubleMapTypeV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[DoubleMapTypeV3](_interfaces_metadata_types_.doublemaptypev3.md)*›*
+• **Vec<DoubleMapTypeV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹[DoubleMapTypeV3](_interfaces_metadata_types_.doublemaptypev3.md)›*
 
-*Defined in [interfaceRegistry.ts:762](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L762)*
+*Defined in [interfaceRegistry.ts:762](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L762)*
 
 ___
 
 ###  Vec<DoubleMapTypeV4>
 
-• **Vec<DoubleMapTypeV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[DoubleMapTypeV4](_interfaces_metadata_types_.doublemaptypev4.md)*›*
+• **Vec<DoubleMapTypeV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹[DoubleMapTypeV4](_interfaces_metadata_types_.doublemaptypev4.md)›*
 
-*Defined in [interfaceRegistry.ts:783](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L783)*
+*Defined in [interfaceRegistry.ts:783](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L783)*
 
 ___
 
 ###  Vec<DoubleMapTypeV5>
 
-• **Vec<DoubleMapTypeV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[DoubleMapTypeV5](_interfaces_metadata_types_.doublemaptypev5.md)*›*
+• **Vec<DoubleMapTypeV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹[DoubleMapTypeV5](_interfaces_metadata_types_.doublemaptypev5.md)›*
 
-*Defined in [interfaceRegistry.ts:804](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L804)*
+*Defined in [interfaceRegistry.ts:804](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L804)*
 
 ___
 
 ###  Vec<DoubleMapTypeV6>
 
-• **Vec<DoubleMapTypeV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[DoubleMapTypeV6](_interfaceregistry_.interfaceregistry.md#doublemaptypev6)*›*
+• **Vec<DoubleMapTypeV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹[DoubleMapTypeV6](_interfaceregistry_.interfaceregistry.md#doublemaptypev6)›*
 
-*Defined in [interfaceRegistry.ts:825](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L825)*
+*Defined in [interfaceRegistry.ts:825](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L825)*
 
 ___
 
 ###  Vec<DoubleMapTypeV7>
 
-• **Vec<DoubleMapTypeV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[DoubleMapTypeV7](_interfaceregistry_.interfaceregistry.md#doublemaptypev7)*›*
+• **Vec<DoubleMapTypeV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹[DoubleMapTypeV7](_interfaceregistry_.interfaceregistry.md#doublemaptypev7)›*
 
-*Defined in [interfaceRegistry.ts:849](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L849)*
+*Defined in [interfaceRegistry.ts:849](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L849)*
 
 ___
 
 ###  Vec<EcdsaSignature>
 
-• **Vec<EcdsaSignature>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EcdsaSignature](_interfaceregistry_.interfaceregistry.md#ecdsasignature)*›*
+• **Vec<EcdsaSignature>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EcdsaSignature](_interfaceregistry_.interfaceregistry.md#ecdsasignature)›*
 
-*Defined in [interfaceRegistry.ts:581](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L581)*
+*Defined in [interfaceRegistry.ts:581](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L581)*
 
 ___
 
 ###  Vec<Ed25519Signature>
 
-• **Vec<Ed25519Signature>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Ed25519Signature](_interfaceregistry_.interfaceregistry.md#ed25519signature)*›*
+• **Vec<Ed25519Signature>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Ed25519Signature](_interfaceregistry_.interfaceregistry.md#ed25519signature)›*
 
-*Defined in [interfaceRegistry.ts:232](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L232)*
+*Defined in [interfaceRegistry.ts:232](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L232)*
 
 ___
 
 ###  Vec<EgressQueueRoot>
 
-• **Vec<EgressQueueRoot>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EgressQueueRoot](_interfaceregistry_.interfaceregistry.md#egressqueueroot)*›*
+• **Vec<EgressQueueRoot>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EgressQueueRoot](_interfaceregistry_.interfaceregistry.md#egressqueueroot)›*
 
-*Defined in [interfaceRegistry.ts:606](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L606)*
+*Defined in [interfaceRegistry.ts:606](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L606)*
 
 ___
 
 ###  Vec<EraIndex>
 
-• **Vec<EraIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EraIndex](_interfaceregistry_.interfaceregistry.md#eraindex)*›*
+• **Vec<EraIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EraIndex](_interfaceregistry_.interfaceregistry.md#eraindex)›*
 
-*Defined in [interfaceRegistry.ts:508](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L508)*
+*Defined in [interfaceRegistry.ts:508](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L508)*
 
 ___
 
 ###  Vec<EraRewards>
 
-• **Vec<EraRewards>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EraRewards](_interfaces_staking_types_.erarewards.md)*›*
+• **Vec<EraRewards>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EraRewards](_interfaces_staking_types_.erarewards.md)›*
 
-*Defined in [interfaceRegistry.ts:511](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L511)*
+*Defined in [interfaceRegistry.ts:511](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L511)*
 
 ___
 
 ###  Vec<EthereumAddress>
 
-• **Vec<EthereumAddress>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EthereumAddress](_interfaceregistry_.interfaceregistry.md#ethereumaddress)*›*
+• **Vec<EthereumAddress>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EthereumAddress](_interfaceregistry_.interfaceregistry.md#ethereumaddress)›*
 
-*Defined in [interfaceRegistry.ts:584](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L584)*
+*Defined in [interfaceRegistry.ts:584](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L584)*
 
 ___
 
 ###  Vec<Event>
 
-• **Vec<Event>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Event](../classes/_primitive_generic_event_.event.md)*›*
+• **Vec<Event>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Event](../classes/_primitive_generic_event_.event.md)›*
 
-*Defined in [interfaceRegistry.ts:547](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L547)*
+*Defined in [interfaceRegistry.ts:547](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L547)*
 
 ___
 
 ###  Vec<EventId>
 
-• **Vec<EventId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventId](_interfaceregistry_.interfaceregistry.md#eventid)*›*
+• **Vec<EventId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventId](_interfaceregistry_.interfaceregistry.md#eventid)›*
 
-*Defined in [interfaceRegistry.ts:550](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L550)*
+*Defined in [interfaceRegistry.ts:550](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L550)*
 
 ___
 
 ###  Vec<EventIndex>
 
-• **Vec<EventIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventIndex](_interfaceregistry_.interfaceregistry.md#eventindex)*›*
+• **Vec<EventIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventIndex](_interfaceregistry_.interfaceregistry.md#eventindex)›*
 
-*Defined in [interfaceRegistry.ts:554](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L554)*
+*Defined in [interfaceRegistry.ts:554](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L554)*
 
 ___
 
 ###  Vec<EventMetadataV0>
 
-• **Vec<EventMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventMetadataV0](_interfaces_metadata_types_.eventmetadatav0.md)*›*
+• **Vec<EventMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventMetadataV0](_interfaces_metadata_types_.eventmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:669](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L669)*
+*Defined in [interfaceRegistry.ts:669](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L669)*
 
 ___
 
 ###  Vec<EventMetadataV1>
 
-• **Vec<EventMetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventMetadataV1](_interfaceregistry_.interfaceregistry.md#eventmetadatav1)*›*
+• **Vec<EventMetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventMetadataV1](_interfaceregistry_.interfaceregistry.md#eventmetadatav1)›*
 
-*Defined in [interfaceRegistry.ts:720](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L720)*
+*Defined in [interfaceRegistry.ts:720](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L720)*
 
 ___
 
 ###  Vec<EventMetadataV2>
 
-• **Vec<EventMetadataV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventMetadataV2](_interfaceregistry_.interfaceregistry.md#eventmetadatav2)*›*
+• **Vec<EventMetadataV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventMetadataV2](_interfaceregistry_.interfaceregistry.md#eventmetadatav2)›*
 
-*Defined in [interfaceRegistry.ts:744](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L744)*
+*Defined in [interfaceRegistry.ts:744](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L744)*
 
 ___
 
 ###  Vec<EventMetadataV3>
 
-• **Vec<EventMetadataV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventMetadataV3](_interfaceregistry_.interfaceregistry.md#eventmetadatav3)*›*
+• **Vec<EventMetadataV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventMetadataV3](_interfaceregistry_.interfaceregistry.md#eventmetadatav3)›*
 
-*Defined in [interfaceRegistry.ts:765](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L765)*
+*Defined in [interfaceRegistry.ts:765](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L765)*
 
 ___
 
 ###  Vec<EventMetadataV4>
 
-• **Vec<EventMetadataV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventMetadataV4](_interfaceregistry_.interfaceregistry.md#eventmetadatav4)*›*
+• **Vec<EventMetadataV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventMetadataV4](_interfaceregistry_.interfaceregistry.md#eventmetadatav4)›*
 
-*Defined in [interfaceRegistry.ts:786](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L786)*
+*Defined in [interfaceRegistry.ts:786](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L786)*
 
 ___
 
 ###  Vec<EventMetadataV5>
 
-• **Vec<EventMetadataV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventMetadataV5](_interfaceregistry_.interfaceregistry.md#eventmetadatav5)*›*
+• **Vec<EventMetadataV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventMetadataV5](_interfaceregistry_.interfaceregistry.md#eventmetadatav5)›*
 
-*Defined in [interfaceRegistry.ts:807](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L807)*
+*Defined in [interfaceRegistry.ts:807](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L807)*
 
 ___
 
 ###  Vec<EventMetadataV6>
 
-• **Vec<EventMetadataV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventMetadataV6](_interfaceregistry_.interfaceregistry.md#eventmetadatav6)*›*
+• **Vec<EventMetadataV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventMetadataV6](_interfaceregistry_.interfaceregistry.md#eventmetadatav6)›*
 
-*Defined in [interfaceRegistry.ts:828](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L828)*
+*Defined in [interfaceRegistry.ts:828](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L828)*
 
 ___
 
 ###  Vec<EventMetadataV7>
 
-• **Vec<EventMetadataV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventMetadataV7](_interfaceregistry_.interfaceregistry.md#eventmetadatav7)*›*
+• **Vec<EventMetadataV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventMetadataV7](_interfaceregistry_.interfaceregistry.md#eventmetadatav7)›*
 
-*Defined in [interfaceRegistry.ts:852](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L852)*
+*Defined in [interfaceRegistry.ts:852](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L852)*
 
 ___
 
 ###  Vec<EventRecord0to76>
 
-• **Vec<EventRecord0to76>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventRecord0to76](_interfaces_system_types_.eventrecord0to76.md)*›*
+• **Vec<EventRecord0to76>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventRecord0to76](_interfaces_system_types_.eventrecord0to76.md)›*
 
-*Defined in [interfaceRegistry.ts:560](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L560)*
+*Defined in [interfaceRegistry.ts:560](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L560)*
 
 ___
 
 ###  Vec<EventRecord>
 
-• **Vec<EventRecord>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[EventRecord](_interfaces_system_types_.eventrecord.md)*›*
+• **Vec<EventRecord>**: *[Vec](../classes/_codec_vec_.vec.md)‹[EventRecord](_interfaces_system_types_.eventrecord.md)›*
 
-*Defined in [interfaceRegistry.ts:557](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L557)*
+*Defined in [interfaceRegistry.ts:557](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L557)*
 
 ___
 
 ###  Vec<Exposure>
 
-• **Vec<Exposure>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Exposure](_interfaces_staking_types_.exposure.md)*›*
+• **Vec<Exposure>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Exposure](_interfaces_staking_types_.exposure.md)›*
 
-*Defined in [interfaceRegistry.ts:514](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L514)*
+*Defined in [interfaceRegistry.ts:514](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L514)*
 
 ___
 
 ###  Vec<Extrinsic>
 
-• **Vec<Extrinsic>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Extrinsic](../classes/_primitive_extrinsic_extrinsic_.extrinsic.md)*›*
+• **Vec<Extrinsic>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Extrinsic](../classes/_primitive_extrinsic_extrinsic_.extrinsic.md)›*
 
-*Defined in [interfaceRegistry.ts:163](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L163)*
+*Defined in [interfaceRegistry.ts:163](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L163)*
 
 ___
 
 ###  Vec<ExtrinsicEra>
 
-• **Vec<ExtrinsicEra>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ExtrinsicEra](../classes/_primitive_extrinsic_extrinsicera_.extrinsicera.md)*›*
+• **Vec<ExtrinsicEra>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ExtrinsicEra](../classes/_primitive_extrinsic_extrinsicera_.extrinsicera.md)›*
 
-*Defined in [interfaceRegistry.ts:166](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L166)*
+*Defined in [interfaceRegistry.ts:166](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L166)*
 
 ___
 
 ###  Vec<ExtrinsicOrHash>
 
-• **Vec<ExtrinsicOrHash>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ExtrinsicOrHash](_interfaces_rpc_types_.extrinsicorhash.md)*›*
+• **Vec<ExtrinsicOrHash>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ExtrinsicOrHash](_interfaces_rpc_types_.extrinsicorhash.md)›*
 
-*Defined in [interfaceRegistry.ts:879](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L879)*
+*Defined in [interfaceRegistry.ts:879](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L879)*
 
 ___
 
 ###  Vec<ExtrinsicPayload>
 
-• **Vec<ExtrinsicPayload>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ExtrinsicPayload](../classes/_primitive_extrinsic_extrinsicpayload_.extrinsicpayload.md)*›*
+• **Vec<ExtrinsicPayload>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ExtrinsicPayload](../classes/_primitive_extrinsic_extrinsicpayload_.extrinsicpayload.md)›*
 
-*Defined in [interfaceRegistry.ts:169](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L169)*
+*Defined in [interfaceRegistry.ts:169](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L169)*
 
 ___
 
 ###  Vec<ExtrinsicStatus>
 
-• **Vec<ExtrinsicStatus>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ExtrinsicStatus](_interfaces_rpc_types_.extrinsicstatus.md)*›*
+• **Vec<ExtrinsicStatus>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ExtrinsicStatus](_interfaces_rpc_types_.extrinsicstatus.md)›*
 
-*Defined in [interfaceRegistry.ts:882](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L882)*
+*Defined in [interfaceRegistry.ts:882](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L882)*
 
 ___
 
 ###  Vec<Fixed64>
 
-• **Vec<Fixed64>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Fixed64](_interfaceregistry_.interfaceregistry.md#fixed64)*›*
+• **Vec<Fixed64>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Fixed64](_interfaceregistry_.interfaceregistry.md#fixed64)›*
 
-*Defined in [interfaceRegistry.ts:64](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L64)*
+*Defined in [interfaceRegistry.ts:64](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L64)*
 
 ___
 
 ###  Vec<Forcing>
 
-• **Vec<Forcing>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Forcing](_interfaces_staking_types_.forcing.md)*›*
+• **Vec<Forcing>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Forcing](_interfaces_staking_types_.forcing.md)›*
 
-*Defined in [interfaceRegistry.ts:517](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L517)*
+*Defined in [interfaceRegistry.ts:517](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L517)*
 
 ___
 
 ###  Vec<FullIdentification>
 
-• **Vec<FullIdentification>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FullIdentification](_interfaceregistry_.interfaceregistry.md#fullidentification)*›*
+• **Vec<FullIdentification>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FullIdentification](_interfaceregistry_.interfaceregistry.md#fullidentification)›*
 
-*Defined in [interfaceRegistry.ts:488](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L488)*
+*Defined in [interfaceRegistry.ts:488](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L488)*
 
 ___
 
 ###  Vec<FunctionArgumentMetadataV0>
 
-• **Vec<FunctionArgumentMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionArgumentMetadataV0](_interfaces_metadata_types_.functionargumentmetadatav0.md)*›*
+• **Vec<FunctionArgumentMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionArgumentMetadataV0](_interfaces_metadata_types_.functionargumentmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:672](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L672)*
+*Defined in [interfaceRegistry.ts:672](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L672)*
 
 ___
 
 ###  Vec<FunctionArgumentMetadataV1>
 
-• **Vec<FunctionArgumentMetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionArgumentMetadataV1](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav1)*›*
+• **Vec<FunctionArgumentMetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionArgumentMetadataV1](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav1)›*
 
-*Defined in [interfaceRegistry.ts:723](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L723)*
+*Defined in [interfaceRegistry.ts:723](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L723)*
 
 ___
 
 ###  Vec<FunctionArgumentMetadataV2>
 
-• **Vec<FunctionArgumentMetadataV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionArgumentMetadataV2](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav2)*›*
+• **Vec<FunctionArgumentMetadataV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionArgumentMetadataV2](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav2)›*
 
-*Defined in [interfaceRegistry.ts:747](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L747)*
+*Defined in [interfaceRegistry.ts:747](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L747)*
 
 ___
 
 ###  Vec<FunctionArgumentMetadataV3>
 
-• **Vec<FunctionArgumentMetadataV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionArgumentMetadataV3](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav3)*›*
+• **Vec<FunctionArgumentMetadataV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionArgumentMetadataV3](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav3)›*
 
-*Defined in [interfaceRegistry.ts:768](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L768)*
+*Defined in [interfaceRegistry.ts:768](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L768)*
 
 ___
 
 ###  Vec<FunctionArgumentMetadataV4>
 
-• **Vec<FunctionArgumentMetadataV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionArgumentMetadataV4](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav4)*›*
+• **Vec<FunctionArgumentMetadataV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionArgumentMetadataV4](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav4)›*
 
-*Defined in [interfaceRegistry.ts:789](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L789)*
+*Defined in [interfaceRegistry.ts:789](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L789)*
 
 ___
 
 ###  Vec<FunctionArgumentMetadataV5>
 
-• **Vec<FunctionArgumentMetadataV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionArgumentMetadataV5](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav5)*›*
+• **Vec<FunctionArgumentMetadataV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionArgumentMetadataV5](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav5)›*
 
-*Defined in [interfaceRegistry.ts:810](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L810)*
+*Defined in [interfaceRegistry.ts:810](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L810)*
 
 ___
 
 ###  Vec<FunctionArgumentMetadataV6>
 
-• **Vec<FunctionArgumentMetadataV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionArgumentMetadataV6](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav6)*›*
+• **Vec<FunctionArgumentMetadataV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionArgumentMetadataV6](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav6)›*
 
-*Defined in [interfaceRegistry.ts:831](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L831)*
+*Defined in [interfaceRegistry.ts:831](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L831)*
 
 ___
 
 ###  Vec<FunctionArgumentMetadataV7>
 
-• **Vec<FunctionArgumentMetadataV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionArgumentMetadataV7](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav7)*›*
+• **Vec<FunctionArgumentMetadataV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionArgumentMetadataV7](_interfaceregistry_.interfaceregistry.md#functionargumentmetadatav7)›*
 
-*Defined in [interfaceRegistry.ts:855](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L855)*
+*Defined in [interfaceRegistry.ts:855](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L855)*
 
 ___
 
 ###  Vec<FunctionMetadataV0>
 
-• **Vec<FunctionMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionMetadataV0](_interfaces_metadata_types_.functionmetadatav0.md)*›*
+• **Vec<FunctionMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionMetadataV0](_interfaces_metadata_types_.functionmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:675](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L675)*
+*Defined in [interfaceRegistry.ts:675](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L675)*
 
 ___
 
 ###  Vec<FunctionMetadataV1>
 
-• **Vec<FunctionMetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionMetadataV1](_interfaces_metadata_types_.functionmetadatav1.md)*›*
+• **Vec<FunctionMetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionMetadataV1](_interfaces_metadata_types_.functionmetadatav1.md)›*
 
-*Defined in [interfaceRegistry.ts:726](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L726)*
+*Defined in [interfaceRegistry.ts:726](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L726)*
 
 ___
 
 ###  Vec<FunctionMetadataV2>
 
-• **Vec<FunctionMetadataV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionMetadataV2](_interfaceregistry_.interfaceregistry.md#functionmetadatav2)*›*
+• **Vec<FunctionMetadataV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionMetadataV2](_interfaceregistry_.interfaceregistry.md#functionmetadatav2)›*
 
-*Defined in [interfaceRegistry.ts:750](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L750)*
+*Defined in [interfaceRegistry.ts:750](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L750)*
 
 ___
 
 ###  Vec<FunctionMetadataV3>
 
-• **Vec<FunctionMetadataV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionMetadataV3](_interfaceregistry_.interfaceregistry.md#functionmetadatav3)*›*
+• **Vec<FunctionMetadataV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionMetadataV3](_interfaceregistry_.interfaceregistry.md#functionmetadatav3)›*
 
-*Defined in [interfaceRegistry.ts:771](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L771)*
+*Defined in [interfaceRegistry.ts:771](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L771)*
 
 ___
 
 ###  Vec<FunctionMetadataV4>
 
-• **Vec<FunctionMetadataV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionMetadataV4](_interfaceregistry_.interfaceregistry.md#functionmetadatav4)*›*
+• **Vec<FunctionMetadataV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionMetadataV4](_interfaceregistry_.interfaceregistry.md#functionmetadatav4)›*
 
-*Defined in [interfaceRegistry.ts:792](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L792)*
+*Defined in [interfaceRegistry.ts:792](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L792)*
 
 ___
 
 ###  Vec<FunctionMetadataV5>
 
-• **Vec<FunctionMetadataV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionMetadataV5](_interfaceregistry_.interfaceregistry.md#functionmetadatav5)*›*
+• **Vec<FunctionMetadataV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionMetadataV5](_interfaceregistry_.interfaceregistry.md#functionmetadatav5)›*
 
-*Defined in [interfaceRegistry.ts:813](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L813)*
+*Defined in [interfaceRegistry.ts:813](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L813)*
 
 ___
 
 ###  Vec<FunctionMetadataV6>
 
-• **Vec<FunctionMetadataV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionMetadataV6](_interfaceregistry_.interfaceregistry.md#functionmetadatav6)*›*
+• **Vec<FunctionMetadataV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionMetadataV6](_interfaceregistry_.interfaceregistry.md#functionmetadatav6)›*
 
-*Defined in [interfaceRegistry.ts:834](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L834)*
+*Defined in [interfaceRegistry.ts:834](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L834)*
 
 ___
 
 ###  Vec<FunctionMetadataV7>
 
-• **Vec<FunctionMetadataV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[FunctionMetadataV7](_interfaceregistry_.interfaceregistry.md#functionmetadatav7)*›*
+• **Vec<FunctionMetadataV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹[FunctionMetadataV7](_interfaceregistry_.interfaceregistry.md#functionmetadatav7)›*
 
-*Defined in [interfaceRegistry.ts:858](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L858)*
+*Defined in [interfaceRegistry.ts:858](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L858)*
 
 ___
 
 ###  Vec<Gas>
 
-• **Vec<Gas>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Gas](_interfaceregistry_.interfaceregistry.md#gas)*›*
+• **Vec<Gas>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Gas](_interfaceregistry_.interfaceregistry.md#gas)›*
 
-*Defined in [interfaceRegistry.ts:329](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L329)*
+*Defined in [interfaceRegistry.ts:329](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L329)*
 
 ___
 
 ###  Vec<H160>
 
-• **Vec<H160>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[H160](../classes/_primitive_h160_.h160.md)*›*
+• **Vec<H160>**: *[Vec](../classes/_codec_vec_.vec.md)‹[H160](../classes/_primitive_h160_.h160.md)›*
 
-*Defined in [interfaceRegistry.ts:43](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L43)*
+*Defined in [interfaceRegistry.ts:43](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L43)*
 
 ___
 
 ###  Vec<H256>
 
-• **Vec<H256>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[H256](../classes/_primitive_h256_.h256.md)*›*
+• **Vec<H256>**: *[Vec](../classes/_codec_vec_.vec.md)‹[H256](../classes/_primitive_h256_.h256.md)›*
 
-*Defined in [interfaceRegistry.ts:46](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L46)*
+*Defined in [interfaceRegistry.ts:46](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L46)*
 
 ___
 
 ###  Vec<H512>
 
-• **Vec<H512>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[H512](../classes/_primitive_h512_.h512.md)*›*
+• **Vec<H512>**: *[Vec](../classes/_codec_vec_.vec.md)‹[H512](../classes/_primitive_h512_.h512.md)›*
 
-*Defined in [interfaceRegistry.ts:49](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L49)*
+*Defined in [interfaceRegistry.ts:49](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L49)*
 
 ___
 
 ###  Vec<Hash>
 
-• **Vec<Hash>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Hash](_interfaceregistry_.interfaceregistry.md#hash)*›*
+• **Vec<Hash>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Hash](_interfaceregistry_.interfaceregistry.md#hash)›*
 
-*Defined in [interfaceRegistry.ts:172](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L172)*
+*Defined in [interfaceRegistry.ts:172](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L172)*
 
 ___
 
 ###  Vec<HeadData>
 
-• **Vec<HeadData>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[HeadData](_interfaceregistry_.interfaceregistry.md#headdata)*›*
+• **Vec<HeadData>**: *[Vec](../classes/_codec_vec_.vec.md)‹[HeadData](_interfaceregistry_.interfaceregistry.md#headdata)›*
 
-*Defined in [interfaceRegistry.ts:609](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L609)*
+*Defined in [interfaceRegistry.ts:609](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L609)*
 
 ___
 
 ###  Vec<Header>
 
-• **Vec<Header>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Header](_interfaces_runtime_types_.header.md)*›*
+• **Vec<Header>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Header](_interfaces_runtime_types_.header.md)›*
 
-*Defined in [interfaceRegistry.ts:175](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L175)*
+*Defined in [interfaceRegistry.ts:175](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L175)*
 
 ___
 
 ###  Vec<Health>
 
-• **Vec<Health>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Health](_interfaces_rpc_types_.health.md)*›*
+• **Vec<Health>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Health](_interfaces_rpc_types_.health.md)›*
 
-*Defined in [interfaceRegistry.ts:885](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L885)*
+*Defined in [interfaceRegistry.ts:885](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L885)*
 
 ___
 
 ###  Vec<Heartbeat>
 
-• **Vec<Heartbeat>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Heartbeat](_interfaces_imonline_types_.heartbeat.md)*›*
+• **Vec<Heartbeat>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Heartbeat](_interfaces_imonline_types_.heartbeat.md)›*
 
-*Defined in [interfaceRegistry.ts:458](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L458)*
+*Defined in [interfaceRegistry.ts:458](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L458)*
 
 ___
 
 ###  Vec<IdentificationTuple>
 
-• **Vec<IdentificationTuple>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[IdentificationTuple](_interfaceregistry_.interfaceregistry.md#identificationtuple)*›*
+• **Vec<IdentificationTuple>**: *[Vec](../classes/_codec_vec_.vec.md)‹[IdentificationTuple](_interfaceregistry_.interfaceregistry.md#identificationtuple)›*
 
-*Defined in [interfaceRegistry.ts:491](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L491)*
+*Defined in [interfaceRegistry.ts:491](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L491)*
 
 ___
 
 ###  Vec<ImmortalEra>
 
-• **Vec<ImmortalEra>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ImmortalEra](../classes/_primitive_extrinsic_extrinsicera_.immortalera.md)*›*
+• **Vec<ImmortalEra>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ImmortalEra](../classes/_primitive_extrinsic_extrinsicera_.immortalera.md)›*
 
-*Defined in [interfaceRegistry.ts:238](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L238)*
+*Defined in [interfaceRegistry.ts:238](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L238)*
 
 ___
 
 ###  Vec<IncludedBlocks>
 
-• **Vec<IncludedBlocks>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[IncludedBlocks](_interfaces_attestations_types_.includedblocks.md)*›*
+• **Vec<IncludedBlocks>**: *[Vec](../classes/_codec_vec_.vec.md)‹[IncludedBlocks](_interfaces_attestations_types_.includedblocks.md)›*
 
-*Defined in [interfaceRegistry.ts:575](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L575)*
+*Defined in [interfaceRegistry.ts:575](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L575)*
 
 ___
 
 ###  Vec<InclusionHeight>
 
-• **Vec<InclusionHeight>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[InclusionHeight](_interfaceregistry_.interfaceregistry.md#inclusionheight)*›*
+• **Vec<InclusionHeight>**: *[Vec](../classes/_codec_vec_.vec.md)‹[InclusionHeight](_interfaceregistry_.interfaceregistry.md#inclusionheight)›*
 
-*Defined in [interfaceRegistry.ts:256](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L256)*
+*Defined in [interfaceRegistry.ts:256](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L256)*
 
 ___
 
 ###  Vec<IncomingParachain>
 
-• **Vec<IncomingParachain>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[IncomingParachain](_interfaces_parachains_types_.incomingparachain.md)*›*
+• **Vec<IncomingParachain>**: *[Vec](../classes/_codec_vec_.vec.md)‹[IncomingParachain](_interfaces_parachains_types_.incomingparachain.md)›*
 
-*Defined in [interfaceRegistry.ts:618](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L618)*
+*Defined in [interfaceRegistry.ts:618](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L618)*
 
 ___
 
 ###  Vec<IncomingParachainDeploy>
 
-• **Vec<IncomingParachainDeploy>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[IncomingParachainDeploy](_interfaces_parachains_types_.incomingparachaindeploy.md)*›*
+• **Vec<IncomingParachainDeploy>**: *[Vec](../classes/_codec_vec_.vec.md)‹[IncomingParachainDeploy](_interfaces_parachains_types_.incomingparachaindeploy.md)›*
 
-*Defined in [interfaceRegistry.ts:612](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L612)*
+*Defined in [interfaceRegistry.ts:612](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L612)*
 
 ___
 
 ###  Vec<IncomingParachainFixed>
 
-• **Vec<IncomingParachainFixed>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[IncomingParachainFixed](_interfaces_parachains_types_.incomingparachainfixed.md)*›*
+• **Vec<IncomingParachainFixed>**: *[Vec](../classes/_codec_vec_.vec.md)‹[IncomingParachainFixed](_interfaces_parachains_types_.incomingparachainfixed.md)›*
 
-*Defined in [interfaceRegistry.ts:615](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L615)*
+*Defined in [interfaceRegistry.ts:615](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L615)*
 
 ___
 
 ###  Vec<Index>
 
-• **Vec<Index>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Index](_interfaceregistry_.interfaceregistry.md#index)*›*
+• **Vec<Index>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Index](_interfaceregistry_.interfaceregistry.md#index)›*
 
-*Defined in [interfaceRegistry.ts:179](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L179)*
+*Defined in [interfaceRegistry.ts:179](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L179)*
 
 ___
 
 ###  Vec<IndividualExposure>
 
-• **Vec<IndividualExposure>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[IndividualExposure](_interfaces_staking_types_.individualexposure.md)*›*
+• **Vec<IndividualExposure>**: *[Vec](../classes/_codec_vec_.vec.md)‹[IndividualExposure](_interfaces_staking_types_.individualexposure.md)›*
 
-*Defined in [interfaceRegistry.ts:520](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L520)*
+*Defined in [interfaceRegistry.ts:520](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L520)*
 
 ___
 
 ###  Vec<InherentOfflineReport>
 
-• **Vec<InherentOfflineReport>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[InherentOfflineReport](_interfaceregistry_.interfaceregistry.md#inherentofflinereport)*›*
+• **Vec<InherentOfflineReport>**: *[Vec](../classes/_codec_vec_.vec.md)‹[InherentOfflineReport](_interfaceregistry_.interfaceregistry.md#inherentofflinereport)›*
 
-*Defined in [interfaceRegistry.ts:383](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L383)*
+*Defined in [interfaceRegistry.ts:383](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L383)*
 
 ___
 
 ###  Vec<Justification>
 
-• **Vec<Justification>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Justification](_interfaceregistry_.interfaceregistry.md#justification)*›*
+• **Vec<Justification>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Justification](_interfaceregistry_.interfaceregistry.md#justification)›*
 
-*Defined in [interfaceRegistry.ts:182](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L182)*
+*Defined in [interfaceRegistry.ts:182](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L182)*
 
 ___
 
 ###  Vec<Key>
 
-• **Vec<Key>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Key](_interfaceregistry_.interfaceregistry.md#key)*›*
+• **Vec<Key>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Key](_interfaceregistry_.interfaceregistry.md#key)›*
 
-*Defined in [interfaceRegistry.ts:563](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L563)*
+*Defined in [interfaceRegistry.ts:563](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L563)*
 
 ___
 
 ###  Vec<KeyTypeId>
 
-• **Vec<KeyTypeId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[KeyTypeId](_interfaceregistry_.interfaceregistry.md#keytypeid)*›*
+• **Vec<KeyTypeId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[KeyTypeId](_interfaceregistry_.interfaceregistry.md#keytypeid)›*
 
-*Defined in [interfaceRegistry.ts:189](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L189)*
+*Defined in [interfaceRegistry.ts:189](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L189)*
 
 ___
 
 ###  Vec<KeyValue>
 
-• **Vec<KeyValue>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[KeyValue](_interfaceregistry_.interfaceregistry.md#keyvalue)*›*
+• **Vec<KeyValue>**: *[Vec](../classes/_codec_vec_.vec.md)‹[KeyValue](_interfaceregistry_.interfaceregistry.md#keyvalue)›*
 
-*Defined in [interfaceRegistry.ts:185](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L185)*
+*Defined in [interfaceRegistry.ts:185](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L185)*
 
 ___
 
 ###  Vec<KeyValueOption>
 
-• **Vec<KeyValueOption>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[KeyValueOption](_interfaceregistry_.interfaceregistry.md#keyvalueoption)*›*
+• **Vec<KeyValueOption>**: *[Vec](../classes/_codec_vec_.vec.md)‹[KeyValueOption](_interfaceregistry_.interfaceregistry.md#keyvalueoption)›*
 
-*Defined in [interfaceRegistry.ts:888](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L888)*
+*Defined in [interfaceRegistry.ts:888](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L888)*
 
 ___
 
 ###  Vec<Keys>
 
-• **Vec<Keys>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Keys](_interfaceregistry_.interfaceregistry.md#keys)*›*
+• **Vec<Keys>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Keys](_interfaceregistry_.interfaceregistry.md#keys)›*
 
-*Defined in [interfaceRegistry.ts:498](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L498)*
+*Defined in [interfaceRegistry.ts:498](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L498)*
 
 ___
 
 ###  Vec<Kind>
 
-• **Vec<Kind>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Kind](_interfaceregistry_.interfaceregistry.md#kind)*›*
+• **Vec<Kind>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Kind](_interfaceregistry_.interfaceregistry.md#kind)›*
 
-*Defined in [interfaceRegistry.ts:470](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L470)*
+*Defined in [interfaceRegistry.ts:470](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L470)*
 
 ___
 
 ###  Vec<LeasePeriod>
 
-• **Vec<LeasePeriod>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[LeasePeriod](_interfaceregistry_.interfaceregistry.md#leaseperiod)*›*
+• **Vec<LeasePeriod>**: *[Vec](../classes/_codec_vec_.vec.md)‹[LeasePeriod](_interfaceregistry_.interfaceregistry.md#leaseperiod)›*
 
-*Defined in [interfaceRegistry.ts:621](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L621)*
+*Defined in [interfaceRegistry.ts:621](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L621)*
 
 ___
 
 ###  Vec<LeasePeriodOf>
 
-• **Vec<LeasePeriodOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[LeasePeriodOf](_interfaceregistry_.interfaceregistry.md#leaseperiodof)*›*
+• **Vec<LeasePeriodOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹[LeasePeriodOf](_interfaceregistry_.interfaceregistry.md#leaseperiodof)›*
 
-*Defined in [interfaceRegistry.ts:624](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L624)*
+*Defined in [interfaceRegistry.ts:624](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L624)*
 
 ___
 
 ###  Vec<LockIdentifier>
 
-• **Vec<LockIdentifier>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[LockIdentifier](_interfaceregistry_.interfaceregistry.md#lockidentifier)*›*
+• **Vec<LockIdentifier>**: *[Vec](../classes/_codec_vec_.vec.md)‹[LockIdentifier](_interfaceregistry_.interfaceregistry.md#lockidentifier)›*
 
-*Defined in [interfaceRegistry.ts:192](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L192)*
+*Defined in [interfaceRegistry.ts:192](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L192)*
 
 ___
 
 ###  Vec<LockPeriods>
 
-• **Vec<LockPeriods>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[LockPeriods](_interfaceregistry_.interfaceregistry.md#lockperiods)*›*
+• **Vec<LockPeriods>**: *[Vec](../classes/_codec_vec_.vec.md)‹[LockPeriods](_interfaceregistry_.interfaceregistry.md#lockperiods)›*
 
-*Defined in [interfaceRegistry.ts:380](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L380)*
+*Defined in [interfaceRegistry.ts:380](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L380)*
 
 ___
 
 ###  Vec<MapTypeV0>
 
-• **Vec<MapTypeV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MapTypeV0](_interfaces_metadata_types_.maptypev0.md)*›*
+• **Vec<MapTypeV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MapTypeV0](_interfaces_metadata_types_.maptypev0.md)›*
 
-*Defined in [interfaceRegistry.ts:678](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L678)*
+*Defined in [interfaceRegistry.ts:678](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L678)*
 
 ___
 
 ###  Vec<MapTypeV2>
 
-• **Vec<MapTypeV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MapTypeV2](_interfaces_metadata_types_.maptypev2.md)*›*
+• **Vec<MapTypeV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MapTypeV2](_interfaces_metadata_types_.maptypev2.md)›*
 
-*Defined in [interfaceRegistry.ts:753](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L753)*
+*Defined in [interfaceRegistry.ts:753](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L753)*
 
 ___
 
 ###  Vec<MapTypeV3>
 
-• **Vec<MapTypeV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MapTypeV3](_interfaceregistry_.interfaceregistry.md#maptypev3)*›*
+• **Vec<MapTypeV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MapTypeV3](_interfaceregistry_.interfaceregistry.md#maptypev3)›*
 
-*Defined in [interfaceRegistry.ts:774](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L774)*
+*Defined in [interfaceRegistry.ts:774](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L774)*
 
 ___
 
 ###  Vec<MapTypeV4>
 
-• **Vec<MapTypeV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MapTypeV4](_interfaces_metadata_types_.maptypev4.md)*›*
+• **Vec<MapTypeV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MapTypeV4](_interfaces_metadata_types_.maptypev4.md)›*
 
-*Defined in [interfaceRegistry.ts:795](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L795)*
+*Defined in [interfaceRegistry.ts:795](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L795)*
 
 ___
 
 ###  Vec<MapTypeV5>
 
-• **Vec<MapTypeV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MapTypeV5](_interfaceregistry_.interfaceregistry.md#maptypev5)*›*
+• **Vec<MapTypeV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MapTypeV5](_interfaceregistry_.interfaceregistry.md#maptypev5)›*
 
-*Defined in [interfaceRegistry.ts:816](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L816)*
+*Defined in [interfaceRegistry.ts:816](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L816)*
 
 ___
 
 ###  Vec<MapTypeV6>
 
-• **Vec<MapTypeV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MapTypeV6](_interfaceregistry_.interfaceregistry.md#maptypev6)*›*
+• **Vec<MapTypeV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MapTypeV6](_interfaceregistry_.interfaceregistry.md#maptypev6)›*
 
-*Defined in [interfaceRegistry.ts:837](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L837)*
+*Defined in [interfaceRegistry.ts:837](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L837)*
 
 ___
 
 ###  Vec<MapTypeV7>
 
-• **Vec<MapTypeV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MapTypeV7](_interfaceregistry_.interfaceregistry.md#maptypev7)*›*
+• **Vec<MapTypeV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MapTypeV7](_interfaceregistry_.interfaceregistry.md#maptypev7)›*
 
-*Defined in [interfaceRegistry.ts:861](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L861)*
+*Defined in [interfaceRegistry.ts:861](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L861)*
 
 ___
 
 ###  Vec<MemberCount>
 
-• **Vec<MemberCount>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MemberCount](_interfaceregistry_.interfaceregistry.md#membercount)*›*
+• **Vec<MemberCount>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MemberCount](_interfaceregistry_.interfaceregistry.md#membercount)›*
 
-*Defined in [interfaceRegistry.ts:303](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L303)*
+*Defined in [interfaceRegistry.ts:303](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L303)*
 
 ___
 
 ###  Vec<MetadataV0>
 
-• **Vec<MetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MetadataV0](_interfaces_metadata_types_.metadatav0.md)*›*
+• **Vec<MetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MetadataV0](_interfaces_metadata_types_.metadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:681](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L681)*
+*Defined in [interfaceRegistry.ts:681](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L681)*
 
 ___
 
 ###  Vec<MetadataV1>
 
-• **Vec<MetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MetadataV1](_interfaces_metadata_types_.metadatav1.md)*›*
+• **Vec<MetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MetadataV1](_interfaces_metadata_types_.metadatav1.md)›*
 
-*Defined in [interfaceRegistry.ts:729](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L729)*
+*Defined in [interfaceRegistry.ts:729](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L729)*
 
 ___
 
 ###  Vec<ModuleConstantMetadataV6>
 
-• **Vec<ModuleConstantMetadataV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ModuleConstantMetadataV6](_interfaces_metadata_types_.moduleconstantmetadatav6.md)*›*
+• **Vec<ModuleConstantMetadataV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ModuleConstantMetadataV6](_interfaces_metadata_types_.moduleconstantmetadatav6.md)›*
 
-*Defined in [interfaceRegistry.ts:840](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L840)*
+*Defined in [interfaceRegistry.ts:840](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L840)*
 
 ___
 
 ###  Vec<ModuleConstantMetadataV7>
 
-• **Vec<ModuleConstantMetadataV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ModuleConstantMetadataV7](_interfaceregistry_.interfaceregistry.md#moduleconstantmetadatav7)*›*
+• **Vec<ModuleConstantMetadataV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ModuleConstantMetadataV7](_interfaceregistry_.interfaceregistry.md#moduleconstantmetadatav7)›*
 
-*Defined in [interfaceRegistry.ts:864](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L864)*
+*Defined in [interfaceRegistry.ts:864](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L864)*
 
 ___
 
 ###  Vec<ModuleMetadataV0>
 
-• **Vec<ModuleMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ModuleMetadataV0](_interfaces_metadata_types_.modulemetadatav0.md)*›*
+• **Vec<ModuleMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ModuleMetadataV0](_interfaces_metadata_types_.modulemetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:684](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L684)*
+*Defined in [interfaceRegistry.ts:684](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L684)*
 
 ___
 
 ###  Vec<ModuleMetadataV1>
 
-• **Vec<ModuleMetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ModuleMetadataV1](_interfaces_metadata_types_.modulemetadatav1.md)*›*
+• **Vec<ModuleMetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ModuleMetadataV1](_interfaces_metadata_types_.modulemetadatav1.md)›*
 
-*Defined in [interfaceRegistry.ts:732](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L732)*
+*Defined in [interfaceRegistry.ts:732](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L732)*
 
 ___
 
 ###  Vec<Moment>
 
-• **Vec<Moment>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Moment](_interfaceregistry_.interfaceregistry.md#moment)*›*
+• **Vec<Moment>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Moment](_interfaceregistry_.interfaceregistry.md#moment)›*
 
-*Defined in [interfaceRegistry.ts:196](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L196)*
+*Defined in [interfaceRegistry.ts:196](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L196)*
 
 ___
 
 ###  Vec<MomentOf>
 
-• **Vec<MomentOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MomentOf](_interfaceregistry_.interfaceregistry.md#momentof)*›*
+• **Vec<MomentOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MomentOf](_interfaceregistry_.interfaceregistry.md#momentof)›*
 
-*Defined in [interfaceRegistry.ts:523](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L523)*
+*Defined in [interfaceRegistry.ts:523](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L523)*
 
 ___
 
 ###  Vec<MoreAttestations>
 
-• **Vec<MoreAttestations>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MoreAttestations](_interfaces_attestations_types_.moreattestations.md)*›*
+• **Vec<MoreAttestations>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MoreAttestations](_interfaces_attestations_types_.moreattestations.md)›*
 
-*Defined in [interfaceRegistry.ts:578](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L578)*
+*Defined in [interfaceRegistry.ts:578](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L578)*
 
 ___
 
 ###  Vec<MortalEra>
 
-• **Vec<MortalEra>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[MortalEra](../classes/_primitive_extrinsic_extrinsicera_.mortalera.md)*›*
+• **Vec<MortalEra>**: *[Vec](../classes/_codec_vec_.vec.md)‹[MortalEra](../classes/_primitive_extrinsic_extrinsicera_.mortalera.md)›*
 
-*Defined in [interfaceRegistry.ts:241](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L241)*
+*Defined in [interfaceRegistry.ts:241](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L241)*
 
 ___
 
 ###  Vec<NetworkState>
 
-• **Vec<NetworkState>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[NetworkState](_interfaces_rpc_types_.networkstate.md)*›*
+• **Vec<NetworkState>**: *[Vec](../classes/_codec_vec_.vec.md)‹[NetworkState](_interfaces_rpc_types_.networkstate.md)›*
 
-*Defined in [interfaceRegistry.ts:891](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L891)*
+*Defined in [interfaceRegistry.ts:891](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L891)*
 
 ___
 
 ###  Vec<NewAccountOutcome>
 
-• **Vec<NewAccountOutcome>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[NewAccountOutcome](_interfaces_deprecated_types_.newaccountoutcome.md)*›*
+• **Vec<NewAccountOutcome>**: *[Vec](../classes/_codec_vec_.vec.md)‹[NewAccountOutcome](_interfaces_deprecated_types_.newaccountoutcome.md)›*
 
-*Defined in [interfaceRegistry.ts:367](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L367)*
+*Defined in [interfaceRegistry.ts:367](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L367)*
 
 ___
 
 ###  Vec<NewBidder>
 
-• **Vec<NewBidder>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[NewBidder](_interfaces_parachains_types_.newbidder.md)*›*
+• **Vec<NewBidder>**: *[Vec](../classes/_codec_vec_.vec.md)‹[NewBidder](_interfaces_parachains_types_.newbidder.md)›*
 
-*Defined in [interfaceRegistry.ts:627](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L627)*
+*Defined in [interfaceRegistry.ts:627](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L627)*
 
 ___
 
 ###  Vec<NextAuthority>
 
-• **Vec<NextAuthority>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[NextAuthority](_interfaceregistry_.interfaceregistry.md#nextauthority)*›*
+• **Vec<NextAuthority>**: *[Vec](../classes/_codec_vec_.vec.md)‹[NextAuthority](_interfaceregistry_.interfaceregistry.md#nextauthority)›*
 
-*Defined in [interfaceRegistry.ts:432](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L432)*
+*Defined in [interfaceRegistry.ts:432](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L432)*
 
 ___
 
 ###  Vec<Null>
 
-• **Vec<Null>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Null](../classes/_primitive_null_.null.md)*›*
+• **Vec<Null>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Null](../classes/_primitive_null_.null.md)›*
 
-*Defined in [interfaceRegistry.ts:73](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L73)*
+*Defined in [interfaceRegistry.ts:73](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L73)*
 
 ___
 
 ###  Vec<OffenceDetails>
 
-• **Vec<OffenceDetails>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[OffenceDetails](_interfaces_offences_types_.offencedetails.md)*›*
+• **Vec<OffenceDetails>**: *[Vec](../classes/_codec_vec_.vec.md)‹[OffenceDetails](_interfaces_offences_types_.offencedetails.md)›*
 
-*Defined in [interfaceRegistry.ts:473](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L473)*
+*Defined in [interfaceRegistry.ts:473](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L473)*
 
 ___
 
 ###  Vec<Offender>
 
-• **Vec<Offender>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Offender](_interfaceregistry_.interfaceregistry.md#offender)*›*
+• **Vec<Offender>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Offender](_interfaceregistry_.interfaceregistry.md#offender)›*
 
-*Defined in [interfaceRegistry.ts:476](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L476)*
+*Defined in [interfaceRegistry.ts:476](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L476)*
 
 ___
 
 ###  Vec<OpaqueKey>
 
-• **Vec<OpaqueKey>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[OpaqueKey](_interfaceregistry_.interfaceregistry.md#opaquekey)*›*
+• **Vec<OpaqueKey>**: *[Vec](../classes/_codec_vec_.vec.md)‹[OpaqueKey](_interfaceregistry_.interfaceregistry.md#opaquekey)›*
 
-*Defined in [interfaceRegistry.ts:389](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L389)*
+*Defined in [interfaceRegistry.ts:389](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L389)*
 
 ___
 
 ###  Vec<OpaqueMultiaddr>
 
-• **Vec<OpaqueMultiaddr>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[OpaqueMultiaddr](_interfaceregistry_.interfaceregistry.md#opaquemultiaddr)*›*
+• **Vec<OpaqueMultiaddr>**: *[Vec](../classes/_codec_vec_.vec.md)‹[OpaqueMultiaddr](_interfaceregistry_.interfaceregistry.md#opaquemultiaddr)›*
 
-*Defined in [interfaceRegistry.ts:461](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L461)*
+*Defined in [interfaceRegistry.ts:461](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L461)*
 
 ___
 
 ###  Vec<OpaqueNetworkState>
 
-• **Vec<OpaqueNetworkState>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[OpaqueNetworkState](_interfaces_imonline_types_.opaquenetworkstate.md)*›*
+• **Vec<OpaqueNetworkState>**: *[Vec](../classes/_codec_vec_.vec.md)‹[OpaqueNetworkState](_interfaces_imonline_types_.opaquenetworkstate.md)›*
 
-*Defined in [interfaceRegistry.ts:467](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L467)*
+*Defined in [interfaceRegistry.ts:467](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L467)*
 
 ___
 
 ###  Vec<OpaquePeerId>
 
-• **Vec<OpaquePeerId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[OpaquePeerId](_interfaceregistry_.interfaceregistry.md#opaquepeerid)*›*
+• **Vec<OpaquePeerId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[OpaquePeerId](_interfaceregistry_.interfaceregistry.md#opaquepeerid)›*
 
-*Defined in [interfaceRegistry.ts:464](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L464)*
+*Defined in [interfaceRegistry.ts:464](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L464)*
 
 ___
 
 ###  Vec<OpaqueTimeSlot>
 
-• **Vec<OpaqueTimeSlot>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[OpaqueTimeSlot](_interfaceregistry_.interfaceregistry.md#opaquetimeslot)*›*
+• **Vec<OpaqueTimeSlot>**: *[Vec](../classes/_codec_vec_.vec.md)‹[OpaqueTimeSlot](_interfaceregistry_.interfaceregistry.md#opaquetimeslot)›*
 
-*Defined in [interfaceRegistry.ts:479](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L479)*
+*Defined in [interfaceRegistry.ts:479](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L479)*
 
 ___
 
 ###  Vec<Origin>
 
-• **Vec<Origin>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Origin](../classes/_primitive_generic_origin_.origin.md)*›*
+• **Vec<Origin>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Origin](../classes/_primitive_generic_origin_.origin.md)›*
 
-*Defined in [interfaceRegistry.ts:199](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L199)*
+*Defined in [interfaceRegistry.ts:199](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L199)*
 
 ___
 
 ###  Vec<OuterDispatchCallV0>
 
-• **Vec<OuterDispatchCallV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[OuterDispatchCallV0](_interfaces_metadata_types_.outerdispatchcallv0.md)*›*
+• **Vec<OuterDispatchCallV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[OuterDispatchCallV0](_interfaces_metadata_types_.outerdispatchcallv0.md)›*
 
-*Defined in [interfaceRegistry.ts:687](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L687)*
+*Defined in [interfaceRegistry.ts:687](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L687)*
 
 ___
 
 ###  Vec<OuterDispatchMetadataV0>
 
-• **Vec<OuterDispatchMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[OuterDispatchMetadataV0](_interfaces_metadata_types_.outerdispatchmetadatav0.md)*›*
+• **Vec<OuterDispatchMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[OuterDispatchMetadataV0](_interfaces_metadata_types_.outerdispatchmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:690](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L690)*
+*Defined in [interfaceRegistry.ts:690](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L690)*
 
 ___
 
 ###  Vec<OuterEventEventMetadataEventsV0>
 
-• **Vec<OuterEventEventMetadataEventsV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[OuterEventEventMetadataEventsV0](_interfaceregistry_.interfaceregistry.md#outereventeventmetadataeventsv0)*›*
+• **Vec<OuterEventEventMetadataEventsV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[OuterEventEventMetadataEventsV0](_interfaceregistry_.interfaceregistry.md#outereventeventmetadataeventsv0)›*
 
-*Defined in [interfaceRegistry.ts:693](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L693)*
+*Defined in [interfaceRegistry.ts:693](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L693)*
 
 ___
 
 ###  Vec<OuterEventEventMetadataV0>
 
-• **Vec<OuterEventEventMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[OuterEventEventMetadataV0](_interfaceregistry_.interfaceregistry.md#outereventeventmetadatav0)*›*
+• **Vec<OuterEventEventMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[OuterEventEventMetadataV0](_interfaceregistry_.interfaceregistry.md#outereventeventmetadatav0)›*
 
-*Defined in [interfaceRegistry.ts:696](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L696)*
+*Defined in [interfaceRegistry.ts:696](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L696)*
 
 ___
 
 ###  Vec<OuterEventMetadataV0>
 
-• **Vec<OuterEventMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[OuterEventMetadataV0](_interfaces_metadata_types_.outereventmetadatav0.md)*›*
+• **Vec<OuterEventMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[OuterEventMetadataV0](_interfaces_metadata_types_.outereventmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:699](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L699)*
+*Defined in [interfaceRegistry.ts:699](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L699)*
 
 ___
 
 ###  Vec<Owner>
 
-• **Vec<Owner>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Owner](_interfaces_genericasset_types_.owner.md)*›*
+• **Vec<Owner>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Owner](_interfaces_genericasset_types_.owner.md)›*
 
-*Defined in [interfaceRegistry.ts:416](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L416)*
+*Defined in [interfaceRegistry.ts:416](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L416)*
 
 ___
 
 ###  Vec<ParaId>
 
-• **Vec<ParaId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ParaId](_interfaceregistry_.interfaceregistry.md#paraid)*›*
+• **Vec<ParaId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ParaId](_interfaceregistry_.interfaceregistry.md#paraid)›*
 
-*Defined in [interfaceRegistry.ts:631](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L631)*
+*Defined in [interfaceRegistry.ts:631](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L631)*
 
 ___
 
 ###  Vec<ParaIdOf>
 
-• **Vec<ParaIdOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ParaIdOf](_interfaceregistry_.interfaceregistry.md#paraidof)*›*
+• **Vec<ParaIdOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ParaIdOf](_interfaceregistry_.interfaceregistry.md#paraidof)›*
 
-*Defined in [interfaceRegistry.ts:634](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L634)*
+*Defined in [interfaceRegistry.ts:634](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L634)*
 
 ___
 
 ###  Vec<ParachainDispatchOrigin>
 
-• **Vec<ParachainDispatchOrigin>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ParachainDispatchOrigin](_interfaces_parachains_types_.parachaindispatchorigin.md)*›*
+• **Vec<ParachainDispatchOrigin>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ParachainDispatchOrigin](_interfaces_parachains_types_.parachaindispatchorigin.md)›*
 
-*Defined in [interfaceRegistry.ts:637](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L637)*
+*Defined in [interfaceRegistry.ts:637](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L637)*
 
 ___
 
 ###  Vec<PeerInfo>
 
-• **Vec<PeerInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PeerInfo](_interfaces_rpc_types_.peerinfo.md)*›*
+• **Vec<PeerInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PeerInfo](_interfaces_rpc_types_.peerinfo.md)›*
 
-*Defined in [interfaceRegistry.ts:894](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L894)*
+*Defined in [interfaceRegistry.ts:894](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L894)*
 
 ___
 
 ###  Vec<PendingPause>
 
-• **Vec<PendingPause>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PendingPause](_interfaces_grandpa_types_.pendingpause.md)*›*
+• **Vec<PendingPause>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PendingPause](_interfaces_grandpa_types_.pendingpause.md)›*
 
-*Defined in [interfaceRegistry.ts:435](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L435)*
+*Defined in [interfaceRegistry.ts:435](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L435)*
 
 ___
 
 ###  Vec<PendingResume>
 
-• **Vec<PendingResume>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PendingResume](_interfaces_grandpa_types_.pendingresume.md)*›*
+• **Vec<PendingResume>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PendingResume](_interfaces_grandpa_types_.pendingresume.md)›*
 
-*Defined in [interfaceRegistry.ts:438](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L438)*
+*Defined in [interfaceRegistry.ts:438](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L438)*
 
 ___
 
 ###  Vec<Perbill>
 
-• **Vec<Perbill>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Perbill](_interfaceregistry_.interfaceregistry.md#perbill)*›*
+• **Vec<Perbill>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Perbill](_interfaceregistry_.interfaceregistry.md#perbill)›*
 
-*Defined in [interfaceRegistry.ts:203](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L203)*
+*Defined in [interfaceRegistry.ts:203](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L203)*
 
 ___
 
 ###  Vec<Permill>
 
-• **Vec<Permill>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Permill](_interfaceregistry_.interfaceregistry.md#permill)*›*
+• **Vec<Permill>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Permill](_interfaceregistry_.interfaceregistry.md#permill)›*
 
-*Defined in [interfaceRegistry.ts:207](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L207)*
+*Defined in [interfaceRegistry.ts:207](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L207)*
 
 ___
 
 ###  Vec<PermissionLatest>
 
-• **Vec<PermissionLatest>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PermissionLatest](_interfaceregistry_.interfaceregistry.md#permissionlatest)*›*
+• **Vec<PermissionLatest>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PermissionLatest](_interfaceregistry_.interfaceregistry.md#permissionlatest)›*
 
-*Defined in [interfaceRegistry.ts:425](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L425)*
+*Defined in [interfaceRegistry.ts:425](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L425)*
 
 ___
 
 ###  Vec<PermissionVersions>
 
-• **Vec<PermissionVersions>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PermissionVersions](_interfaces_genericasset_types_.permissionversions.md)*›*
+• **Vec<PermissionVersions>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PermissionVersions](_interfaces_genericasset_types_.permissionversions.md)›*
 
-*Defined in [interfaceRegistry.ts:422](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L422)*
+*Defined in [interfaceRegistry.ts:422](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L422)*
 
 ___
 
 ###  Vec<PermissionsV1>
 
-• **Vec<PermissionsV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PermissionsV1](_interfaces_genericasset_types_.permissionsv1.md)*›*
+• **Vec<PermissionsV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PermissionsV1](_interfaces_genericasset_types_.permissionsv1.md)›*
 
-*Defined in [interfaceRegistry.ts:419](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L419)*
+*Defined in [interfaceRegistry.ts:419](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L419)*
 
 ___
 
 ###  Vec<Phantom>
 
-• **Vec<Phantom>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Phantom](_interfaceregistry_.interfaceregistry.md#phantom)*›*
+• **Vec<Phantom>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Phantom](_interfaceregistry_.interfaceregistry.md#phantom)›*
 
-*Defined in [interfaceRegistry.ts:210](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L210)*
+*Defined in [interfaceRegistry.ts:210](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L210)*
 
 ___
 
 ###  Vec<PhantomData>
 
-• **Vec<PhantomData>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PhantomData](_interfaceregistry_.interfaceregistry.md#phantomdata)*›*
+• **Vec<PhantomData>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PhantomData](_interfaceregistry_.interfaceregistry.md#phantomdata)›*
 
-*Defined in [interfaceRegistry.ts:213](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L213)*
+*Defined in [interfaceRegistry.ts:213](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L213)*
 
 ___
 
 ###  Vec<Phase>
 
-• **Vec<Phase>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Phase](_interfaces_system_types_.phase.md)*›*
+• **Vec<Phase>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Phase](_interfaces_system_types_.phase.md)›*
 
-*Defined in [interfaceRegistry.ts:566](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L566)*
+*Defined in [interfaceRegistry.ts:566](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L566)*
 
 ___
 
 ###  Vec<PlainTypeV0>
 
-• **Vec<PlainTypeV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PlainTypeV0](_interfaceregistry_.interfaceregistry.md#plaintypev0)*›*
+• **Vec<PlainTypeV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PlainTypeV0](_interfaceregistry_.interfaceregistry.md#plaintypev0)›*
 
-*Defined in [interfaceRegistry.ts:702](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L702)*
+*Defined in [interfaceRegistry.ts:702](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L702)*
 
 ___
 
 ###  Vec<PlainTypeV2>
 
-• **Vec<PlainTypeV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PlainTypeV2](_interfaceregistry_.interfaceregistry.md#plaintypev2)*›*
+• **Vec<PlainTypeV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PlainTypeV2](_interfaceregistry_.interfaceregistry.md#plaintypev2)›*
 
-*Defined in [interfaceRegistry.ts:756](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L756)*
+*Defined in [interfaceRegistry.ts:756](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L756)*
 
 ___
 
 ###  Vec<PlainTypeV3>
 
-• **Vec<PlainTypeV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PlainTypeV3](_interfaceregistry_.interfaceregistry.md#plaintypev3)*›*
+• **Vec<PlainTypeV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PlainTypeV3](_interfaceregistry_.interfaceregistry.md#plaintypev3)›*
 
-*Defined in [interfaceRegistry.ts:777](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L777)*
+*Defined in [interfaceRegistry.ts:777](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L777)*
 
 ___
 
 ###  Vec<PlainTypeV4>
 
-• **Vec<PlainTypeV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PlainTypeV4](_interfaceregistry_.interfaceregistry.md#plaintypev4)*›*
+• **Vec<PlainTypeV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PlainTypeV4](_interfaceregistry_.interfaceregistry.md#plaintypev4)›*
 
-*Defined in [interfaceRegistry.ts:798](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L798)*
+*Defined in [interfaceRegistry.ts:798](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L798)*
 
 ___
 
 ###  Vec<PlainTypeV5>
 
-• **Vec<PlainTypeV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PlainTypeV5](_interfaceregistry_.interfaceregistry.md#plaintypev5)*›*
+• **Vec<PlainTypeV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PlainTypeV5](_interfaceregistry_.interfaceregistry.md#plaintypev5)›*
 
-*Defined in [interfaceRegistry.ts:819](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L819)*
+*Defined in [interfaceRegistry.ts:819](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L819)*
 
 ___
 
 ###  Vec<PlainTypeV6>
 
-• **Vec<PlainTypeV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PlainTypeV6](_interfaceregistry_.interfaceregistry.md#plaintypev6)*›*
+• **Vec<PlainTypeV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PlainTypeV6](_interfaceregistry_.interfaceregistry.md#plaintypev6)›*
 
-*Defined in [interfaceRegistry.ts:843](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L843)*
+*Defined in [interfaceRegistry.ts:843](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L843)*
 
 ___
 
 ###  Vec<PlainTypeV7>
 
-• **Vec<PlainTypeV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PlainTypeV7](_interfaceregistry_.interfaceregistry.md#plaintypev7)*›*
+• **Vec<PlainTypeV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PlainTypeV7](_interfaceregistry_.interfaceregistry.md#plaintypev7)›*
 
-*Defined in [interfaceRegistry.ts:867](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L867)*
+*Defined in [interfaceRegistry.ts:867](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L867)*
 
 ___
 
 ###  Vec<PreRuntime>
 
-• **Vec<PreRuntime>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PreRuntime](_interfaceregistry_.interfaceregistry.md#preruntime)*›*
+• **Vec<PreRuntime>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PreRuntime](_interfaceregistry_.interfaceregistry.md#preruntime)›*
 
-*Defined in [interfaceRegistry.ts:244](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L244)*
+*Defined in [interfaceRegistry.ts:244](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L244)*
 
 ___
 
 ###  Vec<PrefabWasmModule>
 
-• **Vec<PrefabWasmModule>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PrefabWasmModule](_interfaces_contracts_types_.prefabwasmmodule.md)*›*
+• **Vec<PrefabWasmModule>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PrefabWasmModule](_interfaces_contracts_types_.prefabwasmmodule.md)›*
 
-*Defined in [interfaceRegistry.ts:332](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L332)*
+*Defined in [interfaceRegistry.ts:332](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L332)*
 
 ___
 
 ###  Vec<PrefabWasmModuleReserved>
 
-• **Vec<PrefabWasmModuleReserved>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PrefabWasmModuleReserved](_interfaceregistry_.interfaceregistry.md#prefabwasmmodulereserved)*›*
+• **Vec<PrefabWasmModuleReserved>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PrefabWasmModuleReserved](_interfaceregistry_.interfaceregistry.md#prefabwasmmodulereserved)›*
 
-*Defined in [interfaceRegistry.ts:335](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L335)*
+*Defined in [interfaceRegistry.ts:335](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L335)*
 
 ___
 
 ###  Vec<PropIndex>
 
-• **Vec<PropIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[PropIndex](_interfaceregistry_.interfaceregistry.md#propindex)*›*
+• **Vec<PropIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[PropIndex](_interfaceregistry_.interfaceregistry.md#propindex)›*
 
-*Defined in [interfaceRegistry.ts:354](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L354)*
+*Defined in [interfaceRegistry.ts:354](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L354)*
 
 ___
 
 ###  Vec<Proposal>
 
-• **Vec<Proposal>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Proposal](_interfaceregistry_.interfaceregistry.md#proposal)*›*
+• **Vec<Proposal>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Proposal](_interfaceregistry_.interfaceregistry.md#proposal)›*
 
-*Defined in [interfaceRegistry.ts:357](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L357)*
+*Defined in [interfaceRegistry.ts:357](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L357)*
 
 ___
 
 ###  Vec<ProposalIndex>
 
-• **Vec<ProposalIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ProposalIndex](_interfaceregistry_.interfaceregistry.md#proposalindex)*›*
+• **Vec<ProposalIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ProposalIndex](_interfaceregistry_.interfaceregistry.md#proposalindex)›*
 
-*Defined in [interfaceRegistry.ts:307](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L307)*
+*Defined in [interfaceRegistry.ts:307](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L307)*
 
 ___
 
 ###  Vec<RawAuraPreDigest>
 
-• **Vec<RawAuraPreDigest>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[RawAuraPreDigest](_interfaces_aura_types_.rawaurapredigest.md)*›*
+• **Vec<RawAuraPreDigest>**: *[Vec](../classes/_codec_vec_.vec.md)‹[RawAuraPreDigest](_interfaces_aura_types_.rawaurapredigest.md)›*
 
-*Defined in [interfaceRegistry.ts:265](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L265)*
+*Defined in [interfaceRegistry.ts:265](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L265)*
 
 ___
 
 ###  Vec<RawBabePreDigest>
 
-• **Vec<RawBabePreDigest>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[RawBabePreDigest](_interfaces_babe_types_.rawbabepredigest.md)*›*
+• **Vec<RawBabePreDigest>**: *[Vec](../classes/_codec_vec_.vec.md)‹[RawBabePreDigest](_interfaces_babe_types_.rawbabepredigest.md)›*
 
-*Defined in [interfaceRegistry.ts:280](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L280)*
+*Defined in [interfaceRegistry.ts:280](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L280)*
 
 ___
 
 ###  Vec<RawBabePreDigestPrimary>
 
-• **Vec<RawBabePreDigestPrimary>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[RawBabePreDigestPrimary](_interfaces_babe_types_.rawbabepredigestprimary.md)*›*
+• **Vec<RawBabePreDigestPrimary>**: *[Vec](../classes/_codec_vec_.vec.md)‹[RawBabePreDigestPrimary](_interfaces_babe_types_.rawbabepredigestprimary.md)›*
 
-*Defined in [interfaceRegistry.ts:283](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L283)*
+*Defined in [interfaceRegistry.ts:283](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L283)*
 
 ___
 
 ###  Vec<RawBabePreDigestSecondary>
 
-• **Vec<RawBabePreDigestSecondary>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[RawBabePreDigestSecondary](_interfaces_babe_types_.rawbabepredigestsecondary.md)*›*
+• **Vec<RawBabePreDigestSecondary>**: *[Vec](../classes/_codec_vec_.vec.md)‹[RawBabePreDigestSecondary](_interfaces_babe_types_.rawbabepredigestsecondary.md)›*
 
-*Defined in [interfaceRegistry.ts:286](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L286)*
+*Defined in [interfaceRegistry.ts:286](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L286)*
 
 ___
 
 ###  Vec<ReferendumIndex>
 
-• **Vec<ReferendumIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ReferendumIndex](_interfaceregistry_.interfaceregistry.md#referendumindex)*›*
+• **Vec<ReferendumIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ReferendumIndex](_interfaceregistry_.interfaceregistry.md#referendumindex)›*
 
-*Defined in [interfaceRegistry.ts:361](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L361)*
+*Defined in [interfaceRegistry.ts:361](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L361)*
 
 ___
 
 ###  Vec<ReferendumInfo>
 
-• **Vec<ReferendumInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ReferendumInfo](_interfaces_democracy_types_.referenduminfo.md)*›*
+• **Vec<ReferendumInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ReferendumInfo](_interfaces_democracy_types_.referenduminfo.md)›*
 
-*Defined in [interfaceRegistry.ts:364](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L364)*
+*Defined in [interfaceRegistry.ts:364](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L364)*
 
 ___
 
 ###  Vec<ReportIdOf>
 
-• **Vec<ReportIdOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ReportIdOf](_interfaceregistry_.interfaceregistry.md#reportidof)*›*
+• **Vec<ReportIdOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ReportIdOf](_interfaceregistry_.interfaceregistry.md#reportidof)›*
 
-*Defined in [interfaceRegistry.ts:482](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L482)*
+*Defined in [interfaceRegistry.ts:482](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L482)*
 
 ___
 
 ###  Vec<Reporter>
 
-• **Vec<Reporter>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Reporter](_interfaceregistry_.interfaceregistry.md#reporter)*›*
+• **Vec<Reporter>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Reporter](_interfaceregistry_.interfaceregistry.md#reporter)›*
 
-*Defined in [interfaceRegistry.ts:485](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L485)*
+*Defined in [interfaceRegistry.ts:485](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L485)*
 
 ___
 
 ###  Vec<RewardDestination>
 
-• **Vec<RewardDestination>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[RewardDestination](_interfaces_staking_types_.rewarddestination.md)*›*
+• **Vec<RewardDestination>**: *[Vec](../classes/_codec_vec_.vec.md)‹[RewardDestination](_interfaces_staking_types_.rewarddestination.md)›*
 
-*Defined in [interfaceRegistry.ts:526](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L526)*
+*Defined in [interfaceRegistry.ts:526](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L526)*
 
 ___
 
 ###  Vec<RuntimeModuleMetadataV0>
 
-• **Vec<RuntimeModuleMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[RuntimeModuleMetadataV0](_interfaces_metadata_types_.runtimemodulemetadatav0.md)*›*
+• **Vec<RuntimeModuleMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[RuntimeModuleMetadataV0](_interfaces_metadata_types_.runtimemodulemetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:705](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L705)*
+*Defined in [interfaceRegistry.ts:705](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L705)*
 
 ___
 
 ###  Vec<RuntimeVersion>
 
-• **Vec<RuntimeVersion>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[RuntimeVersion](_interfaces_rpc_types_.runtimeversion.md)*›*
+• **Vec<RuntimeVersion>**: *[Vec](../classes/_codec_vec_.vec.md)‹[RuntimeVersion](_interfaces_rpc_types_.runtimeversion.md)›*
 
-*Defined in [interfaceRegistry.ts:900](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L900)*
+*Defined in [interfaceRegistry.ts:900](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L900)*
 
 ___
 
 ###  Vec<RuntimeVersionApi>
 
-• **Vec<RuntimeVersionApi>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[RuntimeVersionApi](_interfaceregistry_.interfaceregistry.md#runtimeversionapi)*›*
+• **Vec<RuntimeVersionApi>**: *[Vec](../classes/_codec_vec_.vec.md)‹[RuntimeVersionApi](_interfaceregistry_.interfaceregistry.md#runtimeversionapi)›*
 
-*Defined in [interfaceRegistry.ts:897](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L897)*
+*Defined in [interfaceRegistry.ts:897](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L897)*
 
 ___
 
 ###  Vec<Schedule>
 
-• **Vec<Schedule>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Schedule](_interfaces_contracts_types_.schedule.md)*›*
+• **Vec<Schedule>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Schedule](_interfaces_contracts_types_.schedule.md)›*
 
-*Defined in [interfaceRegistry.ts:338](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L338)*
+*Defined in [interfaceRegistry.ts:338](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L338)*
 
 ___
 
 ###  Vec<Seal>
 
-• **Vec<Seal>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Seal](_interfaceregistry_.interfaceregistry.md#seal)*›*
+• **Vec<Seal>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Seal](_interfaceregistry_.interfaceregistry.md#seal)›*
 
-*Defined in [interfaceRegistry.ts:250](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L250)*
+*Defined in [interfaceRegistry.ts:250](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L250)*
 
 ___
 
 ###  Vec<SealV0>
 
-• **Vec<SealV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SealV0](_interfaceregistry_.interfaceregistry.md#sealv0)*›*
+• **Vec<SealV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SealV0](_interfaceregistry_.interfaceregistry.md#sealv0)›*
 
-*Defined in [interfaceRegistry.ts:247](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L247)*
+*Defined in [interfaceRegistry.ts:247](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L247)*
 
 ___
 
 ###  Vec<SeedOf>
 
-• **Vec<SeedOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SeedOf](_interfaceregistry_.interfaceregistry.md#seedof)*›*
+• **Vec<SeedOf>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SeedOf](_interfaceregistry_.interfaceregistry.md#seedof)›*
 
-*Defined in [interfaceRegistry.ts:341](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L341)*
+*Defined in [interfaceRegistry.ts:341](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L341)*
 
 ___
 
 ###  Vec<SessionIndex>
 
-• **Vec<SessionIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SessionIndex](_interfaceregistry_.interfaceregistry.md#sessionindex)*›*
+• **Vec<SessionIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SessionIndex](_interfaceregistry_.interfaceregistry.md#sessionindex)›*
 
-*Defined in [interfaceRegistry.ts:495](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L495)*
+*Defined in [interfaceRegistry.ts:495](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L495)*
 
 ___
 
 ###  Vec<SessionKey>
 
-• **Vec<SessionKey>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SessionKey](_interfaceregistry_.interfaceregistry.md#sessionkey)*›*
+• **Vec<SessionKey>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SessionKey](_interfaceregistry_.interfaceregistry.md#sessionkey)›*
 
-*Defined in [interfaceRegistry.ts:386](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L386)*
+*Defined in [interfaceRegistry.ts:386](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L386)*
 
 ___
 
 ###  Vec<SessionKeysPolkadot>
 
-• **Vec<SessionKeysPolkadot>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SessionKeysPolkadot](_interfaceregistry_.interfaceregistry.md#sessionkeyspolkadot)*›*
+• **Vec<SessionKeysPolkadot>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SessionKeysPolkadot](_interfaceregistry_.interfaceregistry.md#sessionkeyspolkadot)›*
 
-*Defined in [interfaceRegistry.ts:504](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L504)*
+*Defined in [interfaceRegistry.ts:504](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L504)*
 
 ___
 
 ###  Vec<SessionKeysSubstrate>
 
-• **Vec<SessionKeysSubstrate>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SessionKeysSubstrate](_interfaceregistry_.interfaceregistry.md#sessionkeyssubstrate)*›*
+• **Vec<SessionKeysSubstrate>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SessionKeysSubstrate](_interfaceregistry_.interfaceregistry.md#sessionkeyssubstrate)›*
 
-*Defined in [interfaceRegistry.ts:501](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L501)*
+*Defined in [interfaceRegistry.ts:501](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L501)*
 
 ___
 
 ###  Vec<SetId>
 
-• **Vec<SetId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SetId](_interfaceregistry_.interfaceregistry.md#setid)*›*
+• **Vec<SetId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SetId](_interfaceregistry_.interfaceregistry.md#setid)›*
 
-*Defined in [interfaceRegistry.ts:442](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L442)*
+*Defined in [interfaceRegistry.ts:442](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L442)*
 
 ___
 
 ###  Vec<SetIndex>
 
-• **Vec<SetIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SetIndex](_interfaceregistry_.interfaceregistry.md#setindex)*›*
+• **Vec<SetIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SetIndex](_interfaceregistry_.interfaceregistry.md#setindex)›*
 
-*Defined in [interfaceRegistry.ts:397](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L397)*
+*Defined in [interfaceRegistry.ts:397](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L397)*
 
 ___
 
 ###  Vec<Signature>
 
-• **Vec<Signature>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Signature](_interfaceregistry_.interfaceregistry.md#signature)*›*
+• **Vec<Signature>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Signature](_interfaceregistry_.interfaceregistry.md#signature)›*
 
-*Defined in [interfaceRegistry.ts:216](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L216)*
+*Defined in [interfaceRegistry.ts:216](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L216)*
 
 ___
 
 ###  Vec<SignedBlock>
 
-• **Vec<SignedBlock>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SignedBlock](_interfaces_runtime_types_.signedblock.md)*›*
+• **Vec<SignedBlock>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SignedBlock](_interfaces_runtime_types_.signedblock.md)›*
 
-*Defined in [interfaceRegistry.ts:219](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L219)*
+*Defined in [interfaceRegistry.ts:219](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L219)*
 
 ___
 
 ###  Vec<SlashJournalEntry>
 
-• **Vec<SlashJournalEntry>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SlashJournalEntry](_interfaces_staking_types_.slashjournalentry.md)*›*
+• **Vec<SlashJournalEntry>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SlashJournalEntry](_interfaces_staking_types_.slashjournalentry.md)›*
 
-*Defined in [interfaceRegistry.ts:529](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L529)*
+*Defined in [interfaceRegistry.ts:529](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L529)*
 
 ___
 
 ###  Vec<SlotNumber>
 
-• **Vec<SlotNumber>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SlotNumber](_interfaceregistry_.interfaceregistry.md#slotnumber)*›*
+• **Vec<SlotNumber>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SlotNumber](_interfaceregistry_.interfaceregistry.md#slotnumber)›*
 
-*Defined in [interfaceRegistry.ts:290](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L290)*
+*Defined in [interfaceRegistry.ts:290](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L290)*
 
 ___
 
 ###  Vec<SlotRange>
 
-• **Vec<SlotRange>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SlotRange](_interfaces_parachains_types_.slotrange.md)*›*
+• **Vec<SlotRange>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SlotRange](_interfaces_parachains_types_.slotrange.md)›*
 
-*Defined in [interfaceRegistry.ts:640](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L640)*
+*Defined in [interfaceRegistry.ts:640](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L640)*
 
 ___
 
 ###  Vec<Sr25519Signature>
 
-• **Vec<Sr25519Signature>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Sr25519Signature](_interfaceregistry_.interfaceregistry.md#sr25519signature)*›*
+• **Vec<Sr25519Signature>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Sr25519Signature](_interfaceregistry_.interfaceregistry.md#sr25519signature)›*
 
-*Defined in [interfaceRegistry.ts:235](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L235)*
+*Defined in [interfaceRegistry.ts:235](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L235)*
 
 ___
 
 ###  Vec<StakingLedger>
 
-• **Vec<StakingLedger>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StakingLedger](_interfaces_staking_types_.stakingledger.md)*›*
+• **Vec<StakingLedger>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StakingLedger](_interfaces_staking_types_.stakingledger.md)›*
 
-*Defined in [interfaceRegistry.ts:532](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L532)*
+*Defined in [interfaceRegistry.ts:532](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L532)*
 
 ___
 
 ###  Vec<StorageChangeSet>
 
-• **Vec<StorageChangeSet>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageChangeSet](_interfaces_rpc_types_.storagechangeset.md)*›*
+• **Vec<StorageChangeSet>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageChangeSet](_interfaces_rpc_types_.storagechangeset.md)›*
 
-*Defined in [interfaceRegistry.ts:903](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L903)*
+*Defined in [interfaceRegistry.ts:903](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L903)*
 
 ___
 
 ###  Vec<StorageData>
 
-• **Vec<StorageData>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageData](../classes/_primitive_storagedata_.storagedata.md)*›*
+• **Vec<StorageData>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageData](../classes/_primitive_storagedata_.storagedata.md)›*
 
-*Defined in [interfaceRegistry.ts:76](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L76)*
+*Defined in [interfaceRegistry.ts:76](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L76)*
 
 ___
 
 ###  Vec<StorageEntryModifierV6>
 
-• **Vec<StorageEntryModifierV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageEntryModifierV6](_interfaceregistry_.interfaceregistry.md#storageentrymodifierv6)*›*
+• **Vec<StorageEntryModifierV6>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageEntryModifierV6](_interfaceregistry_.interfaceregistry.md#storageentrymodifierv6)›*
 
-*Defined in [interfaceRegistry.ts:846](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L846)*
+*Defined in [interfaceRegistry.ts:846](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L846)*
 
 ___
 
 ###  Vec<StorageEntryModifierV7>
 
-• **Vec<StorageEntryModifierV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageEntryModifierV7](_interfaceregistry_.interfaceregistry.md#storageentrymodifierv7)*›*
+• **Vec<StorageEntryModifierV7>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageEntryModifierV7](_interfaceregistry_.interfaceregistry.md#storageentrymodifierv7)›*
 
-*Defined in [interfaceRegistry.ts:870](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L870)*
+*Defined in [interfaceRegistry.ts:870](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L870)*
 
 ___
 
 ###  Vec<StorageFunctionMetadataV0>
 
-• **Vec<StorageFunctionMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageFunctionMetadataV0](_interfaces_metadata_types_.storagefunctionmetadatav0.md)*›*
+• **Vec<StorageFunctionMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageFunctionMetadataV0](_interfaces_metadata_types_.storagefunctionmetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:708](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L708)*
+*Defined in [interfaceRegistry.ts:708](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L708)*
 
 ___
 
 ###  Vec<StorageFunctionMetadataV1>
 
-• **Vec<StorageFunctionMetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageFunctionMetadataV1](_interfaceregistry_.interfaceregistry.md#storagefunctionmetadatav1)*›*
+• **Vec<StorageFunctionMetadataV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageFunctionMetadataV1](_interfaceregistry_.interfaceregistry.md#storagefunctionmetadatav1)›*
 
-*Defined in [interfaceRegistry.ts:735](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L735)*
+*Defined in [interfaceRegistry.ts:735](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L735)*
 
 ___
 
 ###  Vec<StorageFunctionModifierV0>
 
-• **Vec<StorageFunctionModifierV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageFunctionModifierV0](_interfaces_metadata_types_.storagefunctionmodifierv0.md)*›*
+• **Vec<StorageFunctionModifierV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageFunctionModifierV0](_interfaces_metadata_types_.storagefunctionmodifierv0.md)›*
 
-*Defined in [interfaceRegistry.ts:711](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L711)*
+*Defined in [interfaceRegistry.ts:711](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L711)*
 
 ___
 
 ###  Vec<StorageFunctionModifierV1>
 
-• **Vec<StorageFunctionModifierV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageFunctionModifierV1](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv1)*›*
+• **Vec<StorageFunctionModifierV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageFunctionModifierV1](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv1)›*
 
-*Defined in [interfaceRegistry.ts:738](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L738)*
+*Defined in [interfaceRegistry.ts:738](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L738)*
 
 ___
 
 ###  Vec<StorageFunctionModifierV2>
 
-• **Vec<StorageFunctionModifierV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageFunctionModifierV2](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv2)*›*
+• **Vec<StorageFunctionModifierV2>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageFunctionModifierV2](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv2)›*
 
-*Defined in [interfaceRegistry.ts:759](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L759)*
+*Defined in [interfaceRegistry.ts:759](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L759)*
 
 ___
 
 ###  Vec<StorageFunctionModifierV3>
 
-• **Vec<StorageFunctionModifierV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageFunctionModifierV3](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv3)*›*
+• **Vec<StorageFunctionModifierV3>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageFunctionModifierV3](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv3)›*
 
-*Defined in [interfaceRegistry.ts:780](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L780)*
+*Defined in [interfaceRegistry.ts:780](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L780)*
 
 ___
 
 ###  Vec<StorageFunctionModifierV4>
 
-• **Vec<StorageFunctionModifierV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageFunctionModifierV4](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv4)*›*
+• **Vec<StorageFunctionModifierV4>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageFunctionModifierV4](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv4)›*
 
-*Defined in [interfaceRegistry.ts:801](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L801)*
+*Defined in [interfaceRegistry.ts:801](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L801)*
 
 ___
 
 ###  Vec<StorageFunctionModifierV5>
 
-• **Vec<StorageFunctionModifierV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageFunctionModifierV5](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv5)*›*
+• **Vec<StorageFunctionModifierV5>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageFunctionModifierV5](_interfaceregistry_.interfaceregistry.md#storagefunctionmodifierv5)›*
 
-*Defined in [interfaceRegistry.ts:822](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L822)*
+*Defined in [interfaceRegistry.ts:822](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L822)*
 
 ___
 
 ###  Vec<StorageFunctionTypeV0>
 
-• **Vec<StorageFunctionTypeV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageFunctionTypeV0](_interfaces_metadata_types_.storagefunctiontypev0.md)*›*
+• **Vec<StorageFunctionTypeV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageFunctionTypeV0](_interfaces_metadata_types_.storagefunctiontypev0.md)›*
 
-*Defined in [interfaceRegistry.ts:714](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L714)*
+*Defined in [interfaceRegistry.ts:714](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L714)*
 
 ___
 
 ###  Vec<StorageFunctionTypeV1>
 
-• **Vec<StorageFunctionTypeV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageFunctionTypeV1](_interfaceregistry_.interfaceregistry.md#storagefunctiontypev1)*›*
+• **Vec<StorageFunctionTypeV1>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageFunctionTypeV1](_interfaceregistry_.interfaceregistry.md#storagefunctiontypev1)›*
 
-*Defined in [interfaceRegistry.ts:741](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L741)*
+*Defined in [interfaceRegistry.ts:741](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L741)*
 
 ___
 
 ###  Vec<StorageHasher>
 
-• **Vec<StorageHasher>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageHasher](../classes/_primitive_storagehasher_.storagehasher.md)*›*
+• **Vec<StorageHasher>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageHasher](../classes/_primitive_storagehasher_.storagehasher.md)›*
 
-*Defined in [interfaceRegistry.ts:79](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L79)*
+*Defined in [interfaceRegistry.ts:79](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L79)*
 
 ___
 
 ###  Vec<StorageKey>
 
-• **Vec<StorageKey>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageKey](../classes/_primitive_storagekey_.storagekey.md)*›*
+• **Vec<StorageKey>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageKey](../classes/_primitive_storagekey_.storagekey.md)›*
 
-*Defined in [interfaceRegistry.ts:82](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L82)*
+*Defined in [interfaceRegistry.ts:82](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L82)*
 
 ___
 
 ###  Vec<StorageMetadataV0>
 
-• **Vec<StorageMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StorageMetadataV0](_interfaces_metadata_types_.storagemetadatav0.md)*›*
+• **Vec<StorageMetadataV0>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StorageMetadataV0](_interfaces_metadata_types_.storagemetadatav0.md)›*
 
-*Defined in [interfaceRegistry.ts:717](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L717)*
+*Defined in [interfaceRegistry.ts:717](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L717)*
 
 ___
 
 ###  Vec<StoredPendingChange>
 
-• **Vec<StoredPendingChange>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StoredPendingChange](_interfaces_grandpa_types_.storedpendingchange.md)*›*
+• **Vec<StoredPendingChange>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StoredPendingChange](_interfaces_grandpa_types_.storedpendingchange.md)›*
 
-*Defined in [interfaceRegistry.ts:445](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L445)*
+*Defined in [interfaceRegistry.ts:445](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L445)*
 
 ___
 
 ###  Vec<StoredState>
 
-• **Vec<StoredState>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[StoredState](_interfaces_grandpa_types_.storedstate.md)*›*
+• **Vec<StoredState>**: *[Vec](../classes/_codec_vec_.vec.md)‹[StoredState](_interfaces_grandpa_types_.storedstate.md)›*
 
-*Defined in [interfaceRegistry.ts:448](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L448)*
+*Defined in [interfaceRegistry.ts:448](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L448)*
 
 ___
 
 ###  Vec<SubId>
 
-• **Vec<SubId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[SubId](_interfaceregistry_.interfaceregistry.md#subid)*›*
+• **Vec<SubId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[SubId](_interfaceregistry_.interfaceregistry.md#subid)›*
 
-*Defined in [interfaceRegistry.ts:644](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L644)*
+*Defined in [interfaceRegistry.ts:644](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L644)*
 
 ___
 
 ###  Vec<Text>
 
-• **Vec<Text>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Text](../classes/_primitive_text_.text.md)*›*
+• **Vec<Text>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Text](../classes/_primitive_text_.text.md)›*
 
-*Defined in [interfaceRegistry.ts:85](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L85)*
+*Defined in [interfaceRegistry.ts:85](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L85)*
 
 ___
 
 ###  Vec<TombstoneContractInfo>
 
-• **Vec<TombstoneContractInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[TombstoneContractInfo](_interfaceregistry_.interfaceregistry.md#tombstonecontractinfo)*›*
+• **Vec<TombstoneContractInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹[TombstoneContractInfo](_interfaceregistry_.interfaceregistry.md#tombstonecontractinfo)›*
 
-*Defined in [interfaceRegistry.ts:344](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L344)*
+*Defined in [interfaceRegistry.ts:344](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L344)*
 
 ___
 
 ###  Vec<TreasuryProposal>
 
-• **Vec<TreasuryProposal>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[TreasuryProposal](_interfaces_treasury_types_.treasuryproposal.md)*›*
+• **Vec<TreasuryProposal>**: *[Vec](../classes/_codec_vec_.vec.md)‹[TreasuryProposal](_interfaces_treasury_types_.treasuryproposal.md)›*
 
-*Defined in [interfaceRegistry.ts:569](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L569)*
+*Defined in [interfaceRegistry.ts:569](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L569)*
 
 ___
 
 ###  Vec<TrieId>
 
-• **Vec<TrieId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[TrieId](_interfaceregistry_.interfaceregistry.md#trieid)*›*
+• **Vec<TrieId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[TrieId](_interfaceregistry_.interfaceregistry.md#trieid)›*
 
-*Defined in [interfaceRegistry.ts:347](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L347)*
+*Defined in [interfaceRegistry.ts:347](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L347)*
 
 ___
 
 ###  Vec<Type>
 
-• **Vec<Type>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Type](../classes/_primitive_type_.type.md)*›*
+• **Vec<Type>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Type](../classes/_primitive_type_.type.md)›*
 
-*Defined in [interfaceRegistry.ts:88](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L88)*
+*Defined in [interfaceRegistry.ts:88](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L88)*
 
 ___
 
 ###  Vec<Uncle>
 
-• **Vec<Uncle>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Uncle](_interfaceregistry_.interfaceregistry.md#uncle)*›*
+• **Vec<Uncle>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Uncle](_interfaceregistry_.interfaceregistry.md#uncle)›*
 
-*Defined in [interfaceRegistry.ts:259](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L259)*
+*Defined in [interfaceRegistry.ts:259](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L259)*
 
 ___
 
 ###  Vec<UncleEntryItem>
 
-• **Vec<UncleEntryItem>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[UncleEntryItem](_interfaces_authorship_types_.uncleentryitem.md)*›*
+• **Vec<UncleEntryItem>**: *[Vec](../classes/_codec_vec_.vec.md)‹[UncleEntryItem](_interfaces_authorship_types_.uncleentryitem.md)›*
 
-*Defined in [interfaceRegistry.ts:262](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L262)*
+*Defined in [interfaceRegistry.ts:262](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L262)*
 
 ___
 
 ###  Vec<UnlockChunk>
 
-• **Vec<UnlockChunk>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[UnlockChunk](_interfaces_staking_types_.unlockchunk.md)*›*
+• **Vec<UnlockChunk>**: *[Vec](../classes/_codec_vec_.vec.md)‹[UnlockChunk](_interfaces_staking_types_.unlockchunk.md)›*
 
-*Defined in [interfaceRegistry.ts:535](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L535)*
+*Defined in [interfaceRegistry.ts:535](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L535)*
 
 ___
 
 ###  Vec<UpwardMessage>
 
-• **Vec<UpwardMessage>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[UpwardMessage](_interfaces_parachains_types_.upwardmessage.md)*›*
+• **Vec<UpwardMessage>**: *[Vec](../classes/_codec_vec_.vec.md)‹[UpwardMessage](_interfaces_parachains_types_.upwardmessage.md)›*
 
-*Defined in [interfaceRegistry.ts:647](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L647)*
+*Defined in [interfaceRegistry.ts:647](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L647)*
 
 ___
 
 ###  Vec<ValidatorId>
 
-• **Vec<ValidatorId>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ValidatorId](_interfaceregistry_.interfaceregistry.md#validatorid)*›*
+• **Vec<ValidatorId>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ValidatorId](_interfaceregistry_.interfaceregistry.md#validatorid)›*
 
-*Defined in [interfaceRegistry.ts:222](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L222)*
+*Defined in [interfaceRegistry.ts:222](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L222)*
 
 ___
 
 ###  Vec<ValidatorIndex>
 
-• **Vec<ValidatorIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ValidatorIndex](_interfaceregistry_.interfaceregistry.md#validatorindex)*›*
+• **Vec<ValidatorIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ValidatorIndex](_interfaceregistry_.interfaceregistry.md#validatorindex)›*
 
-*Defined in [interfaceRegistry.ts:654](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L654)*
+*Defined in [interfaceRegistry.ts:654](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L654)*
 
 ___
 
 ###  Vec<ValidatorPrefs0to145>
 
-• **Vec<ValidatorPrefs0to145>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ValidatorPrefs0to145](_interfaces_staking_types_.validatorprefs0to145.md)*›*
+• **Vec<ValidatorPrefs0to145>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ValidatorPrefs0to145](_interfaces_staking_types_.validatorprefs0to145.md)›*
 
-*Defined in [interfaceRegistry.ts:541](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L541)*
+*Defined in [interfaceRegistry.ts:541](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L541)*
 
 ___
 
 ###  Vec<ValidatorPrefs>
 
-• **Vec<ValidatorPrefs>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ValidatorPrefs](_interfaces_staking_types_.validatorprefs.md)*›*
+• **Vec<ValidatorPrefs>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ValidatorPrefs](_interfaces_staking_types_.validatorprefs.md)›*
 
-*Defined in [interfaceRegistry.ts:538](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L538)*
+*Defined in [interfaceRegistry.ts:538](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L538)*
 
 ___
 
 ###  Vec<ValidityAttestation>
 
-• **Vec<ValidityAttestation>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ValidityAttestation](_interfaces_parachains_types_.validityattestation.md)*›*
+• **Vec<ValidityAttestation>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ValidityAttestation](_interfaces_parachains_types_.validityattestation.md)›*
 
-*Defined in [interfaceRegistry.ts:650](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L650)*
+*Defined in [interfaceRegistry.ts:650](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L650)*
 
 ___
 
 ###  Vec<ValidityVote>
 
-• **Vec<ValidityVote>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[ValidityVote](_interfaceregistry_.interfaceregistry.md#validityvote)*›*
+• **Vec<ValidityVote>**: *[Vec](../classes/_codec_vec_.vec.md)‹[ValidityVote](_interfaceregistry_.interfaceregistry.md#validityvote)›*
 
-*Defined in [interfaceRegistry.ts:657](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L657)*
+*Defined in [interfaceRegistry.ts:657](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L657)*
 
 ___
 
 ###  Vec<VestingSchedule>
 
-• **Vec<VestingSchedule>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[VestingSchedule](_interfaces_balances_types_.vestingschedule.md)*›*
+• **Vec<VestingSchedule>**: *[Vec](../classes/_codec_vec_.vec.md)‹[VestingSchedule](_interfaces_balances_types_.vestingschedule.md)›*
 
-*Defined in [interfaceRegistry.ts:296](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L296)*
+*Defined in [interfaceRegistry.ts:296](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L296)*
 
 ___
 
 ###  Vec<Vote>
 
-• **Vec<Vote>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Vote](../classes/_primitive_generic_vote_.vote.md)*›*
+• **Vec<Vote>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Vote](../classes/_primitive_generic_vote_.vote.md)›*
 
-*Defined in [interfaceRegistry.ts:400](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L400)*
+*Defined in [interfaceRegistry.ts:400](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L400)*
 
 ___
 
 ###  Vec<VoteIndex>
 
-• **Vec<VoteIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[VoteIndex](_interfaceregistry_.interfaceregistry.md#voteindex)*›*
+• **Vec<VoteIndex>**: *[Vec](../classes/_codec_vec_.vec.md)‹[VoteIndex](_interfaceregistry_.interfaceregistry.md#voteindex)›*
 
-*Defined in [interfaceRegistry.ts:404](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L404)*
+*Defined in [interfaceRegistry.ts:404](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L404)*
 
 ___
 
 ###  Vec<VoteThreshold>
 
-• **Vec<VoteThreshold>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[VoteThreshold](_interfaces_elections_types_.votethreshold.md)*›*
+• **Vec<VoteThreshold>**: *[Vec](../classes/_codec_vec_.vec.md)‹[VoteThreshold](_interfaces_elections_types_.votethreshold.md)›*
 
-*Defined in [interfaceRegistry.ts:410](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L410)*
+*Defined in [interfaceRegistry.ts:410](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L410)*
 
 ___
 
 ###  Vec<VoterInfo>
 
-• **Vec<VoterInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[VoterInfo](_interfaces_elections_types_.voterinfo.md)*›*
+• **Vec<VoterInfo>**: *[Vec](../classes/_codec_vec_.vec.md)‹[VoterInfo](_interfaces_elections_types_.voterinfo.md)›*
 
-*Defined in [interfaceRegistry.ts:407](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L407)*
+*Defined in [interfaceRegistry.ts:407](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L407)*
 
 ___
 
 ###  Vec<Votes>
 
-• **Vec<Votes>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Votes](_interfaces_collective_types_.votes.md)*›*
+• **Vec<Votes>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Votes](_interfaces_collective_types_.votes.md)›*
 
-*Defined in [interfaceRegistry.ts:310](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L310)*
+*Defined in [interfaceRegistry.ts:310](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L310)*
 
 ___
 
 ###  Vec<Weight>
 
-• **Vec<Weight>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[Weight](_interfaceregistry_.interfaceregistry.md#weight)*›*
+• **Vec<Weight>**: *[Vec](../classes/_codec_vec_.vec.md)‹[Weight](_interfaceregistry_.interfaceregistry.md#weight)›*
 
-*Defined in [interfaceRegistry.ts:226](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L226)*
+*Defined in [interfaceRegistry.ts:226](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L226)*
 
 ___
 
 ###  Vec<WeightMultiplier>
 
-• **Vec<WeightMultiplier>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[WeightMultiplier](_interfaceregistry_.interfaceregistry.md#weightmultiplier)*›*
+• **Vec<WeightMultiplier>**: *[Vec](../classes/_codec_vec_.vec.md)‹[WeightMultiplier](_interfaceregistry_.interfaceregistry.md#weightmultiplier)›*
 
-*Defined in [interfaceRegistry.ts:229](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L229)*
+*Defined in [interfaceRegistry.ts:229](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L229)*
 
 ___
 
 ###  Vec<WinningData>
 
-• **Vec<WinningData>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[WinningData](_interfaceregistry_.interfaceregistry.md#winningdata)*›*
+• **Vec<WinningData>**: *[Vec](../classes/_codec_vec_.vec.md)‹[WinningData](_interfaceregistry_.interfaceregistry.md#winningdata)›*
 
-*Defined in [interfaceRegistry.ts:663](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L663)*
+*Defined in [interfaceRegistry.ts:663](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L663)*
 
 ___
 
 ###  Vec<WinningDataEntry>
 
-• **Vec<WinningDataEntry>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[WinningDataEntry](_interfaceregistry_.interfaceregistry.md#winningdataentry)*›*
+• **Vec<WinningDataEntry>**: *[Vec](../classes/_codec_vec_.vec.md)‹[WinningDataEntry](_interfaceregistry_.interfaceregistry.md#winningdataentry)›*
 
-*Defined in [interfaceRegistry.ts:660](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L660)*
+*Defined in [interfaceRegistry.ts:660](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L660)*
 
 ___
 
 ###  Vec<WithdrawReasons>
 
-• **Vec<WithdrawReasons>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[WithdrawReasons](_interfaces_balances_types_.withdrawreasons.md)*›*
+• **Vec<WithdrawReasons>**: *[Vec](../classes/_codec_vec_.vec.md)‹[WithdrawReasons](_interfaces_balances_types_.withdrawreasons.md)›*
 
-*Defined in [interfaceRegistry.ts:299](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L299)*
+*Defined in [interfaceRegistry.ts:299](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L299)*
 
 ___
 
 ###  Vec<bool>
 
-• **Vec<bool>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[bool](_interfaceregistry_.interfaceregistry.md#bool)*›*
+• **Vec<bool>**: *[Vec](../classes/_codec_vec_.vec.md)‹[bool](_interfaceregistry_.interfaceregistry.md#bool)›*
 
-*Defined in [interfaceRegistry.ts:34](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L34)*
+*Defined in [interfaceRegistry.ts:34](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L34)*
 
 ___
 
 ###  Vec<i128>
 
-• **Vec<i128>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[i128](_interfaceregistry_.interfaceregistry.md#i128)*›*
+• **Vec<i128>**: *[Vec](../classes/_codec_vec_.vec.md)‹[i128](_interfaceregistry_.interfaceregistry.md#i128)›*
 
-*Defined in [interfaceRegistry.ts:67](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L67)*
+*Defined in [interfaceRegistry.ts:67](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L67)*
 
 ___
 
 ###  Vec<i16>
 
-• **Vec<i16>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[i16](_interfaceregistry_.interfaceregistry.md#i16)*›*
+• **Vec<i16>**: *[Vec](../classes/_codec_vec_.vec.md)‹[i16](_interfaceregistry_.interfaceregistry.md#i16)›*
 
-*Defined in [interfaceRegistry.ts:55](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L55)*
+*Defined in [interfaceRegistry.ts:55](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L55)*
 
 ___
 
 ###  Vec<i256>
 
-• **Vec<i256>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[i256](_interfaceregistry_.interfaceregistry.md#i256)*›*
+• **Vec<i256>**: *[Vec](../classes/_codec_vec_.vec.md)‹[i256](_interfaceregistry_.interfaceregistry.md#i256)›*
 
-*Defined in [interfaceRegistry.ts:70](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L70)*
+*Defined in [interfaceRegistry.ts:70](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L70)*
 
 ___
 
 ###  Vec<i32>
 
-• **Vec<i32>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[i32](_interfaceregistry_.interfaceregistry.md#i32)*›*
+• **Vec<i32>**: *[Vec](../classes/_codec_vec_.vec.md)‹[i32](_interfaceregistry_.interfaceregistry.md#i32)›*
 
-*Defined in [interfaceRegistry.ts:58](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L58)*
+*Defined in [interfaceRegistry.ts:58](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L58)*
 
 ___
 
 ###  Vec<i64>
 
-• **Vec<i64>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[i64](_interfaceregistry_.interfaceregistry.md#i64)*›*
+• **Vec<i64>**: *[Vec](../classes/_codec_vec_.vec.md)‹[i64](_interfaceregistry_.interfaceregistry.md#i64)›*
 
-*Defined in [interfaceRegistry.ts:61](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L61)*
+*Defined in [interfaceRegistry.ts:61](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L61)*
 
 ___
 
 ###  Vec<i8>
 
-• **Vec<i8>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[i8](_interfaceregistry_.interfaceregistry.md#i8)*›*
+• **Vec<i8>**: *[Vec](../classes/_codec_vec_.vec.md)‹[i8](_interfaceregistry_.interfaceregistry.md#i8)›*
 
-*Defined in [interfaceRegistry.ts:52](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L52)*
+*Defined in [interfaceRegistry.ts:52](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L52)*
 
 ___
 
 ###  Vec<u128>
 
-• **Vec<u128>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[u128](_interfaceregistry_.interfaceregistry.md#u128)*›*
+• **Vec<u128>**: *[Vec](../classes/_codec_vec_.vec.md)‹[u128](_interfaceregistry_.interfaceregistry.md#u128)›*
 
-*Defined in [interfaceRegistry.ts:108](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L108)*
+*Defined in [interfaceRegistry.ts:108](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L108)*
 
 ___
 
 ###  Vec<u16>
 
-• **Vec<u16>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[u16](_interfaceregistry_.interfaceregistry.md#u16)*›*
+• **Vec<u16>**: *[Vec](../classes/_codec_vec_.vec.md)‹[u16](_interfaceregistry_.interfaceregistry.md#u16)›*
 
-*Defined in [interfaceRegistry.ts:96](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L96)*
+*Defined in [interfaceRegistry.ts:96](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L96)*
 
 ___
 
 ###  Vec<u256>
 
-• **Vec<u256>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[u256](_interfaceregistry_.interfaceregistry.md#u256)*›*
+• **Vec<u256>**: *[Vec](../classes/_codec_vec_.vec.md)‹[u256](_interfaceregistry_.interfaceregistry.md#u256)›*
 
-*Defined in [interfaceRegistry.ts:112](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L112)*
+*Defined in [interfaceRegistry.ts:112](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L112)*
 
 ___
 
 ###  Vec<u32>
 
-• **Vec<u32>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[u32](_interfaceregistry_.interfaceregistry.md#u32)*›*
+• **Vec<u32>**: *[Vec](../classes/_codec_vec_.vec.md)‹[u32](_interfaceregistry_.interfaceregistry.md#u32)›*
 
-*Defined in [interfaceRegistry.ts:100](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L100)*
+*Defined in [interfaceRegistry.ts:100](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L100)*
 
 ___
 
 ###  Vec<u64>
 
-• **Vec<u64>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[u64](_interfaceregistry_.interfaceregistry.md#u64)*›*
+• **Vec<u64>**: *[Vec](../classes/_codec_vec_.vec.md)‹[u64](_interfaceregistry_.interfaceregistry.md#u64)›*
 
-*Defined in [interfaceRegistry.ts:104](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L104)*
+*Defined in [interfaceRegistry.ts:104](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L104)*
 
 ___
 
 ###  Vec<u8>
 
-• **Vec<u8>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[u8](_interfaceregistry_.interfaceregistry.md#u8)*›*
+• **Vec<u8>**: *[Vec](../classes/_codec_vec_.vec.md)‹[u8](_interfaceregistry_.interfaceregistry.md#u8)›*
 
-*Defined in [interfaceRegistry.ts:92](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L92)*
+*Defined in [interfaceRegistry.ts:92](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L92)*
 
 ___
 
 ###  Vec<usize>
 
-• **Vec<usize>**: *[Vec](../classes/_codec_vec_.vec.md)‹*[usize](_interfaceregistry_.interfaceregistry.md#usize)*›*
+• **Vec<usize>**: *[Vec](../classes/_codec_vec_.vec.md)‹[usize](_interfaceregistry_.interfaceregistry.md#usize)›*
 
-*Defined in [interfaceRegistry.ts:116](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L116)*
+*Defined in [interfaceRegistry.ts:116](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L116)*
 
 ___
 
@@ -7663,7 +7663,7 @@ ___
 
 • **VestingSchedule**: *[VestingSchedule](_interfaces_balances_types_.vestingschedule.md)*
 
-*Defined in [interfaceRegistry.ts:294](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L294)*
+*Defined in [interfaceRegistry.ts:294](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L294)*
 
 ___
 
@@ -7671,7 +7671,7 @@ ___
 
 • **Vote**: *[Vote](../classes/_primitive_generic_vote_.vote.md)*
 
-*Defined in [interfaceRegistry.ts:398](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L398)*
+*Defined in [interfaceRegistry.ts:398](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L398)*
 
 ___
 
@@ -7679,7 +7679,7 @@ ___
 
 • **VoteIndex**: *[VoteIndex](_interfaceregistry_.interfaceregistry.md#voteindex)*
 
-*Defined in [interfaceRegistry.ts:401](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L401)*
+*Defined in [interfaceRegistry.ts:401](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L401)*
 
 ___
 
@@ -7687,7 +7687,7 @@ ___
 
 • **VoteThreshold**: *[VoteThreshold](_interfaces_elections_types_.votethreshold.md)*
 
-*Defined in [interfaceRegistry.ts:408](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L408)*
+*Defined in [interfaceRegistry.ts:408](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L408)*
 
 ___
 
@@ -7695,7 +7695,7 @@ ___
 
 • **VoterInfo**: *[VoterInfo](_interfaces_elections_types_.voterinfo.md)*
 
-*Defined in [interfaceRegistry.ts:405](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L405)*
+*Defined in [interfaceRegistry.ts:405](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L405)*
 
 ___
 
@@ -7703,7 +7703,7 @@ ___
 
 • **Votes**: *[Votes](_interfaces_collective_types_.votes.md)*
 
-*Defined in [interfaceRegistry.ts:308](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L308)*
+*Defined in [interfaceRegistry.ts:308](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L308)*
 
 ___
 
@@ -7711,7 +7711,7 @@ ___
 
 • **Weight**: *[Weight](_interfaceregistry_.interfaceregistry.md#weight)*
 
-*Defined in [interfaceRegistry.ts:223](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L223)*
+*Defined in [interfaceRegistry.ts:223](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L223)*
 
 ___
 
@@ -7719,7 +7719,7 @@ ___
 
 • **WeightMultiplier**: *[WeightMultiplier](_interfaceregistry_.interfaceregistry.md#weightmultiplier)*
 
-*Defined in [interfaceRegistry.ts:227](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L227)*
+*Defined in [interfaceRegistry.ts:227](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L227)*
 
 ___
 
@@ -7727,7 +7727,7 @@ ___
 
 • **WinningData**: *[WinningData](_interfaceregistry_.interfaceregistry.md#winningdata)*
 
-*Defined in [interfaceRegistry.ts:661](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L661)*
+*Defined in [interfaceRegistry.ts:661](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L661)*
 
 ___
 
@@ -7735,7 +7735,7 @@ ___
 
 • **WinningDataEntry**: *[WinningDataEntry](_interfaceregistry_.interfaceregistry.md#winningdataentry)*
 
-*Defined in [interfaceRegistry.ts:658](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L658)*
+*Defined in [interfaceRegistry.ts:658](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L658)*
 
 ___
 
@@ -7743,7 +7743,7 @@ ___
 
 • **WithdrawReasons**: *[WithdrawReasons](_interfaces_balances_types_.withdrawreasons.md)*
 
-*Defined in [interfaceRegistry.ts:297](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L297)*
+*Defined in [interfaceRegistry.ts:297](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L297)*
 
 ___
 
@@ -7751,7 +7751,7 @@ ___
 
 • **bool**: *[bool](_interfaceregistry_.interfaceregistry.md#bool)*
 
-*Defined in [interfaceRegistry.ts:32](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L32)*
+*Defined in [interfaceRegistry.ts:32](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L32)*
 
 ___
 
@@ -7759,7 +7759,7 @@ ___
 
 • **i128**: *[i128](_interfaceregistry_.interfaceregistry.md#i128)*
 
-*Defined in [interfaceRegistry.ts:65](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L65)*
+*Defined in [interfaceRegistry.ts:65](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L65)*
 
 ___
 
@@ -7767,7 +7767,7 @@ ___
 
 • **i16**: *[i16](_interfaceregistry_.interfaceregistry.md#i16)*
 
-*Defined in [interfaceRegistry.ts:53](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L53)*
+*Defined in [interfaceRegistry.ts:53](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L53)*
 
 ___
 
@@ -7775,7 +7775,7 @@ ___
 
 • **i256**: *[i256](_interfaceregistry_.interfaceregistry.md#i256)*
 
-*Defined in [interfaceRegistry.ts:68](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L68)*
+*Defined in [interfaceRegistry.ts:68](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L68)*
 
 ___
 
@@ -7783,7 +7783,7 @@ ___
 
 • **i32**: *[i32](_interfaceregistry_.interfaceregistry.md#i32)*
 
-*Defined in [interfaceRegistry.ts:56](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L56)*
+*Defined in [interfaceRegistry.ts:56](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L56)*
 
 ___
 
@@ -7791,7 +7791,7 @@ ___
 
 • **i64**: *[i64](_interfaceregistry_.interfaceregistry.md#i64)*
 
-*Defined in [interfaceRegistry.ts:59](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L59)*
+*Defined in [interfaceRegistry.ts:59](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L59)*
 
 ___
 
@@ -7799,7 +7799,7 @@ ___
 
 • **i8**: *[i8](_interfaceregistry_.interfaceregistry.md#i8)*
 
-*Defined in [interfaceRegistry.ts:50](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L50)*
+*Defined in [interfaceRegistry.ts:50](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L50)*
 
 ___
 
@@ -7807,7 +7807,7 @@ ___
 
 • **u128**: *[u128](_interfaceregistry_.interfaceregistry.md#u128)*
 
-*Defined in [interfaceRegistry.ts:105](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L105)*
+*Defined in [interfaceRegistry.ts:105](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L105)*
 
 ___
 
@@ -7815,7 +7815,7 @@ ___
 
 • **u16**: *[u16](_interfaceregistry_.interfaceregistry.md#u16)*
 
-*Defined in [interfaceRegistry.ts:93](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L93)*
+*Defined in [interfaceRegistry.ts:93](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L93)*
 
 ___
 
@@ -7823,7 +7823,7 @@ ___
 
 • **u256**: *[u256](_interfaceregistry_.interfaceregistry.md#u256)*
 
-*Defined in [interfaceRegistry.ts:109](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L109)*
+*Defined in [interfaceRegistry.ts:109](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L109)*
 
 ___
 
@@ -7831,7 +7831,7 @@ ___
 
 • **u32**: *[u32](_interfaceregistry_.interfaceregistry.md#u32)*
 
-*Defined in [interfaceRegistry.ts:97](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L97)*
+*Defined in [interfaceRegistry.ts:97](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L97)*
 
 ___
 
@@ -7839,7 +7839,7 @@ ___
 
 • **u64**: *[u64](_interfaceregistry_.interfaceregistry.md#u64)*
 
-*Defined in [interfaceRegistry.ts:101](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L101)*
+*Defined in [interfaceRegistry.ts:101](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L101)*
 
 ___
 
@@ -7847,7 +7847,7 @@ ___
 
 • **u8**: *[u8](_interfaceregistry_.interfaceregistry.md#u8)*
 
-*Defined in [interfaceRegistry.ts:89](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L89)*
+*Defined in [interfaceRegistry.ts:89](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L89)*
 
 ___
 
@@ -7855,4 +7855,4 @@ ___
 
 • **usize**: *[usize](_interfaceregistry_.interfaceregistry.md#usize)*
 
-*Defined in [interfaceRegistry.ts:113](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaceRegistry.ts#L113)*
+*Defined in [interfaceRegistry.ts:113](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaceRegistry.ts#L113)*

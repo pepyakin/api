@@ -2,7 +2,7 @@
 
 ## Hierarchy
 
-* `SignatureOptions`
+* SignatureOptions
 
   * **SignerOptions**
 
@@ -22,66 +22,66 @@
 
 ###  blockHash
 
-• **blockHash**: *`AnyU8a`*
+• **blockHash**: *AnyU8a*
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/types.ts:147](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/types.ts#L147)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/types.ts:147](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/types.ts#L147)*
 
 ___
 
 ###  blockNumber
 
-• **blockNumber**: *`BN`*
+• **blockNumber**: *BN*
 
-*Defined in [types.ts:209](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L209)*
+*Defined in [types.ts:209](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L209)*
 
 ___
 
 ### `Optional` era
 
-• **era**? : *`IExtrinsicEra`*
+• **era**? : *IExtrinsicEra*
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/types.ts:148](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/types.ts#L148)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/types.ts:148](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/types.ts#L148)*
 
 ___
 
 ###  genesisHash
 
-• **genesisHash**: *`Hash`*
+• **genesisHash**: *Hash*
 
 *Overrides void*
 
-*Defined in [types.ts:210](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L210)*
+*Defined in [types.ts:210](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L210)*
 
 ___
 
 ###  nonce
 
-• **nonce**: *`AnyNumber`*
+• **nonce**: *AnyNumber*
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/types.ts:150](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/types.ts#L150)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/types.ts:150](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/types.ts#L150)*
 
 ___
 
 ###  runtimeVersion
 
-• **runtimeVersion**: *`RuntimeVersionInterface`*
+• **runtimeVersion**: *RuntimeVersionInterface*
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/types.ts:151](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/types.ts#L151)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/types.ts:151](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/types.ts#L151)*
 
 ___
 
 ### `Optional` tip
 
-• **tip**? : *`AnyNumber`*
+• **tip**? : *AnyNumber*
 
 *Inherited from void*
 
-*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/types.ts:152](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/types.ts#L152)*
+*Defined in [/home/travis/build/polkadot-js/api/packages/types/src/types.ts:152](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/types.ts#L152)*

@@ -18,15 +18,15 @@
 
 • **address**: *string*
 
-*Defined in [types.ts:35](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/types.ts#L35)*
+*Defined in [types.ts:35](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/types.ts#L35)*
 
 ___
 
 ###  publicKey
 
-• **publicKey**: *`Uint8Array`*
+• **publicKey**: *Uint8Array*
 
-*Defined in [types.ts:36](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/types.ts#L36)*
+*Defined in [types.ts:36](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/types.ts#L36)*
 
 ___
 
@@ -34,14 +34,14 @@ ___
 
 • **sign**: *function*
 
-*Defined in [types.ts:37](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/types.ts#L37)*
+*Defined in [types.ts:37](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/types.ts#L37)*
 
 #### Type declaration:
 
-▸ (`data`: `Uint8Array`): *`Uint8Array`*
+▸ (`data`: Uint8Array): *Uint8Array*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`data` | `Uint8Array` |
+`data` | Uint8Array |

@@ -16,9 +16,9 @@
 
 ###  coder
 
-• **coder**: *`Coder`*
+• **coder**: *Coder*
 
-*Defined in [http/types.ts:10](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/rpc-provider/src/http/types.ts#L10)*
+*Defined in [http/types.ts:10](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/rpc-provider/src/http/types.ts#L10)*
 
 ___
 
@@ -26,12 +26,12 @@ ___
 
 • **endpoint**: *string*
 
-*Defined in [http/types.ts:11](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/rpc-provider/src/http/types.ts#L11)*
+*Defined in [http/types.ts:11](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/rpc-provider/src/http/types.ts#L11)*
 
 ___
 
 ###  l
 
-• **l**: *`Logger`*
+• **l**: *Logger*
 
-*Defined in [http/types.ts:12](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/rpc-provider/src/http/types.ts#L12)*
+*Defined in [http/types.ts:12](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/rpc-provider/src/http/types.ts#L12)*

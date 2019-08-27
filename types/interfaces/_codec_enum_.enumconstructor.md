@@ -18,9 +18,9 @@
 
 ###  constructor
 
-\+ **new EnumConstructor**(`value?`: any, `index?`: undefined | number): *`T`*
+\+ **new EnumConstructor**(`value?`: any, `index?`: undefined | number): *T*
 
-*Defined in [codec/Enum.ts:15](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/Enum.ts#L15)*
+*Defined in [codec/Enum.ts:15](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/Enum.ts#L15)*
 
 **Parameters:**
 
@@ -29,4 +29,4 @@ Name | Type |
 `value?` | any |
 `index?` | undefined \| number |
 
-**Returns:** *`T`*
+**Returns:** *T*

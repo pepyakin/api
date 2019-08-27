@@ -10,9 +10,9 @@
 
 ###  voters
 
-▸ **voters**(`api`: `ApiInterfaceRx`): *function*
+▸ **voters**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [elections/voters.ts:28](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/elections/voters.ts#L28)*
+*Defined in [elections/voters.ts:28](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/elections/voters.ts#L28)*
 
 **`name`** voters
 
@@ -29,10 +29,10 @@ api.derive.elections.voters((voters) => {
 
 Name | Type |
 ------ | ------ |
-`api` | `ApiInterfaceRx` |
+`api` | ApiInterfaceRx |
 
 **Returns:** *function*
 
 An array of all current voters from all sets.
 
-▸ (): *`Observable<Vec<AccountId>>`*
+▸ (): *Observable‹Vec‹AccountId››*

@@ -10,4 +10,4 @@
 
 ## Indexable
 
-* \[ **index**: *string*\]: [QueryableStorageEntry](../modules/_types_.md#queryablestorageentry)‹*`ApiType`*›
+* \[ **index**: *string*\]: [QueryableStorageEntry](../modules/_types_.md#queryablestorageentry)‹ApiType›

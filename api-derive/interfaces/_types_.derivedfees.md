@@ -18,38 +18,38 @@
 
 ###  creationFee
 
-• **creationFee**: *`BN`*
+• **creationFee**: *BN*
 
-*Defined in [types.ts:47](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L47)*
+*Defined in [types.ts:47](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L47)*
 
 ___
 
 ###  existentialDeposit
 
-• **existentialDeposit**: *`BN`*
+• **existentialDeposit**: *BN*
 
-*Defined in [types.ts:48](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L48)*
+*Defined in [types.ts:48](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L48)*
 
 ___
 
 ###  transactionBaseFee
 
-• **transactionBaseFee**: *`BN`*
+• **transactionBaseFee**: *BN*
 
-*Defined in [types.ts:49](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L49)*
+*Defined in [types.ts:49](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L49)*
 
 ___
 
 ###  transactionByteFee
 
-• **transactionByteFee**: *`BN`*
+• **transactionByteFee**: *BN*
 
-*Defined in [types.ts:50](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L50)*
+*Defined in [types.ts:50](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L50)*
 
 ___
 
 ###  transferFee
 
-• **transferFee**: *`BN`*
+• **transferFee**: *BN*
 
-*Defined in [types.ts:51](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L51)*
+*Defined in [types.ts:51](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L51)*

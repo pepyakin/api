@@ -15,14 +15,14 @@
 
 ###  Constants
 
-Ƭ **Constants**: *`Record<string, ModuleConstants>`*
+Ƭ **Constants**: *Record‹string, [ModuleConstants](_consts_types_.md#moduleconstants)›*
 
-*Defined in [consts/types.ts:14](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-metadata/src/consts/types.ts#L14)*
+*Defined in [consts/types.ts:14](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-metadata/src/consts/types.ts#L14)*
 
 ___
 
 ###  ModuleConstants
 
-Ƭ **ModuleConstants**: *`Record<string, Codec>`*
+Ƭ **ModuleConstants**: *Record‹string, Codec›*
 
-*Defined in [consts/types.ts:12](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-metadata/src/consts/types.ts#L12)*
+*Defined in [consts/types.ts:12](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-metadata/src/consts/types.ts#L12)*

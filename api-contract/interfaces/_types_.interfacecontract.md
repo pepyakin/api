@@ -19,9 +19,9 @@
 
 ###  address
 
-• **address**: *`Address`*
+• **address**: *Address*
 
-*Defined in [types.ts:90](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-contract/src/types.ts#L90)*
+*Defined in [types.ts:90](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-contract/src/types.ts#L90)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **calls**: *[InterfaceContractCalls](_types_.interfacecontractcalls.md)*
 
-*Defined in [types.ts:91](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-contract/src/types.ts#L91)*
+*Defined in [types.ts:91](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-contract/src/types.ts#L91)*

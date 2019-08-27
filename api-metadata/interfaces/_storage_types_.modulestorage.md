@@ -6,4 +6,4 @@
 
 ## Indexable
 
-* \[ **key**: *string*\]: `StorageEntry`
+* \[ **key**: *string*\]: StorageEntry

@@ -16,54 +16,54 @@
 
 ### `Const` BIT_SIGNED
 
-• **BIT_SIGNED**: *`128`* = 128
+• **BIT_SIGNED**: *128* = 128
 
-*Defined in [primitive/Extrinsic/constants.ts:5](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Extrinsic/constants.ts#L5)*
+*Defined in [primitive/Extrinsic/constants.ts:5](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Extrinsic/constants.ts#L5)*
 
 ___
 
 ### `Const` BIT_UNSIGNED
 
-• **BIT_UNSIGNED**: *`0`* = 0
+• **BIT_UNSIGNED**: *0* = 0
 
-*Defined in [primitive/Extrinsic/constants.ts:7](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Extrinsic/constants.ts#L7)*
+*Defined in [primitive/Extrinsic/constants.ts:7](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Extrinsic/constants.ts#L7)*
 
 ___
 
 ### `Const` DEFAULT_VERSION
 
-• **DEFAULT_VERSION**: *`1`* = 1
+• **DEFAULT_VERSION**: *1* = 1
 
-*Defined in [primitive/Extrinsic/constants.ts:15](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Extrinsic/constants.ts#L15)*
+*Defined in [primitive/Extrinsic/constants.ts:15](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Extrinsic/constants.ts#L15)*
 
 ___
 
 ### `Const` EMPTY_U8A
 
-• **EMPTY_U8A**: *`Uint8Array`* =  new Uint8Array()
+• **EMPTY_U8A**: *Uint8Array* =  new Uint8Array()
 
-*Defined in [primitive/Extrinsic/constants.ts:9](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Extrinsic/constants.ts#L9)*
+*Defined in [primitive/Extrinsic/constants.ts:9](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Extrinsic/constants.ts#L9)*
 
 ___
 
 ### `Const` IMMORTAL_ERA
 
-• **IMMORTAL_ERA**: *`Uint8Array`* =  new Uint8Array([0])
+• **IMMORTAL_ERA**: *Uint8Array* =  new Uint8Array([0])
 
-*Defined in [primitive/Extrinsic/constants.ts:17](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Extrinsic/constants.ts#L17)*
+*Defined in [primitive/Extrinsic/constants.ts:17](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Extrinsic/constants.ts#L17)*
 
 ___
 
 ### `Const` LATEST_VERSION
 
-• **LATEST_VERSION**: *`3`* = 3
+• **LATEST_VERSION**: *3* = 3
 
-*Defined in [primitive/Extrinsic/constants.ts:11](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Extrinsic/constants.ts#L11)*
+*Defined in [primitive/Extrinsic/constants.ts:11](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Extrinsic/constants.ts#L11)*
 
 ___
 
 ### `Const` UNMASK_VERSION
 
-• **UNMASK_VERSION**: *`127`* = 127
+• **UNMASK_VERSION**: *127* = 127
 
-*Defined in [primitive/Extrinsic/constants.ts:19](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/primitive/Extrinsic/constants.ts#L19)*
+*Defined in [primitive/Extrinsic/constants.ts:19](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/primitive/Extrinsic/constants.ts#L19)*

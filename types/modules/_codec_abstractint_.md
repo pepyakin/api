@@ -14,14 +14,14 @@
 
 ###  UIntBitLength
 
-Ƭ **UIntBitLength**: *`8` | `16` | `32` | `64` | `128` | `256`*
+Ƭ **UIntBitLength**: *8 | 16 | 32 | 64 | 128 | 256*
 
-*Defined in [codec/AbstractInt.ts:13](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/AbstractInt.ts#L13)*
+*Defined in [codec/AbstractInt.ts:13](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/AbstractInt.ts#L13)*
 
 ## Variables
 
 ### `Const` DEFAULT_UINT_BITS
 
-• **DEFAULT_UINT_BITS**: *`64`* = 64
+• **DEFAULT_UINT_BITS**: *64* = 64
 
-*Defined in [codec/AbstractInt.ts:15](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/codec/AbstractInt.ts#L15)*
+*Defined in [codec/AbstractInt.ts:15](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/codec/AbstractInt.ts#L15)*

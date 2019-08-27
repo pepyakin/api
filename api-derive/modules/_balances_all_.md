@@ -10,9 +10,9 @@
 
 ###  all
 
-▸ **all**(`api`: `ApiInterfaceRx`): *function*
+▸ **all**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [balances/all.ts:75](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/balances/all.ts#L75)*
+*Defined in [balances/all.ts:75](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/balances/all.ts#L75)*
 
 **`name`** all
 
@@ -31,17 +31,17 @@ api.derive.balances.all(ALICE, ([accountId, lockedBalance]) => {
 
 Name | Type |
 ------ | ------ |
-`api` | `ApiInterfaceRx` |
+`api` | ApiInterfaceRx |
 
 **Returns:** *function*
 
 An object containing the combined results of the storage queries for
 all relevant fees as declared in the substrate chain spec.
 
-▸ (`address`: `AccountIndex` | `AccountId` | `Address` | string): *`Observable<DerivedBalances>`*
+▸ (`address`: AccountIndex | AccountId | Address | string): *Observable‹[DerivedBalances](../interfaces/_types_.derivedbalances.md)›*
 
 **Parameters:**
 
 Name | Type | Description |
 ------ | ------ | ------ |
-`address` | `AccountIndex` \| `AccountId` \| `Address` \| string | An accounts Id in different formats. |
+`address` | AccountIndex \| AccountId \| Address \| string | An accounts Id in different formats. |

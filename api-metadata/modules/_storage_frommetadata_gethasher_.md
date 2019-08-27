@@ -16,30 +16,30 @@
 
 Ƭ **HasherFunction**: *function*
 
-*Defined in [storage/fromMetadata/getHasher.ts:12](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-metadata/src/storage/fromMetadata/getHasher.ts#L12)*
+*Defined in [storage/fromMetadata/getHasher.ts:12](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-metadata/src/storage/fromMetadata/getHasher.ts#L12)*
 
 #### Type declaration:
 
-▸ (`data`: `HasherInput`): *`Uint8Array`*
+▸ (`data`: HasherInput): *Uint8Array*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`data` | `HasherInput` |
+`data` | HasherInput |
 
 ## Functions
 
 ###  getHasher
 
-▸ **getHasher**(`hasher?`: `StorageHasher`): *[HasherFunction](_storage_frommetadata_gethasher_.md#hasherfunction)*
+▸ **getHasher**(`hasher?`: StorageHasher): *[HasherFunction](_storage_frommetadata_gethasher_.md#hasherfunction)*
 
-*Defined in [storage/fromMetadata/getHasher.ts:24](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-metadata/src/storage/fromMetadata/getHasher.ts#L24)*
+*Defined in [storage/fromMetadata/getHasher.ts:24](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-metadata/src/storage/fromMetadata/getHasher.ts#L24)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`hasher?` | `StorageHasher` |
+`hasher?` | StorageHasher |
 
 **Returns:** *[HasherFunction](_storage_frommetadata_gethasher_.md#hasherfunction)*

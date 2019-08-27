@@ -14,14 +14,14 @@
 
 ###  signAndSend
 
-▸ **signAndSend**(`account`: `IKeyringPair` | string | `AccountId` | `Address`): *`CodePutCodeResultSubscription`*
+▸ **signAndSend**(`account`: IKeyringPair | string | AccountId | Address): *CodePutCodeResultSubscription*
 
-*Defined in [RxCode.ts:36](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-contract/src/RxCode.ts#L36)*
+*Defined in [RxCode.ts:36](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-contract/src/RxCode.ts#L36)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`account` | `IKeyringPair` \| string \| `AccountId` \| `Address` |
+`account` | IKeyringPair \| string \| AccountId \| Address |
 
-**Returns:** *`CodePutCodeResultSubscription`*
+**Returns:** *CodePutCodeResultSubscription*

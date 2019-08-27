@@ -2,7 +2,7 @@
 
 ## Hierarchy
 
-* `StorageEntryBase<Promise<Codec>, Promise<Hash>, Promise<u64>>`
+* StorageEntryBase‹Promise‹Codec›, Promise‹Hash›, Promise‹u64››
 
 * [StorageEntryPromiseOverloads](_types_.storageentrypromiseoverloads.md)
 
@@ -10,84 +10,84 @@
 
 ## Callable
 
-▸ (`arg1?`: `CodecArg`, `arg2?`: `CodecArg`): *`Promise<Codec>`*
+▸ (`arg1?`: CodecArg, `arg2?`: CodecArg): *Promise‹Codec›*
 
-*Defined in [types.ts:97](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L97)*
+*Defined in [types.ts:97](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L97)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`arg1?` | `CodecArg` |
-`arg2?` | `CodecArg` |
+`arg1?` | CodecArg |
+`arg2?` | CodecArg |
 
-**Returns:** *`Promise<Codec>`*
+**Returns:** *Promise‹Codec›*
 
-▸ <**T**>(`arg1?`: `CodecArg`, `arg2?`: `CodecArg`): *`Promise<T>`*
+▸ <**T**>(`arg1?`: CodecArg, `arg2?`: CodecArg): *Promise‹T›*
 
-*Defined in [types.ts:98](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L98)*
+*Defined in [types.ts:98](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L98)*
 
 **Type parameters:**
 
-▪ **T**: *`Codec`*
+▪ **T**: *Codec*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`arg1?` | `CodecArg` |
-`arg2?` | `CodecArg` |
+`arg1?` | CodecArg |
+`arg2?` | CodecArg |
 
-**Returns:** *`Promise<T>`*
+**Returns:** *Promise‹T›*
 
-▸ <**T**>(`callback`: `Callback<T>`): *[UnsubscribePromise](../modules/_types_.md#unsubscribepromise)*
+▸ <**T**>(`callback`: Callback‹T›): *[UnsubscribePromise](../modules/_types_.md#unsubscribepromise)*
 
-*Defined in [types.ts:99](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L99)*
+*Defined in [types.ts:99](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L99)*
 
 **Type parameters:**
 
-▪ **T**: *`Codec`*
+▪ **T**: *Codec*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`callback` | `Callback<T>` |
+`callback` | Callback‹T› |
 
 **Returns:** *[UnsubscribePromise](../modules/_types_.md#unsubscribepromise)*
 
-▸ <**T**>(`arg`: `CodecArg`, `callback`: `Callback<T>`): *[UnsubscribePromise](../modules/_types_.md#unsubscribepromise)*
+▸ <**T**>(`arg`: CodecArg, `callback`: Callback‹T›): *[UnsubscribePromise](../modules/_types_.md#unsubscribepromise)*
 
-*Defined in [types.ts:100](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L100)*
+*Defined in [types.ts:100](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L100)*
 
 **Type parameters:**
 
-▪ **T**: *`Codec`*
+▪ **T**: *Codec*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`arg` | `CodecArg` |
-`callback` | `Callback<T>` |
+`arg` | CodecArg |
+`callback` | Callback‹T› |
 
 **Returns:** *[UnsubscribePromise](../modules/_types_.md#unsubscribepromise)*
 
-▸ <**T**>(`arg1`: `CodecArg`, `arg2`: `CodecArg`, `callback`: `Callback<T>`): *[UnsubscribePromise](../modules/_types_.md#unsubscribepromise)*
+▸ <**T**>(`arg1`: CodecArg, `arg2`: CodecArg, `callback`: Callback‹T›): *[UnsubscribePromise](../modules/_types_.md#unsubscribepromise)*
 
-*Defined in [types.ts:101](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L101)*
+*Defined in [types.ts:101](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L101)*
 
 **Type parameters:**
 
-▪ **T**: *`Codec`*
+▪ **T**: *Codec*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`arg1` | `CodecArg` |
-`arg2` | `CodecArg` |
-`callback` | `Callback<T>` |
+`arg1` | CodecArg |
+`arg2` | CodecArg |
+`callback` | Callback‹T› |
 
 **Returns:** *[UnsubscribePromise](../modules/_types_.md#unsubscribepromise)*
 
@@ -110,29 +110,29 @@ Name | Type |
 
 *Inherited from void*
 
-*Defined in [types.ts:84](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L84)*
+*Defined in [types.ts:84](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L84)*
 
 #### Type declaration:
 
-▸ (`hash`: `Hash` | `Uint8Array` | string, `arg1?`: `CodecArg`, `arg2?`: `CodecArg`): *`Promise<Codec>`*
+▸ (`hash`: Hash | Uint8Array | string, `arg1?`: CodecArg, `arg2?`: CodecArg): *Promise‹Codec›*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`hash` | `Hash` \| `Uint8Array` \| string |
-`arg1?` | `CodecArg` |
-`arg2?` | `CodecArg` |
+`hash` | Hash \| Uint8Array \| string |
+`arg1?` | CodecArg |
+`arg2?` | CodecArg |
 
 ___
 
 ###  creator
 
-• **creator**: *`StorageEntry`*
+• **creator**: *StorageEntry*
 
 *Inherited from void*
 
-*Defined in [types.ts:85](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L85)*
+*Defined in [types.ts:85](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L85)*
 
 ___
 
@@ -142,18 +142,18 @@ ___
 
 *Inherited from void*
 
-*Defined in [types.ts:86](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L86)*
+*Defined in [types.ts:86](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L86)*
 
 #### Type declaration:
 
-▸ (`arg1?`: `CodecArg`, `arg2?`: `CodecArg`): *`Promise<Hash>`*
+▸ (`arg1?`: CodecArg, `arg2?`: CodecArg): *Promise‹Hash›*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`arg1?` | `CodecArg` |
-`arg2?` | `CodecArg` |
+`arg1?` | CodecArg |
+`arg2?` | CodecArg |
 
 ___
 
@@ -163,18 +163,18 @@ ___
 
 *Inherited from void*
 
-*Defined in [types.ts:87](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L87)*
+*Defined in [types.ts:87](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L87)*
 
 #### Type declaration:
 
-▸ (`arg1?`: `CodecArg`, `arg2?`: `CodecArg`): *string*
+▸ (`arg1?`: CodecArg, `arg2?`: CodecArg): *string*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`arg1?` | `CodecArg` |
-`arg2?` | `CodecArg` |
+`arg1?` | CodecArg |
+`arg2?` | CodecArg |
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 • **multi**: *[StorageEntryPromiseMulti](_types_.storageentrypromisemulti.md)*
 
-*Defined in [types.ts:111](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L111)*
+*Defined in [types.ts:111](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L111)*
 
 ___
 
@@ -192,15 +192,15 @@ ___
 
 *Inherited from void*
 
-*Defined in [types.ts:88](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L88)*
+*Defined in [types.ts:88](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L88)*
 
 #### Type declaration:
 
-▸ (`arg1?`: `CodecArg`, `arg2?`: `CodecArg`): *`Promise<u64>`*
+▸ (`arg1?`: CodecArg, `arg2?`: CodecArg): *Promise‹u64›*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`arg1?` | `CodecArg` |
-`arg2?` | `CodecArg` |
+`arg1?` | CodecArg |
+`arg2?` | CodecArg |

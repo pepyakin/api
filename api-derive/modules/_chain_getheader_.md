@@ -10,9 +10,9 @@
 
 ###  getHeader
 
-▸ **getHeader**(`api`: `ApiInterfaceRx`): *function*
+▸ **getHeader**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [chain/getHeader.ts:27](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/chain/getHeader.ts#L27)*
+*Defined in [chain/getHeader.ts:27](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/chain/getHeader.ts#L27)*
 
 **`name`** bestNumberFinalized
 
@@ -31,16 +31,16 @@ console.log(`block #${number} was authored by ${author}`);
 
 Name | Type |
 ------ | ------ |
-`api` | `ApiInterfaceRx` |
+`api` | ApiInterfaceRx |
 
 **Returns:** *function*
 
 An array containing the block header and the block author
 
-▸ (`hash`: `Uint8Array` | string): *`Observable<HeaderExtended | undefined>`*
+▸ (`hash`: Uint8Array | string): *Observable‹[HeaderExtended](../classes/_type_headerextended_.headerextended.md) | undefined›*
 
 **Parameters:**
 
 Name | Type | Description |
 ------ | ------ | ------ |
-`hash` | `Uint8Array` \| string | A block hash as U8 array or string. |
+`hash` | Uint8Array \| string | A block hash as U8 array or string. |

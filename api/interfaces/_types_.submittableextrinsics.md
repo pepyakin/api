@@ -10,18 +10,18 @@
 
 ## Callable
 
-▸ (`extrinsic`: `Uint8Array` | string): *[SubmittableExtrinsic](_submittableextrinsic_.submittableextrinsic.md)‹*`ApiType`*›*
+▸ (`extrinsic`: Uint8Array | string): *[SubmittableExtrinsic](_submittableextrinsic_.submittableextrinsic.md)‹ApiType›*
 
-*Defined in [types.ts:154](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api/src/types.ts#L154)*
+*Defined in [types.ts:154](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api/src/types.ts#L154)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`extrinsic` | `Uint8Array` \| string |
+`extrinsic` | Uint8Array \| string |
 
-**Returns:** *[SubmittableExtrinsic](_submittableextrinsic_.submittableextrinsic.md)‹*`ApiType`*›*
+**Returns:** *[SubmittableExtrinsic](_submittableextrinsic_.submittableextrinsic.md)‹ApiType›*
 
 ## Indexable
 
-* \[ **index**: *string*\]: [SubmittableModuleExtrinsics](_types_.submittablemoduleextrinsics.md)‹*`ApiType`*›
+* \[ **index**: *string*\]: [SubmittableModuleExtrinsics](_types_.submittablemoduleextrinsics.md)‹ApiType›

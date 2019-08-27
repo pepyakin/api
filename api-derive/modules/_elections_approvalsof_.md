@@ -10,9 +10,9 @@
 
 ###  approvalsOf
 
-▸ **approvalsOf**(`api`: `ApiInterfaceRx`): *function*
+▸ **approvalsOf**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [elections/approvalsOf.ts:26](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/elections/approvalsOf.ts#L26)*
+*Defined in [elections/approvalsOf.ts:26](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/elections/approvalsOf.ts#L26)*
 
 **`name`** approvalsOf
 
@@ -29,16 +29,16 @@ api.derive.elections.approvalsOf(ALICE, (approvals) => {
 
 Name | Type |
 ------ | ------ |
-`api` | `ApiInterfaceRx` |
+`api` | ApiInterfaceRx |
 
 **Returns:** *function*
 
 A nested array of boolean approvals for the given account in each voter set index, converted from its ApprovalFlag(s).
 
-▸ (`who`: `AccountId`): *`Observable<boolean[][]>`*
+▸ (`who`: AccountId): *Observable‹boolean[][]›*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`who` | `AccountId` |
+`who` | AccountId |

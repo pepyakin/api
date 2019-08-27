@@ -18,17 +18,17 @@
 
 ###  MockStateDb
 
-Ƭ **MockStateDb**: *`Record<string, Uint8Array>`*
+Ƭ **MockStateDb**: *Record‹string, Uint8Array›*
 
-*Defined in [mock/types.ts:27](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/rpc-provider/src/mock/types.ts#L27)*
+*Defined in [mock/types.ts:27](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/rpc-provider/src/mock/types.ts#L27)*
 
 ___
 
 ###  MockStateRequests
 
-Ƭ **MockStateRequests**: *`Record<string, function>`*
+Ƭ **MockStateRequests**: *Record‹string, function›*
 
-*Defined in [mock/types.ts:29](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/rpc-provider/src/mock/types.ts#L29)*
+*Defined in [mock/types.ts:29](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/rpc-provider/src/mock/types.ts#L29)*
 
 ___
 
@@ -36,23 +36,23 @@ ___
 
 Ƭ **MockStateSubscriptionCallback**: *function*
 
-*Defined in [mock/types.ts:20](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/rpc-provider/src/mock/types.ts#L20)*
+*Defined in [mock/types.ts:20](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/rpc-provider/src/mock/types.ts#L20)*
 
 #### Type declaration:
 
-▸ (`error`: `Error` | null, `value`: any): *void*
+▸ (`error`: Error | null, `value`: any): *void*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`error` | `Error` \| null |
+`error` | Error \| null |
 `value` | any |
 
 ___
 
 ###  MockStateSubscriptions
 
-Ƭ **MockStateSubscriptions**: *`Record<string, object>`*
+Ƭ **MockStateSubscriptions**: *Record‹string, object›*
 
-*Defined in [mock/types.ts:22](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/rpc-provider/src/mock/types.ts#L22)*
+*Defined in [mock/types.ts:22](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/rpc-provider/src/mock/types.ts#L22)*

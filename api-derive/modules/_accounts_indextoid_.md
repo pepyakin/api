@@ -10,9 +10,9 @@
 
 ###  indexToId
 
-▸ **indexToId**(`api`: `ApiInterfaceRx`): *function*
+▸ **indexToId**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [accounts/indexToId.ts:28](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/accounts/indexToId.ts#L28)*
+*Defined in [accounts/indexToId.ts:28](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/accounts/indexToId.ts#L28)*
 
 **`name`** indexToId
 
@@ -29,16 +29,16 @@ api.derive.accounts.indexToId('F7Hs', (accountId) => {
 
 Name | Type |
 ------ | ------ |
-`api` | `ApiInterfaceRx` |
+`api` | ApiInterfaceRx |
 
 **Returns:** *function*
 
 Returns the corresponding AccountId.
 
-▸ (`accountIndex`: `AccountIndex` | string): *`Observable<AccountId | undefined>`*
+▸ (`accountIndex`: AccountIndex | string): *Observable‹AccountId | undefined›*
 
 **Parameters:**
 
 Name | Type | Description |
 ------ | ------ | ------ |
-`accountIndex` | `AccountIndex` \| string | An accounts index in different formats. |
+`accountIndex` | AccountIndex \| string | An accounts index in different formats. |

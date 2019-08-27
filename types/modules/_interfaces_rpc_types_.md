@@ -23,9 +23,9 @@
 
 ###  ApiId
 
-Ƭ **ApiId**: *`Uint8Array` & [Codec](../interfaces/_types_.codec.md)*
+Ƭ **ApiId**: *Uint8Array & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/rpc/types.ts:10](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaces/rpc/types.ts#L10)*
+*Defined in [interfaces/rpc/types.ts:10](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaces/rpc/types.ts#L10)*
 
 Uint8Array & Codec
 
@@ -33,9 +33,9 @@ ___
 
 ###  KeyValueOption
 
-Ƭ **KeyValueOption**: *[[StorageKey](../classes/_primitive_storagekey_.storagekey.md), [Option](../classes/_codec_option_.option.md)‹*[StorageData](../classes/_primitive_storagedata_.storagedata.md)*›] & [Codec](../interfaces/_types_.codec.md)*
+Ƭ **KeyValueOption**: *[[StorageKey](../classes/_primitive_storagekey_.storagekey.md), [Option](../classes/_codec_option_.option.md)‹[StorageData](../classes/_primitive_storagedata_.storagedata.md)›] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/rpc/types.ts:69](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaces/rpc/types.ts#L69)*
+*Defined in [interfaces/rpc/types.ts:69](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaces/rpc/types.ts#L69)*
 
 [StorageKey, Option<StorageData>] & Codec
 
@@ -45,6 +45,6 @@ ___
 
 Ƭ **RuntimeVersionApi**: *[[ApiId](_interfaces_rpc_types_.md#apiid), [u32](../interfaces/_interfaceregistry_.interfaceregistry.md#u32)] & [Codec](../interfaces/_types_.codec.md)*
 
-*Defined in [interfaces/rpc/types.ts:108](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/types/src/interfaces/rpc/types.ts#L108)*
+*Defined in [interfaces/rpc/types.ts:108](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/types/src/interfaces/rpc/types.ts#L108)*
 
 [ApiId, u32] & Codec

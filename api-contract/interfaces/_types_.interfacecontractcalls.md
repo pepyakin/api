@@ -6,4 +6,4 @@
 
 ## Indexable
 
-* \[ **index**: *string*\]: `Function`
+* \[ **index**: *string*\]: Function

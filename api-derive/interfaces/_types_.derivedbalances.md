@@ -21,62 +21,62 @@
 
 ###  accountId
 
-• **accountId**: *`AccountId`*
+• **accountId**: *AccountId*
 
-*Defined in [types.ts:10](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L10)*
+*Defined in [types.ts:10](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L10)*
 
 ___
 
 ###  accountNonce
 
-• **accountNonce**: *`Index`*
+• **accountNonce**: *Index*
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L11)*
 
 ___
 
 ###  availableBalance
 
-• **availableBalance**: *`BN`*
+• **availableBalance**: *BN*
 
-*Defined in [types.ts:14](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L14)*
+*Defined in [types.ts:14](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L14)*
 
 ___
 
 ###  freeBalance
 
-• **freeBalance**: *`BN`*
+• **freeBalance**: *BN*
 
-*Defined in [types.ts:12](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L12)*
+*Defined in [types.ts:12](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L12)*
 
 ___
 
 ###  lockedBalance
 
-• **lockedBalance**: *`BN`*
+• **lockedBalance**: *BN*
 
-*Defined in [types.ts:13](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L13)*
+*Defined in [types.ts:13](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L13)*
 
 ___
 
 ###  reservedBalance
 
-• **reservedBalance**: *`BN`*
+• **reservedBalance**: *BN*
 
-*Defined in [types.ts:15](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L15)*
+*Defined in [types.ts:15](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L15)*
 
 ___
 
 ###  vestedBalance
 
-• **vestedBalance**: *`BN`*
+• **vestedBalance**: *BN*
 
-*Defined in [types.ts:17](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L17)*
+*Defined in [types.ts:17](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L17)*
 
 ___
 
 ###  votingBalance
 
-• **votingBalance**: *`BN`*
+• **votingBalance**: *BN*
 
-*Defined in [types.ts:16](https://github.com/polkadot-js/api/blob/9ffb4b8/packages/api-derive/src/types.ts#L16)*
+*Defined in [types.ts:16](https://github.com/polkadot-js/api/blob/9b1aa6a/packages/api-derive/src/types.ts#L16)*
